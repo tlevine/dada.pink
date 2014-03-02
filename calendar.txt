@@ -14,3 +14,4 @@ DAILY:20140728:20140802 YRS Festival of Code, University of Plymouth
 DAILY:20140627:20140629 Exceptionally Hard and Soft Meeting, Hamburg, http://ehsm.eu
 20140702 Software Engineering methods in Spreadsheets, http://spreadsheetlab.org/2013/12/19/first-workshop-on-software-engineering-methods-in-spreadsheets/
 DAILY:20140703:20140704 EuSpRIG Conference, Delft, http://spreadsheetlab.org/2013/11/19/annual-eusprig-meeting-will-take-place-in-delft-july-3-and-4/
+20140515 EHSM proposals are due.
