@@ -1,3 +1,6 @@
+# Below is my public calendar. It's written in [pal](http://palcal.sourceforge.net/)
+# format; each line is an appointment that contains a date string followed by a space
+# followed by anything you want. Feel free to edit it.
 T+ Public
 DAILY:20140721:20140727 EuroPython
 DAILY:20140715:20140718 OKFestival in Berlin http://2014.okfestival.org/
