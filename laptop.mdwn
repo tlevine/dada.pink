@@ -7,3 +7,7 @@ Zenbook?
 Tablet?
 
 * http://techietonic.com/list-of-linux-running-tablet-pc-os-edition-comparison-2011/
+
+Thinkpad?
+
+* https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_L430
