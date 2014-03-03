@@ -1,0 +1,4 @@
+
+* [Zenbook](http://wiki.archlinux.org/index.php/ASUS_Zenbook_Prime_UX31A)?
+* [Tablet](http://techietonic.com/list-of-linux-running-tablet-pc-os-edition-comparison-2011/)?
+
