@@ -11,3 +11,4 @@ Tablet?
 Thinkpad?
 
 * https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_L430
+* http://wiki.netbsd.org/laptops/#index6h1
