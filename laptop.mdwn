@@ -3,6 +3,7 @@ Zenbook?
 
 * http://www.anandtech.com/show/6194/asus-ux31a-putting-the-ultra-in-ultrabooks/7
 * http://wiki.archlinux.org/index.php/ASUS_Zenbook_Prime_UX31A
+* http://www.ebay.com/itm/181333469963
 
 Tablet?
 
@@ -12,3 +13,5 @@ Thinkpad?
 
 * https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_L430
 * http://wiki.netbsd.org/laptops/#index6h1
+* http://www.thinkwiki.org/wiki/Category:X1
+* http://www.ebay.com/itm/271411731474
