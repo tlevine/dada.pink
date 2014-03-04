@@ -1,0 +1,3 @@
+* [Meetings](calendar/meetings)
+* [Sleeping arrangements](calendar/sleeping)
+* 
