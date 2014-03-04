@@ -1,0 +1,31 @@
+Freedom of information requests to make
+
+## Open data
+I want contracts pertaining to the open data initiatives of different cities.
+A place to start is searching for contracts and RFPs about the "open data"
+initiative or related to any of the following organizations or products.
+
+* Open Knowledge Foundation (OKF, OKFN)
+  * Common knowledge archive network (CKAN)
+* Socrata
+  * Open Data Portal
+  * Data Collect
+  * GovStat
+* Junar
+* OpenDataSoft
+* Accela
+  * Open Data Platform
+
+Other ideas nice stuff would be contact information for public records officers,
+
+I'd love to get this from cities randomly sampled from the population of all
+US cities, but we could also just start with cities with data catalogs or
+cities in Sunlight's spreadsheet.
+
+## Scarsdale
+I'm quite interested in anything about Scarsdale.
+
+
+## Travel
+I want how late were all Amtrak trains on all routes. I want to predict how late
+a particular trip will be.
