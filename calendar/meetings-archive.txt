@@ -1,5 +1,4 @@
-# These are things that have already happened; things that haven't happened are at
-# http://wiki.thomaslevine.com/calendar/
+# Read more at http://wiki.thomaslevine.com/calendar/
 T- Public Calendar Archive
 20140216 7:30 pm Beowulf Cluster at Southern Pacific
 DAILY:20140211:20140213 Strata in Santa Clara
