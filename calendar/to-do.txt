@@ -4,3 +4,6 @@ TD To do
 20140301 Write _.thomaslevine.com
 20140301 Order a broken laptop and replacement parts.
 20140315 Rewrite craigsgenerator in a beautiful, functional way, and explain how that works.
+20140305 Write slides for brighttalk
+20140305 Apply to EuSpRIG and SEMS (Due on Friday, March 7)
+20140310 Apply to TU Delft
