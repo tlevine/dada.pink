@@ -1,5 +1,5 @@
 My calendar is spread across a few pal files.
 
-* [Meetings](calendar/meetings) ([archive](calendar/meetings-archive))
-* [Sleeping arrangements](calendar/sleeping) ([archive](calendar/sleeping-archive))
-* [Things to do](calendar/to-do) ([to-do-archive](calendar/to-do-archive))
+* [Meetings](meetings) ([archive](meetings-archive))
+* [Sleeping arrangements](sleeping) ([archive](sleeping-archive))
+* [Things to do](to-do) ([to-do-archive](to-do-archive))

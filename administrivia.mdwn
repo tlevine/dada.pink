@@ -20,6 +20,6 @@ for me to use computers for lots of things.
 
 Here are lists of this sort of task to do.
 
-* [Freedom of information](calendar/foi)
-* [Apply to things](calendar/apply)
-* [Other forms and emails](calendar/forms)
+* [Freedom of information](foi)
+* [Apply to things](apply)
+* [Other forms and emails](forms)
