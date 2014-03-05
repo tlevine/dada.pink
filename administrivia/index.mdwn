@@ -21,4 +21,5 @@ for me to use computers for lots of things.
 Here are lists of this sort of task to do.
 
 * [Freedom of information]{foi}
-* [Forms and emails](forms)
+* [Apply to things](applications)
+* [Other forms and emails](forms)
