@@ -93,19 +93,52 @@ I've implemented this for the following data catalog softwares.
 
 This allows me to get all of the data from most of the open data catalogs I know about.
 
+Most of these spreadsheets are represented as tables,
+where rows correspond to records and columns correspond to variables.
+http://www.datakind.org/blog/whats-in-a-table/
+
 After I've downloaded spreadsheets and their metadata,
-I assemble it into a spreadsheet about spreadsheets.
+I assemble them into a spreadsheet about spreadsheets. %reference the socrata thing
 In this super-spreadsheet, each record corresponds to a full
 sub-spreadsheet; you could say that I am collecting features or statistics
 about each spreadsheet.
 
-
-
 \section{Findings}
 
 \subsection{New ways of looking for datasets}
+We search for prose by typing prose into a search bar; why don't
+we search for spreadsheets by typing spreadsheets into a search bar?
+Spreadsheets are much more structured than arbitrary prose, and we
+can use this structure to enable new search paradigms. We could search
+for things like the following.
+
+\begin{itemize}
+\item Spreadsheets that were produced by the same program as another spreadsheet
+\item Spreadsheets that I can join to a particular spreadsheet
+\item Spreadsheets with a particular statistical unit
+\item Spreadsheets in long format (rather than wide format)
+\end{itemize}
+
+\subsubsection{Candidates for unioning}
+My work on this started with AppGen,
+% * [http://appgen.me/audit/report](Datasets with the same schema)
+which was a system to generate random apps based on randomly combined
+datasets. As part of this, I looked for spreadsheets with the same
+column headers. Spreadsheets with the same column headers seemed to be
+semantically related to each other. For example, there were ten spreadsheets
+with the headers ..., and these spreadsheets were all
+standardized test scores.
+
+\subsubsection{Determination of primary keys}
+* [`special_snowflake`](https://pypi.python.org/pypi/special_snowflake)
+
+
 
 \subsection{Dealing with incomplete metadata}
+
+I found that datasets with the same column headers
+tended to also have similar titles and descriptions.
+
 
 \subsection{Quantifying data quality}
 
