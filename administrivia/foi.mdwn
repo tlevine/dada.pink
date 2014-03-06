@@ -25,6 +25,7 @@ cities in Sunlight's spreadsheet.
 ## Scarsdale
 I'm quite interested in anything about Scarsdale.
 
+* [Notices of defect](https://www.muckrock.com/foi/scarsdale-283/notices-of-defect-between-june-1-2010-and-dec-9-2013-9483/)
 
 ## Travel
 I want how late were all Amtrak trains on all routes. I want to predict how late
