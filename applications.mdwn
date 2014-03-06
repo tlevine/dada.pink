@@ -18,6 +18,8 @@ From the Open Data Research Network Newsletter
 > The International Journal of Public Information Systems (IJPIS) is running a special issue on The non-government and voluntary sector, ICT, and democracy. A call for papers is open until 1st March (http://opendataresearch.us2.list-manage.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3Da7246c46af&e=3Df8d7a55e25) .
 > 
 
+[EuSpRIG and SEMS](http://spreadsheetlab.org/2013/12/19/first-workshop-on-software-engineering-methods-in-spreadsheets/)
+
 ## Schooling
 Apply to the Software Technology Track of the CS MSc at TU Delft.
 
