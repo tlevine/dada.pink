@@ -141,25 +141,17 @@ titles of the form ``\$\{crime\} Allegations \$\{year\}'', such as
 \subsection{Dealing with incomplete metadata}
 People complain about how data are bad and metadata are bad. Rather than
 fixing it on a case-by-case basis, I think we should just come up with ways
-of dealing with it.
+of dealing with it. As an example, let's talk about unique identifiers.
 
-\subsubsection{Determination of primary keys}
-I know of no particularly standard way of specifying primary keys within
-a spreadsheet file. There are methods with external metadata files, such
-as data packages\cite{datapackages},
+I don't know of anyone who specifies within a spreadsheet file which columns
+should be unique. There are methods with external metadata files, such as data
+packages\cite{datapackages}, but hardly anyone uses those either. Rather than
+trying to get people to write down which columns are unique, we can just figure
+it out for ourselves.
 
-
-* [`special_snowflake`](https://pypi.python.org/pypi/special_snowflake)
-
-\subsubsection{Clusters of datasets}
-[Missouri](/!/missouri-data-licensing/) provides a good illustration of this.
-The titles of datasets are related to the contents of datasets.
-
-You can see my alternative search approaches as ways of guessing metadata.
-
-I found that datasets with the same column headers
-tended to also have similar titles and descriptions.
-
+special\_snowflake\cite{special_snowflake} is a package that does just that.
+It looks at all combinations of columns within a particular spreadsheet and
+determines which combinations function as primary keys.
 
 \subsection{Quantifying data quality}
 A bunch of people have come up with guidelines for publishing data.
