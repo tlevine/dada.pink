@@ -116,14 +116,14 @@ to produce a major scale in a spreadsheet column.
 function ionian(base, n) {
   var steps = [0, 2, 4, 5, 7, 9, 11, 12]
   function freq(i) {
-    return base * Math.pow(2, (Math.floor(i/12) + steps[i]) * (1/12)))
+    return base * Math.pow(2, (Math.floor(i/12) + steps[i]) * (1/12))
   }
-  for (var i = 0+n, scale = []; i--;) a.push(i);
+  var scale = []; for (var i = 0; i < n; i++) scale.push(i)
   return scale.map(freq)
 }
 \end{verbatim}
-Once you have a major scale in one column, you can easily make them
-into chords with a spreadsheet function like this.
+Once you have a major scale in one column, you can easily make
+chords with a spreadsheet function like this.
 \begin{verbatim}
 =A1*2^(4/12)
 \end{verbatim}
