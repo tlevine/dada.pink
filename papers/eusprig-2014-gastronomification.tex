@@ -112,17 +112,21 @@ the data analyst to use conventional spreadsheet approaches for
 composing music. For example, the following function can be used
 to produce a major scale.
 \begin{verbatim}
-# For example: ionian(440, 13)
+# For example: ionian(440, 8)
 function ionian(base, n) {
-  var scale = [];
-  var i = 0;
+  var steps = [0, 2, 4, 5, 7, 9, 11, 12]
+  var scale = []
+  var i = 0
   while (i < n) {
-    scale.push(base * Math.pow(2, i * (1/12)))
+    scale.push(base * Math.pow(2, (Math.floor(i/12) + steps[i]) * (1/12)))
     i ++
   }
   return scale
 }
 \end{verbatim}
+
+Once you have 
+
 You can read more about the determination of frequencies on Wikipedia \cite{piano}.
 
 \section{Why make data-driven music}
