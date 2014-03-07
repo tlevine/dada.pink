@@ -52,7 +52,7 @@ Figure \ref{sheet} represents it in ordinary sheet music.
 
 \begin{figure}
 \label{sheet}
-\includegraphics[width=\textwidth]{chopin.png}
+\includegraphics[width=\columnwidth]{chopin.png}
 \caption{Chopin's \'Etude Op. 10, No. 1. as ordinary sheet music}
 \end{figure}
 
@@ -114,12 +114,12 @@ to produce a major scale in a spreadsheet column.
 \begin{verbatim}
 # For example: ionian(440, 8)
 function ionian(base, n) {
-  var steps = [0, 2, 4, 5, 7, 9, 11, 12]
-  function freq(i) {
-    return base * Math.pow(2, (Math.floor(i/12) + steps[i]) * (1/12))
-  }
-  var scale = []; for (var i = 0; i < n; i++) scale.push(i)
-  return scale.map(freq)
+ var s = [0, 2, 4, 5, 7, 9, 11, 12]
+ function freq(i) {
+  return base*Math.pow(2,(Math.floor(i/12)+s[i])/12)
+ }
+ var scale=[]; for (var i=0; i<n; i++) scale.push(i)
+ return scale.map(freq)
 }
 \end{verbatim}
 Once you have a major scale in one column, you can easily make
