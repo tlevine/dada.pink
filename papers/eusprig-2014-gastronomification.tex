@@ -1,7 +1,7 @@
 \documentclass{acm_proc_article-sp}
 \usepackage{url}
 \begin{document}
-\title{Making music from spreadsheets}
+\title{Sheetmusic: Making music from spreadsheets}
 \numberofauthors{1}
 \author{
 \alignauthor
@@ -13,13 +13,40 @@ Thomas Levine\\
 \maketitle
 \begin{abstract}
 The spreadsheet is an intuitive paradigm for the expression of musical
-scores. I'll discuss how you can turn data into music and show examples of
-how csv soundsystem turns spreadsheets into data-driven music videos.
+scores. I'll discuss how you can turn data into music with our Sheetmusic
+software and show examples of how csv soundsystem turns spreadsheets
+into data-driven music videos.
 \end{abstract}
 \section{Introduction}
+In our production of data-driven music videos, we have recognized a need
+for data analysis software and music software to be more strongly integrated.
+We wanted a more seamless transition between modelling and music, and we
+wanted it to be easier for data analysts to work with music. We have
+developed tools like Sheetmusic (\url{http://github.com/csv/sheetmusic})
+to bridge this gap.
 
-\section{Relevance}
+\section{How it works}
+We've found that the tabular representation of data aligns very well with
+typical representations of music. Sheetmusic works by mapping these two
+concepts to each other.
 
+We can think of data tables as collections of similar things, with the
+same sorts of information being collected about each thing. In tidy data
+tables\cite{tidydata} each row corresponds to an observation (a thing),
+and each column corresponds to a variable. We add more rows to the table
+as we observe more things, and we add more columns to the table as we
+collect more information about each thing.
+
+We can think of music as a composition of many different sounds over time,
+with sounds coming from many different instruments. In musical scores
+we represent time as movement from left to right, and we represent different
+instruments by different staves (stacked on top of each other).
+The staff becomes wider as the song gets longer, (They are often spread
+across multiple pages.) and we add more staves as we add more instruments.
+
+\section{Why make data-driven music}
+We created sheetmusic and similar tools out of a need to produce
+data-driven music. Why would we ever do that?
 
 \subsection{Analyzing complex data}
 Now that we're collecting so much data, we are reaching the limits of
@@ -37,11 +64,11 @@ on our smartphones, laptops, &c., which is vision, hearing and touch. We need
 to make data music videos in order to make the most of these tools.
 
 \subsection{Reaching young people}
-According to Emma Gertlowitz\cite{emma},
-``[S]tatisticians are the new sexy vampires, only even more pasty.''
-
 Combining data with music may also appeal to a younger audience.
-This is because both data and music are "in".
+According to the fictional eleven-year-old Emma Gertlowitz whose crush
+recently switched from Justin Bieber to Nate Silver,\cite{emma}
+``[S]tatisticians are the new sexy vampires, only even more pasty.''
+This example is just part of a larger trend: data is "in".
 
 The White House used the appeal of data and music to advertise the State
 of the Union Address; they published a video advertisement to YouTube that
