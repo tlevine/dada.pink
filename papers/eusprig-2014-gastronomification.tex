@@ -44,6 +44,57 @@ instruments by different staves (stacked on top of each other).
 The staff becomes wider as the song gets longer, (They are often spread
 across multiple pages.) and we add more staves as we add more instruments.
 
+If we constrain the manner of data and of music, we can losslessly convert
+between the data table concept and the musical staff concept. As an example,
+let's look at a passage from Chopin's Étude Op. 10, No. 1.\cite{chopin}
+Figure \ref{sheet} represents it in ordinary sheet music.
+
+\begin{figure*}
+\label{sheet}
+\includegraphics{img/Chopin_Op._10_No._1_Godowsky%27s_first_version.jpg}
+\caption{Ordinary sheet music}
+\end{figure*}
+
+Table \ref{table} displays it as a data table as comma-separated values.
+(Well almost; it doesn't include the two chords of dotted half notes.)
+
+\begin{table}
+\label{table}
+\caption{as a data table}
+\begin{tabular}{c c} \hline
+Left Hand&Right Hand\\ \hline
+   (NA)  &   (NA)\\
+    C2   &    E6\\
+    G2   &    C6\\
+    C3   &    G5\\
+    E3   &    C5\\
+    C3   &    E5\\
+    G3   &    C5\\
+    C4   &    G4\\
+    E4   &    C4\\
+    C4   &    G4\\
+    G4   &    C5\\
+    C5   &    G5\\
+    E5   &    C6\\
+    C5   &    G5\\
+    G4   &    C5\\
+    C4   &    G5\\
+    E4   &    C5\\
+    C4   &    G4\\
+    G3   &    C4\\
+    C3   &    E4\\
+    E3   &    C4\\
+    C3   &    G3\\
+    G2   &    E3\\
+    C2   &    C3\\ \hline
+\end{tabular}
+\end{table}
+
+Rather than composing music as traditional sheet music,
+we can use a table-editing program of our choice to compose
+this sort of table.
+
+
 \section{Why make data-driven music}
 We created sheetmusic and similar tools out of a need to produce
 data-driven music. Why would we ever do that?
