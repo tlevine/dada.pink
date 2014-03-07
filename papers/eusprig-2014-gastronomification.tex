@@ -115,13 +115,11 @@ to produce a major scale in a spreadsheet column.
 # For example: ionian(440, 8)
 function ionian(base, n) {
   var steps = [0, 2, 4, 5, 7, 9, 11, 12]
-  var scale = []
-  var i = 0
-  while (i < n) {
-    scale.push(base * Math.pow(2, (Math.floor(i/12) + steps[i]) * (1/12)))
-    i ++
+  function freq(i) {
+    return base * Math.pow(2, (Math.floor(i/12) + steps[i]) * (1/12)))
   }
-  return scale
+  for (var i = 0+n, scale = []; i--;) a.push(i);
+  return scale.map(freq)
 }
 \end{verbatim}
 Once you have a major scale in one column, you can easily make them
@@ -131,7 +129,6 @@ into chords with a spreadsheet function like this.
 \end{verbatim}
 If you put this in cell B1, A1 and B1 will form a major third interval
 \cite{majorthird}.
-
 You can read more about the determination of frequencies on Wikipedia \cite{piano}.
 
 \section{Why make data-driven music}
