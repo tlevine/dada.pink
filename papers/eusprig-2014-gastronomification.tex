@@ -47,21 +47,21 @@ across multiple pages.) and we add more staves as we add more instruments.
 
 If we constrain the manner of data and of music, we can losslessly convert
 between the data table concept and the musical staff concept. As an example,
-let's look at a passage from Chopin's Étude Op. 10, No. 1. \cite{chopin}.
+let's look at a passage from Chopin's \'Etude Op. 10, No. 1. \cite{chopin}.
 Figure \ref{sheet} represents it in ordinary sheet music.
 
-\begin{figure*}
+\begin{figure}
 \label{sheet}
-\includegraphics{chopin.png}
-\caption{Ordinary sheet music}
-\end{figure*}
+\includegraphics[width=\textwidth]{chopin.png}
+\caption{Chopin's \'Etude Op. 10, No. 1. as ordinary sheet music}
+\end{figure}
 
 Table \ref{table} displays it as a data table as comma-separated values.
 (Well almost; it doesn't include the two chords of dotted half notes.)
 
 \begin{table}
 \label{table}
-\caption{as a data table}
+\centering
 \begin{tabular}{c c} \hline
 Left Hand&Right Hand\\ \hline
    (NA)  &   (NA)\\
@@ -89,16 +89,20 @@ Left Hand&Right Hand\\ \hline
     G2   &    E3\\
     C2   &    C3\\ \hline
 \end{tabular}
+\caption{Chopin's \'Etude Op. 10, No. 1. as a data table}
 \end{table}
 
 Rather than composing music as traditional sheet music,
 we can use a table-editing program of our choice to compose
 this sort of table.
 
+\section{How to use it}
 
 \section{Why make data-driven music}
 We created sheetmusic and similar tools out of a need to produce
-data-driven music. Why would we ever do that?
+data-driven music, but I neglected to explain why we needed to do
+that. Here are some of the uses that we have found for data-driven
+music and music videos.
 
 \subsection{Analyzing complex data}
 Now that we're collecting so much data, we are reaching the limits of
@@ -109,9 +113,10 @@ a reduced version of the data. By leveraging the sense of sound,
 we expand our sensory bandwidth and enable the representation of
 higher-dimensional data.
 
-In the long term, we really need to gastronomify data in order to experience
-them with all of the senses, but that isn't feasible right now.
-Until we develop cheaper taste and smell APIs, we are stuck with what we have
+In the long term, we really need to gastronomify (turn into food)
+data in order to experience them with all of the senses.
+Unfortunately, that isn't feasible right now;
+until we develop cheaper taste and smell APIs, we are stuck with what we have
 on our smartphones, laptops, \&c., which is vision, hearing and touch. We need
 to make data music videos in order to make the most of these tools.
 
