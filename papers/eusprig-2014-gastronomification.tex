@@ -97,6 +97,22 @@ we can use a table-editing program of our choice to compose
 this sort of table.
 
 \section{How to use it}
+Sheetmusic is implemented as a JavaScript function that loads data
+from a Google Spreadsheet. Given the URL of a spreadsheet, Sheetmusic
+downloads the spreadsheet contents and plays them in a browser.
+
+The spreadsheet is organized as follows. Each column corresponds
+to a musical track, and different tracks can have different music instruments.
+Row corresponds to a beat (of time).
+Each cell contains the frequency of sound to be played, represented
+either as a number (Hertz) or in scientific notation (C4, D4, \&c.).
+
+Sheetmusic accomplishes the playback of music, and this leaves
+the data analyst to use conventional spreadsheet approaches for
+composing music. For example, 
+
+You can read more about the determination of frequencies on Wikipedia \cite{piano}.
+https://en.wikipedia.org/wiki/Piano\_key\_frequencies
 
 \section{Why make data-driven music}
 We created sheetmusic and similar tools out of a need to produce
