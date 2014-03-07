@@ -110,7 +110,7 @@ either as a number (Hertz) or in scientific notation (C4, D4, \&c.).
 Sheetmusic accomplishes the playback of music, and this leaves
 the data analyst to use conventional spreadsheet approaches for
 composing music. For example, the following function can be used
-to produce a major scale.
+to produce a major scale in a spreadsheet column.
 \begin{verbatim}
 # For example: ionian(440, 8)
 function ionian(base, n) {
@@ -124,8 +124,13 @@ function ionian(base, n) {
   return scale
 }
 \end{verbatim}
-
-Once you have 
+Once you have a major scale in one column, you can easily make them
+into chords with a spreadsheet function like this.
+\begin{verbatim}
+=A1*2^(4/12)
+\end{verbatim}
+If you put this in cell B1, A1 and B1 will form a major third interval
+\cite{majorthird}.
 
 You can read more about the determination of frequencies on Wikipedia \cite{piano}.
 
