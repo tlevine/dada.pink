@@ -1,5 +1,6 @@
 \documentclass{acm_proc_article-sp}
 \usepackage{url}
+\usepackage{graphicx}
 \begin{document}
 \title{Sheetmusic: Making music from spreadsheets}
 \numberofauthors{1}
@@ -32,7 +33,7 @@ concepts to each other.
 
 We can think of data tables as collections of similar things, with the
 same sorts of information being collected about each thing. In tidy data
-tables\cite{tidydata} each row corresponds to an observation (a thing),
+tables \cite{tidydata} each row corresponds to an observation (a thing),
 and each column corresponds to a variable. We add more rows to the table
 as we observe more things, and we add more columns to the table as we
 collect more information about each thing.
@@ -46,12 +47,12 @@ across multiple pages.) and we add more staves as we add more instruments.
 
 If we constrain the manner of data and of music, we can losslessly convert
 between the data table concept and the musical staff concept. As an example,
-let's look at a passage from Chopin's Étude Op. 10, No. 1.\cite{chopin}
+let's look at a passage from Chopin's Étude Op. 10, No. 1. \cite{chopin}.
 Figure \ref{sheet} represents it in ordinary sheet music.
 
 \begin{figure*}
 \label{sheet}
-\includegraphics{img/Chopin_Op._10_No._1_Godowsky%27s_first_version.jpg}
+\includegraphics{chopin.png}
 \caption{Ordinary sheet music}
 \end{figure*}
 
@@ -111,19 +112,19 @@ higher-dimensional data.
 In the long term, we really need to gastronomify data in order to experience
 them with all of the senses, but that isn't feasible right now.
 Until we develop cheaper taste and smell APIs, we are stuck with what we have
-on our smartphones, laptops, &c., which is vision, hearing and touch. We need
+on our smartphones, laptops, \&c., which is vision, hearing and touch. We need
 to make data music videos in order to make the most of these tools.
 
 \subsection{Reaching young people}
 Combining data with music may also appeal to a younger audience.
 According to the fictional eleven-year-old Emma Gertlowitz whose crush
-recently switched from Justin Bieber to Nate Silver,\cite{emma}
+recently switched from Justin Bieber to Nate Silver \cite{emma},
 ``[S]tatisticians are the new sexy vampires, only even more pasty.''
 This example is just part of a larger trend: data is "in".
 
 The White House used the appeal of data and music to advertise the State
 of the Union Address; they published a video advertisement to YouTube that
-used pie charts and dubstep to appeal to a younger audience.\cite{whitehouse}
+used pie charts and dubstep to appeal to a younger audience \cite{whitehouse}.
 
 \subsection{Eduction}
 I find that a major hurdle in the understanding of quantitative disciplines
