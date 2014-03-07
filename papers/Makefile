@@ -10,7 +10,7 @@ eusprig-2014-open-data.pdf:
 	pdflatex eusprig-2014-open-data.tex
 
 eusprig-2014-sheetmusic.pdf:
-	rm -f eusprig-2014-open-data.{aux,bbl,blg,pdf}
+	rm -f eusprig-2014-sheetmusic.{aux,bbl,blg,pdf}
 	pdflatex eusprig-2014-sheetmusic.tex
 	bibtex eusprig-2014-sheetmusic.aux
 	pdflatex eusprig-2014-sheetmusic.tex
