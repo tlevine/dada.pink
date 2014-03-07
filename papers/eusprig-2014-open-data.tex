@@ -1,7 +1,7 @@
 \documentclass{acm_proc_article-sp}
 \usepackage{url}
 \begin{document}
-\title{Automating the assessment of spreadsheet usability, data quality, and relevance}
+\title{Automatically assessing the relevance, quality, and usability of spreadsheets}
 \numberofauthors{1}
 \author{ \alignauthor Thomas Levine\\ \email{\_@thomaslevine.com} }
 \date{6 March 2014}
@@ -20,14 +20,14 @@ can help you you manage and analyze your spreadsheets.
 %\category{H.4}{Information Systems Applications}{Miscellaneous}
 %A category including the fourth, optional field follows...
 %\category{D.2.8}{Software Engineering}{Metrics}[complexity measures, performance measures]
-\terms{Research paper}
+%\terms{Research paper}
 %\keywords{ACM proceedings, \LaTeX, text tagging} % NOT required for Proceedings
 
 \section{Introduction}
 Through recent open data initiatives, governments and large organizations have
 begun releasing much of their internal data as public files on the internet.
 From just a few different websites, we can easily download 100,000 different
-spredsheets.\cite{ny-talk}
+spredsheets \cite{ny-talk}.
 My research began with this question: What becomes possible when we use
 quantitative methods to look at 100,000 different datasets at once?
 
@@ -51,10 +51,10 @@ above three areas.
 Many other people have used relatively qualitative means to make sense of
 the release of diverse open data spreadsheets.
 For example, Open Knowledge Foundation volunteers manually looked through
-many websites to asseble a census\cite{open-data-census}
+many websites to asseble a census \cite{open-data-census}
 of the availability of key datasets released by different countries.
 
-McKinsey\cite{mckinsey} and the Governance Lab\cite{govlab}\cite{joel}
+McKinsey \cite{mckinsey} and the Governance Lab \cite{govlab,joel}
 have looked at how specific businesses use specific publically available spreadsheets.
 
 The general approach in these various studies is to look in depth at how a
@@ -83,10 +83,10 @@ I've implemented this for the following data catalog softwares.
 This allows me to get all of the data from most of the open data catalogs I know about.
 
 Most of these spreadsheets are represented as tables,
-where rows correspond to records and columns correspond to variables.\cite{table}
+where rows correspond to records and columns correspond to variables. \cite{table}
 
 After I've downloaded spreadsheets and their metadata,
-I assemble them into a spreadsheet about spreadsheets.\cite{data-driven}
+I assemble them into a spreadsheet about spreadsheets. \cite{data-driven}
 In this super-spreadsheet, each record corresponds to a full
 sub-spreadsheet; you could say that I am collecting features or statistics
 about each spreadsheet.
@@ -149,11 +149,11 @@ of dealing with it. As an example, let's talk about unique identifiers.
 
 I don't know of anyone who specifies within a spreadsheet file which columns
 should be unique. There are methods with external metadata files, such as data
-packages\cite{datapackages}, but hardly anyone uses those either. Rather than
+packages \cite{datapackages}, but hardly anyone uses those either. Rather than
 trying to get people to write down which columns are unique, we can just figure
 it out for ourselves.
 
-special\_snowflake\cite{specialsnowflake} is a package that does just that.
+special\_snowflake \cite{specialsnowflake} is a package that does just that.
 It looks at all combinations of columns within a particular spreadsheet and
 determines which combinations function as unique identifiers.
 
@@ -162,14 +162,14 @@ people for the creation of accurate metadata; we can lazily figure out the
 metadata ourselves.
 
 \subsection{Quantifying data quality}
-A bunch of people\cite{open-data-census}\cite{fivestars}\cite{sunlight}\cite{sebastopol}\cite{odi}
+A bunch of people \cite{open-data-census,fivestars,sunlight,sebastopol,odi}
 have come up with relatively qualitative guidelines for publishing data.
 
 I've been exploring ways of assigning numbers to represent data quality.
 Using only the simple metadata files from open data catalogs, I've come up
-with automated approaches for describing the updating,\cite{updatedness}
-licensing,\cite{licensing} size,\cite{summary}, file format\cite{file-formats}
-and availability\cite{dead}\cite{zombie} of groups of datasets.
+with automated approaches for describing the updating, \cite{updatedness}
+licensing, \cite{licensing} size \cite{summary}, file format \cite{file-formats}
+and availability \cite{dead,zombie} of groups of datasets.
 
 By quantifying these guidelines about data quality, we can more quickly and
 precisely assess data quality.
