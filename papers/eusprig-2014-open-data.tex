@@ -36,9 +36,11 @@ I've been collecting data about publically shared open data
 and looking for patterns in publishing and usage across the datasets.
 Here are three specific issues that I look at.
 
-1. How can I find datasets that I care to see?
-2. What can I do about incomplete metadata?
-3. Can we quantify how good a particular dataset is?
+\begin{enumerate}
+\item How can I find datasets that I care to see?
+\item What can I do about incomplete metadata?
+\item Can we quantify how good a particular dataset is?
+\end{enumerate}
 
 I'll briefly discuss some related work by other people and explain how I
 acquire lots of spreadsheets; then I'll review some of my findings in the
@@ -136,7 +138,8 @@ All of these spreadsheets were uploaded by the same person, and they all had
 titles of the form ``\$\{crime\} Allegations \$\{year\}'', such as
 ``Disposition Of Force Allegations 2006''.
 
-
+When we organize spreadsheets by their column headers, groups of related
+spreadsheets pop out at us.
 
 \subsection{Dealing with incomplete metadata}
 People complain about how data are bad and metadata are bad. Rather than
@@ -151,25 +154,23 @@ it out for ourselves.
 
 special\_snowflake\cite{special_snowflake} is a package that does just that.
 It looks at all combinations of columns within a particular spreadsheet and
-determines which combinations function as primary keys.
+determines which combinations function as unique identifiers.
+
+With tools like special\_snowflake, we don't have to rely as much on other
+people for the creation of accurate metadata; we can lazily figure out the
+metadata ourselves.
 
 \subsection{Quantifying data quality}
-A bunch of people have come up with guidelines for publishing data.
+A bunch of people\cite{open-data-census}\cite{five-stars}\cite{sunlight}\cite{sebastopol}\cite{odi}
+have come up with relatively qualitative guidelines for publishing data.
 
-* Open Knowledge Foundation [Open Data Census](http://census.okfn.org/)
-* Tim Berners-Lee [Five Stars](http://inkdroid.org/journal/2010/06/04/the-5-stars-of-open-linked-data/) of open linked data.
-    <!-- http://opendata.stackexchange.com/a/529 -->
-* Open Government Working Group [8 Principles of Open Government Data](http://www.opengovdata.org/home/8principles)
-* Sunlight Foundation [Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/)
-* Open Data Institute [Certificates](https://certificates.theodi.org/)
-
-These guidelines are written in prose and in a somewhat qualitative manner.
 I've been exploring ways of assigning numbers to represent data quality.
 Using only the simple metadata files from open data catalogs, I've come up
 with automated approaches for describing the updating,\cite{updatdness}
 licensing,\cite{licensing} size,\cite{summary}, file format\cite{file-formats}
 and availability\cite{dead}\cite{zombie} of groups of datasets.
-Quantifying these guidelines about data quality, we can more quickly and
+
+By quantifying these guidelines about data quality, we can more quickly and
 precisely assess data quality.
 
 \section{Applications}
@@ -204,42 +205,6 @@ more able to apply various quantitative analyses to the dataset of datasets;
 this is starting to enable weaker versions of the aforementioned measure of
 outcomes. It would be nice to know whether releasing your organization's data on
 the internet will get people to use them.
-
-\subsection{Figures}
-Like tables, figures cannot be split across pages; the
-best placement for them
-is typically the top or the bottom of the page nearest
-their initial cite.  To ensure this proper ``floating'' placement
-of figures, use the environment
-\textbf{figure} to enclose the figure and its caption.
-
-This sample document contains examples of \textbf{.eps}
-and \textbf{.ps} files to be displayable with \LaTeX.  More
-details on each of these is found in the \textit{Author's Guide}.
-
-\begin{figure}
-\centering
-\epsfig{file=fly.eps}
-\caption{A sample black and white graphic (.eps format).}
-\end{figure}
-
-\begin{figure}
-\centering
-\epsfig{file=fly.eps, height=1in, width=1in}
-\caption{A sample black and white graphic (.eps format)
-that has been resized with the \texttt{epsfig} command.}
-\end{figure}
-
-
-As was the case with tables, you may want a figure
-that spans two columns.  To do this, and still to
-ensure proper ``floating'' placement of tables, use the environment
-\textbf{figure*} to enclose the figure and its caption.
-
-Note that either {\textbf{.ps}} or {\textbf{.eps}} formats are
-used; use
-the \texttt{{\char'134}epsfig} or \texttt{{\char'134}psfig}
-commands as appropriate for the different file types.
 
 \bibliographystyle{abbrv}
 \bibliography{spreadsheets}
