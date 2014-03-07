@@ -2,3 +2,4 @@
 DT Done things
 20140301 Write git.thomaslevine.com
 20140301 Write _.thomaslevine.com
+20140305 Write slides for brighttalk
