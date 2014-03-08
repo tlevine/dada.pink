@@ -9,3 +9,4 @@ TD To do
 20140320 https://github.com/csvsoundsystem/FOMC_Tacos
 20140307 Reschedule with Ian
 20140311 Redo Socrata updating but with the correct date field
+20140320 Set up backups and stuff.
