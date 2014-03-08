@@ -1,8 +1,7 @@
 # Things to do, in pal format
 TD To do
-20140301 Order a broken laptop and replacement parts.
+20140308 Order a SSD for my Acer
 20140315 Rewrite craigsgenerator in a beautiful, functional way, and explain how that works.
-20140305 Apply to EuSpRIG and SEMS (Due on Friday, March 7)
 20140310 Apply to TU Delft
 20140310 Tell Chris Metcalf what I want
 20140310 Look at the datahub.io stuff

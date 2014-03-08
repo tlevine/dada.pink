@@ -2,4 +2,5 @@
 DT Done things
 20140301 Write git.thomaslevine.com
 20140301 Write _.thomaslevine.com
-20140305 Write slides for brighttalk
+20140306 Write slides for brighttalk
+20140307 Apply to EuSpRIG and SEMS (Due on Friday, March 7)
