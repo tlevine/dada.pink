@@ -10,3 +10,4 @@ TD To do
 20140307 Reschedule with Ian
 20140311 Redo Socrata updating but with the correct date field
 20140320 Set up backups and stuff.
+20140309 Book a room http://www.philahostel.org/res-form-ind.htm
