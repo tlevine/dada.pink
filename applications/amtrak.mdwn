@@ -8,27 +8,13 @@ I'm presently nomadic (http://thomaslevine.com/!/stuff-2014-02/), and it's partl
 
 How would this residency benefit your writing?
 ----
-This residency will prompt me to write up some thoughts on human motivation, some advice/tutorials for people learning about computers, and some stories about my recent travels. This sort of writing doesn't happen in my day-to-day life; I need a strange and relaxed setting to prompt it.
+This residency will prompt me to write up some thoughts on human motivation, some advice/tutorials for people learning about computers, and some stories about my recent travels. I have a bunch of writings-in-progress that range from rough notes to near-finished-and-just-needing-proofreading. I write software for work, so this sort of writing doesn't happen in my day-to-day life; I need a strange and relaxed setting to prompt it.
 
-### Writing about motivation
-
-I think a lot about how why people act the way they do. I talk about it reasonably often, and I keep meaning to write about it. Well I have written about it, but the ones that are published are too focused on computers, like this these.
-
+Here are some examples of the sorts of things that I might write about.
 http://www.datakind.org/featuredvolunteers/thomas-levine/
 http://thomaslevine.com/!/why-i-like-hackerspaces/
-
-### Writing educational things
-
-When I explain computer concepts to people, I write everything down so I can write about it later. Here are two articles that came out of that.
-
 http://thomaslevine.com/!/street-sign-protocol/
 http://www.datakind.org/blog/whats-in-a-table/
-
-I presently have three nearly-finished articles about this that I really just need to proofread.
-
-### Travels
-
-I've been living out of a small suitcase for three months. And I still work a job. It's starting to get into a routine, so I'm ready to write about the things that I've decided to put in the bag and the implications that this travel has had on work and finances.
 
 Supporting link
 ------
