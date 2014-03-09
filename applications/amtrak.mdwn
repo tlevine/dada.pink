@@ -1,3 +1,32 @@
+First Name
+----
+Thomas
+
+Last Name
+-----
+Levine
+
+City
+-----
+Scarsdale
+
+State
+----
+New York
+
+Email
+-----
+_@thomaslevine.com
+
+Twitter
+------
+thomaslevine
+
+Facebook
+------
+https://www.facebook.com/perluette
+
+
 Why do you want an #AmtrakResidency?
 ----
 I love Amtrak, and I love writing, and I write better when I'm on Amtrak. And that's when I'm in coach; who knows what will come out if I take a sleeper car!
@@ -19,3 +48,13 @@ http://www.datakind.org/blog/whats-in-a-table/
 Supporting link
 ------
 http://thomaslevine.com/!/
+
+
+
+Official Terms
+-----
+I have read and agree to the Official Terms
+
+Opt In
+----------
+I’d like to sign up for Amtrak emails to receive sale and product information.
