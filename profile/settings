@@ -1,0 +1,8 @@
+export EDITOR=vim
+
+# echo Activating extended globs
+# http://mywiki.wooledge.org/glob
+shopt -s extglob
+
+# Locale
+export LC_ALL=en_US.utf8
