@@ -3,8 +3,7 @@ Anyone can check out the wiki like so.
 
     git clone git://wiki.thomaslevine.com/
 
-For super powers, add your SSH key
-[here](http://wiki.thomaslevine.com/ikiwiki.cgi?do=setupsshkeys)
+For super powers, [add your SSH key](/ikiwiki.cgi?do=setupsshkeys)
 and checkout the wiki like so.
 
     git clone ssh://b-wiki-thomaslevine-com@wiki.thomaslevine.com/ wiki.thomaslevine.com
@@ -18,3 +17,6 @@ Set up a hook so you don't break things
 
     echo make\ test > .git/hooks/pre-push
     chmod +x .git/hooks/pre-push
+
+## Other settings
+See [`/ikiwiki.cgi`](/ikiwiki.cgi)
