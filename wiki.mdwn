@@ -30,4 +30,4 @@ News
 * [Send emails](http://ikiwiki.info/plugins/notifyemail/)
 * [Inline (usually feeds)](http://ikiwiki.info/ikiwiki/directive/inline/)
 
-See [`/ikiwiki.cgi`](/ikiwiki.cgi?do=setup) for more.
+And [there's more](/ikiwiki.cgi?do=setup)!
