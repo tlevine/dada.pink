@@ -19,7 +19,15 @@ Set up a hook so you don't break things
     chmod +x .git/hooks/pre-push
 
 ## Cool features
+Maps
 
-* [Maps](https://ikiwiki.info/ikiwiki/directive/osm/)
+* [Street maps](https://ikiwiki.info/ikiwiki/directive/osm/)
+* [Wiki maps](https://ikiwiki.info/ikiwiki/directive/map/)
+* [Fancy wiki maps](https://ikiwiki.info/ikiwiki/directive/linkmap/)
+
+News
+
+* [Send emails](http://ikiwiki.info/plugins/notifyemail/)
+* [Inline (usually feeds)](http://ikiwiki.info/ikiwiki/directive/inline/)
 
 See [`/ikiwiki.cgi`](/ikiwiki.cgi?do=setup) for more.
