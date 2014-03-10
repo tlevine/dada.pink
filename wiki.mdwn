@@ -18,5 +18,8 @@ Set up a hook so you don't break things
     echo make\ test > .git/hooks/pre-push
     chmod +x .git/hooks/pre-push
 
-## Other settings
-See [`/ikiwiki.cgi`](/ikiwiki.cgi)
+## Cool features
+
+* [Maps](https://ikiwiki.info/ikiwiki/directive/osm/)
+
+See [`/ikiwiki.cgi`](/ikiwiki.cgi?do=prefs) for more.
