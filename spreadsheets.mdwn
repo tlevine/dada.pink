@@ -1,0 +1,8 @@
+What cool things can I do when I have lots of spreadsheets? Ideas below
+
+## Truck datasets
+Find all datasets that were collected by trucks, and then find the truck paths.
+Possibilities include
+
+* Chicago potholes
+* Chicago plows
