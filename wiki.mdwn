@@ -22,4 +22,4 @@ Set up a hook so you don't break things
 
 * [Maps](https://ikiwiki.info/ikiwiki/directive/osm/)
 
-See [`/ikiwiki.cgi`](/ikiwiki.cgi?do=prefs) for more.
+See [`/ikiwiki.cgi`](/ikiwiki.cgi?do=setup) for more.
