@@ -31,6 +31,9 @@ def test_sections_are_documented():
     in_index = set()
     with open('index.rst', 'r') as fp:
         for line in fp:
-            a = re.match(r'^`/([^/]+)/ </([^/]+)/>`$', line)
-            print(a)
-    assert False
+            m = re.match(r'^`/([^/]+)/ </([^/]+)/>`$', line)
+            if m:
+                n.assert_equal(m.group(1), m.group(2))
+                in_index.add(m.group(1))
+    dirs = set(filter(os.path.isdir, os.listdir()))
+    n.assert_set_equal(in_index, dirs)
