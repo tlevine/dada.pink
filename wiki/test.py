@@ -5,7 +5,7 @@ import os,sys
 import nose.tools as n
 
 exceptional_files = {'Makefile', 'index'}
-exceptional_directories = {'.git'}
+exceptional_directories = {'.git','a'} # a for the Amtrak thing because I linked to it
 
 if os.path.split(os.getcwd())[-1] != 'wiki.thomaslevine.com':
     print('Run this with nose from the root of the wiki repository.')
