@@ -26,6 +26,9 @@ Tom
 `/scribble/ </scribble/>`
     Write down things that don't fit in the other categories.
 
+`/wiki/ </wiki/>`
+    Do things related to the wiki software.
+
 Not Tom
 -------
 
