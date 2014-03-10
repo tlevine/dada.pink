@@ -16,3 +16,4 @@ From the root of the repository, run
 Set up a hook so you don't break things
 
     echo make\ test > .git/hooks/pre-push
+    chmod +x .git/hooks/pre-push
