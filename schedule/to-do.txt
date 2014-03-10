@@ -11,3 +11,4 @@ TD To do
 20140311 Redo Socrata updating but with the correct date field
 20140320 Set up backups and stuff.
 20140309 Book a room http://www.philahostel.org/res-form-ind.htm
+20140320 Move .medial_temporal_lobe to a Branchable site, and put that at references.thomaslevine.com
