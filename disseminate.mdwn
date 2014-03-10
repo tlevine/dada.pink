@@ -1,9 +1,11 @@
-## Grants
+## Things I want to apply for
+
+### Grants
 
 * [NIH](http://grants.nih.gov/grants/guide/rfa-files/RFA-HG-14-020.html).
 * Knight News Challenge
 
-## Conferences and journals
+### Conferences and journals
 From the Open Data Research Network Newsletter
 
 > The Committee on Data for Science and Technology (CODATA) are organising an International Workshop on Open Data for Science and Sustainability in Developing Countries (OpenDataSSDC) on 6-8 August 2014, in Nairobi, Kenya. Abstracts are invited by 15th April 2014 (http://opendataresearch.us2.list-manage.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D8a4afd3180&e=3Df8d7a55e25 )
@@ -20,7 +22,7 @@ From the Open Data Research Network Newsletter
 
 [EuSpRIG and SEMS](http://spreadsheetlab.org/2013/12/19/first-workshop-on-software-engineering-methods-in-spreadsheets/)
 
-## Schooling
+### Schooling
 Apply to the Software Technology Track of the CS MSc at TU Delft.
 
 * http://swerl.tudelft.nl/bin/view/Main/MastersProjects
@@ -30,3 +32,5 @@ Apply to the Software Technology Track of the CS MSc at TU Delft.
 
 Let Felienne know if I really plan this and if I need any support
 like an invitation letter.
+
+## Things I have already applied for
