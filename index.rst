@@ -32,8 +32,8 @@ Tom
 Not Tom
 -------
 
-`/schedule/ </schedule/>`
+`/schedule/ </schedule/>`_
     Check Tom's schedule.
 
-`/request/ </request/>`
+`/request/ </request/>`_
     Help Tom request data, and see what else he's looking for.
