@@ -1,6 +1,6 @@
 Tom's assorted notes to mostly himself go here.
 Notes to other people are at
-_www.thomaslevine.com: http://www.thomaslevine.com.
+http://www.thomaslevine.com.
 
 Below is a table of contents of the site, written
 both for Tom and not-Tom.
