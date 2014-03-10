@@ -28,13 +28,13 @@ GitHub
     https://github.com/tlevine/
 Prudence
     A potential exchange of backups with Prudence Katze
+sensitive
+    A tiny account at (decide where)
 
 Public data, numb data and locked data can be stored on
 
-rsync.net
+safe
     An account at https://rsync.net
-sensitive
-    A tiny account at (decide where)
 home
     An larger account at https://prometeus.net
 
@@ -46,9 +46,6 @@ Physical data can be stored on computers like these.
 
 Installing a new system
 -------------------------
-Create an SSH key for the system and add it to the
-:code:`~/.ssh/authorized_keys` file in sensitive and
-in GitHub.
 
 Base
 ^^^^^^
@@ -62,6 +59,13 @@ Also, set th :code:`.shrc`, :code:`.bashrc`, &c. to the following. ::
 
 SSH
 ^^^^^^
+Create an SSH key for the system and add it to the
+:code:`~/.ssh/authorized_keys` file in the following places.
+
+* sensitive
+* GitHub
+* wiki.thomaslevine.com
+
 Clone the appropriate repository with SSH configurations. ::
 
     cd ~/git
@@ -71,6 +75,14 @@ And symlink the configuration files. ::
 
     ln -s ~/git/secrets-sensitive/.ssh/* ~/.ssh
 
+This configures ssh so you can use alises for hosts.
 
+    cd ~/git
+    git clone github:tlevine/profile.git
+    git clone b-wiki-thomaslevine.com@wiki.thomaslevine.com:/ wiki.thomaslevine.com
 
-    git clone github:
+Clone additional secrets directories if as appropriate.
+
+    git clone safe:git/secrets-home # for home
+    git clone safe:git/secrets-physical # for physical computers
+
