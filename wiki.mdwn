@@ -1,0 +1,14 @@
+## Checking out the wiki
+Anyone can check out the wiki like so.
+
+    #
+
+For super powers, add your SSH key
+[here]() and check out this the wiki like so.
+
+    #
+
+## Testing the structure of the wiki.
+From the root of the repository, run
+
+    make test
