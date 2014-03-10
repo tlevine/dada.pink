@@ -17,7 +17,7 @@ Tom
 `/schedule/ </schedule/>`
     Schedule things here.
 
-`/disseminate/ </disseminate/>`.
+`/disseminate/ </disseminate/>`
     Apply to grants, write papers, &c.
 
 `/request/ </request/>`
