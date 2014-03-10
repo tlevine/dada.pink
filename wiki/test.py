@@ -11,7 +11,6 @@ if os.path.split(os.getcwd())[-1] != 'wiki.thomaslevine.com':
     print('Run this with nose from the root of the wiki repository.')
     sys.exit(1)
 
-@n.nottest
 def test_directory_file_correspondence():
     '''
     Each top-level directory should have an associated
