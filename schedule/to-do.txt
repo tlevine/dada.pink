@@ -1,4 +1,5 @@
 # Things to do, in pal format
+# Read more at http://wiki.thomaslevine.com/calendar/
 TD To do
 20140318 Order a SSD for my Acer?
 20140315 Rewrite craigsgenerator in a beautiful, functional way, and explain how that works.
