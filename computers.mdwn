@@ -1,0 +1,22 @@
+## Creating a remote git repository
+Create a public remote git repository like so.
+
+    mkdir new-project
+    cd new-project
+    git init
+    publicgit
+
+That creates remotes at
+[git.thomaslevine.com](http://git.thomaslevine.com)
+and [GitHub](https://github.com/tlevine) and sets them
+as origin.
+
+Create a private remote git repository like so.
+
+    mkdir new-project
+    cd new-project
+    git init
+    privategit
+
+That creates a remote at [safe](/operations/) and sets
+it as the origin.
