@@ -1,3 +1,10 @@
+Here's my attitude towards responses to open calls for applications, papers, &c.
+Only a handful of people will ever read what I submit, and I'll never have much
+of an idea as to whether they read it or what they thought of it. This whole process
+is very noisy, and I don't like that. Thus, I limit myself to a few hours per response,
+I try to include buzzwords appropriate to the solicitation, and I don't ask for
+other people to review the submission.
+
 ## Things I want to write
 
 ### Grants
