@@ -1,5 +1,9 @@
 My calendar is spread across a few pal files.
 
-* [Meetings](meetings) ([archive](meetings-archive))
-* [Sleeping arrangements](sleeping) ([archive](sleeping-archive))
-* [Things to do](to-do) ([to-do-archive](to-do-archive))
+* [Meetings](meetings)
+* [Sleeping arrangements](sleeping)
+* [Things to do](to-do)
+* [Birthdays](birthdays)
+
+There's also a private file, as explained in the
+[operations](/operations/) page.
