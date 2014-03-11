@@ -2,14 +2,14 @@ Concepts
 ----------
 There are four levels of security based on where data may be stored. Data storage that is appropriate for one of these groups is appropriate for all of the subsequent groups,and *not* vice-versa; when there is a breach at a particular level, subsequent levels will be compromised, and earlier levels will not be.
 
-Physical
-    These data are to be stored only on computers that I can touch.
+Laptop
+    These data are to be stored only on laptops and other computers that I can touch.
 
-Locked
-    These data are to be stored only on servers that are quite secure and are exposing few services to the network.
+Home
+    These data are to be stored only on servers that are quite secure and are exposing few services to the network, such as the one called "home".
 
-Numb
-    These data are intended to be private but may be stored on servers that are running lots of servers and are quite open to the public.
+NSA
+    These data are intended to be private but may be stored on servers that are running lots of servers and are quite open to the public, such as the one called "nsa".
 
 Public
     These data are free for anyone to see.
@@ -19,7 +19,7 @@ Physical, locked and numb data should be encrypted. Public data should not be en
 
 Computers
 ----------
-Public data and associated numb data (minimal credentials for accessing the services) can go in the following places.
+Public data and associated NSA data (minimal credentials for accessing the services) can go in the following places.
 
 NSA
     An account with the `Numb Server Association <http://the-nsa.org/>`_
@@ -30,14 +30,14 @@ Prudence
 sensitive
     A tiny account at (decide where)
 
-Public data, numb data and locked data can be stored on
+Public data, NSA data and Home data can be stored on
 
 safe
     An account at https://rsync.net
 home
     An larger account at https://prometeus.net
 
-Physical data can be stored on computers like these.
+Laptop data can be stored on computers like these.
 
 * phone
 * laptop
@@ -52,10 +52,6 @@ Set up the home directory structure. ::
 
     mkdir ~/{git,safe,history}
 
-Also, set the ``.shrc``, ``.bashrc``, &c. to the following. ::
-
-    # blah blah
-
 SSH
 ^^^^^^
 Create an SSH key for the system and add it to the
@@ -65,20 +61,16 @@ Create an SSH key for the system and add it to the
 * GitHub
 * wiki.thomaslevine.com
 
-Clone the appropriate repository with SSH configurations. ::
+Clone the repository with most open SSH configurations. ::
 
     cd ~/git
-    git clone $user@$ip_address:secrets-sensitive.git
+    git clone $user@$ip_address:secrets-nsa.git
 
 And symlink the configuration files. ::
 
     ln -s ~/git/secrets-sensitive/.ssh/* ~/.ssh
 
-You might find these install scripts to be helpful. ::
-
-    git clone git@github.com:tlevine/desk
-
-This configures ssh so you can use alises. ::
+This configures ssh so you can use alises. Now clone these. ::
 
     cd ~/git
     git clone github:tlevine/profile.git
@@ -86,10 +78,30 @@ This configures ssh so you can use alises. ::
     git clone github:tlevine/historian.git
     git clone b-wiki-thomaslevine.com@wiki.thomaslevine.com:/ wiki.thomaslevine.com
 
+Now you can symlink ``.shrc``, ``.bashrc``, &c. ::
+
+    ln -s ~/git/profile/profile ~/.shrc
+
 Clone additional secrets directories if as appropriate. ::
 
     git clone safe:git/secrets-home # for home
-    git clone safe:git/secrets-physical # for physical computers
+    git clone safe:git/secrets-laptop # for physical computers
+
+Most of the dotfiles are in secrets-home. If you're on home or laptop,
+you can symlink the dotfiles to the places they belong like so. ::
+
+    for dotfile in git/secrets-home/dotfiles/.[a-z]*; do
+        ln -s "$dotfile" $(basename "$dotfile")
+    fi
+
+Before running the above command, you should remove the symlinks to the
+``~/.ssh`` directory.
+
+Further installation
+^^^^^^^^^^^^^^^^^^^^^^
+You might find these install scripts to be helpful. ::
+
+    git clone git@github.com:tlevine/desk
 
 
 Backups
