@@ -52,14 +52,14 @@ Set up the home directory structure. ::
 
     mkdir ~/{git,safe,history}
 
-Also, set th :code:`.shrc`, :code:`.bashrc`, &c. to the following. ::
+Also, set the ``.shrc``, ``.bashrc``, &c. to the following. ::
 
     # blah blah
 
 SSH
 ^^^^^^
 Create an SSH key for the system and add it to the
-:code:`~/.ssh/authorized_keys` file in the following places.
+``~/.ssh/authorized_keys`` file in the following places.
 
 * sensitive
 * GitHub
