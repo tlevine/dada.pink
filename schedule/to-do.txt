@@ -1,16 +1,14 @@
 # Things to do, in pal format
 TD To do
-20140308 Order a SSD for my Acer
+20140318 Order a SSD for my Acer?
 20140315 Rewrite craigsgenerator in a beautiful, functional way, and explain how that works.
-20140310 Apply to TU Delft
-20140310 Tell Chris Metcalf what I want
-20140310 Look at the datahub.io stuff
+20140313 Apply to TU Delft
+20140313 Tell Chris Metcalf what I want
+20140313 Look at the datahub.io stuff
 20140515 EHSM proposals are due.
 20140320 https://github.com/csvsoundsystem/FOMC_Tacos
-20140307 Reschedule with Ian
-20140311 Redo Socrata updating but with the correct date field
+20140314 Redo Socrata updating but with the correct date field
 20140320 Set up backups and stuff.
-20140309 Book a room http://www.philahostel.org/res-form-ind.htm
 20140320 Move .medial_temporal_lobe to a Branchable site, and put that at references.thomaslevine.com
 20140313 Email Ardian about FLOSSK
 20140313 Get rid of SmugMug and all these tiny VPSs
