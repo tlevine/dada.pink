@@ -20,3 +20,9 @@ Create a private remote git repository like so.
 
 That creates a remote at [safe](/operations/) and sets
 it as the origin.
+
+(These functions are provided in the
+[profile](https://github.com/tlevine/profile).)
+
+No automatic repository creation is provided for
+[sensitive](/sensitive/) or [Branchable](https://branchable.com).
