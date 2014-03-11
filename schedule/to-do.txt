@@ -15,3 +15,4 @@ TD To do
 20140313 Get rid of SmugMug and all these tiny VPSs
 TODO Write up things for an assistant to do.
 TODO Submit to Open Knowledge Festival, due March 16
+20140318 Edit my imapfilter configuration to hide mails sent to two of my email addresses.
