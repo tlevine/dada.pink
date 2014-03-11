@@ -14,3 +14,4 @@ TD To do
 20140320 Move .medial_temporal_lobe to a Branchable site, and put that at references.thomaslevine.com
 20140313 Email Ardian about FLOSSK
 20140313 Get rid of SmugMug and all these tiny VPSs
+TODO Write up things for an assistant to do.
