@@ -8,11 +8,11 @@ both for Tom and not-Tom.
 Tom
 ---
 
-`/computer/ </computer/>`_
-    Do this when you get a new computer.
-
 `/operations/ </operations/>`_
     Read and write about how your computer infrastructure works.
+
+`/computers/ </computers/>`_
+    How to use your computers
 
 `/schedule/ </schedule/>`_
     Schedule things here.
