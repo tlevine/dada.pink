@@ -1,0 +1,9 @@
+I'd like my to-be-assistant to do the following
+
+## Conference applications
+For each of these conferences, go to <http://thomaslevine.com/open-data>,
+copy or summarize an appropriate article and submit it under my name.
+
+* [International Workshop on Open Data for Science and Sustainability in Developing Countries (OpenDataSSDC) on 6-8 August 2014, in Nairobi, Kenya](http://opendataresearch.us2.list-manage.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D8a4afd3180&e=3Df8d7a55e25)
+* [The Open Knowledge Festival](http://opendataresearch.us2.list-manage.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D602011cc3a&e=3Df8d7a55e25)
+* [OpenSym, the 10th International Symposium on Open Collaboration, held in Berlin, Germany from 27th to 29th August 2014, Open Data Research track](http://opendataresearch.us2.list-manage1.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D7e616d7f30&e=3Df8d7a55e25)
