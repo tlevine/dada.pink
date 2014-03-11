@@ -90,12 +90,19 @@ Clone additional secrets directories if as appropriate. ::
 Most of the dotfiles are in secrets-home. If you're on home or laptop,
 you can symlink the dotfiles to the places they belong like so. ::
 
-    for dotfile in git/secrets-home/dotfiles/.[a-z]*; do
-        ln -s "$dotfile" $(basename "$dotfile")
-    fi
+    for directory in dotfiles secrets-home; do
+        for dotfile in git/"$directory"/dotfiles/.[a-z]*; do
+            ln -s "$dotfile" $(basename "$dotfile")
+        fi
+    done
 
 Before running the above command, you should remove the symlinks to the
 ``~/.ssh`` directory.
+
+You should also set up the appropriate crontab. Take the crontab from the
+appropriate secrets directory (for example, secrets-laptop if you're on laptop).
+
+    crontab ~/git/secrets-laptop/crontab-tlevine
 
 Further installation
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -103,9 +110,8 @@ You might find these install scripts to be helpful. ::
 
     git clone git@github.com:tlevine/desk
 
-
-Backups
-^^^^^^^^^
+Backup locations
+^^^^^^^^^^^^^^^^^^^^
 All data should be in at least two places. For public git repositories,
 the places are nsa (http://small.dadawarehouse.thomaslevine.com) and GitHub, at least.
 For larger public stuff, the places are nsa (http://big.dadawarehouse.thomaslevine.com)
@@ -119,3 +125,14 @@ Locked data are stored on home and on safe, and sometimes on a laptop and whatno
 Physical data are stored on the laptop and on safe. home actually does have access to
 these data too, so I might eventually get two separate rsync.net accounts to deal with
 this.
+
+Backup pipeline
+^^^^^^^^^^^^^^^^
+Git repositories are naturally backed-up by being checked out in two places.
+The remotes are safe (laptop-level and home-level data), sensitive (nsa-level data),
+and GitHub (public-level data).
+
+Larger files get rsynced through home. A cron job runs on home to pull specific
+directories from nsa to home, and a cron job runs on laptop to push specific
+directories to home. Another cron job runs on home to push the entirity of ``~/safe``
+to safe.
