@@ -14,8 +14,7 @@ Numb
 Public
     These data are free for anyone to see.
 
-Any piece of data will fall into exactly one of these groups. Also, all data should be in at least two places.
-
+Any piece of data will fall into exactly one of these groups.
 Physical, locked and numb data should be encrypted. Public data should not be encrypted.
 
 Computers
@@ -51,7 +50,7 @@ Base
 ^^^^^^
 Set up the home directory structure. ::
 
-    mkdir ~/{git,safe}
+    mkdir ~/{git,safe,history}
 
 Also, set th :code:`.shrc`, :code:`.bashrc`, &c. to the following. ::
 
@@ -75,14 +74,36 @@ And symlink the configuration files. ::
 
     ln -s ~/git/secrets-sensitive/.ssh/* ~/.ssh
 
-This configures ssh so you can use alises for hosts.
+You might find these install scripts to be helpful. ::
+
+    git clone git@github.com:tlevine/desk
+
+This configures ssh so you can use alises. ::
 
     cd ~/git
     git clone github:tlevine/profile.git
+    git clone github:tlevine/dotfiles.git
+    git clone github:tlevine/historian.git
     git clone b-wiki-thomaslevine.com@wiki.thomaslevine.com:/ wiki.thomaslevine.com
 
-Clone additional secrets directories if as appropriate.
+Clone additional secrets directories if as appropriate. ::
 
     git clone safe:git/secrets-home # for home
     git clone safe:git/secrets-physical # for physical computers
 
+
+Backups
+^^^^^^^^^
+All data should be in at least two places. For public git repositories,
+the places are nsa (http://small.dadawarehouse.thomaslevine.com) and GitHub, at least.
+For larger public stuff, the places are nsa (http://big.dadawarehouse.thomaslevine.com)
+and Prudence.
+
+Numb data (private calendars, &c.) are used on nsa and also stored on sensitive.
+And all of the other computers will probably have the same repository checked out.
+
+Locked data are stored on home and on safe, and sometimes on a laptop and whatnot.
+
+Physical data are stored on the laptop and on safe. home actually does have access to
+these data too, so I might eventually get two separate rsync.net accounts to deal with
+this.
