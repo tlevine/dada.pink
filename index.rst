@@ -26,7 +26,7 @@ Tom
 `/wiki/ </wiki/>`_
     Do things related to the wiki software.
 
-`/references/ </references/>`_
+http://references.thomaslevine.com
     Write down and look up things that I like.
 
 Not Tom
@@ -38,5 +38,5 @@ Not Tom
 `/request/ </request/>`_
     Help Tom request data, and see what else he's looking for.
 
-`/references/ </references/>`_
+http://references.thomaslevine.com
     Look at things that Tom likes.
