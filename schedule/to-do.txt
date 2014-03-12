@@ -16,3 +16,5 @@ TODO Submit to Open Knowledge Festival, due March 16
 20140318 Edit my imapfilter configuration to hide mails sent to two of my email addresses.
 TODO Cancel RamNode subscription
 20140330 Switch Prometeus subscription to annual if I like it.
+20140330 Look for cool git hooks.
+20140325 Write a thing so that the only X thing I need to run is Firefox (no window manager)
