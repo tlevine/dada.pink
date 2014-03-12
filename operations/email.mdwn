@@ -1,5 +1,12 @@
 How my email system works....
 
+* gandi
+  * forwarding
+* imapfilter
+* offlineimap
+* mutt
+  * aliases
+
 what else....
 
 Pretty much any email address you might have for me forwards to
