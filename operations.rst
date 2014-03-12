@@ -1,7 +1,7 @@
 `./security/ <security>`_
     Security considerations in my main computer network
 
-`./installing/ <installing>`
+`./installing/ <installing>`_
     How to set up a new computer
 
 `./email/ <email>`_
