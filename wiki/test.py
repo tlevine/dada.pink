@@ -59,7 +59,7 @@ def check_subsections_are_documented(directory):
         # In the documentation
         with open(fn, 'r') as fp:
             for line in fp:
-                m = re.match(r'^`/([^/]+)/ </([^/]+)/>`_$', line)
+                m = re.match(r'^`\.?/([^/]+)/ </?([^/]+)/?>`_$', line)
                 if m:
                     n.assert_equal(m.group(1), m.group(2))
                     in_index.add(m.group(1))
