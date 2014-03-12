@@ -24,23 +24,30 @@ def test_directory_file_correspondence():
     n.assert_set_equal(basenames.difference(exceptional_basenames),
                        dirs.difference(exceptional_directories))
 
-def test_sections_are_documented():
+def check_sections_are_documented(directory):
     '''
     Each top-level directory should be referenced in the
     documentation, and each directory referenced in the
     documentation should exist.
     '''
 
-    # In the documentation
+    fn = 'index.rst' if directory == '.' else directory + '.rst'
     in_index = set()
-    with open('index.rst', 'r') as fp:
-        for line in fp:
-            m = re.match(r'^`/([^/]+)/ </([^/]+)/>`_$', line)
-            if m:
-                n.assert_equal(m.group(1), m.group(2))
-                in_index.add(m.group(1))
+    if os.path.isfile(fn):
+        # In the documentation
+        with open(fn, 'r') as fp:
+            for line in fp:
+                m = re.match(r'^`/([^/]+)/ </([^/]+)/>`_$', line)
+                if m:
+                    n.assert_equal(m.group(1), m.group(2))
+                    in_index.add(m.group(1))
 
-    # In the filesystem
-    dirs = set(filter(os.path.isdir, os.listdir()))
+        # In the filesystem
+        dirs = set(filter(os.path.isdir, os.listdir(directory)))
 
-    n.assert_set_equal(in_index, dirs.difference(exceptional_directories))
+        # Documentation and filesystem should match.
+        n.assert_set_equal(in_index, dirs.difference(exceptional_directories))
+
+def test_sections_are_documented():
+    for directory in filter(os.path.isdir, os.listdir()):
+        yield check_sections_are_documented, directory
