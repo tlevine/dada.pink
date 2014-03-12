@@ -1,0 +1,18 @@
+Here are some places where Tom shares things publically.
+
+* [dadawarehouse.thomaslevine.com]()
+* [git.thomaslevine.com]()
+* [\_.thomaslevnine.com]()
+* [Twitter]()
+* [GitHub]()
+
+## How to back them up
+dadawarehouse
+
+    rsync
+
+...
+
+## Private data
+Read about backups of private data in
+[/operations/security](/operations/security/).

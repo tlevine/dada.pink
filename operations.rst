@@ -1,3 +1,8 @@
+For Tom
+For Tom
+--------
+--------
+
 `./security/ <security>`_
     Security considerations in my main computer network
 
@@ -10,3 +15,11 @@
 `./how-to/ <how-to>`_
     How to do various other things
 
+`./public-backups/ <public-backups>`_
+    How to make backups of publically released data.
+
+For Others
+-------------
+
+`./public-backups/ <public-backups>`_
+    How to exchange backups with Tom
