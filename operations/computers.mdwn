@@ -9,15 +9,6 @@
   * rsync.net: Backups for private things like email
 * Clients (phone, laptop, desktop, &c.)
 
-## rsync.net backups
-rsync.net should have the following users, based on which computers are allowed access.
-
-* `clients`: Just clients (any client though)
-* `home`: Just home
-* `nsa`: Just nsa
-* `clients+home`: clients and home
-* `all`: NSA, home, and clients
-
 ## Common structure
 With the exception of phones, the following should be the case for all computers.
 
