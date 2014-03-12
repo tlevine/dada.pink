@@ -11,9 +11,6 @@ Tom
 `/operations/ </operations/>`_
     Read and write about how your computer infrastructure works.
 
-`/computers/ </computers/>`_
-    How to use your computers
-
 `/schedule/ </schedule/>`_
     Schedule things here.
 
