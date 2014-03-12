@@ -65,3 +65,34 @@ You might find these install scripts to be helpful. ::
 
     git clone git@github.com:tlevine/desk
 
+Checks
+^^^^^^^^^^^^^^^^^^^
+With the exception of phones, the following should be the case for all computers.
+
+Environment variables are such.
+
+* ``$USER`` is ``tlevine``
+* ``$HOME`` is ``/home/tlevine``
+
+There should be a ``~/git`` directory for files that are backed up in git.
+It should contain:
+
+* ``~/git/profile``: The standard profile configuration across all computers.
+    This repository is public.
+* ``~/git/secrets-${computer}``, where ``$computer`` is ``laptop``, ``home``, ``nsa``.
+
+The following links should be set.
+
+* Everything in ``~/git/secrets-*/dotfiles/*`` should be linked to files in ``~``.
+* The shell profile should source ``~/git/profile/profile`` and ``~/git/secrets-*/profile``.
+* In turn, ``~/git/profile/sources/*`` should be sourced.
+
+The following directories should be set in nsa.
+
+`~/dadawarehouse.thomaslevine.com`
+    gets served publically over HTTP.
+`~/git.thomaslevine.com` gets served publically over HTTP.
+    It is also the home directory of another user with git ssh access,
+    and it should not be used for anything other than my special git thingy.
+
+Both of these directories should be backed up to Prudence.

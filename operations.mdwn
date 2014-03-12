@@ -1,0 +1,11 @@
+## Categories
+* Home: I run private things like email.
+* NSA: I run things that are mostly public; the credentials are the only private things.
+* Remotes for git:
+  * NSA (git.thomaslevine.com)
+  * GitHub: Redundant git hosting
+* Remotes for big files
+  * NSA (dadawarehouse.thomaslevine.com)
+  * rsync.net: Backups for private things like email
+* Clients (phone, laptop, desktop, &c.)
+
