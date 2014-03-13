@@ -6,6 +6,7 @@
 # Read more at http://wiki.thomaslevine.com/calendar/
 T+ Public Calendar
 20140320 1700 GMT okfn labs hangout
+20140320 BrightTalk round taple thingy
 20140320 7 pm ET at Palantir, Talk about statistics through doodles at Paul Dix's meetup. http://www.meetup.com/NYC-Machine-Learning/events/170546362/
 20140327 Hacks/Hackers DC
 20140402 5:30 pm Talk at Data Wranglers DC, GWU Funger Hall, 2201 G Street Northwest, Washington, DC. Robert's phone: 507-441-8023
