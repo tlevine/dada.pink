@@ -5,18 +5,16 @@
 #
 # Read more at http://wiki.thomaslevine.com/calendar/
 T+ Public Calendar
-DAILY:20140721:20140727 EuroPython
-DAILY:20140715:20140718 OKFestival in Berlin http://2014.okfestival.org/
+20140320 1700 GMT okfn labs hangout
+20140320 7 pm ET at Palantir, Talk about statistics through doodles at Paul Dix's meetup. http://www.meetup.com/NYC-Machine-Learning/events/170546362/
+20140327 Hacks/Hackers DC
+20140402 5:30 pm Talk at Data Wranglers DC, GWU Funger Hall, 2201 G Street Northwest, Washington, DC. Robert's phone: 507-441-8023
 DAILY:20140530:20140531 Transparency Camp
 DAILY:20140404:20140406 Haskell Hackathon in New York http://www.haskell.org/pipermail/haskell-cafe/2014-January/112362.html
-20140402 5:30 pm Talk at Data Wranglers DC, GWU Funger Hall, 2201 G Street Northwest, Washington, DC. Robert's phone: 507-441-8023
-DAILY:20140728:20140802 YRS Festival of Code, University of Plymouth
-DAILY:20140627:20140629 Exceptionally Hard and Soft Meeting, Hamburg, http://ehsm.eu
+DAILY:20140627:20140629 Maybe: Exceptionally Hard and Soft Meeting, Hamburg, http://ehsm.eu
 20140702 Software Engineering methods in Spreadsheets, http://spreadsheetlab.org/2013/12/19/first-workshop-on-software-engineering-methods-in-spreadsheets/
 DAILY:20140703:20140704 EuSpRIG Conference, Delft, http://spreadsheetlab.org/2013/11/19/annual-eusprig-meeting-will-take-place-in-delft-july-3-and-4/
-20140327 Hacks/Hackers DC
-20140320 1700 GMT okfn labs hangout
-20140712:20140720 Summer Esperanto Studies (SES) in Nitra, Slovakia (12-20th of July 2014) - http://ses.ikso.net/2014/sk/
-20140817:20140825 Summer Esperanto Studies (SES) near Moscow, Russia (17-25th of August 2014) - http://ses.ikso.net/2014/ru/
-
-20140320 7 pm ET at Palantir, Talk about statistics through doodles at Paul Dix's meetup. http://www.meetup.com/NYC-Machine-Learning/events/170546362/
+DAILY:20140715:20140718 OKFestival in Berlin http://2014.okfestival.org/
+DAILY:20140721:20140727 EuroPython
+DAILY:20140728:20140802 YRS Festival of Code, University of Plymouth
+DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russia (17-25th of August 2014) - http://ses.ikso.net/2014/ru/
