@@ -10,7 +10,6 @@ TD To do
 20140314 Redo Socrata updating but with the correct date field
 20140320 Set up backups and stuff.
 20140320 Host .medial_temporal_lobe on references.thomaslevine.com
-20140313 Email Ardian about FLOSSK
 20140313 Get rid of SmugMug and all these tiny VPSs
 TODO Submit to Open Knowledge Festival, due March 16
 20140318 Edit my imapfilter configuration to hide mails sent to two of my email addresses.
