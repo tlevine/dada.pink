@@ -1,0 +1,60 @@
+## First Name
+Thomas
+
+## Last Name
+Levine
+
+## E-mail Address
+\_@thomaslevine.com
+
+## Organization
+csv soundsystetm
+
+## Twitter account
+thomaslevine
+
+## Blog/Personal Website
+http://thomaslevine.com
+
+## Stream
+Tools
+
+## Session Title
+Making a spreadsheet about spreadsheets:
+What can we do when we look at thousands of spreadsheets at once?
+
+## Session description
+Now that we have tons of open data floating around, it's quite easy
+to acquire many thousands of spreadsheets that you have never seen
+before. What can we do with this?
+
+
+## Session motivation
+There are too many cool data to look at, and I want to look at them
+all. But I also want to sleep. So I get computers to look at the data
+for me. I've been studying this topic for
+[about a year](http://thomaslevine.com/open-data) and would like to
+get people thinking about the possibilities, get ideas from people,
+and meet people who have similar interests.
+
+## Session outcomes
+Likely topics of brainstorming are
+
+* How can we quantify how good or bad a spreadsheet is?
+* How can we look for spreadsheets that are relevant to a particular thing?
+* How can we deal with bad metadata? Can we infer metadata from similar
+    spreadsheets?
+* The way we publish data might affect how we use them. Can we test
+    for effects of data publishing methods by looking at how thousands
+    of differently published datasets are used?
+
+Each group will write up the main points that they came up in the
+brainstorming, and I'll photograph any diagrams that get made.
+I'll distribute these recordings freely.
+
+## How would the session be structured?
+The session will start with a three-minute overview of Tom's work on
+this topic to get people thinking, then we'll break into groups of
+four to six people each, and groups will brainstorm things that we
+can do by looking at lots of spreadsheets at once.
+
