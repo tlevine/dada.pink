@@ -54,13 +54,21 @@ I'll distribute these recordings freely.
 
 ## How would the session be structured?
 The session will start with a three-minute overview of Tom's work on
-this topic to get people thinking, then we'll break into groups of
-four to six people each, and groups will brainstorm things that we
-can do by looking at lots of spreadsheets at once. At the end of the
-session, each group will have two minutes to present whatever it
-came up with.
+this topic to get people thinking.
 
-## How does your session cont...
+Next, we'll break into groups of four to six people each, and groups
+will brainstorm things that we can do by looking at lots of
+spreadsheets at once. The duration of this section is flexible, but
+25 minutes sounds good.
+
+At the end of the session, each group will have two minutes to present
+whatever it came up with.
+
+In total, the session will last 35 minutes.
+
+## How does your session contribute to OKFestival’s narrative and aims?
+In my session, we'll brainstorm ways of unlocking the knowledge embedded
+in hoards of disparate spreadsheets.
 
 ## Is this session app...
 Yes
@@ -69,4 +77,4 @@ Yes
 English is great. French is also okay.
 
 ## Will your session involve phys...
-No
+Physical movement will neither be required nor restricted.
