@@ -15,3 +15,4 @@ TD To do
 20140330 Switch Prometeus subscription to annual if I like it.
 20140330 Look for cool git hooks.
 20140325 Write a thing so that the only X thing I need to run is Firefox (no window manager)
+20140409 Apply to PyData Berlin http://pydata.org/berlin2014/cfp/

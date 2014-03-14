@@ -23,3 +23,4 @@ DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russi
 20140320 1645 GMT, 11:45 am ET, 8:45 am PT, BrightTalk round table thingy
 DAILY:20140901:20140930 Software Freedom Kosova is probably somewhere in here.
 20140314 Noon ET call with Ian
+DAILY:20140725:20140727 PyData Berlin http://pydata.org/berlin2014/cfp/
