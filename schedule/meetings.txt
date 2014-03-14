@@ -24,3 +24,4 @@ DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russi
 DAILY:20140901:20140930 Software Freedom Kosova is probably somewhere in here.
 20140314 Noon ET call with Ian
 DAILY:20140725:20140727 PyData Berlin http://pydata.org/berlin2014/cfp/
+20140327 https://www.eventbrite.com/event/10753292387 Energy Education Data Jam
