@@ -15,3 +15,4 @@ TD To do
 20140325 Write a thing so that the only X thing I need to run is Firefox (no window manager)
 20140409 Apply to PyData Berlin http://pydata.org/berlin2014/cfp/
 20140313 Get rid of SmugMug and all these tiny VPSs
+20140317 Write about making a graph of unique keys
