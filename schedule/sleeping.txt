@@ -4,3 +4,7 @@ ZZ Sleeping arrangements
 20140314:20140318 Chamounix Mansion hostel
 20140318:20140323 New York with a friend?
 DAILY:20140323:20140630 Sublet in Philadelphia
+DAILY:20140702:20140705 Delft
+DAILY:20140715:20140727 Berlin
+DAILY:20140728:20140802 Plymouth
+DAILY:20140803:20140807 Liverpool?
