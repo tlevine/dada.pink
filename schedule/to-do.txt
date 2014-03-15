@@ -1,6 +1,5 @@
 # Read more at http://wiki.thomaslevine.com/calendar/
 TD To do
-20140318 Order a SSD for my Acer?
 20140315 Rewrite craigsgenerator in a beautiful, functional way, and explain how that works.
 20140313 Apply to TU Delft
 20140313 Tell Chris Metcalf what I want
@@ -10,9 +9,9 @@ TD To do
 20140314 Redo Socrata updating but with the correct date field
 20140320 Set up backups and stuff.
 20140320 Host .medial_temporal_lobe on references.thomaslevine.com
-20140313 Get rid of SmugMug and all these tiny VPSs
 20140318 Edit my imapfilter configuration to hide mails sent to two of my email addresses.
 20140330 Switch Prometeus subscription to annual if I like it.
 20140330 Look for cool git hooks.
 20140325 Write a thing so that the only X thing I need to run is Firefox (no window manager)
 20140409 Apply to PyData Berlin http://pydata.org/berlin2014/cfp/
+20140313 Get rid of SmugMug and all these tiny VPSs
