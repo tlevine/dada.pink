@@ -16,7 +16,10 @@ For Tom
     How to do various other things
 
 `./public-backups/ <public-backups>`_
-    How to make backups of publically released data.
+    How to make backups of publically released data
+
+`./filesystem/ <filesystem>`_
+    How to organize filesystems
 
 For Others
 -------------
