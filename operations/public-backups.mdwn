@@ -15,4 +15,4 @@ dadawarehouse
 
 ## Private data
 Read about backups of private data in
-[/operations/security](/operations/security/).
+[/operations/permissions](/operations/permissions/).
