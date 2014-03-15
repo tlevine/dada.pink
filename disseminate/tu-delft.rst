@@ -5,16 +5,17 @@ Application Documents
 
 What hard copy documents do I need to send in?
 
+
 1)
+------
 A. A certified copy* of your original academic degree (or degrees) in the original language.
-Is the document in a language other than English, French, German or Dutch? Then you must also provide a certified translation of your academic degree (or degrees) in one of these 4 languages.
-Or in case you did not yet graduate:
-B. A statement from your university confirming that you are in the last year of your undergraduate studies.
 
 2)
-A certified copy* of your transcript (or transcripts) in the original language. Is the document above in a language other than English, French, German or Dutch? Then you must also provide a certified translation of your academic transcript (or transcripts) in one of these 4 languages. E.g. if you are in the last year of your undergraduate studies you need to provide a certified copy of your provisional transcript as well as a certified translation of the transcript if it is not in English, French, German or Dutch.
+------
+A certified copy* of your transcript (or transcripts) in the original language.
 
 3)
+-----
 An original report providing:
 
     The official TOEFL certificate (the TOEFL organisation can send the score directly to TU Delft if you provide them with the university code: 0031. For 'school type' select 'graduate schools’ and for 'department' select ‘any other department not listed')
@@ -31,7 +32,7 @@ We advise you to send  us a photocopy of your English-language certificate or a 
  
 
 4)
-
+-----
     A clear and relevant essay in English (1,000 – 1,500 words) addressing the following:
 
         Your motivation for taking the MSc programme of your choice.
