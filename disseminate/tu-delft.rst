@@ -16,19 +16,7 @@ A certified copy* of your transcript (or transcripts) in the original language.
 
 3)
 -----
-An original report providing:
-
-    The official TOEFL certificate (the TOEFL organisation can send the score directly to TU Delft if you provide them with the university code: 0031. For 'school type' select 'graduate schools’ and for 'department' select ‘any other department not listed')
-    Or the official IELTS certificate (academic version)
-    Or the University of Cambridge 'Certificate of Proficiency in English', or the University of Cambridge 'Certificate in Advanced English'. 
-
-- Certificates older than two years are not accepted.
-- For Non EU/EFTA nationals: the English language certificate must be received before the application deadline of 1 April.
-- For EU/EFTA nationals: the English language certificate may be submitted until 1 July provided that all other required hard copy documents are received before the application deadline of 1 April.
-- Nationals of the People’s Republic of China only: A Nuffic certificate as proof of your English language proficiency. In order to obtain the Nuffic certificate you will need to take the IELTS or TOEFL internet-based test.
-
-We advise you to send  us a photocopy of your English-language certificate or a screen print with your test results (from the test organisation’s website) which we will use to process your application. You need to bring the original certificate or a certified copy with you when coming to Delft. Please also bring this document if you have instructed the test organisation to send a certificate to TU Delft. 
-
+"[N]ationals from the USA, U.K., Ireland, Australia, New Zealand and Canada are exempt from the proof of English language proficiency requirement."
  
 
 4)
@@ -43,6 +31,7 @@ We advise you to send  us a photocopy of your English-language certificate or a 
      
 
 5)
+----
 Two reference letters in English, French, German or Dutch:
 
     one from a professor or an assistant professor from the faculty from which you graduated.
