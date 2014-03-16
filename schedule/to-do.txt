@@ -16,3 +16,5 @@ TD To do
 20140409 Apply to PyData Berlin http://pydata.org/berlin2014/cfp/
 20140313 Get rid of SmugMug and all these tiny VPSs
 20140317 Write about making a graph of unique keys
+20140324 Book travel for the next couple months
+20140401 Plan sleeping for July on.
