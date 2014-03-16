@@ -10,9 +10,13 @@ What hard copy documents do I need to send in?
 ------
 A. A certified copy* of your original academic degree (or degrees) in the original language.
 
+http://registrar.sas.cornell.edu/Alumni/diplomas.html
+
 2)
 ------
 A certified copy* of your transcript (or transcripts) in the original language.
+
+http://www.transcript.cornell.edu/#a4
 
 3)
 -----
