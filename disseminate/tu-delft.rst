@@ -8,8 +8,8 @@ Specifically, how soon can I get the certified diploma and transcript?
 If I think I can get it in in time, I'll submit this year; if not, I'll submit
 next year.
 
-Exactly how does the process work?
------------------------------------
+Exactly how does the process for processing by apostille work?
+-----------------------------------------------------------------------
 I want to make sure I understand the process for the diploma and transcript.
 Can I do the following?
 
@@ -26,6 +26,18 @@ Can I do the following?
 | Cornell University
 | Ithaca, NY 14853
 | (607) 255-4232 
+
+What documents will be appropriate for Delft?
+----------------------------------------------
+As Christine pointed out, Delft counts a document as being certified if it is stamped by
+"the educational institution from where you obtained the degree(s)". This is nice to know!
+
+I would like to know from Delft whether I can provide a photocopy of the certified document
+(my diploma, specifically) or I must provide the original. I can provide either of these in
+time, but my parents would probably throw a fit about me sending the original.
+
+I would like to know from Cornell whether the transcript that I ordered through Student Center
+is stamped by the university.
 
 Application Documents
 ========================
