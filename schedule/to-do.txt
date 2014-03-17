@@ -1,20 +1,18 @@
 # Read more at http://wiki.thomaslevine.com/calendar/
 TD To do
-20140315 Rewrite craigsgenerator in a beautiful, functional way, and explain how that works.
-20140313 Apply to TU Delft
-20140313 Tell Chris Metcalf what I want
-20140313 Look at the datahub.io stuff
+20140330 Rewrite craigsgenerator in a beautiful, functional way, and explain how that works.
+20140318 Get diploma and transcript from home.
+20140324 Mail things priority to TU Delft.
+20140323 Tell Chris Metcalf what I want
+20140323 Look at the datahub.io stuff
 20140515 EHSM proposals are due.
 20140320 https://github.com/csvsoundsystem/FOMC_Tacos
-20140314 Redo Socrata updating but with the correct date field
-20140320 Set up backups and stuff.
-20140320 Host .medial_temporal_lobe on references.thomaslevine.com
-20140318 Edit my imapfilter configuration to hide mails sent to two of my email addresses.
+20140325 Redo Socrata updating but with the correct date field
+20140401 Host .medial_temporal_lobe on references.thomaslevine.com
 20140330 Switch Prometeus subscription to annual if I like it.
 20140330 Look for cool git hooks.
-20140325 Write a thing so that the only X thing I need to run is Firefox (no window manager)
 20140409 Apply to PyData Berlin http://pydata.org/berlin2014/cfp/
-20140313 Get rid of SmugMug and all these tiny VPSs
-20140317 Write about making a graph of unique keys
+20140413 Get rid of SmugMug and all these tiny VPSs
+20140318 Write about making a graph of unique keys
 20140324 Book travel for the next couple months
 20140401 Plan sleeping for July on.

@@ -21,6 +21,6 @@ DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russi
 20140315 1 pm OSM map-a-thon at 3720 N Broad St, Philadelphia
 20140320 2200 GMT, 7 pm ET at Palantir, Talk about statistics through doodles at Paul Dix's meetup. http://www.meetup.com/NYC-Machine-Learning/events/170546362/
 20140320 1645 GMT, 11:45 am ET, 8:45 am PT, BrightTalk round table thingy
-DAILY:20140901:20140930 Software Freedom Kosova is probably somewhere in here.
+DAILY:20141001:20141030 Software Freedom Kosova is somewhere in here.
 DAILY:20140725:20140727 PyData Berlin http://pydata.org/berlin2014/cfp/
 20140327 9:00 AM to 4:00 PM (EDT) https://www.eventbrite.com/event/10753292387 Energy Education Data Jam, Johns Hopkins University - Washington DC Center, 1717 Massachusetts Avenue Northwest
