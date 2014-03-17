@@ -91,7 +91,8 @@ http://thomaslevine.com/!/cv
 
 7)
 ^^^^^^^^
-A photocopy of the page (or pages) of your passport that give your name, date of birth, place of birth and the passport expiration date.
+
+    A photocopy of the page (or pages) of your passport that give your name, date of birth, place of birth and the passport expiration date.
 
 http://smug.thomaslevine.com/photos/i-KF6hx27/0/L/i-KF6hx27-L.jpg
 
