@@ -1,3 +1,11 @@
+How to
+===========
+As explained `here <http://www.tudelft.nl/en/study/studying-at-the-tu-delft/admission-and-application/msc-with-international-degree/application-and-procedure/>`_, do the following.
+
+1. Fill out the `online application <https://phobos.tue.nl/tmo-cgi/tmodag/index_tud.opl>`_.
+2. Pay the application fee.
+3. Submit the paper documents.
+
 What Tom is wondering
 =======================
 
