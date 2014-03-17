@@ -109,11 +109,11 @@ I don't need this.
 
 Notes
 --------
-Please note that the application documents become the property of TU Delft: we will not return them to students. Make sure you do not use any staples. 
+    Please note that the application documents become the property of TU Delft: we will not return them to students. Make sure you do not use any staples. 
 Direct to:
 
-    Science Centre Delft
-    TU Delft Library
-    Contact and accessibility
-    International Staff and Students
+    | Science Centre Delft
+    | TU Delft Library
+    | Contact and accessibility
+    | International Staff and Students
 
