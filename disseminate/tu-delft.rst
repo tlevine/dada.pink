@@ -1,16 +1,31 @@
 What Tom is wondering
 =======================
+
+Can I submit in time?
+-----------------------
 The Delft application is due on April 1. Do I have enough time to submit it?
 Specifically, how soon can I get the certified diploma and transcript?
 If I think I can get it in in time, I'll submit this year; if not, I'll submit
 next year.
 
-Also, I want to make sure I understand the process for the diploma and transcript.
+Exactly how does the process work?
+-----------------------------------
+I want to make sure I understand the process for the diploma and transcript.
 Can I do the following?
 
 1. Photocopy my diploma
 2. Order and receive a paper copy of my transcript
-3. 
+3. Compose a coversheet requesting that the above two documents be processed for apostille, including my full name, date of birth, current mailing address including country, phone number, email address, the country requiring the apostille (Netherlands) and my signature.
+4. Write a cheque for $6.00 to the Tompkins County Clerk
+5. Write a cheque for $20.00 to the New York State Department of State
+6. Compose an envelope addressed to my house with a stamp on it.
+7. Mail the above six documents to the following address.
+
+| Office of the University Registrar
+| B07 Day Hall
+| Cornell University
+| Ithaca, NY 14853
+| (607) 255-4232 
 
 Application Documents
 ========================
@@ -20,7 +35,7 @@ Here's the appropriate TU Delft master's application.
 http://www.tudelft.nl/en/study/studying-at-the-tu-delft/admission-and-application/msc-with-international-degree/application-and-procedure/application-documents/
 
 Hard copy documents
---------
+----------------------
 
 What hard copy documents do I need to send in?
 
