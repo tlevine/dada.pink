@@ -24,4 +24,5 @@ DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russi
 DAILY:20141001:20141030 Software Freedom Kosova is somewhere in here.
 DAILY:20140725:20140727 PyData Berlin http://pydata.org/berlin2014/cfp/
 20140327 9:00 AM to 4:00 PM (EDT) https://www.eventbrite.com/event/10753292387 Energy Education Data Jam, Johns Hopkins University - Washington DC Center, 1717 Massachusetts Avenue Northwest
-20140331 http://www.meetup.com/DataKind-NYC/events/169590012/
+20140331 6:30 PM to 8:30 PM, http://www.meetup.com/DataKind-NYC/events/169590012/, Pivotal Labs, 625 Avenue of Americas, 2nd Floor
+20140401 Talk at Aaron's data science class.
