@@ -17,8 +17,7 @@ DAILY:20140715:20140718 OKFestival in Berlin http://2014.okfestival.org/
 DAILY:20140721:20140727 EuroPython
 DAILY:20140728:20140802 YRS Festival of Code, University of Plymouth
 DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russia (17-25th of August 2014) - http://ses.ikso.net/2014/ru/
-20140319 6:30 pm, New York Open Statistical Programming, 550 1st Avenue
-20140315 1 pm OSM map-a-thon at 3720 N Broad St, Philadelphia
+20140319 7 pm, dinner with parents and Grandma
 20140320 2200 GMT, 7 pm ET at Palantir, Talk about statistics through doodles at Paul Dix's meetup. http://www.meetup.com/NYC-Machine-Learning/events/170546362/
 20140320 1645 GMT, 11:45 am ET, 8:45 am PT, BrightTalk round table thingy
 DAILY:20141001:20141030 Software Freedom Kosova is somewhere in here.
