@@ -1,7 +1,7 @@
 # Read more at http://wiki.thomaslevine.com/calendar/
 TD To do
 20140330 Rewrite craigsgenerator in a beautiful, functional way, and explain how that works.
-20140318 Get diploma and transcript from home.
+20140319 Get diploma and transcript from home.
 20140324 Mail things priority to TU Delft.
 20140323 Tell Chris Metcalf what I want
 20140323 Look at the datahub.io stuff
