@@ -26,3 +26,4 @@ DAILY:20140725:20140727 PyData Berlin http://pydata.org/berlin2014/cfp/
 DAILY:20140404:20140412 Philly Tech Week (http://2014.phillytechweek.com/events)
 20140402 5:30 pm Talk at Data Wranglers DC, GWU Funger Hall, 2201 G Street Northwest, Washington, DC. Robert's phone: 507-441-8023, http://www.meetup.com/Data-Wranglers-DC/events/160592492/
 20140322 Noon, meet Chris
+20140319 8:30 am PT, 11:30 am ET Data science roundtable check-in 415 429 3843 x5062
