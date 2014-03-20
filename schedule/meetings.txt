@@ -16,9 +16,7 @@ DAILY:20140715:20140718 OKFestival in Berlin http://2014.okfestival.org/
 DAILY:20140721:20140727 EuroPython
 DAILY:20140728:20140802 YRS Festival of Code, University of Plymouth
 DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russia (17-25th of August 2014) - http://ses.ikso.net/2014/ru/
-20140319 7 pm, dinner with parents and Grandma
 20140320 2200 GMT, 7 pm ET at Palantir, Talk about statistics through doodles at Paul Dix's meetup. http://www.meetup.com/NYC-Machine-Learning/events/170546362/
-20140320 1645 GMT, 11:45 am ET, 8:45 am PT, BrightTalk round table thingy
 DAILY:20141001:20141030 Software Freedom Kosova is somewhere in here.
 DAILY:20140725:20140727 PyData Berlin http://pydata.org/berlin2014/cfp/
 20140327 9:00 AM to 4:00 PM (EDT) https://www.eventbrite.com/event/10753292387 Energy Education Data Jam, Johns Hopkins University - Washington DC Center, 1717 Massachusetts Avenue Northwest
@@ -26,6 +24,5 @@ DAILY:20140725:20140727 PyData Berlin http://pydata.org/berlin2014/cfp/
 DAILY:20140404:20140412 Philly Tech Week (http://2014.phillytechweek.com/events)
 20140402 5:30 pm Talk at Data Wranglers DC, GWU Funger Hall, 2201 G Street Northwest, Washington, DC. Robert's phone: 507-441-8023, http://www.meetup.com/Data-Wranglers-DC/events/160592492/
 20140322 Noon, meet Chris
-20140319 8:30 am PT, 11:30 am ET Data science roundtable check-in 415 429 3843 x5062
-20140319 Talk to Peter at DataKind.
 20140321 Talk to Enigma about Enigma and stuff.
+20140324 Send Francis stuff about the reference letter.
