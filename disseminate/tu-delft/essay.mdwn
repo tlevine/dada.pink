@@ -28,11 +28,15 @@ pages of words back. What if we could search for spreadsheets by typing spreadsh
 into a search bar and getting spreadsheets back? To use my hypothetical thesis
 project, people would go to a website and upload a spreadsheet. The uploaded
 spreadsheet would be compared against one million spreadsheets that have previously
-been found on the internet. The novel part of this project is the manner of comparison;
-in addition to using conventional search engine approaches, this website will
-look at the structure, schema, and metadata of spreadsheets and will identify
-relevant spreadsheets based on the statistical properties of the uploaded spreadsheet.
-It would also allow for filtering of search results based on these various properties.
+been found on the internet. After uploading a spreadsheet, a person will see
+a page with links to relevant spreadsheets, previews of these spreadsheets,
+and with brief notes as to why each spreadsheet was deemed relevant.
+
+The novel part of this project is the manner of comparison; in addition to using
+conventional search engine approaches, this website will look at the structure, schema,
+and metadata of spreadsheets. It will identify relevant spreadsheets based on the
+statistical properties of the uploaded spreadsheet. It would also allow for filtering
+of search results based on these various properties.
 
 Here are some sorts of unusual search strategies and filtering tool would include.
 
