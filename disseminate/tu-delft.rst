@@ -92,13 +92,16 @@ http://www.transcript.cornell.edu/#a4
 
 In my present research, I am obtaining hundreds of thousands of spreadsheets
 and exploriing what possibilities emerge when I look at all of them.
+I recently met Felienne H, who is a professor in the department (?).
+She is the only other person I know of who is doing the same sort of research....
 
 tens of thousands of spreadsheets at once
 in order to develop software tools to unlock the value in disparate data....
 Specifically: Seraching, data quality, metadata.
 Also, the effect of data cataloging software on the usage of data.
 
-Felienne
+Bachelor's programme?
+I 
 
 5)
 ^^^^^^^^
