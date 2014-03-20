@@ -12,41 +12,6 @@ What Tom is wondering
 Can I submit in time?
 -----------------------
 The Delft application is due on April 1. Do I have enough time to submit it?
-Specifically, how soon can I get the certified diploma and transcript?
-If I think I can get it in in time, I'll submit this year; if not, I'll submit
-next year.
-
-Exactly how does the process for processing by apostille work?
------------------------------------------------------------------------
-I want to make sure I understand the process for the diploma and transcript.
-Can I do the following?
-
-1. Photocopy my diploma
-2. Order and receive a paper copy of my transcript
-3. Compose a coversheet requesting that the above two documents be processed for apostille, including my full name, date of birth, current mailing address including country, phone number, email address, the country requiring the apostille (Netherlands) and my signature.
-4. Write a cheque for $6.00 to the Tompkins County Clerk
-5. Write a cheque for $20.00 to the New York State Department of State
-6. Compose an envelope addressed to my house with a stamp on it.
-7. Mail the above six documents to the following address.
-
-| Office of the University Registrar
-| B07 Day Hall
-| Cornell University
-| Ithaca, NY 14853
-| (607) 255-4232 
-
-What documents will be appropriate for Delft?
-----------------------------------------------
-As Christine pointed out, Delft counts a document as being certified if it is stamped by
-"the educational institution from where you obtained the degree(s)". This is nice to know!
-
-I would like to know from Delft whether I can provide a photocopy of the certified document
-(my diploma, specifically) or I must provide the original. I can provide either of these in
-time, but my parents would probably throw a fit about me sending the original.
-
-I would like to know from Cornell whether the transcript that I ordered through Student Center
-is stamped by the university.
-
 Application Documents
 ========================
 
@@ -64,14 +29,14 @@ What hard copy documents do I need to send in?
 
     A. A certified copy* of your original academic degree (or degrees) in the original language.
 
-http://registrar.sas.cornell.edu/Alumni/diplomas.html
+I have had my father `scan my diploma <Diploma.pdf>`_. I will print it out and enclose it.
 
 2)
 ^^^^^^^^
 
     A certified copy* of your transcript (or transcripts) in the original language.
 
-http://www.transcript.cornell.edu/#a4
+I have requested a transcript (http://www.transcript.cornell.edu/#a4) and will include the original transcript.
 
 3)
 ^^^^^^^^
