@@ -90,6 +90,16 @@ http://www.transcript.cornell.edu/#a4
     A brief summary (maximum 250 words) of the thesis work or the final assignment (to be) done for your Bachelor’s programme, including information on the credits earned, grade, and full workload.
      
 
+In my present research, I am obtaining hundreds of thousands of spreadsheets
+and exploriing what possibilities emerge when I look at all of them.
+
+tens of thousands of spreadsheets at once
+in order to develop software tools to unlock the value in disparate data....
+Specifically: Seraching, data quality, metadata.
+Also, the effect of data cataloging software on the usage of data.
+
+Felienne
+
 5)
 ^^^^^^^^
 
