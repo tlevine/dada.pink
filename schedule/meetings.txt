@@ -12,6 +12,8 @@ DAILY:20140404:20140406 Haskell Hackathon in New York http://www.haskell.org/pip
 DAILY:20140627:20140629 Maybe: Exceptionally Hard and Soft Meeting, Hamburg, http://ehsm.eu
 20140702 Software Engineering methods in Spreadsheets, http://spreadsheetlab.org/2013/12/19/first-workshop-on-software-engineering-methods-in-spreadsheets/
 DAILY:20140703:20140704 EuSpRIG Conference, Delft, http://spreadsheetlab.org/2013/11/19/annual-eusprig-meeting-will-take-place-in-delft-july-3-and-4/
+DAILY:20140710:20140725 Hacks/Hackers Berlin is having something in here.
+20140714 csv conf in Berlin I think
 DAILY:20140715:20140718 OKFestival in Berlin http://2014.okfestival.org/
 DAILY:20140721:20140727 EuroPython
 DAILY:20140728:20140802 YRS Festival of Code, University of Plymouth
