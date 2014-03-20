@@ -1,0 +1,34 @@
+
+
+    Your motivation for taking the MSc programme of your choice.
+    Why you are interested in TU Delft and what you expect to find here
+    If there are optional specialisations in the MSc programme of your choice: which specialisation(s) interest you most, and why?
+    Describe your hypothetical thesis project; what kind of a project would you prefer if you were free to make a choice? Also briefly explain what you would want to explore in your thesis project. Provide a maximum of three hypothetical thesis topics and elaborate on your particular interests in them.
+    A brief summary (maximum 250 words) of the thesis work or the final assignment (to be) done for your Bachelor’s programme, including information on the credits earned, grade, and full workload.
+     
+
+## My motivation and interest in TU Delft
+In my present research, I am obtaining hundreds of thousands of spreadsheets
+and exploriing what possibilities emerge when I look at all of them.
+I recently met Felienne H, who is a professor in the department (?).
+She is the only other person I know of who is doing the same sort of research.
+We had a wonderful conversation at a recent conference, and I would like to
+continue my research under her.
+
+## My hypothetical thesis project
+My thesis project for the MSc would be an extension of my present research.
+The basic premise of my research has been to explore what is possible when
+we look at many spreadsheets at once, but I've been packaging my present
+research into practical software tools that assist in the management and
+sharing of disparate datasets. I describe below one 
+
+come up with three practical ways of packaging my research
+
+## Final assignment for my Bachelor's program
+tens of thousands of spreadsheets at once
+in order to develop software tools to unlock the value in disparate data....
+Specifically: Seraching, data quality, metadata.
+Also, the effect of data cataloging software on the usage of data.
+
+
+Bachelor's programme?
