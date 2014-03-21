@@ -24,7 +24,7 @@ DAILY:20140725:20140727 PyData Berlin http://pydata.org/berlin2014/cfp/
 20140327 9:00 AM to 4:00 PM (EDT) https://www.eventbrite.com/event/10753292387 Energy Education Data Jam, Johns Hopkins University - Washington DC Center, 1717 Massachusetts Avenue Northwest
 20140331 6:30 PM to 8:30 PM, http://www.meetup.com/DataKind-NYC/events/169590012/, Pivotal Labs, 625 Avenue of Americas, 2nd Floor
 DAILY:20140404:20140412 Philly Tech Week (http://2014.phillytechweek.com/events)
-20140402 5:30 pm Talk at Data Wranglers DC, GWU Funger Hall, 2201 G Street Northwest, Washington, DC. Robert's phone: 507-441-8023, http://www.meetup.com/Data-Wranglers-DC/events/160592492/
 20140322 Noon, meet Chris
 20140321 Talk to Enigma about Enigma and stuff.
 20140324 Send Francis stuff about the reference letter.
+20140402 6 pm Talk at Data Wranglers DC, GWU Funger Hall, 2201 G Street Northwest, Washington, DC. Robert's phone: 507-441-8023, http://www.meetup.com/Data-Wranglers-DC/events/160592492/
