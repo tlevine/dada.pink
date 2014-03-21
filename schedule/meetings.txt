@@ -31,3 +31,4 @@ DAILY:20140404:20140412 Philly Tech Week (http://2014.phillytechweek.com/events)
 20140321 7 pm Berl’s Poetry Shop, 126A Front Ave, Brooklyn http://www.uglyducklingpresse.org/event/lighght-reading-with-ainsley-morse-bela-shayevich-brian-droitcour-david-b-goldstein/
 20140326 3 pm Talk on the phone with Enigma
 20140331 Lunch with Enigma
+DAILY:21040412:21040413 State of the map
