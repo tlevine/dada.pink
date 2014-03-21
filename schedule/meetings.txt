@@ -18,17 +18,16 @@ DAILY:20140715:20140718 OKFestival in Berlin http://2014.okfestival.org/
 DAILY:20140721:20140727 EuroPython
 DAILY:20140728:20140802 YRS Festival of Code, University of Plymouth
 DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russia (17-25th of August 2014) - http://ses.ikso.net/2014/ru/
-20140320 2200 GMT, 7 pm ET at Palantir, Talk about statistics through doodles at Paul Dix's meetup. http://www.meetup.com/NYC-Machine-Learning/events/170546362/
 DAILY:20141001:20141030 Software Freedom Kosova is somewhere in here.
 DAILY:20140725:20140727 PyData Berlin http://pydata.org/berlin2014/cfp/
 20140327 9:00 AM to 4:00 PM (EDT) https://www.eventbrite.com/event/10753292387 Energy Education Data Jam, Johns Hopkins University - Washington DC Center, 1717 Massachusetts Avenue Northwest
 20140331 6:30 PM to 8:30 PM, http://www.meetup.com/DataKind-NYC/events/169590012/, Pivotal Labs, 625 Avenue of Americas, 2nd Floor
 DAILY:20140404:20140412 Philly Tech Week (http://2014.phillytechweek.com/events)
 20140322 Noon, meet Chris
-20140321 Talk to Enigma about Enigma and stuff.
+20140321 1 pm Talk to Enigma about Enigma and stuff.
 20140324 Send Francis stuff about the reference letter.
 20140402 6 pm Talk at Data Wranglers DC, GWU Funger Hall, 2201 G Street Northwest, Washington, DC. Robert's phone: 507-441-8023, http://www.meetup.com/Data-Wranglers-DC/events/160592492/
 20140327 Meet Jacqui at 3:30
 20140321 7 pm Berl’s Poetry Shop, 126A Front Ave, Brooklyn http://www.uglyducklingpresse.org/event/lighght-reading-with-ainsley-morse-bela-shayevich-brian-droitcour-david-b-goldstein/
-20140326 Talk on the phone with Enigma
+20140326 3 pm Talk on the phone with Enigma
 20140331 Lunch with Enigma
