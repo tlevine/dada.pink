@@ -64,21 +64,24 @@ I have requested a transcript (http://www.transcript.cornell.edu/#a4) and will i
     Why you are interested in TU Delft and what you expect to find here
     If there are optional specialisations in the MSc programme of your choice: which specialisation(s) interest you most, and why?
     Describe your hypothetical thesis project; what kind of a project would you prefer if you were free to make a choice? Also briefly explain what you would want to explore in your thesis project. Provide a maximum of three hypothetical thesis topics and elaborate on your particular interests in them.
-    A brief summary (maximum 250 words) of the thesis work or the final assignment (to be) done for your Bachelor’s programme, including information on the credits earned, grade, and full workload.
-     
+    A brief summary (maximum 250 words) of the thesis work or the final assignment (to be) done for your Bachelor's programme, including information on the credits earned, grade, and full workload.
 
-In my present research, I am obtaining hundreds of thousands of spreadsheets
-and exploriing what possibilities emerge when I look at all of them.
-I recently met Felienne H, who is a professor in the department (?).
-She is the only other person I know of who is doing the same sort of research....
+I did not write a Bachelor's thesis, and I asked Delft admissions about that.
+They told me a bit more about what I should write in this section of the essay.
 
-tens of thousands of spreadsheets at once
-in order to develop software tools to unlock the value in disparate data....
-Specifically: Seraching, data quality, metadata.
-Also, the effect of data cataloging software on the usage of data.
+    Please explain in your essay your case about the thesis.
+    Instead describe what your research on these [other] projects was about,
+    how you conducted your research, why you have chosen these projects,
+    and what were the conclutions out of these.
 
-Bachelor's programme?
-I 
+I then emailed to check whether I could use my recent open data research.
+I asked whether the topic of this section must be a project associated with
+a university, and this was the response.
+
+    It should be projects that you have done during your final year of
+    your Bachelor studies.
+
+I am writing the essay `here <essay>`_.
 
 5)
 ^^^^^^^^
