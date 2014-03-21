@@ -29,6 +29,18 @@ What hard copy documents do I need to send in?
 
     A. A certified copy* of your original academic degree (or degrees) in the original language.
 
+I emailed the international admissions for further clarification.
+
+    Dear Student,
+
+    Thank you for your email.
+
+    When applying you may provide a photocopy of it.
+    You need to bring the original ones, after getting admitted,
+    when coming to Delft.
+
+    Kind regards,
+
 I have had my father `scan my diploma <Diploma.pdf>`_. I will print it out and enclose it.
 
 2)
