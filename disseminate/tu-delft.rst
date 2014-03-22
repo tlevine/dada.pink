@@ -3,7 +3,7 @@ How to
 As explained `here <http://www.tudelft.nl/en/study/studying-at-the-tu-delft/admission-and-application/msc-with-international-degree/application-and-procedure/>`_, do the following.
 
 1. Fill out the `online application <https://phobos.tue.nl/tmo-cgi/tmodag/index_tud.opl>`_.
-2. Pay the application fee.
+2. Pay the application fee by `credit card <http://www.tudelft.nl/fileadmin/UD/MenC/Support/Internet/TU%20Website/TU%20Delft/Images/Studeren/Studeren_aan_de_TU_Delft/Toelating_en_aanmelding/credit-card-form-aug-2013.pdf>`_ or `bank transfer <http://www.tudelft.nl/en/study/studying-at-the-tu-delft/admission-and-application/msc-with-international-degree/application-and-procedure/bank-transfer/>`_.
 3. Submit the paper documents.
 
 More details on the paper documents are below.
