@@ -77,7 +77,7 @@ a university, and this was the response.
     It should be projects that you have done during your final year of
     your Bachelor studies.
 
-I am writing the essay `here <essay/>`_.
+`Here <./essay/>`_ is the essay.
 
 5)
 ^^^^^^^^
