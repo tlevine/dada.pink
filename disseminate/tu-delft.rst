@@ -6,12 +6,8 @@ As explained `here <http://www.tudelft.nl/en/study/studying-at-the-tu-delft/admi
 2. Pay the application fee.
 3. Submit the paper documents.
 
-What Tom is wondering
-=======================
+More details on the paper documents are below.
 
-Can I submit in time?
------------------------
-The Delft application is due on April 1. Do I have enough time to submit it?
 Application Documents
 ========================
 
@@ -81,7 +77,7 @@ a university, and this was the response.
     It should be projects that you have done during your final year of
     your Bachelor studies.
 
-I am writing the essay `here <essay>`_.
+I am writing the essay `here <essay/>`_.
 
 5)
 ^^^^^^^^
