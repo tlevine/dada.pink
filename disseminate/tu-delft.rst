@@ -123,6 +123,8 @@ I don't need this.
 Notes
 --------
 
+Don't use staples.
+
     Please note that the application documents become the property of TU Delft: we will not return them to students. Make sure you do not use any staples. 
 
 They also say this, and I don't know what it means:
