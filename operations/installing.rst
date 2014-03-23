@@ -21,9 +21,9 @@ Clone the repository with most open SSH configurations. ::
     cd ~/git
     git clone $user@$ip_address:secrets-nsa.git
 
-And symlink the configuration files. ::
+And symlink the ssh config. ::
 
-    ln -s ~/git/secrets-sensitive/.ssh/* ~/.ssh
+    ln -s ~/git/secrets-sensitive/.ssh/config ~/.ssh/config
 
 This configures ssh so you can use alises. Now clone these. ::
 
