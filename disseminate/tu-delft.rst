@@ -37,7 +37,7 @@ I emailed the international admissions for further clarification.
 
     Kind regards,
 
-I have had my father `scan my diploma <Diploma.pdf>`_. I will print it out and enclose it.
+I have had my father `scan my diploma <diploma.pdf>`_. I will print it out and enclose it.
 
 2)
 ^^^^^^^^
