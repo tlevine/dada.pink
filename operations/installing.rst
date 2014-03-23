@@ -48,7 +48,7 @@ you can symlink the dotfiles to the places they belong like so. ::
     for directory in dotfiles secrets-home; do
         for dotfile in git/"$directory"/dotfiles/.[a-z]*; do
             ln -s "$dotfile" $(basename "$dotfile")
-        fi
+        done
     done
 
 Before running the above command, you should remove the symlinks to the
