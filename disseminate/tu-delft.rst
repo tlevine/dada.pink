@@ -90,6 +90,7 @@ a university, and this was the response.
     If you have not yet graduated or do not have work experience, you need to provide two letters from professors or assistant professors from the faculty at which you are studying.
 
 I asked David Feathers and Francis Irving.
+I've written some `specifications <reference-letter>`_ for Francis.
 
 6)
 ^^^^^^^^
