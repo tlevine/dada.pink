@@ -1,7 +1,6 @@
 # Read more at http://wiki.thomaslevine.com/calendar/
 TD To do
 20140330 Rewrite craigsgenerator in a beautiful, functional way, and explain how that works.
-20140319 Get diploma and transcript from home.
 20140324 Mail things priority to TU Delft.
 20140323 Tell Chris Metcalf what I want
 20140323 Look at the datahub.io stuff
@@ -13,13 +12,9 @@ TD To do
 20140409 Apply to PyData Berlin http://pydata.org/berlin2014/cfp/
 20140413 Get rid of SmugMug and all these tiny VPSs
 20140318 Write about making a graph of unique keys
-20140324 Book travel for the next couple months
 20140401 Plan sleeping for July on.
-20140318 Prepare R slides for Thursday
-20140318 Call Cornell and Delft
 20140403 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
 TODO Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
 20140325 Call Dor, and mention my graphy spreadsheets thing.
 TODO Send Enigma FOI requests and the Sunlight data catalog spreadsheet
-TODO Tell Jeroen and Josh that we have a place for nyc.sh
 20140329 Copy IMG_20140129_182258 to thomaslevine.com for the pi pie
