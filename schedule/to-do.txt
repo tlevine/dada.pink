@@ -1,20 +1,19 @@
 # Read more at http://wiki.thomaslevine.com/calendar/
 TD To do
-20140330 Rewrite craigsgenerator in a beautiful, functional way, and explain how that works.
-20140324 Mail things priority to TU Delft.
-20140323 Tell Chris Metcalf what I want
-20140323 Look at the datahub.io stuff
+20140326 Mail things priority to TU Delft.
+20140401 Tell Chris Metcalf what I want
+20140401 Look at the datahub.io stuff
 20140515 EHSM proposals are due.
-20140325 Redo Socrata updating but with the correct date field
-20140401 Host .medial_temporal_lobe on references.thomaslevine.com
+20140405 Redo Socrata updating but with the correct date field
+20140421 Host .medial_temporal_lobe on references.thomaslevine.com
 20140330 Switch Prometeus subscription to annual if I like it.
-20140330 Look for cool git hooks.
+20140430 Look for cool git hooks.
 20140409 Apply to PyData Berlin http://pydata.org/berlin2014/cfp/
 20140413 Get rid of SmugMug and all these tiny VPSs
-20140318 Write about making a graph of unique keys
+20140328 Write about making a graph of unique keys
 20140401 Plan sleeping for July on.
 20140403 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
-TODO Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
-20140325 Call Dor, and mention my graphy spreadsheets thing.
+20140411 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
+20140328 Call Dor, and mention my graphy spreadsheets thing.
 TODO Send Enigma FOI requests and the Sunlight data catalog spreadsheet
 20140329 Copy IMG_20140129_182258 to thomaslevine.com for the pi pie
