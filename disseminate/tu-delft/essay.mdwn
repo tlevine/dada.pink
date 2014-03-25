@@ -8,12 +8,17 @@ I'm supposed to discuss these things in the essay.
 
 The essay follows.
 
-# I want to study how people use about spreadsheets
+# I want to make it easier to work with lots of spreadsheets
 
 ## My motivation and interest in TU Delft
 In my present research, I am obtaining hundreds of thousands of spreadsheets
-and exploriing what possibilities emerge when I look at all of them.
-I recently met Felienne H, who is a professor in the department (?).
+and exploring what possibilities emerge when I look at all of them.
+I have been studying how people share spreadsheets and developing tools
+to assist in their sharing of spreadsheets.
+
+I recently met Felienne Hermans, who is doing similar research as an assistant
+professor in the software technology track of the computer science masters.
+(This is the program to which I am applying).
 She is the only other person I know of who is doing the same sort of research.
 We had a wonderful conversation at a recent conference, and I would like to
 continue my research under her.
