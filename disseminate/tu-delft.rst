@@ -7,6 +7,7 @@ Inquisitive
 
 * Find out how to make sure that someone reads the invitation letter.
 * Find out whether an essay of less than 1,000 words is okay.
+* Ask a mail place about how they work.
 
 Digital
 
