@@ -149,7 +149,7 @@ I've written some `specifications <reference-letter>`_ for Francis.
 
     An extensive résumé (curriculum vitae) written in English.
 
-http://thomaslevine.com/!/cv
+http://thomaslevine.com/!/curriculum-vitae
 
 7)
 ^^^^^^^^
