@@ -15,3 +15,6 @@ Here are some main sections of the site.
 
 `/operations/ </operations/>`_
     How Tom's computer infrastructure works.
+
+Things go in `/t/ </t/>`_ if I haven't figured
+out where else to put them.
