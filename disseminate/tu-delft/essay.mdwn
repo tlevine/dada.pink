@@ -62,12 +62,12 @@ This project might seem overly grand, but I believe it to be quite doable becaus
 I have already developed prototypes of the various components of the system.
 
 ## Final assignment for my Bachelor's program
-While I was in my second year of university, a friend remarked that people
-"hover" (a posture between sitting and standing) at dirty toilets and that
-hovering makes toilets dirty. (I have since termed this viscious cycle as
-the "hovering cycle".) I sought to establish whether this cycle of hovering
-and toilet dirt indeed exists. I searched extensively for literature on the
-topic and found nothing that addressed my specific curiosity.
+
+I assessed the existance of a phenomenon surrounding the use of toilets.
+Prior research had indicate that many people use unconventional postures
+at the toilet (such as "hovering") and that certain postures are more likely
+to make toilets dirty. I sought to establish the opposite relationship:
+Does the cleanliness of the toilet affect the postures that people use?
 
 The core of my study was a questionnaire to randomly selected university students
 (graduate and undergraduate). The questionnaire asked participants about what
@@ -93,10 +93,18 @@ I was invited to publish a simplied version on the website of
 Public Hygiene Lets Us Stay Human, a toilet availability advocacy group
 (http://www.phlush.org/2013/02/23/the-hovering-cycle/).
 
+### Workload
 While this was a project that I worked on for the final year of my Bachelors,
-this was not an official thesis. I worked on this as part of my
+this was not a Bachelor's thesis.
+
+I worked on this as part of my
 Hunter R Rawlings III Presidential Research Scholarship and thus received
-wages for nominally six hours per week (for the whole year).
+wages for six hours per week. I worked on this for the whole year, and some
+weeks involved substantially more work than six hours. I had also been working
+on this at a similar pace for a few months during the prior year.
+
 This is comparable to the workload
 expected for a Bachelor's thesis; students writing Bachelor's theses earned
 at most three credits per semester for the thesis.
+
+I was advised by David Feathers, who is one of the two references that I have provided.
