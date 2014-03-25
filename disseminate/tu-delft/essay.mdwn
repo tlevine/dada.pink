@@ -64,16 +64,28 @@ I have already developed prototypes of the various components of the system.
 ## Final assignment for my Bachelor's program
 While I was in my second year of university, a friend remarked that people
 "hover" (a posture between sitting and standing) at dirty toilets and that
-hovering makes toilets dirty. This seemed quite likely, but I was surprised
-by the dearth of research on the topic. So I studied this issue.
+hovering makes toilets dirty. (I have since termed this viscious cycle as
+the "hovering cycle".) I sought to establish whether this cycle of hovering
+and toilet dirt indeed exists. I searched extensively for literature on the
+topic and found nothing that addressed my specific curiosity.
 
-...
+The core of my study was a questionnaire to randomly selected university students
+(graduate and undergraduate). The questionnaire asked participants about what
+postures and other bathroom practices they use and about how these practices changed
+when bathrooms were dirty.
 
-The results 
+There was much more that I had to do!
+I had been reading literature on the topic for a year
+I prototyped the questionnaire informally and pilot tested it on a few people.
+IRB
+In addition to the main sample, validity testing
+Wrote several reports on the statistical properties of the results as I interpreted
+the results
+Main result paper at http://thomaslevine.com/!/hovering-cycle
+Phlush
 
 While this was a project that I worked on for most of the final year of my
-Bachelors, this was not an official thesis. I received this course credit
-and these funds
-
-
-or should I do anthropometry?
+Bachelors, this was not an official thesis. I 
+I worked on this as part of my
+Hunter R Rawlings III Presidential Research Scholarship and thus received
+wages for nominally ??. We considered this to be equivalent to ....
