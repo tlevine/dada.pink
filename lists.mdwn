@@ -1,36 +1,33 @@
-I maintain a few email lists. I keep the first of these private,
-but the rest are public because that's easier for me.
+At the moment, I maintain two mailing lists for announcing things.
 
-## Periodic reviews of life
-If you would like to receive low-volume updates on my life,
-tell me so [in an email](mailto:_@thomaslevine.com).
-If you would like to remove yourself from this list or to
-inquire as to whether you are on this list,
-also send me an email.
+## The two lists
+If you sign up for the *low-volume* list, you will get an email
+every few months summarizing what I've been doing in general life.
 
-This is the private list.
+If you sign up to the *high-volume* list, you will get frequent
+messages about upcoming social gatherings, my geographic location,
+my recent articles, solicitations for surfaces to sleep on, &c.
 
-## Movements
-I've been moving around quite frequently, and I would like
-to be able to tell you when I'm in your town. If you would
-like to be notified of my presence in a new area, you can
-add yourself to [this list](movement).
+## Signing up
+You can sign up for either list by writing your name on a webpage
+or by asking me in an email. The former is easier for me, but it
+reveals to the world that you are on the list.
 
-To edit any of that lists, go to the page, click "edit", then
-type your first name, a dot, and then your last name.
-For example, if I were adding myself to my own list, I would
-write `thomas.levine`. I also need to have you in my (other)
-mutt aliases file, so send me an email too.
+### First method (preferred)
+Here's the write-your-name-on-a-webpage method. Go to one of these
+pages.
 
-## Location-based
-If you don't want to get *all* of the updates of my movement,
-you can add yourself to a list for just your area.
+* [low-volume](low-volume)
+* [high-volume](high-volume)
 
-* [New York City](new-york-city)
-* [San Francisco Bay](san-francisco-bay)
-* [Washington, DC](washington-dc)
+Once you're there, click "edit", then type your first name, a dot,
+and then your last name. For example, if I were adding myself to
+my own list, I would write `thomas.levine`. I also need to have you
+in my (other) mutt aliases file, so send me an email too.
 
-Or create a new page for your area!
+### Second method (private)
+If you don't want your name to be on the public internet, send me
+an email saying that you want to be added to the list privately.
 
-## Topic-based
-
+## Other lists
+Do you think I should have a new list? Edit this wiki page and add it!
