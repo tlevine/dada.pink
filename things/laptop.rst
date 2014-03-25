@@ -1,3 +1,20 @@
+General desires
+-------------------
+I'm starting to think that laptops are more portable than desktops.
+
+* Lots of RAM
+* Cool-running CPU
+* SSD
+* Quiet (preferably with no fans)
+* Light
+* Big battery
+
+I plan on buying a broken one and replacement parts,
+so if you have broken a nice laptop, I could possibly
+use it.
+
+Specific laptops
+--------------------
 
 Zenbook?
 
