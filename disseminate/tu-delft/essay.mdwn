@@ -80,7 +80,6 @@ research into practical software tools that assist in the management and
 sharing of disparate datasets.
 
 ## Final assignment for my Bachelor's program
-
 I assessed whether the cleanliness of a toilet affects the postures that people use.
 The core of my study was a questionnaire to randomly selected university students.
 The questionnaire asked about various bathroom practices about how these practices
