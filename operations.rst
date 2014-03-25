@@ -1,7 +1,6 @@
 For Tom
 For Tom
 --------
---------
 
 `./permissions/ <permissions>`_
     Permission groups in my main computer network
@@ -20,6 +19,9 @@ For Tom
 
 `./filesystem/ <filesystem>`_
     How to organize filesystems
+
+`./wiki/ <wiki>`_
+    How this wiki works
 
 For Others
 -------------
