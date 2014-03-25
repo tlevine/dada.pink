@@ -80,7 +80,7 @@ I have requested a transcript (http://www.transcript.cornell.edu/#a4) and will i
 4)
 ^^^^^^^^
 
-    A clear and relevant essay in English (1,000 – 1,500 words) addressing the following:
+    A clear and relevant essay in English (1,000 -- 1,500 words) addressing the following:
 
     Your motivation for taking the MSc programme of your choice.
     Why you are interested in TU Delft and what you expect to find here
