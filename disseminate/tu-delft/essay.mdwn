@@ -26,12 +26,12 @@ continue my research under her.
 Aside from the interest in TU Delft specifically, I am interested in getting
 some formal schooling in computer science. I have been programming for about
 ten years and have been doing software engineering professionally for the past
-two-and-a-half years, but I haven't really taken formal courses on computer science.
+two-and-a-half years, but I haven't really taken formal courses in computer science.
 
 ## My hypothetical thesis project
-When we search for ordinary papers, we type words into a search bar and get
-pages of words back. What if we could search for spreadsheets by typing spreadsheets
-into a search bar and getting spreadsheets back? For my thesis project,
+When we search for ordinary papers, we send words into a search engine and get
+pages of words back. What if we could search for spreadsheets by sending spreadsheets
+into a search engine and getting spreadsheets back? For my thesis project,
 I would like to prototype the "search engine for spreadsheets" that I describe below.
 
 ### How to use it
@@ -43,10 +43,9 @@ a page with links to relevant spreadsheets, previews of these spreadsheets,
 and with brief notes as to why each spreadsheet was deemed relevant.
 
 ### Novelty
-
 The search engine for spreadsheets that I propose is a very practical
-and easy-to-understand project that exposes the novel, complex, exploratory,
-and theoretical work that I would like to do.
+and easy-to-use project that exposes the complex, exploratory,
+and theoretical research that I would like to do.
 
 The novel part of this search engine project is the manner in which spreadsheets
 will be compared; in addition to using
@@ -55,7 +54,7 @@ and metadata of spreadsheets. It would identify relevant spreadsheets based on t
 statistical properties of the uploaded spreadsheet. It would also allow for filtering
 of search results based on these various properties.
 
-Here are some sorts of unusual search strategies and filtering tool would include.
+Here are some sorts of unusual search/filtering strategies that the tool would include.
 
 1. Find spreadsheets that can be easily combined with the uploaded spreadsheet
 2. Find spreadsheets with the same statistical unit as the uploaded spreadsheet
@@ -69,12 +68,14 @@ Here are some sorts of unusual search strategies and filtering tool would includ
 
 This project might seem overly grand, but I believe it to be quite doable because
 I have already developed prototypes of the various components of the system.
+Most of the work for this project would be the refinement of these various
+search/filtering strategies.
 
 ### Relationship to my prior research
 My thesis project for the MSc would be an extension of my present research
 on spreadsheets (http://thomaslevine.com/open-data).
 The basic premise of my research has been to explore what is possible when
-we look at many spreadsheets at once. I've been packaging my present
+we look at many spreadsheets at once. I've been packaging my
 research into practical software tools that assist in the management and
 sharing of disparate datasets.
 
