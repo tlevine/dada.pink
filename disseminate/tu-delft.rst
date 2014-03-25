@@ -3,6 +3,10 @@ Things to do
 The final version of this application includes private things like reference letters
 and an applicant number. These are in a private repository at `safe:git/delft-application`.
 
+Inquisitive
+
+* Find out how to make sure that someone reads the invitation letter.
+
 Digital
 
 * Tidy up my CV
