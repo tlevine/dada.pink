@@ -1,13 +1,3 @@
-I'm supposed to discuss these things in the essay.
-
-> Your motivation for taking the MSc programme of your choice.
-> Why you are interested in TU Delft and what you expect to find here
-> If there are optional specialisations in the MSc programme of your choice: which specialisation(s) interest you most, and why?
-> Describe your hypothetical thesis project; what kind of a project would you prefer if you were free to make a choice? Also briefly explain what you would want to explore in your thesis project. Provide a maximum of three hypothetical thesis topics and elaborate on your particular interests in them.
-> A brief summary (maximum 250 words) of the thesis work or the final assignment (to be) done for your Bachelor's programme, including information on the credits earned, grade, and full workload.
-
-The essay follows.
-
 # I want to make it easier to work with lots of spreadsheets
 
 ## My motivation and interest in TU Delft
