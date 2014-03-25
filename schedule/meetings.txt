@@ -33,3 +33,4 @@ DAILY:20140404:20140412 Philly Tech Week (http://2014.phillytechweek.com/events)
 20140331 Lunch with Enigma
 DAILY:21040412:21040413 State of the map
 20140416 New York Shell at Enigma
+20140403 Hacks/Hackers DC advanced web scraping
