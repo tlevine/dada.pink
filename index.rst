@@ -5,16 +5,19 @@ http://www.thomaslevine.com.
 Here are some main sections of the site.
 
 `/schedule/ </schedule/>`_
-    Schedule things here.
+    What Tom's doing
 
-`/disseminate/ </disseminate/>`_
+`/real-world/ </real-world/>`_
     Apply to grants, write papers, &c.
 
-`/lists/ </lists/>`_
+`/announcements/ </announcements/>`_
     Mailing lists for announcements
 
 `/operations/ </operations/>`_
-    How Tom's computer infrastructure works.
+    How Tom's computer infrastructure works
 
-Things go in `/t/ </t/>`_ if I haven't figured
+`/things/ </things/>`_
+    Objects that you can touch
+
+Things go in `/misc/ </misc/>`_ if I haven't figured
 out where else to put them.
