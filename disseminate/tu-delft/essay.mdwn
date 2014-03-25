@@ -63,30 +63,21 @@ I have already developed prototypes of the various components of the system.
 
 ## Final assignment for my Bachelor's program
 
-I assessed the existance of a phenomenon surrounding the use of toilets.
-Prior research had indicate that many people use unconventional postures
-at the toilet (such as "hovering") and that certain postures are more likely
-to make toilets dirty. I sought to establish the opposite relationship:
-Does the cleanliness of the toilet affect the postures that people use?
-
+I assessed whether the cleanliness of a toilet affects the postures that people use.
 The core of my study was a questionnaire to randomly selected university students
 (graduate and undergraduate). The questionnaire asked participants about what
 postures and other bathroom practices they use and about how these practices changed
 when bathrooms were dirty.
 
-Much was involved in running this questionnaire.
+Much was involved in running this questionnaire. Among other things,
+I reviewed related literature on the topic;
+I obtained approval from my institution's review board;
+I applied for and received two grants to pay the participants in the study;
+I ran two other rounds of the questionnaire (to test validity and reliability);
+and I wrote a long-form report about my results, similar to a thesis.
 
-* I had been reading literature on the topic since my second year of university,
-    and I wrote a review of this literature.
-* I prototyped the questionnaire for several months before releasing it.
-* I obtained approval to run the study from the university's institutional
-    review board.
-* I applied for and received two grants to pay the participants in the study.
-* I ran a pilot test of the questionnaire.
-* I assessed test-retest reliability of the questionnaire through another sampling.
-* I wrote several in-depth reports on the statistical properties of the results as
-  I interpreted the results.
-
+### Dissemination
+After finishing my Bachelor's,
 I published a distilled version of the results on my website
 (http://thomaslevine.com/!/hovering-cycle), and
 I was invited to publish a simplied version on the website of
