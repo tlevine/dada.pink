@@ -99,6 +99,26 @@ a university, and this was the response.
     It should be projects that you have done during your final year of
     your Bachelor studies.
 
+I'm thus using my research on
+[the hovering cycle](http://thomaslevine.com/!/hovering-cycle).
+Here are some aspects of that that I can work into the essay.
+
+* I was paid for about 6 hours per week for both semesters of my senior
+  year (https://colts.cornell.edu/rptHistory.cfm)
+* The highest amount of credits that someone in my program can earn for an
+  honors thesis is six, or three per semester.
+  (http://www.human.cornell.edu/dea/academics/undergraduate/upload/DEA-Honors-Program-Timeline.pdf)
+* I received a Human Ecology Alumni Association grant to pay participants.
+* I got IRB approval.
+* In addition to the main sample, there was
+  * Test-retest reliability testing
+  * Validity testing through in-person interviews
+* I wrote several reports on the statistical properties of the results as
+  I interpreted the results.
+* Main result paper is at http://thomaslevine.com/!/hovering-cycle
+* Phlush published a simpler version at
+  http://www.phlush.org/2013/02/23/the-hovering-cycle/
+
 `Here <./essay/>`_ is the essay.
 
 5)
