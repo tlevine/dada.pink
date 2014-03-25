@@ -1,3 +1,25 @@
+Things to do
+==================
+The final version of this application includes private things like reference letters
+and an applicant number. These are in a private repository at `safe:git/delft-application`.
+
+Digital
+
+* Tidy up my CV
+* Print the CV to PDF, and put it in the private repository.
+* Write the essay.
+  * Check what compensation I received for the toilet work.
+* Obtain Francis's reference.
+
+Paper
+
+* Run `make` in the private repository to build one PDF.
+* Go to a copy-and-mail shop with the following items.
+  * Final PDF
+  * Paper copy of my transcript
+  * Details about where to send the package
+* Print and mail the whole package.
+
 How to
 ===========
 Here are the `directions <http://www.tudelft.nl/en/study/studying-at-the-tu-delft/admission-and-application/msc-with-international-degree/application-and-procedure/>`_. It's paraphrased below, but with links!
