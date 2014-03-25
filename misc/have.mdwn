@@ -1,8 +1,3 @@
-Tom has this stuff and doesn't want it..
-====================
-Related: things Tom [doesn't have](want).
-
-## Desktop computers
 I have two bespoke, artisinal, quiet, hand-crafted-with-love
 desktop computers.
 
@@ -18,8 +13,3 @@ might work with it. It has no moving parts, so it's pretty quiet.
 [These people](https://twitter.com/thomaslevine/status/439103995894697984)
 seem interested in it.
 
-## Networking
-I have multiple routers and wireless network cards.
-
-## Books
-I have lots of books, mainly on statistics, ergonomics, and typography.

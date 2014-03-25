@@ -1,4 +1,4 @@
-Tom wants this stuff.
+Things Tom wants
 ====================
 Related: things Tom [doesn't want](have).
 
@@ -19,5 +19,11 @@ use it.
 ## Mended pants
 I have three nice pairs of pants with not-so-nice holes.
 
-## The perfect day bag
-I haven't figured out what this is yet.
+* [The perfect day bag](day-bag)
+
+Things Tom has and doesn't want
+====================
+
+* [Two desktop computers](desktop-computers)
+* I have multiple routers and wireless network cards.
+* Lots of books, mainly on statistics, ergonomics, and typography.
