@@ -20,7 +20,15 @@ Paper
   * Final PDF
   * Paper copy of my transcript
   * Details about where to send the package
-* Print and mail the whole package.
+* Print out the whole package
+
+Mail the package to
+
+    | International Office
+    | Delft University of Technology
+    | Jaffalaan 9A
+    | 2628 BX Delft
+    | The Netherlands
 
 How to
 ===========
