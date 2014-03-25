@@ -6,13 +6,11 @@ and an applicant number. These are in a private repository at `safe:git/delft-ap
 Inquisitive
 
 * Find out how to make sure that someone reads the invitation letter.
+* Find out whether an essay of less than 1,000 words is okay.
 
 Digital
 
-* Tidy up my CV
-* Print the CV to PDF, and put it in the private repository.
 * Write the essay.
-  * Check what compensation I received for the toilet work.
 * Obtain Francis's reference.
 
 Paper
