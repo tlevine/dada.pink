@@ -34,3 +34,4 @@ DAILY:21040412:21040413 State of the map
 20140416 New York Shell at Enigma
 20140403 Hacks/Hackers DC advanced web scraping
 20140331 1 pm ET lunch with Enigma
+20140701 Dry run of EuSpRIG talk
