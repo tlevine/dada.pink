@@ -104,7 +104,7 @@ a university, and this was the response.
     your Bachelor studies.
 
 I'm thus using my research on
-[the hovering cycle](http://thomaslevine.com/!/hovering-cycle).
+`the hovering cycle <http://thomaslevine.com/!/hovering-cycle>`_.
 Here are some aspects of that that I can work into the essay.
 
 * I was paid for about 6 hours per week for both semesters of my senior
@@ -123,7 +123,7 @@ Here are some aspects of that that I can work into the essay.
 * Phlush published a simpler version at
   http://www.phlush.org/2013/02/23/the-hovering-cycle/
 
-`Here <./essay/>`_ is the essay.
+The essay is at `<./essay/>`_.
 
 5)
 ^^^^^^^^
