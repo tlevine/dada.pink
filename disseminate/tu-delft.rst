@@ -1,13 +1,7 @@
 Things to do
 ==================
 The final version of this application includes private things like reference letters
-and an applicant number. These are in a private repository at `safe:git/delft-application`.
-
-Inquisitive
-
-* Find out how to make sure that someone reads the invitation letter.
-* Find out whether an essay of less than 1,000 words is okay.
-* Ask a mail place about how they work.
+and an applicant number. These are in a private repository at ``safe:git/delft-application``.
 
 Digital
 
@@ -30,6 +24,10 @@ Mail the package to
     | Jaffalaan 9A
     | 2628 BX Delft
     | The Netherlands
+
+I'll need to send it three business days in advance if I mail it from the
+United States. If I scan the transcript and include it in the PDF, I can
+get someone in Europe to mail it for me a bit later.
 
 How to
 ===========
@@ -130,7 +128,10 @@ Here are some aspects of that that I can work into the essay.
 * Phlush published a simpler version at
   http://www.phlush.org/2013/02/23/the-hovering-cycle/
 
-The essay is at `<./essay/>`_.
+The essay is at `<./essay/>`_. Run `<./count.sh>` to see how long it is.
+
+I also asked whether an essay of less than 1,000 words is okay,
+and they said it would be fine.
 
 5)
 ^^^^^^^^
@@ -187,3 +188,7 @@ They also say this, and I don't know what it means:
     | International Staff and Students
     
 
+Another document
+-------------------
+`Felienne <http://felienne.com/>`_ has sent me a letter inviting me to the
+program. I should include that in the package as well.
