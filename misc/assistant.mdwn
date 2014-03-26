@@ -1,21 +1,20 @@
 I'm lazy, so I have an assistant (probably Christine).
 Here are some notes about that.
 
-## Sorts of things that I want help on
-I explained this somewhere....
+## Communication of things to do
+I can send things to be done as some comination of emails and wiki pages.
+In most of these things, I'd prefer the results of these tasks to be put
+somewhere on the wiki. Exceptions to this would be things with private
+information or things where the result is an email to someone else.
 
+## Sorts of things that I want help on
+I mostly want help [transcribing things](misc/assistant-examples).
 Also, all of the following is quite welcome.
 
 * Skipping things that are wastes of time
 * Rearranging the wiki so it's easier to find things
 * Writing out things really sloppily so it's at least in the wiki
     rather than an email
-
-## Communication of things to do
-I can send things to be done as some comination of emails and wiki pages.
-In most of these things, I'd prefer the results of these tasks to be put
-somewhere on the wiki. Exceptions to this would be things with private
-information or things where the result is an email to someone else.
 
 ## Financial arrangement
 I pay a flat monthly rate. We'll need to do this paperwork.
