@@ -1,4 +1,4 @@
-# I want to make it easier to work with lots of spreadsheets
+# I want to study how people work with lots of spreadsheets
 Thomas Levine
 
 ## My motivation and interest in TU Delft
