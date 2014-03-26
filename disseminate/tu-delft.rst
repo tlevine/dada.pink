@@ -10,6 +10,7 @@ Digital
 
 Paper
 
+* Scan the transcript in case I can't get it in in time.
 * Run `make` in the private repository to build one PDF.
 * Go to a copy-and-mail shop with the following items.
   * Final PDF
