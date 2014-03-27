@@ -18,3 +18,6 @@ TD To do
 TODO Send Enigma FOI requests and the Sunlight data catalog spreadsheet
 20140329 Copy IMG_20140129_182258 to thomaslevine.com for the pi pie
 TODO Arrange HacNYC travel and sleeping
+20140410 Write up the Wikipedia scraper thing that I did with Anastasya
+20140410 Write up the video downloader bytes thing that I did at the Python thing
+20140410 Write up the Grammar of Graphics language parser thing
