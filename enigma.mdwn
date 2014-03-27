@@ -22,9 +22,11 @@ initiative or related to any of the following organizations or products.
 
 Other ideas nice stuff would be contact information for public records officers,
 
-I'd love to get this from cities randomly sampled from the population of all
-US cities, but we could also just start with cities with data catalogs or
-cities in Sunlight's spreadsheet.
+I'd love to get a list of all cities, or at least all US cities, and then send
+this request to all of them. Or at least a random sample. So that's another FOI request.
+
+Until then, we could start with
+[these data catalogs](https://docs.google.com/spreadsheet/ccc?key=0Ap0CEAgs-R_odFc0Qk1WNHdIUDE3bUNVd1U3WUlnblE&usp=sharing).
 
 ### Scarsdale
 I'm quite interested in anything about Scarsdale.
