@@ -29,15 +29,7 @@ From the Open Data Research Network Newsletter
 
 [EuSpRIG and SEMS](http://spreadsheetlab.org/2013/12/19/first-workshop-on-software-engineering-methods-in-spreadsheets/)
 
-### Schooling
-Apply to the Software Technology Track of the CS MSc at TU Delft.
-
-* http://swerl.tudelft.nl/bin/view/Main/MastersProjects
-* http://www.tudelft.nl/en/study/master-of-science/master-programmes/computer-science/
-* http://www.tudelft.nl/en/study/studying-at-the-tu-delft/admission-and-application/msc-with-international-degree/application-and-procedure/
-* http://www.tudelft.nl/en/study/studying-at-the-tu-delft/admission-and-application/msc-with-international-degree/admission-requirements/
-
-Let Felienne know if I really plan this and if I need any support
-like an invitation letter.
 
 ## Things I have already written
+
+* [MSc CS, Software Technology Track of the CS MSc at TU Delft](tu-delft)
