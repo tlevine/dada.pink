@@ -35,3 +35,8 @@ DAILY:21040412:21040413 State of the map
 20140403 Hacks/Hackers DC advanced web scraping
 20140331 1 pm ET lunch with Enigma
 20140701 Dry run of EuSpRIG talk
+20140409 5 pm Bytes & Mortar: Using Open Data to Help Your Business, The Enterprise Center, 4548 Market St, Philadelphia
+20140408 3 pm Data center tour, Inerail, 365 Main
+20140408 6 pm Hacker's Code of Collaboration, Quorum, 3711 Market St, 8th floor
+20140407 OpenAccessPHL, CityCoHo, 2401 Walnut St
+20140410 7:30 pm Law and Technology Mash-up, The University of the Arts, 211 S Broad St, room 511/13
