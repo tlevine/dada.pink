@@ -1,0 +1,11 @@
+- Socrata / Data Portal Downloader (Hicham/Brian to give you Enigma's
+current pain points on this)
+- OpenCorporates Analysis -> coverage, update frequency, EIN number
+availability.
+- Linking some Enigma/Source corp reg data to Open corporates (how
+difficult is the matching and why)
+- Crawling through the open data portal universe for company identifiers ->
+strategy developement.
+- Data,json scope (to what extent is it implemented, how clean is the data
+etc...)
+- Find outlying data points and tweet them.
