@@ -17,3 +17,4 @@ TD To do
 20140328 Call Dor, and mention my graphy spreadsheets thing.
 TODO Send Enigma FOI requests and the Sunlight data catalog spreadsheet
 20140329 Copy IMG_20140129_182258 to thomaslevine.com for the pi pie
+TODO Arrange HacNYC travel and sleeping

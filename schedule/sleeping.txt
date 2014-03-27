@@ -2,9 +2,14 @@
 # Read more at http://wiki.thomaslevine.com/calendar/
 ZZ Sleeping arrangements
 20140314:20140318 Chamounix Mansion hostel
-20140318:20140323 New York with a friend?
-DAILY:20140323:20140630 Sublet in Philadelphia
 DAILY:20140702:20140705 Delft
+20140327 Aaron (DC)
+20140328 Sammi (DC)
+20140329 XXX (New York)
+20140330 Yuni (New York)
+20140402 XXX (DC)
+20140404 (Maybe) XXX (New York)
+20140405 XXX (New York)
 DAILY:20140715:20140727 Berlin
 DAILY:20140728:20140802 Plymouth
 DAILY:20140803:20140807 Liverpool?
