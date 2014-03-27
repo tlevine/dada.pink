@@ -1,7 +1,10 @@
-Here are some Freedom of Information requests that [Enigma](http://enigma.io),
-or anyone really, can help me with.
+Here are some things related to my working with [Enigma](http://enigma.io)
 
-## Open data
+## Freefom of Information requests
+Enigma can submit Freedom of Information requests for me.
+Here are some I want.
+
+### Open data
 I want contracts pertaining to the open data initiatives of different cities.
 A place to start is searching for contracts and RFPs about the "open data"
 initiative or related to any of the following organizations or products.
@@ -23,13 +26,27 @@ I'd love to get this from cities randomly sampled from the population of all
 US cities, but we could also just start with cities with data catalogs or
 cities in Sunlight's spreadsheet.
 
-## Scarsdale
+### Scarsdale
 I'm quite interested in anything about Scarsdale.
 
 I've recieved a course list of
 [notices of defect](https://www.muckrock.com/foi/scarsdale-283/notices-of-defect-between-june-1-2010-and-dec-9-2013-9483/),
 and I would like the more raw memos or whatever containing the language of the original requests.
 
-## Travel
+### Travel
 I want to know how late all Amtrak trains were on all routes. I want to predict how late
 a particular trip will be.
+
+## Things I might do
+
+- Socrata / Data Portal Downloader (Hicham/Brian to give you Enigma's
+current pain points on this)
+- OpenCorporates Analysis -> coverage, update frequency, EIN number
+availability.
+- Linking some Enigma/Source corp reg data to Open corporates (how
+difficult is the matching and why)
+- Crawling through the open data portal universe for company identifiers ->
+strategy developement.
+- Data,json scope (to what extent is it implemented, how clean is the data
+etc...)
+- Find outlying data points and tweet them.
