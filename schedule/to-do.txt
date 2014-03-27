@@ -2,6 +2,7 @@
 TD To do
 20140326 Mail things priority to TU Delft.
 20140327 Send Enigma FOI requests and the Sunlight data catalog spreadsheet
+20140327 Copy IMG_20140129_182258 to thomaslevine.com for the pi pie
 20140401 Tell Chris Metcalf what I want
 20140401 Look at the datahub.io stuff
 20140515 EHSM proposals are due.
@@ -16,7 +17,6 @@ TD To do
 20140403 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
 20140411 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
 20140328 Call Dor, and mention my graphy spreadsheets thing.
-20140329 Copy IMG_20140129_182258 to thomaslevine.com for the pi pie
 TODO Arrange HacNYC travel and sleeping
 20140410 Write up the Wikipedia scraper thing that I did with Anastasya
 20140410 Write up the video downloader bytes thing that I did at the Python thing
