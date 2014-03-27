@@ -1,4 +1,5 @@
-Freedom of information requests to make
+Here are some Freedom of Information requests that [Enigma](http://enigma.io),
+or anyone really, can help me with.
 
 ## Open data
 I want contracts pertaining to the open data initiatives of different cities.
@@ -25,8 +26,10 @@ cities in Sunlight's spreadsheet.
 ## Scarsdale
 I'm quite interested in anything about Scarsdale.
 
-* [Notices of defect](https://www.muckrock.com/foi/scarsdale-283/notices-of-defect-between-june-1-2010-and-dec-9-2013-9483/)
+I've recieved a course list of
+[notices of defect](https://www.muckrock.com/foi/scarsdale-283/notices-of-defect-between-june-1-2010-and-dec-9-2013-9483/),
+and I would like the more raw memos or whatever containing the language of the original requests.
 
 ## Travel
-I want how late were all Amtrak trains on all routes. I want to predict how late
+I want to know how late all Amtrak trains were on all routes. I want to predict how late
 a particular trip will be.
