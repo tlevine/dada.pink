@@ -5,31 +5,29 @@ is very noisy, and I don't like that. Thus, I limit myself to a few hours per re
 I try to include buzzwords appropriate to the solicitation, and I don't ask for
 other people to review the submission.
 
-## Things I want to write
+And I don't like to talk about these writings because it makes things sound overly
+fancy and complicated. Given that attitude, I keep considering whether I should maybe
+stop writing these.
+
+## Real-world things to do
 
 ### Grants
 
 * [NIH](http://grants.nih.gov/grants/guide/rfa-files/RFA-HG-14-020.html).
-* Knight News Challenge
 
 ### Conferences and journals
 From the Open Data Research Network Newsletter
 
 > The Committee on Data for Science and Technology (CODATA) are organising an International Workshop on Open Data for Science and Sustainability in Developing Countries (OpenDataSSDC) on 6-8 August 2014, in Nairobi, Kenya. Abstracts are invited by 15th April 2014 (http://opendataresearch.us2.list-manage.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D8a4afd3180&e=3Df8d7a55e25 )
 > 
-> The Open Knowledge Festival (http://opendataresearch.us2.list-manage1.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D419a0dd3c2&e=3Df8d7a55e25)  is taking place in Berlin from July 15th to 17th. The ODDC network will be there, as will many others from the open development community. (http://opendataresearch.us2.list-manage.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D9a7d94d455&e=3Df8d7a55e25)  A call for session proposals is open until March 16th (http://opendataresearch.us2.list-manage.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D602011cc3a&e=3Df8d7a55e25) , and members of the open-development list are discussing joint proposals.
-> 
-> The International Conference on e-Democracy & e-Government takes place in Quito, Ecuador on April 25th and 26th, and has a call for papers open until 9th February (http://opendataresearch.us2.list-manage.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D55e8913e70&e=3Df8d7a55e25) . The conference also offers the opportunity for remote presentation from those who cannot travel to attend.
-> 
 > OpenSym, the 10th International Symposium on Open Collaboration, held in Berlin, Germany from 27th to 29th August 2014 will have a track on Open Data Research (http://opendataresearch.us2.list-manage1.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D4564d60f6f&e=3Df8d7a55e25) . A call for papers is open until April 20th (http://opendataresearch.us2.list-manage1.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3D7e616d7f30&e=3Df8d7a55e25) .
-> 
-> Journal calls
-> The International Journal of Public Information Systems (IJPIS) is running a special issue on The non-government and voluntary sector, ICT, and democracy. A call for papers is open until 1st March (http://opendataresearch.us2.list-manage.com/track/click?u=3D809a8ec57d058d7fbcabbb980&id=3Da7246c46af&e=3Df8d7a55e25) .
-> 
+ 
+## Previous real-world things
 
-[EuSpRIG and SEMS](http://spreadsheetlab.org/2013/12/19/first-workshop-on-software-engineering-methods-in-spreadsheets/)
-
-
-## Things I have already written
-
+* [OK Festitval 2014](ok-festival-2014)
+* [EuSpRIG 2014](eusprig-2014)
+* [Amtrak Residency](amtrak)
 * [MSc CS, Software Technology Track of the CS MSc at TU Delft](tu-delft)
+* BrightTalk data science roundtable
+  * [slides](gastronomification-brighttalk.pdf)
+  * [source of slides](gastronomification-brighttalk.odp)
