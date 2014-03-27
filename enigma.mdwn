@@ -52,3 +52,10 @@ strategy developement.
 - Data,json scope (to what extent is it implemented, how clean is the data
 etc...)
 - Find outlying data points and tweet them.
+
+## Other interesting things
+Here are some things about data.json.
+
+* http://thomaslevine.com/!/socrata-formats
+* http://thomaslevine.com/!/my-datasets-about-open-data
+* http://thomaslevine.com/!/socrata-deduplicate
