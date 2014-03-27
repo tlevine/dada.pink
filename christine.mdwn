@@ -8,7 +8,7 @@ somewhere on the wiki. Exceptions to this would be things with private
 information or things where the result is an email to someone else.
 
 ## Sorts of things that I want help on
-I mostly want help [transcribing things](misc/assistant-examples).
+I mostly want help [transcribing things](/misc/assistant-examples).
 Also, all of the following is quite welcome.
 
 * Skipping things that are wastes of time
