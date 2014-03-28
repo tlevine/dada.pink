@@ -24,3 +24,4 @@ TODO Arrange HacNYC travel and sleeping
 20140329 Fill out passport form. https://pptform.state.gov/FraudAbuseNotice.aspx
 20140401 Prepare for the scraping class
 20140401 Prepare for the PDF parsing talk
+20140424 Apply for a passport
