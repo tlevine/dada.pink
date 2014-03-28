@@ -36,13 +36,11 @@ People
 -------------
 These people are coming. ::
 
-    Zuzanna
     Dave
 
 These people might come. ::
 
     Ingrid
-    Yoni
     Tal (not morning)
     Dorothy (afternoon)
     Ohyoon (evening)
