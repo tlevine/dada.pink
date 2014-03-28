@@ -24,4 +24,4 @@ TODO Arrange HacNYC travel and sleeping
 20140329 Fill out passport form. https://pptform.state.gov/FraudAbuseNotice.aspx
 20140401 Prepare for the scraping class
 20140401 Prepare for the PDF parsing talk
-20140424 Apply for a passport
+20140424 Apply for a passport https://tools.usps.com/go/POLocatorAction!input.action?address=&radius=&locationTypeQ=passport&tAddress=&tAddress1Ams=&tAddress2Ams=&tCityAms=&tStateAms=&tZipAms=&tCarrierRouteAms=&sWithin=&sServices=&hoursSelected=&collectionBoxSelected=&collectionHoursSelected=&servicesSelectedBusinessOffice=&servicesSelectedOffice1=&servicesSelectedPassportOffice=&servicesSelectedOffice2=&servicesSelectedOffice3=&approvedProvidersSelected=&allLocationsSelected1=&allLocationsSelected2=
