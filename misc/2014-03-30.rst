@@ -14,7 +14,7 @@ See a few things on 24th street? Probably museums or galleries?
 This is in a rather central location for everyone.
 
 * http://momath.org/
-  (Buy tickets `online <https://in.momath.org/civicrm/event/register?reset=1&id=71>` to save a dollar.)
+  (Buy tickets `online <https://in.momath.org/civicrm/event/register?reset=1&id=71>`_ to save a dollar.)
 * http://www.unixgallery.com/ (nothing to do with unix)
 
 Go to Saint Thomas Church, Tom's Restaurant, and the 24th NYPD precinct?
