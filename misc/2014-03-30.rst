@@ -34,14 +34,14 @@ This would be on the upper west side and thus inconvenient for most people.
 
 People
 -------------
-These people are coming. ::
+These people are coming.
 
-    Dave
-    Jeremy (afternoon)
+* Dave
+* Jeremy (afternoon)
 
-These people might come. ::
+These people might come.
 
-    Ingrid
-    Tal (not morning)
-    Dorothy (afternoon)
-    Ohyoon (evening)
+* Ingrid
+* Tal (not morning)
+* Dorothy (afternoon)
+* Ohyoon (evening)
