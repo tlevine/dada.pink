@@ -42,7 +42,6 @@ DAILY:21040412:21040413 State of the map
 20140410 7:30 pm Law and Technology Mash-up, The University of the Arts, 211 S Broad St, room 511/13
 20140328 NPR (DC) tiny desk concert
 20140327 5 pm HHDC preparation at http://www.yelp.com/biz/sweet-diablo-washington
-20140329 Around 3:30 pm, Arduino day at ITP https://www.eventbrite.com/e/arduino-day-itp-tickets-10913736279 (It runs  12:00 to 17:00)
 20140405 Internet Blackout Simulation Event, Guardian Project and Commotion, Eyebeam, https://eyebeam.org/events/eyebeam-square-an-internet-blackout-simulation-event
 20140329 20:00 onwards, Frieda's party: Joyous housewarming, gleeful birthday, 467 Troutman St, #4K
 20140329 11 am, HAMR, ExCITe Center, 3401 Market St
@@ -51,3 +50,4 @@ DAILY:21040412:21040413 State of the map
 20140403 7 pm, DC DK chapter setup meeting, DC Action for Children HQ, 927 15th Street, NW, Suite 1050, Call to be buzzed in: 917-757-6447 <917-757-6447> (Julia) or 202-234-9494 <202-234-9494> (landline)
 20140331:20140401 Call Luke (GovFresh) 415.722.8678
 20140401 Code for Philly http://www.meetup.com/Code-for-America-Philly
+20140329 Around 3:30 pm, 721 Broadway, Arduino day at ITP https://www.eventbrite.com/e/arduino-day-itp-tickets-10913736279 (It runs  12:00 to 17:00)
