@@ -21,3 +21,4 @@ TODO Arrange HacNYC travel and sleeping
 20140410 Write up the Wikipedia scraper thing that I did with Anastasya
 20140410 Write up the video downloader bytes thing that I did at the Python thing
 20140410 Write up the Grammar of Graphics language parser thing
+20140401 Fill out passport form. https://pptform.state.gov/FraudAbuseNotice.aspx
