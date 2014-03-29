@@ -37,6 +37,7 @@ People
 These people are coming. ::
 
     Dave
+    Jeremy (afternoon)
 
 These people might come. ::
 
