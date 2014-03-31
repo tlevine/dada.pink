@@ -1,0 +1,57 @@
+## First Name
+Thomas
+
+## Last Name
+Levine
+
+## E-mail Address
+\_@thomaslevine.com and \_@brianabelson.com
+
+## Organization
+csv soundsystetm
+
+## Twitter account
+thomaslevine
+
+## Blog/Personal Website
+http://thomaslevine.com
+
+## Stream
+Tools
+
+## Session Title
+We're gonna make music and food from data.
+
+## Session description
+Data can be extracted from anything, and they can be converted to anything.
+We can make music and food from data, and that's what we'll do during this session.
+Participants will collect data about each other and then explore ways of
+expressing the data for perception by the senses of vision, sight, smell, sound
+and touch. (Food will be involved.) You'll learn to see data as a real thing rather
+than some nebulous buzzword. Also, no computers allowed.  
+
+## Session motivation
+One hard part of undestanding all this data stuff is having an intiuition as to
+how complex concepts might be represented as numbers. By converting data into
+familiar things like music and food, we get people thinking this way.
+
+## Session outcomes
+
+## How would the session be structured?
+Aside a brief lecture-style introduction, the whole workshop will just be a collaborative data analysis. Below, I divide the workshop/analysis into two sections and explain how exchange is stimulated in each.
+
+The first section is deciding what data to collect and collecting them. Here, participants will brainstorm what data to collect about each other. Aside from encouraging participants to be creative with the sort of data they collect, this will force participants to introduce themselves to each other, possibly in somewhat atypical ways.
+
+The second section is computing statistics and expressing the data. Participants will break into groups of about four, and each group will come up with its own data gastronomification.
+
+## How does your session contribute to OKFestival’s narrative and aims?
+Teaching something...
+
+## Is this session app...
+Yes
+
+## Would you prefer to...
+English is great. French is also okay.
+
+## Will your session involve phys...
+Physical movement will neither be required nor restricted.
