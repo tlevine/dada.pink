@@ -53,3 +53,4 @@ DAILY:21040412:21040413 State of the map
 20140330 http://wiki.thomaslevine.com/misc/2014-03-30/
 20140504 5:30 pm MoMath Winton Power Series https://in.momath.org/civicrm/event/info?reset=1&id=208
 20140402 13:30 to 14:00 coffee with Erie
+20140403 Proposed meeting with Sean
