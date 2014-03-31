@@ -1,6 +1,6 @@
 My calendar is spread across a few pal files.
 
-* [Meetings](meetings)
+* [Activities](activities)
 * [Sleeping arrangements](sleeping)
 * [Things to do](to-do)
 * [Birthdays](birthdays)
