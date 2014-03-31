@@ -3,7 +3,7 @@
 # each line is an appointment that contains a date string followed by
 # a space followed by anything you want. Feel free to edit it.
 #
-# Read more at http://wiki.thomaslevine.com/calendar/
+# Read more at http://wiki.thomaslevine.com/schedule/
 T+ Public Calendar
 20140320 1700 GMT okfn labs hangout
 20140327 Hacks/Hackers DC

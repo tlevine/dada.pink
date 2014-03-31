@@ -1,5 +1,5 @@
 # Where I'm sleeping
-# Read more at http://wiki.thomaslevine.com/calendar/
+# Read more at http://wiki.thomaslevine.com/schedule/
 ZZ Sleeping arrangements
 20140314:20140318 Chamounix Mansion hostel
 DAILY:20140702:20140705 Delft
