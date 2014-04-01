@@ -42,3 +42,38 @@ This will put you into the postgres shell, where you can run queries.
 
 ## Running queries
 Here are some ideas of queries you might run.
+
+The Craigslist data are in one table (listing). Show the schema of the table.
+
+    \d listing
+
+Get one listing.
+
+    SELECT * FROM LISTING LIMIT 1;
+
+Limit results to a particular craigslist site of interest
+and a particular section of interest.
+
+    SELECT * FROM LISTING
+    WHERE site = 'nashville.craigslist.org'
+      AND url LIKE '%/zip/%'
+    LIMIT 1;
+    
+Look for furnished apartments that appear to be one-month sublets for
+February to March
+
+    SELECT * FROM LISTING
+    WHERE site = 'newyork.craigslist.org'
+      AND url LIKE '%/sub/%'
+      AND html LIKE '% furnished%'
+      AND html LIKE '%February%'
+      AND html LIKE '%March%'
+    LIMIT 1;
+    
+Look for listings that have been up for a while and were recently updated.
+
+    SELECT * FROM LISTING
+    WHERE site = 'newyork.craigslist.org'
+      AND posted < '2014-02-01'
+      AND updated > '201U-02-05'
+    LIMIT 4;
