@@ -83,3 +83,13 @@ Look for listings that have been up for a while and were recently updated.
       AND posted < '2014-02-01'
       AND updated > '201U-02-05'
     LIMIT 4;
+
+Look for recent listings by people who are going away for a trip between
+April and May and are renting out their large (expensive) apartments.
+
+    SELECT url, price, title FROM listing
+    WHERE section = 'sub' and site = 'newyork.craigslist.org'
+      AND html like '% away %' and html like '% April %' and html like '% May %'
+      AND coalesce(updated,posted) > '2014-03-25'
+    ORDER BY price DESC
+    LIMIT 20;
