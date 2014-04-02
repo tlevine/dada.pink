@@ -38,7 +38,11 @@ He will make an account on his [nsa](https://the-nsa.org) server.
 Once you've set up your SSH key and Tom has created the account, you'll be
 able to do this.
 
-    ssh username@tlevine.the-nsa.org 'psql craigslist'
+    ssh username@tlevine.the-nsa.org
+
+Once you're in, run
+
+    psql craigslist
 
 This will put you into the postgres shell, where you can run queries.
 
