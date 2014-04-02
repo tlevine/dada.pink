@@ -53,7 +53,7 @@ DAILY:21040412:21040413 State of the map
 20140329 11 am, HAMR, ExCITe Center, 3401 Market St
 20140401 Proposed call with Doug
 20140403 7 pm, DC DK chapter setup meeting, DC Action for Children HQ, 927 15th Street, NW, Suite 1050, Call to be buzzed in: 917-757-6447 <917-757-6447> (Julia) or 202-234-9494 <202-234-9494> (landline)
-20140404 Call Luke (GovFresh) 415.722.8678
+20140404 16:00 UTC, 12:00 ET, 9:00 PT Call Luke (GovFresh) 415.722.8678
 20140401 Code for Philly http://www.meetup.com/Code-for-America-Philly
 20140329 Around 3:30 pm, 721 Broadway, Arduino day at ITP https://www.eventbrite.com/e/arduino-day-itp-tickets-10913736279 (It runs  12:00 to 17:00)
 20140330 http://wiki.thomaslevine.com/misc/2014-03-30/
