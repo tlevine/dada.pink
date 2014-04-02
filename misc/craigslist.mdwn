@@ -1,6 +1,9 @@
 # Querying Tom's Craigslist database
 
-## Install PuTTY if you're on Windows
+## SSH client
+Most operating systems come with an SSH client already.
+On Windows, you'll need to
+[download PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html).
 
 ## Generate an SSH key
 If you're on Mac, GNU/Linux, or any other POSIX-like system, this should work.
@@ -12,8 +15,7 @@ This will create a file called (probably) `~/.ssh/id_rsa` and another called
 is your public key.
 
 If you're on Windows, follow
-[this tutorial]()
-and then add it to PuTTY.
+[this tutorial](http://kb.site5.com/shell-access-ssh/how-to-generate-ssh-keys-and-connect-to-your-account-with-putty/).
 
 ## Make an account
 Tom needs to make you an account. Send him the following.
