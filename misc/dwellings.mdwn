@@ -1,5 +1,8 @@
 How to select your (Tom's) dwelling
 ==============
+Here are some things I care about and don't care about in an apartment.
+I can, of course, do without the things I care about if the place is cheap,
+but I should still think about them.
 
 ## Need
 Here are some things that I care unusually much about.
@@ -8,7 +11,8 @@ Here are some things that I care unusually much about.
     on a busy street, I shouldn't be able to hear that inside.
 * The place should be heated well, or the place should be small
     so that a space heater can heat it.
-* There should be room to use my projector.
+* There should be room for me to use my projector, or there
+    should be a TV or computer monitor that I can use.
 
 ## Laundry
 I don't have very many clothes, and I do laundry often. As such,
@@ -28,3 +32,7 @@ getting the portable furniture bag out of my storage unit.
 
 I find kitchens to be wastefully large, so I would much prefer not to have one.
 Unfortunately, it's quite hard to find nice places without kitchens.
+
+## Transportation
+A nice grocery store should be within walking distance, or it should be
+a short trip on public transit. (I don't have a driver's license.)
