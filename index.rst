@@ -24,8 +24,5 @@ These sections are related to specific people who are helping me out.
 `/enigma/ </enigma/>`_
     Things related to my relationship with `Enigma <http://enigma.io>`_
 
-`/christine/ </christine/>`_
-    Things that Christine might help me with
-
 Things go in `/misc/ </misc/>`_ if I haven't figured
 out where else to put them.
