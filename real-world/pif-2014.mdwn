@@ -1,0 +1,45 @@
+
+## Why would you like to be a Presidential Innovation Fellow?
+I've lately been studying how governments publish open data
+(http://thomaslevine.com/open-data), and I'd like to start
+applying some of this research. The Presidential Innovation
+Fellowship seems like one place to do it.
+
+## Please copy and paste your resume below.
+
+    ## Current engagements
+    Vy Capital (http://vycapital.com) is a venture capital firm.
+    I'm developing large-scale data-acquisition systems
+    for them that collect data about the growth of companies.
+
+    Enigma (http://enigma.io) collects a plethora of public
+    data and develops a product with which people search the data.
+    Enigma is sponsoring some of my spreadsheet research.
+    In addition, I am advising them about issues
+    relating to the scaling of their product.
+
+    DataKind (http://datakind.org/) connects data scientists
+    to high impact social organizations. I regularly do assorted
+    data-related work and advising for them.
+
+    ## Education
+    Cornell University, Bachelor's of Science (May 2011)
+    Design & Environmental Analysis
+    Concentration in Human Factors & Ergonomics
+    GPA 3.5
+    Hunter R. Rawlings III Presidential Research Scholar
+
+    ## Prior full-time employment
+    I was on the development team at ScraperWiki (https://scraperwiki.com),
+    where I helped design and build data processing systems and infrastructures.
+    I also taught courses on the cleaning and analysis of data. (2012)
+
+    I developed the curriculum for Zipfian Academy (http://zipfianacademy.com)
+    and taught the first class of students. (2013)
+
+    ## Prior consulting work
+    I've done assorted consulting around open data and data engineering.
+    Typically, I'll acquire data for a data analysis, or I'll add features
+    to software for loading data from disparate sources.
+
+## Data Innovation: Why are you great for this project?
