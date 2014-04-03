@@ -49,3 +49,30 @@ Fellowship seems like one place to do it.
 * http://thomaslevine.com/open-data
 
 ## Data Innovation: Why are you great for this project?
+
+    A year ago, I started downloading all of the datasets I could find
+    on all of the open data catalogs that I knew about. And then I started
+    running analyses across thousands of datasets at once. This has made
+    me unusually knowledgeable about many aspects of the publication of
+    open data.
+
+    I understand the ways that people are publishing data, the sorts of
+    data that people are publishing, the differences in how different
+    governments do open data, and the differences between the various
+    open data software tools.
+
+    My research has arrived at some very practical results
+    (http://thomaslevine.com/!/data-data-themes/)
+    that I would like to implement in a place where they'll be useful.
+
+    Specifically,
+
+    1. I want to make it easier to search for datasets, without depending
+        on having good metadat.
+    2. I want to quantify how good a dataset is, and in what ways a dataset
+        is good or bad, so that we can measure our performance in open data
+        initiatives and make sure that are open data catalogs are in good shape.
+    3. I want to use data-driven methods to measure the impact of the release
+        of open data. I want to study the usage of government open data sites
+        in order to see what how the way that data are published effects the
+        way that people use them.
