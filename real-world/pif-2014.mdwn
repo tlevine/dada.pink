@@ -42,4 +42,10 @@ Fellowship seems like one place to do it.
     Typically, I'll acquire data for a data analysis, or I'll add features
     to software for loading data from disparate sources.
 
+## Where can we find you online?
+
+* http://thomaslevine.com
+* https://github.com/tlevine
+* http://thomaslevine.com/open-data
+
 ## Data Innovation: Why are you great for this project?
