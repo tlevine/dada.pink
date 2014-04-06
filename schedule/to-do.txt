@@ -18,3 +18,4 @@ TD To do
 20140410 Look at the datahub.io stuff
 20140410 Plan sleeping for July on.
 20140410 Look for cool git hooks.
+TODO Write sheetmusic in Gnumeric with the Guile or Python plugin
