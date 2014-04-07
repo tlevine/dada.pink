@@ -1,12 +1,1 @@
-# nanoc and other compiler-related stuff
-.sass-cache
-.ruby-gemset
-.ruby-version
-output
-.rvmrc
-tmp
-crash.log
-Guardfile
-
-# Bugs Everywhere lookup cache
-.be/id-cache
+/.ikiwiki
