@@ -59,9 +59,9 @@ add_plugins:
 - search
 - testpagespec
 - version
-# plugins to disable
-disable_plugins:
 - theme
+# plugins to disable
+disable_plugins: []
 # additional directory to search for template files
 templatedir: /usr/share/ikiwiki/templates
 # base wiki source location
@@ -349,7 +349,7 @@ google_search: 0
 
 # theme plugin
 # name of theme to enable
-theme: ''
+theme: simple
 
 # websetup plugin
 # list of plugins that cannot be enabled/disabled via the web interface
