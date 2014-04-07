@@ -349,7 +349,7 @@ google_search: 0
 
 # theme plugin
 # name of theme to enable
-theme: AntPortal
+theme: ''
 
 # websetup plugin
 # list of plugins that cannot be enabled/disabled via the web interface
