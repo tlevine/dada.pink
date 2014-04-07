@@ -38,7 +38,6 @@ DAILY:21040412:21040413 State of the map
 20140409 5 pm Bytes & Mortar: Using Open Data to Help Your Business, The Enterprise Center, 4548 Market St, Philadelphia
 20140408 3 pm Data center tour, Inerail, 365 Main
 20140408 6 pm Hacker's Code of Collaboration, Quorum, 3711 Market St, 8th floor
-20140407 OpenAccessPHL, CityCoHo, 2401 Walnut St
 20140410 7:30 pm Law and Technology Mash-up, The University of the Arts, 211 S Broad St, room 511/13
 20140328 NPR (DC) tiny desk concert
 20140327 5 pm HHDC preparation at http://www.yelp.com/biz/sweet-diablo-washington
@@ -60,3 +59,4 @@ DAILY:21040412:21040413 State of the map
 20140504 5:30 pm MoMath Winton Power Series https://in.momath.org/civicrm/event/info?reset=1&id=208
 20140402 13:30 to 14:00 coffee with Erie
 20140403 11 am Coffee with Sean Herron at ME Swings Coffee, 1702 G St NW (near Farragut, the White House)
+20140407 3 pm OpenAccessPHL, CityCoHo, 2401 Walnut St
