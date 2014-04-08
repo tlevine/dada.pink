@@ -61,3 +61,7 @@ Chris Nares wanted the following two documents
 * An apartment application, just for records
   * I didn't need to sign the application or pay the application fee.
   * I did need to provide various forms of identification.
+
+## Other
+I made a copy of the keys. Remind me to give that to you in case you
+ever find you need a spare key.
