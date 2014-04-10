@@ -8,17 +8,17 @@ TD To do
 20140328 Write about making a graph of unique keys
 20140503 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
 20140411 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
-20140410 Write up the Wikipedia scraper thing that I did with Anastasya
-20140410 Write up the video downloader bytes thing that I did at the Python thing
-20140410 Write up the Grammar of Graphics language parser thing
+20140420 Write up the Wikipedia scraper thing that I did with Anastasya
+20140420 Write up the video downloader bytes thing that I did at the Python thing
+20140420 Write up the Grammar of Graphics language parser thing
 20140401 Prepare for the scraping class
 20140401 Prepare for the PDF parsing talk
 20140424 Apply for a passport https://tools.usps.com/go/POLocatorAction!input.action?address=&radius=&locationTypeQ=passport&tAddress=&tAddress1Ams=&tAddress2Ams=&tCityAms=&tStateAms=&tZipAms=&tCarrierRouteAms=&sWithin=&sServices=&hoursSelected=&collectionBoxSelected=&collectionHoursSelected=&servicesSelectedBusinessOffice=&servicesSelectedOffice1=&servicesSelectedPassportOffice=&servicesSelectedOffice2=&servicesSelectedOffice3=&approvedProvidersSelected=&allLocationsSelected1=&allLocationsSelected2=
-20140410 Tell Chris Metcalf what I want
-20140410 Look at the datahub.io stuff
+20140408 Tell Chris Metcalf what I want
+20140407 Look at the datahub.io stuff
 20140410 Plan sleeping for July on.
-20140410 Look for cool git hooks.
-TODO Write sheetmusic in Gnumeric with the Guile or Python plugin
+20140415 Look for cool git hooks.
+20140408 Write sheetmusic in Gnumeric with the Python plugin
 20140415 Move two bags and day bag to storage unit
 20140415 Evening: Order a Tom Bihn Synapse 19, steel/ultraviolet
 20140415 Evening: Order a Lenovo X1 Carbon or Asus Zenbook Prime or something else
