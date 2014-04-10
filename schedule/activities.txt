@@ -31,7 +31,6 @@ DAILY:20140404:20140412 Philly Tech Week (http://2014.phillytechweek.com/events)
 20140321 7 pm Berl’s Poetry Shop, 126A Front Ave, Brooklyn http://www.uglyducklingpresse.org/event/lighght-reading-with-ainsley-morse-bela-shayevich-brian-droitcour-david-b-goldstein/
 20140326 3 pm Talk on the phone with Enigma
 DAILY:21040412:21040413 State of the map
-20140416 New York Shell at Enigma
 20140403 Hacks/Hackers DC advanced web scraping
 20140331 1 pm ET lunch with Enigma
 20140701 Dry run of EuSpRIG talk
@@ -73,4 +72,6 @@ DAILY:21040412:21040413 State of the map
 20140422 7:30 pm Letterpress at Risley (Sarah Longchamp will have the shop open.)
 20140423 7 pm Letterpress at Risley(Brittany Moore will have the shop open.)
 20140424 10 pm Letterpress at Risley (Seamus Martin will have the shop open.)
-20140416 10:30 am meet with Ontodia
+20140416 19:00 ET New York Shell at Enigma
+20140416 10:30 ET meet with Ontodia
+20140416 12:00 or so (after Ontodia) meet with Enigma

@@ -4,5 +4,3 @@ TR Travel
 20140331 11:10 pm Megabus from New York to Philadelphia 9-1958-033114-M23-2310-NEW-PHI
 20140402 9:15 am Megabus from Philadelphia to Washington 6-1760-040214-M31-0915-PHI-WAS
 20140403 10:00 pm Megabus from Washington to Philadelphia 7-1519-040314-M31-2200-WAS-PHI
-20140416 7:00 am from Philadelphia to New York 6-3657-041614-M23-0700-PHI-NEW
-20140416 11:10 pm Megabus from New York to Philadelphia 9-7443-041614-M23-2310-NEW-PHI
