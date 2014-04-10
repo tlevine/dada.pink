@@ -20,4 +20,5 @@ TD To do
 20140410 Look for cool git hooks.
 TODO Write sheetmusic in Gnumeric with the Guile or Python plugin
 20140415 Move two bags and day bag to storage unit
-20140423 Move remaining items to storage unit.
+20140415 Evening: Order a Tom Bihn Synapse 19, steel/ultraviolet
+20140415 Evening: Order a Lenovo X1 Carbon
