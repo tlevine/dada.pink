@@ -21,4 +21,4 @@ TD To do
 TODO Write sheetmusic in Gnumeric with the Guile or Python plugin
 20140415 Move two bags and day bag to storage unit
 20140415 Evening: Order a Tom Bihn Synapse 19, steel/ultraviolet
-20140415 Evening: Order a Lenovo X1 Carbon
+20140415 Evening: Order a Lenovo X1 Carbon or Asus Zenbook Prime or something else
