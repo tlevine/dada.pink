@@ -15,7 +15,7 @@ a:hover {
 
 hr {
 	border-style: none;
-	background-color: #888;
+	background-color: #fe57a1;
 	height: 1px;
 }
 
@@ -30,19 +30,17 @@ pre {
 body {
 	margin: 0;
 	padding: 0;
-	color: #888;
+	color: #333;
 	background: #666;
 }
 
 .pageheader {
 	background: #333;
-	border-color: #888;
-	border-style: none none solid none;
-	border-width: 1px;
+	border-style: none;
 }
 
 #pageinfo {
-	border-color: #888;
+	border-style: none;
 }
 
 .inlinepage {
@@ -52,13 +50,12 @@ body {
 
 .pageheader .actions ul li {
 	background: #fe57a1;
-	border-color: #888;
-	border-style: solid solid none solid;
+	border-style: none;
 }
 .pageheader .actions ul li a {
-	color: #888;
+	color: #333;
 }
 
 .sidebar {
-	border-color: #888;
+	border-style: none;
 }
