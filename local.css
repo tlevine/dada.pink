@@ -54,6 +54,8 @@ body {
 	background: #fe57a1;
 	border-color: #888;
 	border-style: solid solid none solid;
+}
+.pageheader .actions ul li a {
 	color: #888;
 }
 
