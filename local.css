@@ -30,7 +30,7 @@ pre {
 body {
 	margin: 0;
 	padding: 0;
-	color: #eee;
+	color: #fff;
 	background: #333;
 }
 
@@ -48,11 +48,11 @@ body {
 }
 
 .pageheader .actions ul li {
-	background: #fe57a1;
+	background: #fff;
 	border-style: none;
 }
 .pageheader .actions ul li a {
-	color: #eee;
+	color: #fe57a1;
 }
 
 .sidebar {
