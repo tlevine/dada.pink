@@ -30,8 +30,8 @@ pre {
 body {
 	margin: 0;
 	padding: 0;
-	color: #333;
-	background: #666;
+	color: #eee;
+	background: #333;
 }
 
 .pageheader {
@@ -45,7 +45,6 @@ body {
 
 .inlinepage {
 	border-style: none;
-	border-top: 1px solid #aaa;
 }
 
 .pageheader .actions ul li {
@@ -53,7 +52,7 @@ body {
 	border-style: none;
 }
 .pageheader .actions ul li a {
-	color: #333;
+	color: #eee;
 }
 
 .sidebar {
