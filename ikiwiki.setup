@@ -60,6 +60,10 @@ add_plugins:
 - testpagespec
 - version
 - theme
+- rst
+- html
+- rawhtml
+- txt
 # plugins to disable
 disable_plugins: []
 # additional directory to search for template files
@@ -246,7 +250,7 @@ openid_cgiurl: http://thomaslevine.branchable.com/ikiwiki.cgi
 
 # highlight plugin
 # types of source files to syntax highlight
-#tohighlight: .c .h .cpp .pl .py Makefile:make
+tohighlight: .sh .py .r Makefile:make .hs
 # location of highlight's filetypes.conf
 filetypes_conf: /etc/highlight/filetypes.conf
 # location of highlight's langDefs directory
@@ -349,7 +353,7 @@ google_search: 0
 
 # theme plugin
 # name of theme to enable
-# theme: ''
+#theme: actiontabs
 
 # websetup plugin
 # list of plugins that cannot be enabled/disabled via the web interface
