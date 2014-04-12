@@ -64,6 +64,8 @@ add_plugins:
 - html
 - rawhtml
 - txt
+- prettydate
+- typography
 # plugins to disable
 disable_plugins: []
 # additional directory to search for template files
