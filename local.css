@@ -1,0 +1,14 @@
+a {
+	text-decoration: none;
+	color: #fe57a1;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+hr {
+	border-style: none;
+	background-color: #fe57a1;
+	height: 1px;
+}
