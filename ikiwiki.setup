@@ -437,7 +437,7 @@ aggregateinternal: 1
 
 # autoindex plugin
 # commit autocreated index pages
-autoindex_commit: 0
+autoindex_commit: 1
 
 # camelcase plugin
 # list of words to not turn into links
