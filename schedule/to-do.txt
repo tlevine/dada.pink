@@ -7,7 +7,7 @@ TD To do
 20140413 Get rid of SmugMug and all these tiny VPSs
 20140328 Write about making a graph of unique keys
 20140503 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
-20140411 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
+20140418 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
 20140420 Write up the Wikipedia scraper thing that I did with Anastasya
 20140420 Write up the video downloader bytes thing that I did at the Python thing
 20140420 Write up the Grammar of Graphics language parser thing
