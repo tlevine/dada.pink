@@ -1,0 +1,36 @@
+## Not classrooms
+For at least computer-data-stuff, I've been thinking that
+it's not worth having a set curriculum for a class of more
+than a couple days. It's rather hard to figure out what should
+go in the curriculum in the first place, and then it's hard
+to figure out which class's curriculum is the one that a
+particular person should learn.
+
+## Laziness
+Part of the issue with classrooms is that it's a lot of work
+on the teachers. Even if I'm not teaching every day, it's a
+lot of work for me to explain things; I only like doing it if
+I'm teaching a lot of people at once.
+
+So here's what I've been doing recently. I'll teach things to
+people one-on-one, but only if I write down what I'm saying so
+that I can later write up a tutorial for other people. This is
+still a bit of work, but it's a lot better.
+
+## Learn stuff from me
+Lots of people seem to want to learn computer-data-stuff
+from me. Here's a learning approach that I want to try.
+
+You'll do your own projects that are interesting to you and
+related to the stuff you want to learn, and you'll talk with me
+at least every couple weeks or so for assorted advice and help
+with specific confusing things.
+
+In return for this advice, you'll infrequently write little
+tutorials about specific things that you previously found
+really confusing but later figured out. (For inspiration,
+see [protocols](http://thomaslevine.com/!/street-sign-protocol) and
+[binary files](http://thomaslevine.com/!/downloading-binary-files-non-magic/).)
+And then you'll put them somewhere on the internet.
+Or I'll put them on my website if you don't have a good place
+to put things.
