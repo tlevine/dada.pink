@@ -82,7 +82,7 @@ usedirs: 1
 # use '!'-prefixed preprocessor directives?
 prefix_directives: 1
 # use page/index.mdwn source files
-indexpages: 0
+indexpages: 1
 # enable Discussion pages?
 discussion: 1
 # name of Discussion pages
@@ -373,7 +373,6 @@ websetup_unsafe:
 - syslog
 - usedirs
 - prefix_directives
-- indexpages
 - repositories
 - sslcookie
 # show unsafe settings, read-only, in web interface?
