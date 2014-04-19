@@ -1,0 +1,1 @@
+[[!map pages="exclaim/gastronimify/* and ! exclaim/gastronimify/*/*"]]
