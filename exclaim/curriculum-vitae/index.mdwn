@@ -1,0 +1,1 @@
+[[!map pages="exclaim/curriculum-vitae/* and ! exclaim/curriculum-vitae/*/*"]]
