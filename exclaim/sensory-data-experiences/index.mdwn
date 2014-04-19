@@ -1,0 +1,1 @@
+[[!map pages="exclaim/sensory-data-experiences/* and ! exclaim/sensory-data-experiences/*/*"]]
