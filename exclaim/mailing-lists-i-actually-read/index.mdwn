@@ -1,0 +1,1 @@
+[[!map pages="exclaim/mailing-lists-i-actually-read/* and ! exclaim/mailing-lists-i-actually-read/*/*"]]
