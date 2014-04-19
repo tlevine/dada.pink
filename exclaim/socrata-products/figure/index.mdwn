@@ -1,0 +1,1 @@
+[[!map pages="exclaim/socrata-products/figure/* and ! exclaim/socrata-products/figure/*/*"]]
