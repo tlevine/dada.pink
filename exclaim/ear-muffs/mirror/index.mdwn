@@ -1,0 +1,1 @@
+[[!map pages="exclaim/ear-muffs/mirror/* and ! exclaim/ear-muffs/mirror/*/*"]]
