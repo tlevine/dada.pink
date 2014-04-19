@@ -1,0 +1,1 @@
+[[!map pages="exclaim/social-science/* and ! exclaim/social-science/*/*"]]
