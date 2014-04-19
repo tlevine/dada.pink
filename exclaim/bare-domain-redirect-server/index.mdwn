@@ -1,0 +1,1 @@
+[[!map pages="exclaim/bare-domain-redirect-server/* and ! exclaim/bare-domain-redirect-server/*/*"]]
