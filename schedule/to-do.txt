@@ -1,26 +1,24 @@
 # Read more at http://wiki.thomaslevine.com/schedule/
 TD To do
-20140515 EHSM proposals are due.
-20140405 Redo Socrata updating but with the correct date field
-20140421 Host .medial_temporal_lobe on references.thomaslevine.com
-20140409 Apply to PyData Berlin http://pydata.org/berlin2014/cfp/
-20140413 Get rid of SmugMug and all these tiny VPSs
-20140328 Write about making a graph of unique keys
+20140505 Redo Socrata updating but with the correct date field
+20140521 Host .medial_temporal_lobe on references.thomaslevine.com
+20140513 Get rid of SmugMug and all these tiny VPSs
+20140508 Write about making a graph of unique keys
 20140503 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
-20140418 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
-20140420 Write up the Wikipedia scraper thing that I did with Anastasya
-20140420 Write up the video downloader bytes thing that I did at the Python thing
-20140420 Write up the Grammar of Graphics language parser thing
+20140428 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
+20140430 Write up the Wikipedia scraper thing that I did with Anastasya
+20140414 Write up the video downloader bytes thing that I did at the Python thing
+20140430 Write up the Grammar of Graphics language parser thing
 20140401 Prepare for the scraping class
 20140401 Prepare for the PDF parsing talk
 20140420 Apply for a passport https://tools.usps.com/go/POLocatorAction!input.action?address=&radius=&locationTypeQ=passport&tAddress=&tAddress1Ams=&tAddress2Ams=&tCityAms=&tStateAms=&tZipAms=&tCarrierRouteAms=&sWithin=&sServices=&hoursSelected=&collectionBoxSelected=&collectionHoursSelected=&servicesSelectedBusinessOffice=&servicesSelectedOffice1=&servicesSelectedPassportOffice=&servicesSelectedOffice2=&servicesSelectedOffice3=&approvedProvidersSelected=&allLocationsSelected1=&allLocationsSelected2=
 20140408 Tell Chris Metcalf what I want
 20140407 Look at the datahub.io stuff
 20140410 Plan sleeping for July on.
-20140415 Look for cool git hooks.
+20140515 Look for cool git hooks.
 20140408 Write sheetmusic in Gnumeric with the Python plugin
 20140415 Move two bags and day bag to storage unit
-20140420 Order a Tom Bihn Synapse 19, steel/ultraviolet
+20140419 Order a Tom Bihn Synapse 19, steel/ultraviolet
 20140422 Decide how to divide my weekend between Transparency Camp and WikiConference USA, and book travel accordingly.
 20140430 Switch to pass http://www.zx2c4.com/projects/password-store/
 DAILY:20140416:20140424 Finish my SEMS stuff.
