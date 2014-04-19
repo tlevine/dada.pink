@@ -1,0 +1,1 @@
+[[!map pages="exclaim/datakind-is-kind/* and ! exclaim/datakind-is-kind/*/*"]]
