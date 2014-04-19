@@ -1,0 +1,1 @@
+[[!map pages="exclaim/everyone-is-a-25-year-old-who-is-changing-the-world/* and ! exclaim/everyone-is-a-25-year-old-who-is-changing-the-world/*/*"]]
