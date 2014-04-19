@@ -1,0 +1,1 @@
+[[!map pages="exclaim/beaglebone-power/* and ! exclaim/beaglebone-power/*/*"]]
