@@ -1,0 +1,1 @@
+[[!map pages="exclaim/random-person/* and ! exclaim/random-person/*/*"]]
