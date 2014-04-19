@@ -21,9 +21,8 @@ TD To do
 20140408 Write sheetmusic in Gnumeric with the Python plugin
 20140415 Move two bags and day bag to storage unit
 20140420 Order a Tom Bihn Synapse 19, steel/ultraviolet
-20140420 Order a Lenovo X1 Carbon or Asus Zenbook Prime or something else
 20140422 Decide how to divide my weekend between Transparency Camp and WikiConference USA, and book travel accordingly.
 20140430 Switch to pass http://www.zx2c4.com/projects/password-store/
 DAILY:20140416:20140424 Finish my SEMS stuff.
-20140420 Figure out what type of hard drive my Acer Aspire One takes, and order a SSD.
 20140501 Book intercontinental travel. Probably New York to Copenhagen on Norwegian.
+20140420 Buy this stuff. Maybe switch RAM with the desktop. http://community.acer.com/t5/2013-Archives/FYI-Aspire-One-AO725-RAM-amp-Samsung-840-SSD-Upgrade-Success/td-p/71433

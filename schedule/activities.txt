@@ -85,3 +85,4 @@ DAILY:20140409:20140410 Ecohack
 20140421 6:45 pm, LispNYC, Meetup HQ, 632 Broadway, http://www.meetup.com/LispNYC/events/122950722/
 20140423 Haskell, 625 Avenue of Americas, http://www.meetup.com/NY-Haskell/events/177110862/
 20140424 6:30 pm, 229 W 43rd St, http://www.meetup.com/The-New-York-Perl-Meetup-Group/events/177926352/
+20140420 1 pm Hang with Yoon Ji in Hartsdale.
