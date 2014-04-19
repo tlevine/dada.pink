@@ -1,0 +1,1 @@
+[[!map pages="exclaim/data-updatedness/mockups/* and ! exclaim/data-updatedness/mockups/*/*"]]
