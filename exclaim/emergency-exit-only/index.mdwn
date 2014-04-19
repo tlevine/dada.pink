@@ -1,0 +1,1 @@
+[[!map pages="exclaim/emergency-exit-only/* and ! exclaim/emergency-exit-only/*/*"]]
