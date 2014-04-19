@@ -1,0 +1,1 @@
+[[!map pages="exclaim/socrata-calendars/* and ! exclaim/socrata-calendars/*/*"]]
