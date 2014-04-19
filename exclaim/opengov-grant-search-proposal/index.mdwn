@@ -1,0 +1,1 @@
+[[!map pages="exclaim/opengov-grant-search-proposal/* and ! exclaim/opengov-grant-search-proposal/*/*"]]
