@@ -1,0 +1,1 @@
+[[!map pages="exclaim/open-data-500-data-dictionary/* and ! exclaim/open-data-500-data-dictionary/*/*"]]
