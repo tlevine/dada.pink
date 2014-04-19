@@ -1,0 +1,1 @@
+[[!map pages="exclaim/socrata-metrics-api-exploration/* and ! exclaim/socrata-metrics-api-exploration/*/*"]]
