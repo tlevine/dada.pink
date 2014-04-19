@@ -1,0 +1,1 @@
+[[!map pages="exclaim/r-spells-for-data-wizards/* and ! exclaim/r-spells-for-data-wizards/*/*"]]
