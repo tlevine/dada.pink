@@ -1,0 +1,1 @@
+[[!map pages="exclaim/best-practices/* and ! exclaim/best-practices/*/*"]]
