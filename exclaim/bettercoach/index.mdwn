@@ -1,0 +1,1 @@
+[[!map pages="exclaim/bettercoach/* and ! exclaim/bettercoach/*/*"]]
