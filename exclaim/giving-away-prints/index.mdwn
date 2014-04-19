@@ -1,0 +1,1 @@
+[[!map pages="exclaim/giving-away-prints/* and ! exclaim/giving-away-prints/*/*"]]
