@@ -1,0 +1,1 @@
+[[!map pages="exclaim/hovering-cycle/figure/* and ! exclaim/hovering-cycle/figure/*/*"]]
