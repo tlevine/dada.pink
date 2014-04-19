@@ -1,0 +1,1 @@
+[[!map pages="exclaim/cool-things-happen-when-you-have-lots-of-spreadsheets/* and ! exclaim/cool-things-happen-when-you-have-lots-of-spreadsheets/*/*"]]
