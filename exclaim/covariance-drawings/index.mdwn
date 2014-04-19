@@ -1,0 +1,1 @@
+[[!map pages="exclaim/covariance-drawings/* and ! exclaim/covariance-drawings/*/*"]]
