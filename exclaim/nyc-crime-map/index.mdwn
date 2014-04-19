@@ -1,0 +1,1 @@
+[[!map pages="exclaim/nyc-crime-map/* and ! exclaim/nyc-crime-map/*/*"]]
