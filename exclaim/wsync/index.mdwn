@@ -1,0 +1,1 @@
+[[!map pages="exclaim/wsync/* and ! exclaim/wsync/*/*"]]
