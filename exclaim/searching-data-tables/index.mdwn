@@ -1,0 +1,1 @@
+[[!map pages="exclaim/searching-data-tables/* and ! exclaim/searching-data-tables/*/*"]]
