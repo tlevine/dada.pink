@@ -1,0 +1,1 @@
+[[!map pages="exclaim/peanut-butterers/* and ! exclaim/peanut-butterers/*/*"]]
