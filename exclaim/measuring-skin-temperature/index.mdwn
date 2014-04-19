@@ -1,0 +1,1 @@
+[[!map pages="exclaim/measuring-skin-temperature/* and ! exclaim/measuring-skin-temperature/*/*"]]
