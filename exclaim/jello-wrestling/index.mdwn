@@ -1,0 +1,1 @@
+[[!map pages="exclaim/jello-wrestling/* and ! exclaim/jello-wrestling/*/*"]]
