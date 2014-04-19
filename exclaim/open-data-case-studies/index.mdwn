@@ -1,0 +1,1 @@
+[[!map pages="exclaim/open-data-case-studies/* and ! exclaim/open-data-case-studies/*/*"]]
