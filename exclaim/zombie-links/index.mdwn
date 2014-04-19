@@ -1,0 +1,1 @@
+[[!map pages="exclaim/zombie-links/* and ! exclaim/zombie-links/*/*"]]
