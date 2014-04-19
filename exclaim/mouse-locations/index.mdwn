@@ -1,0 +1,1 @@
+[[!map pages="exclaim/mouse-locations/* and ! exclaim/mouse-locations/*/*"]]
