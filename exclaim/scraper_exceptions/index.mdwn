@@ -1,0 +1,1 @@
+[[!map pages="exclaim/scraper_exceptions/* and ! exclaim/scraper_exceptions/*/*"]]
