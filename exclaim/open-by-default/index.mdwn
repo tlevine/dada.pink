@@ -1,0 +1,1 @@
+[[!map pages="exclaim/open-by-default/* and ! exclaim/open-by-default/*/*"]]
