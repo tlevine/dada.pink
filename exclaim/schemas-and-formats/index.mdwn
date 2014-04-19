@@ -1,0 +1,1 @@
+[[!map pages="exclaim/schemas-and-formats/* and ! exclaim/schemas-and-formats/*/*"]]
