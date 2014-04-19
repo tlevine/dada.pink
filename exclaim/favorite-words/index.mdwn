@@ -1,0 +1,1 @@
+[[!map pages="exclaim/favorite-words/* and ! exclaim/favorite-words/*/*"]]
