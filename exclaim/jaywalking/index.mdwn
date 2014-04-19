@@ -1,0 +1,1 @@
+[[!map pages="exclaim/jaywalking/* and ! exclaim/jaywalking/*/*"]]
