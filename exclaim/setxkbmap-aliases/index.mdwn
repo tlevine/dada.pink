@@ -1,0 +1,1 @@
+[[!map pages="exclaim/setxkbmap-aliases/* and ! exclaim/setxkbmap-aliases/*/*"]]
