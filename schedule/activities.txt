@@ -67,11 +67,6 @@ DAILY:21040412:21040413 State of the map
 20140509 2 pm https://www.facebook.com/events/700180236692347
 20140411 2 pm Phone call with SEC, 202-551-5000, see Will's email for the meeting ID
 20140530 All day, New York Law School, 185 West Broadway, WikiConference USA, http://wikiconferenceusa.org
-20140421 7 pm Letterpress at Risley (Brittany Moore will have the shop open.)
-20140422 10 pm Letterpress at Risley (Seamus Martin will have the shop open.)
-20140422 7:30 pm Letterpress at Risley (Sarah Longchamp will have the shop open.)
-20140423 7 pm Letterpress at Risley(Brittany Moore will have the shop open.)
-20140424 10 pm Letterpress at Risley (Seamus Martin will have the shop open.)
 20140416 19:00 ET New York Shell at Enigma
 20140416 10:30 ET meet with Ontodia
 20140416 12:00 or so (after Ontodia) meet with Enigma
@@ -85,3 +80,8 @@ DAILY:20140417:20140418 Go to Scarsdale one of these days, pick up my birth cert
 DAILY:20140409:20140410 Ecohack
 20140418 3 pm Meeting with Ontodia, 137 Varick
 20140426 3 pm Julian's birthday party, 124 Wyckoff St, Brooklyn, Apt 1, bottom buzzer, 917-651-1010, bring food/drink/games
+20140429 6:15 pm, 32 Avenue of the Americas, http://www.meetup.com/nyhackr/events/177917232/
+20140430 6:30 pm, 770 Broadway 6th Floor, http://www.meetup.com/hacks-hackers-nyc/events/177739392/
+20140421 6:45 pm, LispNYC, Meetup HQ, 632 Broadway, http://www.meetup.com/LispNYC/events/122950722/
+20140423 Haskell, 625 Avenue of Americas, http://www.meetup.com/NY-Haskell/events/177110862/
+20140424 6:30 pm, 229 W 43rd St, http://www.meetup.com/The-New-York-Perl-Meetup-Group/events/177926352/
