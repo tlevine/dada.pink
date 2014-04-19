@@ -1,0 +1,1 @@
+[[!map pages="exclaim/open-data-plans/* and ! exclaim/open-data-plans/*/*"]]
