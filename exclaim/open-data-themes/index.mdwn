@@ -1,0 +1,1 @@
+[[!map pages="exclaim/open-data-themes/* and ! exclaim/open-data-themes/*/*"]]
