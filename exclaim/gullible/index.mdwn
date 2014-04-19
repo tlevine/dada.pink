@@ -1,0 +1,1 @@
+[[!map pages="exclaim/gullible/* and ! exclaim/gullible/*/*"]]
