@@ -1,0 +1,1 @@
+[[!map pages="exclaim/interactive-technology-data-to-world/* and ! exclaim/interactive-technology-data-to-world/*/*"]]
