@@ -1,0 +1,1 @@
+[[!map pages="exclaim/seven-open-data-tips-for-data-pickaxe-factories/* and ! exclaim/seven-open-data-tips-for-data-pickaxe-factories/*/*"]]
