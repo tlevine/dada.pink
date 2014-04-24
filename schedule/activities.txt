@@ -83,7 +83,7 @@ DAILY:20140409:20140410 Ecohack
 20140429 6:15 pm, 32 Avenue of the Americas, http://www.meetup.com/nyhackr/events/177917232/
 20140430 6:30 pm, 770 Broadway 6th Floor, http://www.meetup.com/hacks-hackers-nyc/events/177739392/
 20140423 Haskell, 625 Avenue of Americas, http://www.meetup.com/NY-Haskell/events/177110862/
-20140424 6:30 pm, 229 W 43rd St, http://www.meetup.com/The-New-York-Perl-Meetup-Group/events/177926352/
 20140420 1 pm Hang with Yoon Ji in Hartsdale.
-20140424 1 pm (?) lunch with Vivian
 20140430 12:30 PM to 2:00 PM The Puck Building, 295 Lafayette St&lt, 2nd floor, GovLab Ideas Lunch
+20140424 3:30 pm meet with Vivian at her office
+20140426 5 pm Storyscapes
