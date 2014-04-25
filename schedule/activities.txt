@@ -90,3 +90,4 @@ DAILY:20140409:20140410 Ecohack
 20140424 Get passport photos taken.
 20140425 Go to the post office in the morning, and apply for a passport.
 20140426 Bus to Ithaca
+20140501 12 pm Thomas and Ryan have lunch
