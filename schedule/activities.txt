@@ -92,3 +92,4 @@ DAILY:20140409:20140410 Ecohack
 20140426 Bus to Ithaca
 20140501 12 pm Thomas and Ryan have lunch
 20140430 Buy http://www.bhphotovideo.com/bnh/controller/home?O=&sku=998573&gclid=CIDfkNHn-70CFU4aOgod8ngAkg&Q=&is=REG&A=details
+DAILY:20140423:20140425 In Ontodia's office
