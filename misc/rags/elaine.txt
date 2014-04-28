@@ -1,0 +1,108 @@
+message{ id:AANLkTimlbm8Ny523OCztcSmW68OYAimpqqR-QElTwm8e@mail.gmail.com depth:0 match:1 excluded:0 filename:/home/tlevine/safe/maildir/cold/thomas.levine@gmail.com/[Gmail].Starred/cur/1342733179_0.2019.desk,U=4375,FMD5=2af771a9578089448f7740e324bfbe89:2,FS
+header{
+"Bennett M. Wineholt" <bmw39@cornell.edu> (2010-05-12) (flagged inbox)
+Subject: Print Shop Rag Purchase
+From: "Bennett M. Wineholt" <bmw39@cornell.edu>
+To: Thomas Levine <thomas.levine@gmail.com>, Elaine Bushey <ekb27@cornell.edu>
+Date: Wed, 12 May 2010 14:28:06 -0400
+header}
+body{
+part{ ID: 1, Content-type: multipart/alternative
+part{ ID: 2, Content-type: text/plain
+Hi Tom,
+
+Please email Elaine with enough information to buy the rag package you
+wanted for the Print Shop.
+
+Thanks!
+Ben
+part}
+part{ ID: 3, Content-type: text/html
+Non-text part: text/html
+part}
+part}
+body}
+message}
+message{ id:AANLkTilq08p-3RfaAyVB7x76IO0QHCvraIlp5VPri6rx@mail.gmail.com depth:1 match:1 excluded:0 filename:/home/tlevine/safe/maildir/cold/thomas.levine@gmail.com/[Gmail].Sent Mail/cur/1342692084_0.2019.desk,U=9929,FMD5=e9e253523c24888236328e65ad90fc4f:2,S
+header{
+Thomas Levine <thomas.levine@gmail.com> (2010-05-12) (inbox)
+Subject: Re: Print Shop Rag Purchase
+From: Thomas Levine <thomas.levine@gmail.com>
+To: "Bennett M. Wineholt" <bmw39@cornell.edu>
+Cc: Elaine Bushey <ekb27@cornell.edu>
+Date: Wed, 12 May 2010 17:39:32 -0400
+header}
+body{
+part{ ID: 1, Content-type: text/plain
+I can't find any rag suppliers closer than Rick. Go here
+
+http://www.ricksrags.com/retailorders.htm
+
+I want three units of item # 003, which will cost $96. If you use the
+online cart, you'll have to pay tax, so call him.
+
+Toll Free: 1-888-742-5724
+Locally: 315-697-8510
+
+Tom
+
+2010/5/12 Bennett M. Wineholt <bmw39@cornell.edu>:
+> Hi Tom,
+>
+> Please email Elaine with enough information to buy the rag package you
+> wanted for the Print Shop.
+>
+> Thanks!
+> Ben
+>
+part}
+body}
+message}
+message{ id:AANLkTikAUYSqpU7gvxa4Kdx166uK=uqnZ5+nXxiTtmO9@mail.gmail.com depth:2 match:1 excluded:0 filename:/home/tlevine/safe/maildir/cold/thomas.levine@gmail.com/[Gmail].Sent Mail/cur/1342698218_0.2019.desk,U=11110,FMD5=e9e253523c24888236328e65ad90fc4f:2,S
+header{
+Thomas Levine <thomas.levine@gmail.com> (2010-09-13) (inbox)
+Subject: Fwd: Print Shop Rag Purchase
+From: Thomas Levine <thomas.levine@gmail.com>
+To: "Bennett M. Wineholt" <bmw39@cornell.edu>, Lauren Elan <lde27@cornell.edu>
+Date: Mon, 13 Sep 2010 02:04:27 -0400
+header}
+body{
+part{ ID: 1, Content-type: text/plain
+Hi,
+
+I'd like the rags below.
+
+Tom
+
+---------- Forwarded message ----------
+From: Thomas Levine <thomas.levine@gmail.com>
+Date: 2010/5/12
+Subject: Re: Print Shop Rag Purchase
+To: "Bennett M. Wineholt" <bmw39@cornell.edu>
+Kopia: Elaine Bushey <ekb27@cornell.edu>
+
+
+I can't find any rag suppliers closer than Rick. Go here
+
+http://www.ricksrags.com/retailorders.htm
+
+I want three units of item # 003, which will cost $96. If you use the
+online cart, you'll have to pay tax, so call him.
+
+Toll Free: 1-888-742-5724
+Locally: 315-697-8510
+
+Tom
+
+2010/5/12 Bennett M. Wineholt <bmw39@cornell.edu>:
+> Hi Tom,
+>
+> Please email Elaine with enough information to buy the rag package you
+> wanted for the Print Shop.
+>
+> Thanks!
+> Ben
+>
+part}
+body}
+message}
