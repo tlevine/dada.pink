@@ -75,7 +75,6 @@ DAILY:20140417:20140418 Go to Scarsdale one of these days, pick up my birth cert
 20140529 Sunlight Network lobby day
 20140414 2 pm ET call with Josh and Danish
 20140415 10 am Alexis and Tim come.
-20140503 Risley Spring Faire
 20140417 Ask Mom about the PWC laptop discount.
 DAILY:20140409:20140410 Ecohack
 20140418 3 pm Meeting with Ontodia, 137 Varick
@@ -89,7 +88,6 @@ DAILY:20140409:20140410 Ecohack
 20140424 Get passport photos taken.
 20140425 Go to the post office in the morning, and apply for a passport.
 20140426 Bus to Ithaca
-20140501 12 pm Thomas and Ryan have lunch
 20140430 Buy http://www.bhphotovideo.com/bnh/controller/home?O=&sku=998573&gclid=CIDfkNHn-70CFU4aOgod8ngAkg&Q=&is=REG&A=details
 DAILY:20140423:20140425 In Ontodia's office
 20140430 Book flight to Europe: Norwegian to CPH. (Book the return flight later.) Also book travel to Stuttgart if I can.
@@ -99,3 +97,6 @@ DAILY:20140423:20140425 In Ontodia's office
 20140430 12:30 pm GovLab ideas lunch
 20140506 6 pm CopyNight, The Randoph, 349 Broome St
 20140429 Pick up prints, go to poster-making
+20140501 Passport
+20140503 Scarsdale stuff in Scarsdale
+20140514 https://sites.google.com/a/newvisions.org/scripts_resources/home/innovation-throwdown
