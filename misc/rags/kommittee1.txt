@@ -1,0 +1,534 @@
+message{ id:AANLkTimUTZKO-6V_70HzrZocOcwe1_dMmQEJyNAGxk7Y@mail.gmail.com depth:0 match:1 excluded:0 filename:/home/tlevine/safe/maildir/cold/thomas.levine@gmail.com/Risley Hall/cur/1342930201_0.29203.desk,U=5142,FMD5=0053d1416f3d0bfa6a572fa31ce7c0ec:2,S
+header{
+Kate Orlofsky <kbo7@cornell.edu> (2010-05-03) (inbox)
+Subject: Kommittee Minutes 5-02-10
+From: Kate Orlofsky <kbo7@cornell.edu>
+To: risleyhall-l@cornell.edu
+Date: Sun, 02 May 2010 22:46:09 -0400
+header}
+body{
+part{ ID: 1, Content-type: multipart/alternative
+part{ ID: 2, Content-type: text/plain
+KOMMITTEE MINUTES FOR MAY THE SECOND OF THE YEAR TWO THOUSAND AND TEN
+THEME: Hasta la Vista Elaine Kommittee (formerly Cinco de
+Moustache<http://en.wikipedia.org/wiki/Cinco_de_Moustache>Awareness
+Kommittee)
+
+INSIDE GROUPS SEEKING MUSIC ROOM:
+Nadie
+
+
+OUTSIDE GROUPS:
+Nadie
+
+
+
+GV REPORT – We have $958.32.  We would like to stay above $500 so we will
+have a solid $1500 for RisOC programming.  We have about $400 that could be
+allocated.
+-       Risquirer – Tom Levine
+
+ELAINE REPORT
+-I sent out an email.  I’m leaving, and I’m weirded out by that.  Will be
+starting an RHD search for Risley.  I’m phone interviewing this week.  I’m
+not sure what will happen yet.  Look for emails about meeting candidates.
+
+-Have 9 AIRs that we will be interviewing this week: 2 tech theatre, some
+musicians, bunch of visual artists and writers.  Really good spread.
+Initiatlly
+had 10 but 1 withdrew.  Looking for someone with a theatre background just
+in case the new RHD doesn’t have a theatre background.
+
+-Anticipating lots of crying between now and leaving.  I was on the fence
+all week.  I will come back and visit some time, and we will have an epic
+BBBBQ.
+
+-We also need to have a Louie’s Lunch Truck visit because in my 5 years
+here, I have never eaten there.
+
+
+
+Everyone: WE LOVE YOU ELAINE.
+
+
+
+RA LAUREN REPORT.
+-Upcoming email about Risley free Government Inspector tickets.  Look for
+that tonight.
+
+-In process of getting group to play for BBBBQ so we may have live music!
+
+
+RA JULIA REPORT.
+-Story time with Graeme happened complete with oreos and nesquik.  Will be
+buying more of said treats this week.
+
+-Faculty programs are coming to an end with closing of RisDining.  Thanks
+for those who have made them feel welcome.  They really enjoy being part of
+this community.
+
+
+RA NATE REPORT.
+-Saturday special RisBrunch with cartoons.
+
+-BBBBQ next week.
+
+
+RA SALLY REPORT.
+-RAs will be putting announcements about closing on your doors.  If you
+haven’t gotten one, you will by the end of tomorrow.  If you don’t get one,
+let someone know.  Read them.
+
+-Shops stuff through end of the year and BBBBQ.
+
+-New shops managers chosen at beginning of next year.
+
+
+RA KERRY REPORT.
+-Naked Improv had 2 shows this weekend.  Lots of nudity. Very
+enjoyable.  Rehearsal
+resumes Thursday.
+
+-Meditation was cool today.  Did exercises involving movement and dancing in
+the dance studio.  Hope to repeat in the future.
+
+-Had Italian Night last week.  Went well.
+
+-BBBBQ planning going well.  RisPerlatives!
+
+
+
+RSC RESPORT.
+
+-RSC is RSC.
+
+-Invited to banquet with free food a week from tomorrow.
+
+
+AIR REPORTS.
+DARREN:
+-Sorry I’m late.  Just got back from the city from reunion and got stuck in
+traffic after the Yankee game.  I’ve been hiding from yankee fans.
+
+-Last week I was at the experimental tv center.  I already talked about
+that…
+
+-This week I was in NYC fearfully approcahing my new life back there.
+
+-Screening of motion portraiture from open call next weekend so you can see
+what I was up to.
+
+-Very interesting year.  I have a lot of respect for your discussions and
+decisions.  This is where you form a lot of your decision-making skills that
+are useful for life.  I’ve been very productive artwork-wise and in the
+connections I’ve made during my time here.  Title of being AIR is a
+significant honor and means a lot to me and the people I meet.  Thank you
+for letting me occupy that position.  I really appreciate it.
+
+
+WILL:
+-not present
+
+-Isaac on his behalf: Was a judge at Shakespeare competition.  Cabaret
+happened.
+
+ ANNOUNCEMENTS.
+-Ben: Theatre Subkommittee selected plays and positions for next fall.  Will
+send out email and update website.
+
+
+
+-John: Last Kommittee for class of 2010.  Round of applause to fellow
+seniors.
+
+-Elaine: Largest class graduating in about 5 years.  You guys have rocked it
+and survived some crazy stuff.
+
+
+
+-Kim: We have an awesome volleyball set.  Watch out for emails and join us!
+
+
+ OTHER BUSINESS.
+-Approval of Minutes.
+
+-Acclaimed.
+
+
+
+-Sara: Interim replacements-people not coming back need to be replaced.  Molly
+Edwards and Kate Orlofsky as a two-headed monster for chair.  Members at
+large: Doug isn’t going to be here.  Would like to nominate Jen
+Pierre.  Nomination
+for Pat is Audrey Sutton.
+
+-Kerry: How will the two headed monster of chairness work with the
+secretariness?
+
+-Sara: Kerry will take over responsbility of minutes.  Nolan will take over
+for Molly.
+
+-Jess: I think it should be Nolan for interim.  This whole chair thing makes
+me not very happy.
+
+-Jeff: Can we discuss voting?
+
+-Nolan: Thanks for the nomination but I think Molly has a better handle on
+the rules of charter.  Definitely more experience too.
+
+-Acclaimed.
+
+
+
+-Jess: Needed new RisLibrarian.  Recommending Alyssa Henning.  She’s very
+responsible and would do a very good job keeping the place clean.
+
+-Kim: Deos she have the time to maintain it?
+
+-Jess: You work when you have free time. I’ve gone a month without cleaning.
+
+
+-Sally:  Should we hear all the names of these nominees?
+
+-Jess: Four responses to my email inquiry were Jen, Clover, Nate, and
+Alyssa.
+
+-Clover: Are multiple Rislibrarians possible?
+
+-Hat Ben: If other candidates are wiling to be librarian.  I’ve never seen
+Alyssa in the library and I know she’s very busy.
+
+-Audrey: Isn’t the recommendation supposed to be a recommendation and not an
+absolute?
+
+-Sally: If busyness is an issue and presence is an issue, could we do
+two-headed monster?
+
+-Jess: It’s been my experience that the best librarians are good librarians
+in short bursts.  I had Clover in mind for future, but no objection to
+two-headed monster.
+
+-Kerry: Is it possible to have a 3- or 4- headed monster?
+
+-Elaine: Let’s just everyone be responsible for cleaning!
+
+-Jen: I’d be up for being a three-headed monster.  I’ll be busy too but I’d
+be up for being one of three heads.
+
+-Jess: If something happens and papers explode everywhere, who would be held
+accountable?
+
+-Elaine: I’d hold all 3 accountable and the library accountable as well.  It’s
+not unknown for me to lock the library.
+
+-Jess: Just want accountability and organization.  Don’t want there to be
+too many cooks in the kitchen…
+
+-Sara: Ultimately up to you as it is your nomination Jess.
+
+-Jeff: More than 2 people is getting iffy.  3 heads isn’t in charter.  I
+have no idea which 2 of 3 would be best.
+
+-Jess: My recommendation is Alyssa but if someone wants to help out if she’s
+struggling, I’d support that.  I’d like to nominate Clover and Alyssa.
+
+-Acclaimed.
+
+
+
+-Jess: This will be unpleasant, but hopefully short and simple.  I’m coming
+as a concerned member of the community and I have nothing against Sara as a
+person.  List of formal grievances and have printed out copies for people to
+read. Charter states chair should run and facilitate smooth running
+meetings.  I don’t think this was carried out. There were long kommittees
+that were kind of dull, which is subjective.  Some disregard of
+charter.  Changed
+charter to suit own agenda. Felt weren’t enough opinions at charter review.
+Appointment of interim chair was kind of shady.  Supported by just the
+general overrule of appointments.  I can’t make a motion for anything.
+
+-Rocky: Motion to move on to next topic.
+
+
+
+-Doug: I was talking with Bennett, Sally, and Kim and there’s currently an
+issue with Nike and Cornell.  Cornell uses Nike for sporting clothing stuff
+and there’s currently a problem in that Nike owes $2.6 million in severance
+pay to workers in Haiti.  Something in Cornell’s Code of Conduct against
+this saying company must be held responsible for subcontractors.  COLA is
+sponsoring a motion to protest this and trying to get Cornell to sever
+relationship with Nike and replace with a different company.  Motion to
+endorse the protests because clear violation of Cornell’s Code of conduct.
+
+-Audrey: How exactly does endorsing work?
+
+-Doug: List of groups opposed to Nike’s presence.
+
+-Nolan: What’s COLA?
+
+-Doug: Cornell group.
+
+-Miles: How would we be listed?
+
+-Risley Residential College.
+
+-Acclaimed.
+
+
+
+ALLOCATIONS:
+-Dasha:  Risley has been enjoying playing Bananagrams.  $15 at mall.
+
+-Elaine: It’s like scrabble without the board.
+
+-Bennett: Let’s get 2!
+
+-Dasha: I think one is enough, but whatever you want.  Why would we need
+two?
+
+-Miles: Could have one larger game.
+
+-Bennett: This could generate sufficient interest and it’s $30.
+
+-Clover: Also, really only works for up to 4 people.
+
+-Elaine: If it’s outside of 6, it’s exclusionary.
+
+-Dasha: Ammended motion for 2.
+
+-Acclaimed.
+
+
+
+-Dasha: Mentioned hidden pictures mural a few weeks ago.  Want to work on
+with Aiden. Have narrowed down to two choices.
+
+-Isaac: Would like to be able to stare at this mural and find fun things.
+
+-Jeff: Should approve and trust mural artists with whichever one they
+decide.
+
+-Rocky: They’re not that much different in style.
+
+-Dasha: Thinking of doing in the dance studio hallway near the vending
+machines.
+
+-Miles: Time table behind this?
+
+-Dasha: Probably study week or week after. Is there paint?
+
+-Elaine: I will just buy it.
+
+-Acclaimed.
+
+
+
+-Sara: RisOC money for awesome RisOC programs.  $500.
+
+-Acclaimed.
+
+
+
+-Nate: TVR on Saturday from noon-3 for RisBrunch.
+
+-Elaine: Making our own Saturday cartoons!
+
+-Nate: Looney Tunes.
+
+-Elaine: TV will be fixed by then.  How many more things will break before I
+leave?
+
+-Miles: Is this a RisBrunch?
+
+-Elaine: I’m making pancakes!  I will make facilities get us a new TV if it
+is broken.
+
+-Acclaimed.
+
+
+
+-Kerry: $100 for getting Elaine a present.
+
+-Elaine: How can I buy myself a present?  That’s embezzlement!
+
+-Kerry: I got you a felony!
+
+-Sara: Send out to listserve for donations…
+
+
+
+-Rocky: As you guys know, RisPrinter experiment has been ongoing.  About
+5,000 pages printed since beginning of the semester.  Quite a useful tool
+for everyone.  Instructions are online.  Costs between $200-$250 per
+semester to print what you want in terms of toner and paper.  Community
+needs to decide now about whether or not we want to keep this.  Keep with
+thought in mind of what it costs.  Cost allows 12,000-15,000 pages/semester.
+
+-Miles: Is this based on an ideal semester where we have a continual supply
+of toner or on numbers from this semester?
+
+-Rocky: This is for ideal semester.  Calculated number of pages based on if
+had continual supply.
+
+-Nolan: Have you found managers?
+
+-Rocky: Gabriel Clandorf and Dan Levine.
+
+-Isaac: Can we put your face on the printer?  I would paint a mural of you.
+
+-Audrey: Did we ever buy paper for printer using Risley money?
+
+-Rocky: We did yes.  Went to Olin and charged to account.
+
+-Acclaimed.
+
+
+
+-Jim: A couple of weeks ago we had problems with rowdiness at kommittee and
+I brought up the idea of RisSheriff for Kommittee.  Could allocate a
+suitable weapon for this sheriff.  Went to mall and looked at nerf weapons.
+$30 for Nerf N-strike Recon.  Formidable close range weapon with light beam
+for pinpoint accuracy.  Multiple firing capacity.
+
+-Julia: You’re my favorite.  We do have an influx of foam weapons.
+
+-Elaine: Which will hopefully be here before BBBBQ.
+
+-Julia: Some unhappy interactions in the past with campus life and nerf
+guns.  I was under the impression they were banned.
+
+-Elaine: 4 years ago there were problems in a campus wide game of Assassins.
+Cornell police department made a ban on the weapons.  Taken to an intense
+level.
+
+-Nate: If it’s a matter of keeping order, can just use the hockey stick.
+
+-Win: Might be a NY state law that you can’t have them on university campus.
+
+-Jim: Risley needs protection.
+
+-Isaac: These bullets will be lost.
+
+-Jim: But can buy in packs for $2.
+
+-Jeff: Foam weapons are exactly why we need a nerf weapons.  The sheriff
+needs weapons superior to foam swords.  Air powered weapons are what are
+banned, not nerf specifically.
+
+-Nolan: I guess it’s air-powered that are bad.  If there is a weapon or
+“toy” that is spring-powered, I’d say we could allocate money.
+
+-Lauren: Need to figure out how to make this allowable.  Can keep rowdiness
+down by reviewing rules because sometimes people forget.  Everyone likes
+everyone so people get conversational.  Perhaps a combo of brute force and
+education would do the trick.
+
+-Audrey: Have to actually create position of RisSheriff.  Kind of two
+separate things.  Can create position without having allocated money should
+the nerf gun be illegal.
+
+-Elaine: Then the position has no power behind it.  Water gun perhaps?
+That’s how you keep cats under control.  I’d get you a slingshot complete
+with a Dennis the Menace outfit.  I would pay to come back to see someone
+looking like Dennis the Menace.
+
+-Rocky: I love you Jim, but I also want to call the question.
+
+-Jim: $30 for future toy for RisBailiff.
+
+-Kerry: There is a RisPerlatives category for best komitee motion!  Just
+saying…
+
+-Acclaimed.
+
+
+
+-Tom: Let’s ignore the fan and baby wipes for the print shop.  The rags
+would be useful in the near future because need to clean in Print Shop.  Rags
+over tee shirts because rags cheaper and cut in a better way so you get more
+use out of them.  $100 for lots of rags.
+
+-Jeff: Budget? I would kind of like the fan for getting strange things in
+the air out.
+
+-Tom: Fan and baby wipes could be for next year.  Rags would be useful soon.
+
+-Jeff: We have $400.  If we want this fan, we may as well allocate now.
+
+-Elaine: Working on getting exhaust system for shops, but not making any
+promises.
+
+-Bennett: Should we allocate for the eventuality in case ventilation system
+doesn’t go through?
+
+-Tom: Would facilities pay for a fan?
+
+-Elaine: I have one I think.
+
+-Molly: How long would supply last?
+
+-Tom: They say you can wash them, but we don’t.  This is more than we had at
+beginning of last year and those have lasted almost a year.
+
+-Acclaimed.
+
+
+
+-Tom: $20 for lots of baby wipes.
+
+-Sally: Will they dry up over the summer?
+
+-Tom: Could have for RisOrientation.
+
+-Isaac: Welcome to Risley, here’s a baby wipe.
+
+-Motion withdrawn.
+
+
+
+-Rocky: I’d like to allocate a thank you for letting me live here all these
+years.
+
+            -Acclaimed.
+
+
+
+OTHER OTHER BUSINESS.
+-John: Tradition that chair be exectued by hemlock.
+
+-Elaine: I need to make comments!
+
+-John: I motion that we execute Elaine and Sara by hemlock.
+
+-Sara: I guess Elaine is first.
+
+-Elaine: I just wanted to say some stuff about Sara because I feel like you
+got thrashed today.  You’re the first female chair we’ve had in a while and
+the first non-2-headed monster we’ve had for a while too.  Easier to have 2
+heads and you’ve done a superb job.  Thanks for being awesome and taking
+this on by yourself.  I know you took some heat this year and it was not
+deserved.
+
+-Nate: Please don’t kill my boss.  If there’s going to be an execution, let
+me take off my uniform so I am not violating state law.
+
+-Jeff: Not tradition.  Have only exectued one of the kommittee chairs (and
+in reality ½ because it was one head of a 2-headed monster).  While we have
+a provision to exectue, no motion to be able to specify.
+
+-John: I retract my motion because it’s ridiculous and I just wanted that to
+be my last act in Risley.  Besides, I have no hemlock
+
+THEME FOR NEXT KOMMITTEE.
+Pick your Poision Kommittee
+
+SECRET AGENDA.
+
+It’s not so much a dodgeball cannon as it is a time machine.
+part}
+part{ ID: 3, Content-type: text/html
+Non-text part: text/html
+part}
+part}
+body}
+message}
