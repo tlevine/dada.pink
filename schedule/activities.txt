@@ -80,7 +80,6 @@ DAILY:20140417:20140418 Go to Scarsdale one of these days, pick up my birth cert
 DAILY:20140409:20140410 Ecohack
 20140418 3 pm Meeting with Ontodia, 137 Varick
 20140426 3 pm Julian's birthday party, 124 Wyckoff St, Brooklyn, Apt 1, bottom buzzer, 917-651-1010, bring food/drink/games
-20140429 6:15 pm, 32 Avenue of the Americas, http://www.meetup.com/nyhackr/events/177917232/
 20140430 6:30 pm, 770 Broadway 6th Floor, http://www.meetup.com/hacks-hackers-nyc/events/177739392/
 20140423 Haskell, 625 Avenue of Americas, http://www.meetup.com/NY-Haskell/events/177110862/
 20140420 1 pm Hang with Yoon Ji in Hartsdale.
@@ -99,3 +98,4 @@ DAILY:20140423:20140425 In Ontodia's office
 20140522 1 pm Dr Mark
 20140430 12:30 pm GovLab ideas lunch
 20140506 6 pm CopyNight, The Randoph, 349 Broome St
+20140429 Pick up prints, go to poster-making
