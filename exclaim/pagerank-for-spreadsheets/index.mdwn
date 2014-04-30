@@ -200,3 +200,9 @@ by sending spreadsheets into a search engine and getting spreadsheets back?
 The order of the results would be determined by various specialized statistics;
 just as we use PageRank to find relevant hypertext documents, we can develop
 other statistics that help us find relevant spreadsheets.
+
+rows and columns
+
+special snowflake
+
+blizzard
