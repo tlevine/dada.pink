@@ -181,22 +181,22 @@ data into something more relevent to the people who want the data
 OpenPrism
 
 
-% \subsection{Things that don't exist but maybe should}
-% The various tools that I describe above assist in understanding
-% individual spreadsheets. What if we have a million spreadsheets?
-% Even if we have the most perfect graphs about each separate spreadsheet,
-% we won't have time to look at them all; we need to narrow down
-% the spreadsheet base before we look at them
+Let me reiterate my thoughts on searching spreadsheets.
+I see two main issues in the common means of searching through spreadsheets.
+The first issue is that the search method is quite naive; these websites are
+usually running keyword searches.
+The second issue is that the search is localized to datasets that are published
+or otherwise managed by a particular entity; it's hard to search for
+spreadsheets without first identifying a specific publisher or repository.
 
-% It's like the concept of information retrieval and the-other-thing
+I started to address the first issue by pulling schema-related features out
+of the spreadsheets, and I started to address the second issue by letting
+people search many sites at once. Taking this further, I've been thinking
+about what it would mean to have a search engine for spreadsheets.
 
-% but I think we can take a qualitatively
-% different approach to understanding 
-
-
-% search engine
-
-% stats for search engine (pagerank for spreadsheets)
-
-
-
+When we search for ordinary written documents, we send words into a search
+engine and get pages of words back. What if we could search for spreadsheets
+by sending spreadsheets into a search engine and getting spreadsheets back?
+The order of the results would be determined by various specialized statistics;
+just as we use PageRank to find relevant hypertext documents, we can develop
+other statistics that help us find relevant spreadsheets.
