@@ -72,10 +72,54 @@ The people I meet who know the most about what's in these large collections
 of disparate open data spreadsheets are the people in charge of putting them
 on the internet in a form that people can use them. 
 
-nrow, ncol
-mostly in comma-separated values (CSV) format---spreadsheets without code
+People like Nicole, Noel, Jack, Chris, Mark (above)
+have worked with various organizations (mostly governments) to publish
+their data, and they know a lot the many datasets being published by the
+organizations they respectively work. If you want to know whether a city
+publishes a particular dataset, these are the people you want to ask.
 
+Unfortunately, these people don't have time to serve as everyone's personal
+search engine, and there isn't an easy way for them to convey all of this
+knowledge to others. Moreover, they only know about the data they've worked
+on in their respective governments; they don't know much about other governments.
 
+(slide)
+
+Considering that we're talking about open **data**, I figured that we should
+be searching through these data in a **data-driven** way. As I said earlier,
+I started downloading lots of datasets and running crude statistics across them.
+
+(slide)
+
+(slide)
+
+(slide)
+
+These "datasets" are mostly in comma-separated values (CSV) format---spreadsheets
+without code---where columns are variables and rows are records. It turns out that
+most of them are pretty small.
+
+(slide)
+
+(slide)
+
+Many organizations report the number of datasets that they publish, and this number
+turns out to be nearly useless.
+
+(slide)
+
+I looked at how people use different features of these data publishing website
+software programs. One of these programs is called "Socrata Open Data Portal",
+and it has features for making graphs of data inside your browser. If you save
+the graph you make, it shows up on the public website, so I can see how people
+are using this feature. To make the long story short, it looks like people don't
+use this feature very much.
+
+(slide about file formats)
+
+I started looking into the file formats that people use....
+
+(slide about duplication)
 
 % We produce lots of spreadsheets. Cite some figures.
 % When we have so many spreadsheets, how can we know what is in them?
