@@ -121,23 +121,33 @@ I started looking into the file formats that people use....
 
 (slide about duplication)
 
-% We produce lots of spreadsheets. Cite some figures.
-% When we have so many spreadsheets, how can we know what is in them?
+other things....
 
-% \subsection{Existing means of understanding a lot of spreadsheets}
-% We could manually look at every cell in every spreadsheet,
-% but this would take a long time. Instead, we develop tools,
-% and standard practices to make this a bit easier.
 
-% Many "open data" guidelines provide direction as to how a person
-% or organization with lots of spreadsheets might allow other people
-% to use them. At a basic level, many guidelines suggest that data
-% be available on the internet and under a free license; at the other
-% end of the spectrum, guidelines suggest that data be in standard
-% formats accompanied with assorted metadata.
 
-% Many groups have developed standard schemas for particular sorts
-% of data. examples (cite stuff)
+I gradually noticed that it's very hard to search across these spreadsheets.
+You can search in a generic web search engine, but the spreadsheets might not
+be indexed, and the search might not work that well even if the spreadsheets
+are indexed.
+
+(slide of search bar)
+
+You can use the search bars on these various websites, but they usually do a
+very naive keyword search. Also, these sites tend to be quite slow.
+
+(slide)
+
+Having assembled a spreadsheet about my spreadsheets, I was quite able to
+search through them. Even though I only had metadata in this spreadsheet,
+I could do powerful searches because I could create any metadata I wanted.
+Here's an example. In my composition of music from spreadsheets and in my
+teaching, I often want a dataset whose schema has particular characteristics.
+So I collected data about the column types in these various tables and ran
+queries like this on my spreadsheet.
+
+(slide)
+
+Here's another issue with using website-specific search bars.
 
 % \subsection{Things that don't exist but maybe should}
 % The various tools that I describe above assist in understanding
