@@ -8,18 +8,71 @@ contained.
 
 (plot of dataset counts by site)
 
-With hardly any effort, I had amassed tens of thousands of data files,
+With hardly any effort, I had amassed tens of thousands of datasets,
 I quickly realized that nobody had any idea what was in these datasets,
 so I started making tools to understand what was in them.
 
 Before I talk about these tools, let me explain why nobody knows what's
-in these datasets.
+in these datasets. Also, keep in mind that "dataset" is usually a fancy
+word for "spreadsheet".
 
 (slide)
 
+How do we figure out what's in a bunch of spreadsheets today?
+We could manually look at every cell in every spreadsheet,
+but this would take a long time.
 
+(slide)
 
+Many "open data" guidelines provide direction as to how a person
+or organization with lots of datasets might allow other people
+to use them. At a basic level, many guidelines suggest that data
+be available on the internet and under a free license; at the other
+end of the spectrum, guidelines suggest that data be in standard
+formats accompanied with assorted metadata. These guidelines put
+responsibility on the publishers of data to do certain things when
+they publish data. This can be a lot of work, so it's unreasonable
+for us to expect this to happen for anything other than the most
+important of datasets.
 
+(slide)
+
+% Many groups have developed standard schemas for particular sorts
+% of data. examples (cite stuff) RSS, Yelp, other CfA, geojson
+
+This is helpful when different organizations have similar datasets.
+For example, this can work if multiple bloggers are publishing blog
+posts or if multiple cities are publishing restaurant inspection results.
+It still puts a burden on the publishers of data.
+
+(slide)
+
+% Graphs and stuff
+% Even if we have the most perfect graphs about each separate spreadsheet,
+% we won't have time to look at them all; we need to narrow down
+% the spreadsheet base before we look at them
+
+(slide)
+
+In practice, I find that people learn what's in a spreadsheet through word
+of mouth, without looking directly at the spreadsheet. I know what's in the
+various datasets published by the United States Census, but I've never used
+any of them myself. I know what's in New York City's tax parcel boundaries
+dataset (PLUTO) because lots of people have been talking about it,
+but I haven't looked at it myself.
+http://spatialityblog.com/2013/04/04/a-modest-proposal-for-nyc-tax-parcel-data/
+http://www.codeforamerica.org/blog/2013/07/25/epic-win-for-nycs-open-data-community-pluto-is-free/
+And I know that several cities release data about the use of bike-share programs
+because people get excited every time this happens, but again, I haven't looked
+at any of it myself.
+
+(slides with pictures of people)
+
+The people I meet who know the most about what's in these large collections
+of disparate open data spreadsheets are the people in charge of putting them
+on the internet in a form that people can use them. 
+
+nrow, ncol
 mostly in comma-separated values (CSV) format---spreadsheets without code
 
 
