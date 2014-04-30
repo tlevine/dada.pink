@@ -148,6 +148,21 @@ queries like this on my spreadsheet.
 (slide)
 
 Here's another issue with using website-specific search bars.
+When I'm looking for spreadsheets, the publishing organization is unlikely
+to be my main concern. For example, if I'm interested in data about the
+composition of different pesticides, but I don't really care whether the
+data were collected by this city government or by that country government.
+
+(middle layer slide)
+
+In my view, we can have one set of tools/people that focus on making
+data available in a crude form and another set for assembling these crude
+data into something more relevent to the people who want the data
+
+(openprism slide)
+
+OpenPrism
+
 
 % \subsection{Things that don't exist but maybe should}
 % The various tools that I describe above assist in understanding
