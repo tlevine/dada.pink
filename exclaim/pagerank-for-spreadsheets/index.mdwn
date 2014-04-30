@@ -1,0 +1,63 @@
+> <div style="font-size: 300%;">Open data?</div>
+
+For the past few years, I've been hearing a lot about "open data".
+I was apparently even an expert in open data even though I didn't
+really know what it was. So I started going to various repositories
+of open data, downloading all of the data, and looking at what they
+contained.
+
+(plot of dataset counts by site)
+
+With hardly any effort, I had amassed tens of thousands of data files,
+I quickly realized that nobody had any idea what was in these datasets,
+so I started making tools to understand what was in them.
+
+Before I talk about these tools, let me explain why nobody knows what's
+in these datasets.
+
+(slide)
+
+
+
+
+mostly in comma-separated values (CSV) format---spreadsheets without code
+
+
+
+% We produce lots of spreadsheets. Cite some figures.
+% When we have so many spreadsheets, how can we know what is in them?
+
+% \subsection{Existing means of understanding a lot of spreadsheets}
+% We could manually look at every cell in every spreadsheet,
+% but this would take a long time. Instead, we develop tools,
+% and standard practices to make this a bit easier.
+
+% Many "open data" guidelines provide direction as to how a person
+% or organization with lots of spreadsheets might allow other people
+% to use them. At a basic level, many guidelines suggest that data
+% be available on the internet and under a free license; at the other
+% end of the spectrum, guidelines suggest that data be in standard
+% formats accompanied with assorted metadata.
+
+% Many groups have developed standard schemas for particular sorts
+% of data. examples (cite stuff)
+
+% \subsection{Things that don't exist but maybe should}
+% The various tools that I describe above assist in understanding
+% individual spreadsheets. What if we have a million spreadsheets?
+% Even if we have the most perfect graphs about each separate spreadsheet,
+% we won't have time to look at them all; we need to narrow down
+% the spreadsheet base before we look at them
+
+% It's like the concept of information retrieval and the-other-thing
+
+% but I think we can take a qualitatively
+% different approach to understanding 
+
+
+% search engine
+
+% stats for search engine (pagerank for spreadsheets)
+
+
+
