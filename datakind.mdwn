@@ -1,4 +1,1 @@
----
-tag: datakind
-title: Blog posts for Datakind
----
+[[!meta title="Blog posts for Datakind"]]

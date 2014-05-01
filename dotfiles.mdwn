@@ -1,4 +1,0 @@
----
-tag: dotfiles
-title: Dotfiles
----

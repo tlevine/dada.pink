@@ -1,6 +1,3 @@
----
-tag: socrata
-title: Meta-data-portal
----
 This one time, I downloaded all 80,000 of Socrata's
-datasets and analyzed them.
+datasets and analyzed them. Now I'm looking at more
+than Socrata, so go [[!taglink here|open-data]].
