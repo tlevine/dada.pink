@@ -1,6 +1,4 @@
----
 [[!meta title="On balancing checkbooks"]]
----
 
 Balancing checkbooks is one of those things that people say everyone should
 know how to do. It's also one of those should learn in school or whatnot. I

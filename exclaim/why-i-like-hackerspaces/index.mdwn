@@ -1,7 +1,6 @@
----
 [[!meta title="Using technology to enable people"]]
-description: And why Tom likes hackerspaces
----
+[[!meta description="And why Tom likes hackerspaces"]]
+
 I see the following attitude a lot, especially in San Francisco.
 
 > We know how this complex fancy thing works, but a lot of other people don't, and it's hard to explain the thing.

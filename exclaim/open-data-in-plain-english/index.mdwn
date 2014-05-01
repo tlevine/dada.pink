@@ -1,13 +1,12 @@
----
 [[!meta title="Open Data in Plain English"]]
 <!-- created_at: 2013-11-18 -->
 [[!tags open-data]]
-description: A video introducing open data
+[[!meta description="A video introducing open data"]]
 twitter_image: diagram.png
 facebook_image: diagram.png
 twitter_description: Everyone wins when we open up data.
 facebook_description: Everyone wins when we open up data.
----
+
 <video poster="screenshot.png" src="open-data-in-plain-english.webm" controls width="100%"></video>
 
 I found this video [on YouTube](http://www.youtube.com/watch?v=aHxv_2BMJfw)

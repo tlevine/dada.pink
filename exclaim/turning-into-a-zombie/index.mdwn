@@ -1,7 +1,6 @@
----
 [[!meta title="Why does turning into a zombie seem unpleasant?"]]
 short_title: Zombie transformation
----
+
 After having watched [Decay](),
 I'm pondering why I would not like to be turned into a zombie.
 There's something about survival of my current species, but

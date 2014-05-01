@@ -1,6 +1,5 @@
----
 [[!meta title="Materials for leaning Angular"]]
----
+
 I've finally found a reason to use Angular, so now I'm actually learning it.
 Here are some helpful materials that I've come across.
 

@@ -1,9 +1,7 @@
----
-[[!meta title="Hacks Hackers Buenos Aires Media Party"]]
-short_title: HHBA Media Party
+[[!meta title="HHBA Media Party"]]
+[[!meta description="Hacks Hackers Buenos Aires Media Party"]]
 <!-- created_at: 2012-09-21 -->
 relationships: ['scraperwiki']
----
 
 I went to a [three-day party](http://mediaparty.hhba.info) in Buenos Aires this
 past month. The first two days were

@@ -1,6 +1,5 @@
----
 [[!meta title="Citizen Science Resources"]]
----
+
 Here are some interesting references from Mathew Lippincott after a meeting
 in January 2013. Ioannidis, JPA. 2005 is the article that he mentioned on
 statistics of science research.

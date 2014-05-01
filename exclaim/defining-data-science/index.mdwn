@@ -1,5 +1,5 @@
 A bunch of people were telling me a year ago that I should teach data science.
-I figured that I'd better define it if Iwas going to teach it.
+I figured that I'd better define it if I was going to teach it.
 
 I've always been skeptical of the utility of the educational
 "data science" that I've seen, but that might be because I'm always skeptical

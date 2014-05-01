@@ -1,13 +1,12 @@
----
 [[!meta title="Semi-open data about pricing of open data"]]
-description: Socrata has a bunch of products. Who's buying which ones?
+[[!meta description="Socrata has a bunch of products. Who's buying which ones?"]]
 tweet_text: What people are buying from Socrata and how much it all costs. http://thomaslevine.com/!/socrata-products/
 tweet_link: https://twitter.com/thomaslevine/status/416278017347166208
 <!-- created_at: 2013-12-26 -->
 [[!tags open-data]]
 twitter_image: hawaii.png
 facebook_image: hawaii.png
----
+
 <% root = 'https://github.com/tlevine/open-data/blob/master/' %>
 <% pricing = 'https://github.com/tlevine/socrata-pricing/blob/master/d/' %>
 

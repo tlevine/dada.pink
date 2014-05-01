@@ -1,11 +1,10 @@
----
 [[!meta title="The Ridership Rachenitsa"]]
 <!-- created_at: 2013-07-14 -->
-description: A music video about the ridership of Chicago buses and New York subways
+[[!meta description="A music video about the ridership of Chicago buses and New York subways"]]
 twitter_image: square.png
 facebook_image: square.png
 [[!tags sensing-data music]]
----
+
 This is a music video about the ridership of Chicago buses and New York subways
 for the past few years.
 

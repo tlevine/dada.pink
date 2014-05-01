@@ -1,7 +1,6 @@
----
 [[!meta title="What's in a table?"]]
 [[!tags datakind]]
----
+
 <style>
 #row tbody tr:nth-of-type(2n),
 #column tbody tr td:nth-of-type(2n),

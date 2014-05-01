@@ -1,8 +1,7 @@
----
 [[!meta title="tmux aliases"]]
 [[!tags dotfiles]]
 <!-- created_at: 2013-06-26 -->
----
+
 Before I implemented my `tmuxa` and `tmuxl` aliases, the three `tmux` calls
 that I used most often were `tmux`, `tmux list-sessions` and `tmux attach`.
 

@@ -1,8 +1,7 @@
----
 [[!meta title="Finding unique keys in a thousand spreadsheets"]]
 [[!tags open-data]]
 tweet_text: These spreadsheets didn't specify unique indices, so I figured them out.
----
+
 People often complain about how people don't write good metadata for their
 spreadsheets. That is, we don't have a good description of how the data were
 collected, what the fields mean, who updates them, &c. Since we rarely seem

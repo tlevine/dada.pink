@@ -1,8 +1,7 @@
----
 [[!meta title="New York Pizza"]]
 <!-- created_at: 2012-11-21 -->
 [[!tags doodles]]
----
+
 I hadn't eaten much New York pizza, so I asked
 [Jared Lander](http://www.jaredlander.com) for some recommendations. He gave me
 a list of 22 establishments grouped by expertly chosen categories. I needed to

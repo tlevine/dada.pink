@@ -1,7 +1,6 @@
----
 [[!meta title="World -> Data -> World"]]
 [[!tags sensing-data]]
----
+
 To me, it is common sense that data could be extracted from a pair
 of pants and that that data could be converted into a slice of apple pie.
 But for many people, it is not common sense.

@@ -1,7 +1,5 @@
----
 [[!meta title="Inspiration for questions"]]
 <!-- created_at: 2013-06-09 -->
----
 
 I have various mental lists of ways of asking more questions, but I only seem
 to remember them when I need them. I'm trying to write them all down here.

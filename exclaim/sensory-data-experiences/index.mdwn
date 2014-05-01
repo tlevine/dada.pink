@@ -1,8 +1,7 @@
----
 [[!meta title="Multisensory data experiences"]]
 <!-- created_at: 2013-04-10 -->
 [[!tags sensing-data music]]
----
+
 Big data leads quickly to information overload.
 
 <blockquote class="twitter-tweet"><p>For handle big data, solution is very simple: buy bigger monitor and use smaller font in the terminal.</p>&mdash; MySQL Borat (@mysqlborat) <a href="https://twitter.com/mysqlborat/status/306078371182428161">February 25, 2013</a></blockquote>

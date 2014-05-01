@@ -1,6 +1,4 @@
----
 [[!meta title="Foo"]]
----
 
 This happened.
 

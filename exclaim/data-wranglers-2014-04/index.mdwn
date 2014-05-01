@@ -1,6 +1,5 @@
----
 [[!meta title="Data Wranglers DC PDF parsing"]]
----
+
 I'm talking about PDFs
 [at Data Wranglers DC](http://www.meetup.com/Data-Wranglers-DC/events/160592492/).
 

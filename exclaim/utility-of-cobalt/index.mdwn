@@ -1,8 +1,6 @@
----
 [[!meta title="Utlity of Cobalt"]]
 [[!tags computer]]
 relationships: ['scraperwiki']
----
 
 x.scraperwiki.com uses a new infrastructure for running scripts. We call it
 [Cobalt](https://github.com/scraperwiki/cobalt).

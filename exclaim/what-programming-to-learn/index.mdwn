@@ -1,6 +1,5 @@
----
 [[!meta title="What I think people who want to learn programming"]]
----
+
 Some people want to learn programming for the sake of it
 rather than for a particular project. This is quite reasonable
 today. blah blah
