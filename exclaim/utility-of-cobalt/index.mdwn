@@ -1,6 +1,6 @@
 ---
 title: Utlity of Cobalt
-tags: ['computer']
+[[!tags computer]]
 relationships: ['scraperwiki']
 ---
 

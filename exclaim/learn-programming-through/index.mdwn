@@ -1,6 +1,6 @@
 ---
 title: Learn Computers Through ______
-tags: ['computer']
+[[!tags computer]]
 <!-- created_at: 2012-08-09 -->
 ---
 Some people write software to solve annoyances in their everyday lives. Here

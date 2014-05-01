@@ -1,6 +1,6 @@
 ---
 title: What's in a table?
-tags: ['datakind']
+[[!tags datakind]]
 ---
 <style>
 #row tbody tr:nth-of-type(2n),

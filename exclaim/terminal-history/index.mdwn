@@ -1,6 +1,6 @@
 ---
 title: Terminal history
-tags: ['dotfiles']
+[[!tags dotfiles]]
 <!-- created_at: 2013-05-09 -->
 ---
 If you use the default shell environment settings, you'll probably wind up

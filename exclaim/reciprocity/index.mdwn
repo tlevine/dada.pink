@@ -1,6 +1,6 @@
 ---
 title: Reciprocity
-tags: ['aesthesiology']
+[[!tags aesthesiology]]
 <!-- created_at: 2013-08-19 -->
 ---
 Last year, while on my way to the [NICAR](http://www.ire.org/nicar/)

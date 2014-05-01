@@ -5,7 +5,7 @@ twitter_description: Also, would knowledge that an open data questionnaire was g
 tweet_text: '@GovLab and @SunFoundation, I think you should open your open data questionnaire data. http://thomaslevine.com/!/open-data-500-global-open-data-initiative-survey'
 tweet_link: https://twitter.com/thomaslevine/status/405508863719260160
 <!-- created_at: 2013-11-27 -->
-tags: ['open-data']
+[[!tags open-data]]
 ---
 On September 19, I got
 [this email](http://us6.campaign-archive2.com/?u=1a990feb5c&id=46f97c829f&e=f59483af9a)

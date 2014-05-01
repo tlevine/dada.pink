@@ -1,6 +1,6 @@
 ---
 title: Themes in my data research about data
-tags: ['open-data']
+[[!tags open-data]]
 ---
 ## Premise
 I've been looking at what happens when download lots of spreadsheets

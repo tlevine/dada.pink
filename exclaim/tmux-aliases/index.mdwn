@@ -1,6 +1,6 @@
 ---
 title: tmux aliases
-tags: ['dotfiles']
+[[!tags dotfiles]]
 <!-- created_at: 2013-06-26 -->
 ---
 Before I implemented my `tmuxa` and `tmuxl` aliases, the three `tmux` calls

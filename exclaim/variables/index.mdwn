@@ -1,6 +1,6 @@
 ---
 title: Two meanings of "variable"
-tags: ['datakind']
+[[!tags datakind]]
 <!-- created_at: 2013-12-22 -->
 ---
 ## Introduction
