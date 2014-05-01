@@ -1,6 +1,5 @@
----
-title: Ampersands
----
+[[!meta title="Ampersands"]]
+
 I like ampersands.
 
 ![Pink clay ampersand](clay.jpg){:.wide}
