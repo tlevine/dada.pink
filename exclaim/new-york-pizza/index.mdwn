@@ -1,6 +1,6 @@
 ---
 title: New York Pizza
-created_at: 2012-11-21
+<!-- created_at: 2012-11-21 -->
 kind: article
 tags: ['doodles']
 ---

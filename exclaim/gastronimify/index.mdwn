@@ -1,6 +1,6 @@
 ---
 title: gastronomify
-created_at: 2013-07-31
+<!-- created_at: 2013-07-31 -->
 tags: ['sensing-data']
 tweet_text: A long-overdue post on gastRonomify http://thomaslevine.com/!/gastronomify
 description: Convert data into food with R

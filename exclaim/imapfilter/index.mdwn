@@ -1,6 +1,6 @@
 ---
 title: imapfilter
-created_at: 2013-03-29
+<!-- created_at: 2013-03-29 -->
 kind: article
 ---
 I use [imapfilter](https://github.com/lefcha/imapfilter) to filter my mail.

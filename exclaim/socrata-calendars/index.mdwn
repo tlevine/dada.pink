@@ -1,5 +1,5 @@
 ---
-created_at: 2013-07-29
+<!-- created_at: 2013-07-29 -->
 kind: article
 title: Open Calendars
 tweet_text: How we can prevent data-siloing in the first place http://thomaslevine.com/!/socrata-calendars #opendata

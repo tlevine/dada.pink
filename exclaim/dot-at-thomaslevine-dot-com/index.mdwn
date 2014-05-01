@@ -6,7 +6,7 @@ tweet_link: https://twitter.com/thomaslevine/status/389497585708179456
 twitter_title: Twitter's fine with it though.
 twitter_image: twitter.png
 facebook_image: facebook.png
-created_at: 2013-10-13
+<!-- created_at: 2013-10-13 -->
 kind: article
 ---
 Since I can have any address at thomaslevine.com,

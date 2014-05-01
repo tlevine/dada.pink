@@ -1,6 +1,6 @@
 ---
 title: Big Data Ergonomics
-created_at: 2012-08-26
+<!-- created_at: 2012-08-26 -->
 kind: article
 tags: [ 'ergonomics' ]
 ---

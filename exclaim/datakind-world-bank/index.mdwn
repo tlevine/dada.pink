@@ -1,6 +1,6 @@
 ---
 title: Another definition of "big data"
-created_at: 2013-03-11
+<!-- created_at: 2013-03-11 -->
 relationships: ['datakind']
 kind: article
 ---

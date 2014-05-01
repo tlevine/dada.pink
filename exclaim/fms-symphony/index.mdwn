@@ -2,7 +2,7 @@
 title: FMS Symphony
 tags: ['sensing-data', 'music']
 kind: article
-created_at: 2013-07-31
+<!-- created_at: 2013-07-31 -->
 ---
 My band [CSV Soundsystem](http://csvsoundsystem.com) made a music video
 about the financial crisis.

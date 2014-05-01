@@ -5,7 +5,7 @@ tweet_text: R curses for data witches http://thomaslevine.com/!/r-curses-for-dat
 tweet_link: https://twitter.com/thomaslevine/status/363389873371095040
 twitter_image: complicated-2.png
 facebook_image: complicated-2.png
-created_at: 2013-08-02
+<!-- created_at: 2013-08-02 -->
 kind: article
 ---
 <style>pre { font-size: 0.8em; }</style>

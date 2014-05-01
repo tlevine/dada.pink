@@ -3,7 +3,7 @@ title: Searching data tables
 description: How we can make it easier to search through open data
 tags: ['open-data']
 kind: article
-created_at: 2013-03-31
+<!-- created_at: 2013-03-31 -->
 ---
 There are loads of open data portals
 There's even [portal about data portals](http://datacatalogs.org).
