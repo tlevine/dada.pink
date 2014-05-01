@@ -1,1 +1,1 @@
-[[!map pages="exclaim/configuring-my-audio/* and ! exclaim/configuring-my-audio/*/*"]]
+https://wiki.archlinux.org/index.php/PulseAudio/Examples#HDMI_output_configuration

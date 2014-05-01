@@ -1,1 +1,5 @@
-[[!map pages="exclaim/socrata-metrics-api-exploration/* and ! exclaim/socrata-metrics-api-exploration/*/*"]]
+---
+other_source: https://github.com/tlevine/socrata-metrics-api
+twitter_image: prototype.jpg
+facebook_image: prototype.jpg
+---

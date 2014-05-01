@@ -1,1 +1,6 @@
-[[!map pages="exclaim/schemas-and-formats/* and ! exclaim/schemas-and-formats/*/*"]]
+---
+title: Schemas and formats
+---
+format, like CSV
+
+schema, like columns and statistical units

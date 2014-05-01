@@ -1,1 +1,2 @@
-[[!map pages="exclaim/why-you-need-to-license-your-open-data/* and ! exclaim/why-you-need-to-license-your-open-data/*/*"]]
+
+/!/socrata-formats/#some-interesting-portals
