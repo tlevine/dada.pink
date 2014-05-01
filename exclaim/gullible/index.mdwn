@@ -1,7 +1,6 @@
 ---
 title: Gullible
 <!-- created_at: 2013-06-06 -->
-kind: article
 ---
 This one time, I painted the word "Gullible" on the ceiling.
 

@@ -1,7 +1,6 @@
 ---
 title: Design for varied ability
 <!-- created_at: 2013-02-09 -->
-kind: article
 tags: ['ergonomics']
 ---
 The smoothies section of this menu from

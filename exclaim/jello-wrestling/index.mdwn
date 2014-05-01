@@ -1,6 +1,5 @@
 ---
 title: Nude Jello Wrestling
-kind: article
 <!-- created_at: 2011-04-21 -->
 tags: ['shenanigans', 'letterpress']
 ---

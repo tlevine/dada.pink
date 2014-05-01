@@ -1,7 +1,6 @@
 ---
 title: Unsanitary conditions in dormitory bathrooms
 <!-- created_at: 2011-06-27 -->
-kind: article
 tags: ['ergonomics', 'shenanigans']
 ---
 Some concerns over sanitation of bathrooms in

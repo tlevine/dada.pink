@@ -4,7 +4,6 @@ description: The mode minimizes the sum of points, the median minimizes the sum 
 facebook_image: screenshot.png
 twitter_image: screenshot.png
 tags: ['doodles']
-kind: article
 <!-- created_at: 2013-08-06 -->
 tweet_text: Is there a name for higher-power measures of center (beyond mode, median and mean)?
 tweet_link: https://twitter.com/thomaslevine/status/364801819756609536

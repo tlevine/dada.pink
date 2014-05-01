@@ -1,7 +1,6 @@
 ---
 title: Open Data in Plain English
 <!-- created_at: 2013-11-18 -->
-kind: article
 tags: ['open-data']
 description: A video introducing open data
 twitter_image: diagram.png

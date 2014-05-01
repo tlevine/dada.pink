@@ -7,7 +7,6 @@ twitter_title: And Missouri has a lot of PDFs.
 twitter_description: What file formats are on the data portals?
 facebook_title: And Missouri has a lot of PDFs.
 facebook_description: What file formats are on the data portals?
-kind: article
 <!-- created_at: 2013-09-03 -->
 tags: ['socrata', 'open-data']
 twitter_image: figure/csv-cum-facet.png

@@ -7,7 +7,6 @@ tweet_link: https://twitter.com/thomaslevine/status/367025550843326464
 twitter_image: taco.png
 facebook_image: taco.png
 tags: ['socrata', 'open-data']
-kind: article
 <!-- created_at: 2013-08-12 -->
 ---
 *The page that was once here has been [renamed](/!/searching-data-tables).*

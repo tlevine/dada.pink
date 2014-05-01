@@ -1,6 +1,5 @@
 ---
 <!-- created_at: 2013-09-23 -->
-kind: article
 title: What's in a count?
 tweet_text: Counting datasets is hard. Also, can we have better data portal metrics? http://thomaslevine.com/!/socrata-deduplicate
 tweet_link: https://twitter.com/thomaslevine/status/382167385647480832

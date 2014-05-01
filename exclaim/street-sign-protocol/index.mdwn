@@ -1,7 +1,6 @@
 ---
 title: The Street Sign Protocol
 description: What is a computer protocol anyway?
-kind: article
 tweet_text: The Simple Street Sign Protocol is a communications protocol used to orient humans to their location within a street grid http://thomaslevine.com/!/street-sign-protocol
 facebook_text: The Simple Street Sign Protocol is a communications protocol used to orient humans to their location within a street grid.
 facebook_link: https://www.facebook.com/perluette/posts/2556455355397

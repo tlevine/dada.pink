@@ -6,7 +6,6 @@ tweet_text: "Boisterous laughter, lounging over the table, beckoning to friends 
 facebook_text: "One of the questions that arises between boys and girls is that of petting. It is agreed that public demonstration of affection is always in bad taste and the wisdom of that done in secret is always to be questioned."
 twitter_description: Going through more old notes, I was reminded of one of my favorite books.
 facebook_description: Going through more old notes, I was reminded of one of my favorite books.
-kind: article
 <!-- created_at: 2013-08-08 -->
 twitter_image: pictures/IMG_4344.JPG
 facebook_image: pictures/IMG_4344.JPG

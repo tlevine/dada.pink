@@ -2,7 +2,6 @@
 title: Terminal history
 tags: ['dotfiles']
 <!-- created_at: 2013-05-09 -->
-kind: article
 ---
 If you use the default shell environment settings, you'll probably wind up
 storing very little of your history. Computers are so big, powerful and cheap
