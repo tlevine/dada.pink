@@ -1,5 +1,5 @@
 ---
-title: OpenPrism
+[[!meta title="OpenPrism"]]
 description: Open the open data silos!
 subtitle: Better searches for open data
 tweet_text: Search all the portals! http://openprism.thomaslevine.com http://thomaslevine.com/!/openprism @CKANproject @junar @socrata #opendata

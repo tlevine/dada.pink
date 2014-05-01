@@ -1,5 +1,5 @@
 ---
-title: Things I want
+[[!meta title="Things I want"]]
 ---
 
 * Pink fedora

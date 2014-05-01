@@ -1,4 +1,4 @@
-[[!meta title="About Thomas Levine"]]
+[[!meta title="About Thomas Levine""]]
 
 ![A picture of Tom](/img/govlab-experiment.jpg)
 

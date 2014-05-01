@@ -1,5 +1,5 @@
 ---
-title: Higher-power distance measures
+[[!meta title="Higher-power distance measures"]]
 description: The mode minimizes the sum of points, the median minimizes the sum of lines, and the mean minimizes the sum of squares. What about the sum of cubes, and so on?
 facebook_image: screenshot.png
 twitter_image: screenshot.png

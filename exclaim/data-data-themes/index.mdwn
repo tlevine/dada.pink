@@ -1,5 +1,5 @@
 ---
-title: Themes in my data research about data
+[[!meta title="Themes in my data research about data"]]
 [[!tags open-data]]
 ---
 ## Premise

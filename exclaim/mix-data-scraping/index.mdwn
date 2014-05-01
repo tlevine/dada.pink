@@ -1,5 +1,5 @@
 ---
-title: Microfinance Data Scraping
+[[!meta title="Microfinance Data Scraping"]]
 <!-- created_at: 2012-05-24 -->
 relationships: ['mix']
 ---

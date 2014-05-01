@@ -1,5 +1,5 @@
 ---
-title: Progeny of Ten Socrata Datasets
+[[!meta title="Progeny of Ten Socrata Datasets"]]
 <!-- created_at: 2013-07-19 -->
 twitter_image: family.jpg
 facebook_image: family.jpg

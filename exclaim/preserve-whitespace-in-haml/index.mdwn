@@ -1,5 +1,5 @@
 ---
-title: Preserving whitespace in haml
+[[!meta title="Preserving whitespace in haml"]]
 <!-- created_at: 2013-06-15 -->
 ---
 If been to this site in the last few weeks, you've seen ugly code blocks like

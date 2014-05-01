@@ -1,5 +1,5 @@
 ---
-title: My personal computer infrastructure
+[[!meta title="My personal computer infrastructure"]]
 [[!tags computer]]
 ---
 

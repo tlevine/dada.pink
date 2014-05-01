@@ -1,5 +1,5 @@
 ---
-title: FMS Symphony
+[[!meta title="FMS Symphony"]]
 [[!tags sensing-data music]]
 <!-- created_at: 2013-07-31 -->
 ---

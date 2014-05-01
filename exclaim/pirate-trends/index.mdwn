@@ -1,5 +1,5 @@
 ---
-title: Pirate Trends
+[[!meta title="Pirate Trends"]]
 ---
 
 <!-- With the digitization of content, the cost of its distribution... -->

@@ -1,5 +1,5 @@
 ---
-title: Gullible
+[[!meta title="Gullible"]]
 <!-- created_at: 2013-06-06 -->
 ---
 This one time, I painted the word "Gullible" on the ceiling.

@@ -1,5 +1,5 @@
 ---
-title: Installing Selenium
+[[!meta title="Installing Selenium"]]
 <!-- created_at: 2012-04-24 -->
 ---
 

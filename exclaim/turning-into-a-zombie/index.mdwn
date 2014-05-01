@@ -1,5 +1,5 @@
 ---
-title: Why does turning into a zombie seem unpleasant?
+[[!meta title="Why does turning into a zombie seem unpleasant?"]]
 short_title: Zombie transformation
 ---
 After having watched [Decay](),

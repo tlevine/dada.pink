@@ -1,5 +1,5 @@
 ---
-title: What file formats are on the data portals?
+[[!meta title="What file formats are on the data portals?"]]
 description: I looked at the file formats of datasets on open data portals.
 tweet_text: San Francisco has a lot of open data shapefiles. http://thomaslevine.com/!/socrata-formats
 tweet_link: https://twitter.com/thomaslevine/status/374938303289503744

@@ -1,4 +1,4 @@
-[[!meta title="Bits"]]
+[[!meta title="Bits""]]
 [[!tag data-structures-algorithms]]
 
 What are bits and bytes and memory and 32-bit integers?

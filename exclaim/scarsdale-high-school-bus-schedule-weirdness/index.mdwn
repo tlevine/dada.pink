@@ -1,5 +1,5 @@
 ---
-title: Scarsdale High School bus schedule weirdness
+[[!meta title="Scarsdale High School bus schedule weirdness"]]
 short_title: Weird bus schedules
 [[!tags scarsdale]]
 <!-- created_at: 2013-01-25 -->

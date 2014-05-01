@@ -1,5 +1,5 @@
 ---
-title: Zombie links on data catalogs
+[[!meta title="Zombie links on data catalogs"]]
 description: Some of these links were less dead than I'd thought.
 tweet_text: You won't believe how little went wrong when I messed up my database schema. http://thomaslevine.com/!/zombie-links #opendata
 twitter_image: figure/prop_links.png

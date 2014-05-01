@@ -1,5 +1,5 @@
 ---
-title: Random Person of the Week
+[[!meta title="Random Person of the Week"]]
 [[!tags shenanigans]]
 ---
 

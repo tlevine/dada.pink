@@ -1,5 +1,5 @@
 ---
-title: Using technology to enable people
+[[!meta title="Using technology to enable people"]]
 description: And why Tom likes hackerspaces
 ---
 I see the following attitude a lot, especially in San Francisco.

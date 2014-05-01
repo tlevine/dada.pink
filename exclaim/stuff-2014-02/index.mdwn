@@ -1,5 +1,5 @@
 ---
-title: Tom's stuff as of February 2014
+[[!meta title="Tom's stuff as of February 2014"]]
 ---
 Three months ago, I noticed that everything in my apartment that
 I cared about fit in a big suitcase and a big backpack. That was

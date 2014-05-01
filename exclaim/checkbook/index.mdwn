@@ -1,5 +1,5 @@
 ---
-title: On balancing checkbooks
+[[!meta title="On balancing checkbooks"]]
 ---
 
 Balancing checkbooks is one of those things that people say everyone should

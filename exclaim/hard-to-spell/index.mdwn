@@ -1,5 +1,5 @@
 ---
-title: Words that are hard to spell
+[[!meta title="Words that are hard to spell"]]
 [[!tags shenanigans]]
 ---
 I previously used "(es)perluette" as my name in a bunch of places. (It's a

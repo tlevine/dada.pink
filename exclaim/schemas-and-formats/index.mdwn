@@ -1,5 +1,5 @@
 ---
-title: Schemas and formats
+[[!meta title="Schemas and formats"]]
 ---
 format, like CSV
 

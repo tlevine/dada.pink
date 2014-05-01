@@ -1,5 +1,5 @@
 ---
-title: Addiction Recovery Meetings
+[[!meta title="Addiction Recovery Meetings"]]
 relationships: ['addicaid']
 <!-- created_at: 2013-04-07 -->
 ---

@@ -1,5 +1,5 @@
 ---
-title: pbdq
+[[!meta title="pbdq"]]
 ---
 
 <img alt='A narrow hallway with "dq" painted on the left and "pb" painted on the right'

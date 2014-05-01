@@ -1,5 +1,5 @@
 ---
-title: Open Data in Plain English
+[[!meta title="Open Data in Plain English"]]
 <!-- created_at: 2013-11-18 -->
 [[!tags open-data]]
 description: A video introducing open data

@@ -1,5 +1,5 @@
 ---
-title: Why don't people use this reading room?
+[[!meta title="Why don't people use this reading room?"]]
 short_title: Library reading room
 <!-- created_at: 2011-07-18 -->
 [[!tags ergonomics]]

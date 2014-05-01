@@ -1,5 +1,5 @@
 ---
-title: The mindset of data science
+[[!meta title="The mindset of data science"]]
 tweet_text: I reluctantly define data science
 ---
 I proclaim that "data science" isn't about specific tools or datasets

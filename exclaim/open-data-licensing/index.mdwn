@@ -1,5 +1,5 @@
 ---
-title: Open data licensing
+[[!meta title="Open data licensing"]]
 <!-- created_at: 2013-10-02 -->
 [[!tags open-data]]
 tweet_text: Are your data really open if they don't have a license? http://thomaslevine.com/!/open-data-licensing

@@ -1,4 +1,4 @@
-[[!meta title="Ampersands"]]
+[[!meta title="Ampersands""]]
 
 I like ampersands.
 

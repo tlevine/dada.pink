@@ -1,5 +1,5 @@
 ---
-title: Press about me
+[[!meta title="Press about me"]]
 ---
 
 * Sydney Arkin (2008). [Inside Risley's Castle](http://cornellsun.com/node/33124). Cornell Daily Sun.

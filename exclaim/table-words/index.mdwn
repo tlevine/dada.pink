@@ -1,5 +1,5 @@
 ---
-title: What's in a table?
+[[!meta title="What's in a table?"]]
 [[!tags datakind]]
 ---
 <style>

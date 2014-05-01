@@ -1,5 +1,5 @@
 ---
-title: The Hovering Cycle
+[[!meta title="The Hovering Cycle"]]
 <!-- created_at: 2013-02-18 -->
 [[!tags toilets ergonomics]]
 ---

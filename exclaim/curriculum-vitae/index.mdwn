@@ -1,5 +1,5 @@
 ---
-title: Curriculum vitae
+[[!meta title="Curriculum vitae"]]
 ---
 I wonder what the point of a CV is. If I'm not doing the conventional
 academic thing, I don't really need the typical CV. But why is it desireable?

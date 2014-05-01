@@ -1,5 +1,5 @@
 ---
-title: World -> Data -> World
+[[!meta title="World -> Data -> World"]]
 [[!tags sensing-data]]
 ---
 To me, it is common sense that data could be extracted from a pair

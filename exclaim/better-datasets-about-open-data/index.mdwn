@@ -1,5 +1,5 @@
 ---
-title: Organizing my data about data
+[[!meta title="Organizing my data about data"]]
 description: I'm starting to put my data data in one code repository.
 tweet_text: Making my data about open data less confusing http://thomaslevine.com/!/better-datasets-about-open-data/
 tweet_link: ''

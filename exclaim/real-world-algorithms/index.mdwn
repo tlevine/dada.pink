@@ -1,5 +1,5 @@
 ---
-title: Real World Algorithms
+[[!meta title="Real World Algorithms"]]
 <!-- created_at: 2013-03-04 -->
 ---
 I regularly discuss computation at

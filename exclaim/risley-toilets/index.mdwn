@@ -1,5 +1,5 @@
 ---
-title: Unsanitary conditions in dormitory bathrooms
+[[!meta title="Unsanitary conditions in dormitory bathrooms"]]
 <!-- created_at: 2011-06-27 -->
 [[!tags ergonomics shenanigans]]
 ---

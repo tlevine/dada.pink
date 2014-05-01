@@ -1,5 +1,5 @@
 ---
-title: Assessed property values
+[[!meta title="Assessed property values"]]
 <!-- created_at: 2013-05-25 -->
 [[!tags scarsdale]]
 other_source: https://github.com/tlevine/scarsdale-data

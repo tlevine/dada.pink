@@ -1,5 +1,5 @@
 ---
-title: Things to read
+[[!meta title="Things to read"]]
 ---
 
 Emacs

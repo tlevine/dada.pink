@@ -1,5 +1,5 @@
 ---
-title: On listening
+[[!meta title="On listening"]]
 ---
 I was pondering whether anyone had ever given me particularly insightful
 unsolicited advice, and I didn't manage to come up with any such situations.

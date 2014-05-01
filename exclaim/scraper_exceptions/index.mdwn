@@ -1,5 +1,5 @@
 ---
-title: Handling exceptions in scrapers
+[[!meta title="Handling exceptions in scrapers"]]
 <!-- created_at: 2012-04-17 -->
 relationships: ['scraperwiki']
 ---

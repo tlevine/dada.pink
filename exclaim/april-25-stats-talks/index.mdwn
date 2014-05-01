@@ -1,4 +1,4 @@
-[[!meta title="Attendees decide between statistics talks"]]
+[[!meta title="Attendees decide between statistics talks""]]
 
 <!-- <!-- created_at: 2013-04-24 --> -->
 

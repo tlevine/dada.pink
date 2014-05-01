@@ -1,5 +1,5 @@
 ---
-title: Christmas Gifts
+[[!meta title="Christmas Gifts"]]
 <!-- created_at: 2011-01-05 -->
 [[!tags sensing-data doodles music]]
 ---

@@ -1,5 +1,5 @@
 ---
-title: Utlity of Cobalt
+[[!meta title="Utlity of Cobalt"]]
 [[!tags computer]]
 relationships: ['scraperwiki']
 ---

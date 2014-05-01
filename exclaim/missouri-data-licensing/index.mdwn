@@ -1,5 +1,5 @@
 ---
-title: License-free data in Missouri's data portal
+[[!meta title="License-free data in Missouri's data portal"]]
 description: I grouped the datasets in Missouri's data portal and looked at licensing by dataset group.
 tweet_text: Missouri's data portal is mostly PDF traffic surveys. http://thomaslevine.com/!/missouri-data-licensing/
 twitter_title: Why you need to be explicit about dataset licensing.

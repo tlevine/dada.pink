@@ -1,5 +1,5 @@
 ---
-title: Disciplines as mindsets
+[[!meta title="Disciplines as mindsets"]]
 ---
 I think that people usually see disciplines as being distinguished by their
 methods, literature, and topics of study/work. For example, the plumber does

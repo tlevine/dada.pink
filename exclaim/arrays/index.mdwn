@@ -1,4 +1,4 @@
-[[!meta title="Arrays"]]
+[[!meta title="Arrays""]]
 [[!tag data-structures-algorithms]]
 
 Once we have represented numbers in [memory](/!/bits), we can store groups of
