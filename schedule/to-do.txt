@@ -18,13 +18,13 @@ TD To do
 20140408 Write sheetmusic in Gnumeric with the Python plugin
 20140415 Move two bags and day bag to storage unit
 20140419 Order a Tom Bihn Synapse 19, steel/ultraviolet
-20140502 Decide how to divide my weekend between Transparency Camp and WikiConference USA, and book travel accordingly.
+20140506 Decide how to divide my weekend between Transparency Camp and WikiConference USA, and book travel accordingly.
 20140515 Switch to pass http://www.zx2c4.com/projects/password-store/
 DAILY:20140416:20140424 Finish my SEMS stuff.
 20140501 Book intercontinental travel. Probably New York to Copenhagen on Norwegian.
 20140420 Buy this stuff. Maybe switch RAM with the desktop. http://community.acer.com/t5/2013-Archives/FYI-Aspire-One-AO725-RAM-amp-Samsung-840-SSD-Upgrade-Success/td-p/71433
-20140502 Move mail to cold storage.
-20140502 Apply to Gov Lab
+20140501 Move mail to cold storage.
+20140506 Apply to Gov Lab
 20140425 Deposit cheque and inquire about wiring money to the Netherlands.
 20140430 Book flight to Europe: Norwegian to CPH. (Book the return flight later.)
 20140504 Book travel to Stuttgart if I can.
