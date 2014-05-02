@@ -199,6 +199,8 @@ The order of the results would be determined by various specialized statistics;
 just as we use PageRank to find relevant hypertext documents, we can develop
 other statistics that help us find relevant spreadsheets.
 
+So now I'm looking for ways to do interesting searches on spreadsheets.
+
 rows and columns
 
 special snowflake
@@ -268,3 +270,13 @@ table of 1219 rows and 33 columns,
 
 we find five functional unique keys. The first two are combinations of parts
 of the postal address, and the latter three look like formal identifiers.
+
+It's kind of cool to run this on individual spreadsheets, but it's even cooler
+to run this on lots of spreadsheets.
+
+blizzard
+
+diagrams of the network
+
+Let's now trace what happens when we compare a new spreadsheet to our database
+of spreadsheets.
