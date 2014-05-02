@@ -254,7 +254,7 @@ observed across multiple chick, and multiple observations were
 taken from each (well, at least one) chick.
 
 Some spreadsheets are have less obvious identifiers. In this
-table of 1219 rows,
+table of 1219 rows and 33 columns,
 
     >>> from urllib.request import urlopen
     >>> url = 'http://data.iledefrance.fr/explore/dataset/liste-des-points-de-contact-du-reseau-postal-dile-de-france/download/?format=csv'
@@ -266,4 +266,5 @@ table of 1219 rows,
      ('libelle_du_site',),
      ('wgs84',)}
 
-we find five functional unique keys.
+we find five functional unique keys. The first two are combinations of parts
+of the postal address, and the latter three look like formal identifiers.
