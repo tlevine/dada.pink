@@ -246,11 +246,24 @@ I could read the documentation on this dataset and tell you
 what its statistical unit is (`?ChickWeight` in R), or I could
 just let `special_snowflake` figure it out for me.
 
-    special_snowflake.fromcsv(open('chick.csv'))
+    >>> special_snowflake.fromcsv(open('chick.csv'))
     {('Time', 'Chick')}
 
 The statistical unit is chicks in time. That is, something was
 observed across multiple chick, and multiple observations were
 taken from each (well, at least one) chick.
 
-blizzard
+Some spreadsheets are have less obvious identifiers. In this
+table of 1219 rows,
+
+    >>> from urllib.request import urlopen
+    >>> url = 'http://data.iledefrance.fr/explore/dataset/liste-des-points-de-contact-du-reseau-postal-dile-de-france/download/?format=csv'
+    >>> fp = urlopen(url)
+    >>> special_snowflake.fromcsv(fp, delimiter = ';')
+    {('adresse', 'code_postal'),
+     ('adresse', 'localite'),
+     ('identifiant',),
+     ('libelle_du_site',),
+     ('wgs84',)}
+
+we find five functional unique keys.
