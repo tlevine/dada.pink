@@ -6,9 +6,9 @@ TD To do
 20140508 Write about making a graph of unique keys
 20140503 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
 20140428 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
-20140430 Write up the Wikipedia scraper thing that I did with Anastasya
+20140530 Write up the Wikipedia scraper thing that I did with Anastasya
 20140414 Write up the video downloader bytes thing that I did at the Python thing
-20140430 Write up the Grammar of Graphics language parser thing
+20140530 Write up the Grammar of Graphics language parser thing
 20140401 Prepare for the scraping class
 20140401 Prepare for the PDF parsing talk
 20140408 Tell Chris Metcalf what I want
@@ -26,3 +26,5 @@ DAILY:20140416:20140424 Finish my SEMS stuff.
 20140502 Move mail to cold storage.
 20140502 Apply to Gov Lab
 20140425 Deposit cheque and inquire about wiring money to the Netherlands.
+20140430 Book flight to Europe: Norwegian to CPH. (Book the return flight later.)
+20140504 Book travel to Stuttgart if I can.
