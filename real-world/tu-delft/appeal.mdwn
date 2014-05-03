@@ -8,3 +8,30 @@ I believe this to correspond with the following
 
 > A good university Bachelor's degree in a main subject closely related to the MSc programme to which you are applying, with good grades on the key courses.
 
+I am somewhat amused
+
+## Entitlement to appeal
+It is unclear to me whether I am entiled to appeal; the decision email says
+the following.
+
+> You are entitled to appeal to the Examination Appeals Board, unless you were rejected on the grounds that you do not meet TU Delft's formal admission requirements, as stated on our website (such as obtaining the minimum CGPA score and the minimum score on the English language test).
+
+First, is closeness of academic background a formal admission requirement?
+If not, I can appeal.
+
+Second, what do I do if the Selection Committee was in error regarding the
+closeness of my academic background?
+
+Some further documentation of the appeal process might clarify this.
+
+## Closeness of academic background
+Relate to software technology...
+
+Human computer interaction design...
+
+Moreover, I've found my understanding of usability to be quite helpful
+in software engineering. In maintaining software code, I use usability
+research methods to identify aspects of the code that are confusing to
+engineers, and I structure the code in ways that are intuitive to other
+engineers. I do the same when documenting software code and teaching people
+how to program.
