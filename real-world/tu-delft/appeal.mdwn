@@ -8,7 +8,7 @@ I believe this to correspond with the following
 
 > A good university Bachelor's degree in a main subject closely related to the MSc programme to which you are applying, with good grades on the key courses.
 
-I am somewhat amused
+This leaves me somewhat confused.
 
 ## Entitlement to appeal
 It is unclear to me whether I am entiled to appeal; the decision email says
@@ -59,17 +59,20 @@ First, I don't know what basic math is expected of people entering the
 computer science masters, but I'm quite sure that I've studied it.
 
 1. All of my six statistics courses involved ample probability theory.
-2. My multivariate statistics course ("XXX") was full of linear algebra,
-    and one of its prerequisites was a course in linear algebra.
-3. I took calculus in high school, and this is indicated on my university
-    transcript as "XXX".
+    (These are the courses in the "BTRY", "PAM", and "STSCI" departments.)
+2. My multivariate statistics course (BTRY 4100, spring 2010) was full
+    of linear algebra; a course in linear algebra was one of its
+    prerequisites.
+3. I took calculus in secondary school, and this shows up on my university
+    transcript (AP Mathematics: Calculus BC, fall 2008)
 
-None of these courses were in the math department at my unversity, and thus
-they do not have "MATH" in the course code on my transcript; that might have
-caused some confusion.
+None of these courses were in the math department at my unversity, and
+that might have caused some confusion.
 
 Finally, I have demonstrated an ability to take a higher level computer science
 course. The one computer science course I have ever taken was Introduction to
-Natural Language processing ("CS XXXX" on my transcript). This course was
-considered an advanced course at my university; it involved probability, linear
-algebra, calculus, and programming. I received a perfect score (4.0) in the course.
+Natural Language processing (CS 4740, spring 2011). This course was
+considered an advanced course at my university, and most of the students in the
+course were graduate students. Among other things, te course involved
+probability, linear algebra, and programming.
+I received a perfect score (4.0) in the course.
