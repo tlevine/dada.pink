@@ -1,9 +1,10 @@
-The only relevant admissions requirement I see is here.
+My application to the software technology track of the computer science
+masters program was declined. The reason given in the decision email is below.
+
+> The Selection Committee considers your academic background/specialisation not closely enough related to the MSc programme you wish to participate in.
+
+I believe this to correspond with the following
+[admissions requirement[(http://www.tudelft.nl/en/study/studying-at-the-tu-delft/admission-and-application/msc-with-international-degree/admission-requirements/).
 
 > A good university Bachelor's degree in a main subject closely related to the MSc programme to which you are applying, with good grades on the key courses.
 
-http://www.tudelft.nl/en/study/studying-at-the-tu-delft/admission-and-application/msc-with-international-degree/admission-requirements/
-
-I'm pondering whether it's worth appealing.
-
-Anyway, I'll send slides soon.
