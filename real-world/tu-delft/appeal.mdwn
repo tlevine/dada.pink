@@ -45,4 +45,31 @@ engineers, and I structure the code in ways that are intuitive to other
 engineers. I do the same when documenting software code and teaching people
 how to program.
 
-## 
+## Math background
+While it wasn't mentioned in the decision email, I heard that the selection
+committee was also concerned that I do not have enough of a math background
+to take the higher level computer science courses. In case that was indeed
+an issue, I address it here as well.
+
+I'm going to focus for now on things that could be inferred from my academic
+transcript, and I can provide more demonstrations of my math background if
+you like.
+
+First, I don't know what basic math is expected of people entering the
+computer science masters, but I'm quite sure that I've studied it.
+
+1. All of my six statistics courses involved ample probability theory.
+2. My multivariate statistics course ("XXX") was full of linear algebra,
+    and one of its prerequisites was a course in linear algebra.
+3. I took calculus in high school, and this is indicated on my university
+    transcript as "XXX".
+
+None of these courses were in the math department at my unversity, and thus
+they do not have "MATH" in the course code on my transcript; that might have
+caused some confusion.
+
+Finally, I have demonstrated an ability to take a higher level computer science
+course. The one computer science course I have ever taken was Introduction to
+Natural Language processing ("CS XXXX" on my transcript). This course was
+considered an advanced course at my university; it involved probability, linear
+algebra, calculus, and programming. I received a perfect score (4.0) in the course.
