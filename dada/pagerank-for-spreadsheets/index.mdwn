@@ -281,10 +281,18 @@ act as unique identifiers for postal service locations.
 
 It's kind of cool to run this on individual spreadsheets, but it's even cooler
 to run this on lots of spreadsheets.
-
-blizzard
+In [blizzard](https://pypi.python.org/pypi/blizzard), I find spreadsheets with
+the same unique indices, and then I look for overlap between those spreadsheets.
 
 diagrams of the network
 
-Let's now trace what happens when we compare a new spreadsheet to our database
+Let's now trace what happens when we compare one spreadsheet to our database
 of spreadsheets.
+
+    code
+
+Spreadsheets with high overlap might be good to join to each other, and
+spreadsheets with low overlap might be good to union with each other.
+
+All of this is quite crude at the moment, so I'm somewhat surprised that
+anything interesting comes out.
