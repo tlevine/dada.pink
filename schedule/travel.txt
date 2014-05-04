@@ -8,3 +8,5 @@ TR Travel
 20140531 1:30 am Megabus from New York to Washington 5-7852-053114-M21-0130-NEW-WAS
 20140421 1:00 pm Bolt Bus from New York to Washington A18-1046111-14
 20140616 21:35 from New York to Copenhagen DY7012 5AAJAS
+20140619 2:50 pm from CPH to TXL, AB8091
+20140619 5:05 pm from TXL to STR, AB6537
