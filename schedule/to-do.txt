@@ -1,30 +1,29 @@
 # Read more at http://wiki.thomaslevine.com/schedule/
 TD To do
-20140505 Redo Socrata updating but with the correct date field
-20140521 Host .medial_temporal_lobe on references.thomaslevine.com
-20140513 Get rid of SmugMug and all these tiny VPSs
-20140508 Write about making a graph of unique keys
-20140603 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
-20140428 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
-20140530 Write up the Wikipedia scraper thing that I did with Anastasya
+20140504 Write about making a graph of unique keys
 20140414 Write up the video downloader bytes thing that I did at the Python thing
-20140530 Write up the Grammar of Graphics language parser thing
 20140401 Prepare for the scraping class
 20140401 Prepare for the PDF parsing talk
 20140408 Tell Chris Metcalf what I want
 20140407 Look at the datahub.io stuff
 20140410 Plan sleeping for July on.
-20140515 Look for cool git hooks.
 20140408 Write sheetmusic in Gnumeric with the Python plugin
 20140415 Move two bags and day bag to storage unit
 20140419 Order a Tom Bihn Synapse 19, steel/ultraviolet
 20140506 Decide how to divide my weekend between Transparency Camp and WikiConference USA, and book travel accordingly.
-20140515 Switch to pass http://www.zx2c4.com/projects/password-store/
-DAILY:20140416:20140424 Finish my SEMS stuff.
-20140420 Buy this stuff. Maybe switch RAM with the desktop. http://community.acer.com/t5/2013-Archives/FYI-Aspire-One-AO725-RAM-amp-Samsung-840-SSD-Upgrade-Success/td-p/71433
+DAILY:20140416:20140505 Finish my SEMS stuff.
+20140504 Buy this stuff. Maybe switch RAM with the desktop. http://community.acer.com/t5/2013-Archives/FYI-Aspire-One-AO725-RAM-amp-Samsung-840-SSD-Upgrade-Success/td-p/71433
 20140501 Move mail to cold storage.
-20140506 Apply to Gov Lab
 20140425 Deposit cheque and inquire about wiring money to the Netherlands.
 20140430 Book flight to Europe: Norwegian to CPH. (Book the return flight later.)
 20140504 Book travel to Stuttgart.
 20140515 Book a train from London to Plymouth for 27 July and from Plymouth to Liverpool for 4 August
+20140508 Apply to Gov Lab
+20140515 Switch to pass http://www.zx2c4.com/projects/password-store/
+20140515 Look for cool git hooks.
+20140530 Write up the Grammar of Graphics language parser thing
+20140530 Write up the Wikipedia scraper thing that I did with Anastasya
+20140508 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
+20140513 Get rid of SmugMug and all these tiny VPSs
+20140603 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
+20140525 Redo Socrata updating but with the correct date field
