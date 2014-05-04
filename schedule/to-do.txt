@@ -27,3 +27,4 @@ DAILY:20140416:20140505 Finish my SEMS stuff.
 20140513 Get rid of SmugMug and all these tiny VPSs
 20140603 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
 20140525 Redo Socrata updating but with the correct date field
+20140513 Write about what I learned about housing markets, and send it to Rob
