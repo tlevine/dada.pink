@@ -57,17 +57,38 @@ important of datasets.
 > * LIVES ([Yelp](http://www.yelp.com/healthscores), [Code for America](http://foodinspectiondata.us/))
 
 Many groups have developed standard schemas for particular sorts
-of data. And when I say "schema", I mean "a definition of what
-the columns should be and what the rows mean".
+of data. And when I say "schema", I loosly mean "a definition of
+what the columns should be and what the rows mean".
 
-This is helpful when different organizations have similar datasets.
+![](hovering-schema.png)
+
+For example, I'll tell you a bit about the schema of this spreadsheet.
+I asked a bunch of people how they use toilets in differenc scenarios,
+and some of the results are in this spreadsheet. I asked each person
+about twelve different scenarios. Each row in the spreadsheet corresponds
+to a scenario within a person; there is one row per person.
+The "participantId" column defines the person, and the "task", "privacy",
+and "cleanliness" columns define the scenario; these four columns thus
+act as a unique index on the table. The other columns are about their
+responses to the questions. I'll save the full discussion for a talk
+about the [viscious hovering cycle](/dada/hovering-cycle); the point here
+is that a schema is roughly a definition of what the different columns
+and rows mean and what values are allowed in the cells.
+
+(slide about different organizations)
+
+As you probably know from experience,
+this is helpful when different organizations have similar datasets.
 For example, this can work if multiple bloggers are publishing blog
 posts or if multiple cities are publishing restaurant inspection results.
 It still puts a burden on the publishers of data.
 
+So what else can we do to make it easier to look at lots of spreadsheets?
+
+> Graphs and stuff
+
 (slide)
 
-% Graphs and stuff
 % Even if we have the most perfect graphs about each separate spreadsheet,
 % we won't have time to look at them all; we need to narrow down
 % the spreadsheet base before we look at them
