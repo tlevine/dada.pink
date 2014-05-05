@@ -13,7 +13,8 @@ With hardly any effort, I had amassed tens of thousands of datasets.
 I quickly realized that nobody had any idea what was in these datasets,
 so I started making tools to understand what was in them.
 
-> Data!?
+> Why nobody knows what's in these datasets
+> =========================================
 
 Before I talk about these tools, let me explain why nobody knows what's
 in these datasets.
@@ -32,7 +33,7 @@ but this would take a long time.
 It might take a bit less long if we have good spreadsheets.
 
 > Open data guidelines
-> ===============
+> ======================
 > * Open Knowledge Foundation [Open Data Census](http://census.okfn.org/)
 > * Tim Berners-Lee [Five Stars](http://inkdroid.org/journal/2010/06/04/the-5-stars-of-open-linked-data/) of open linked data.
 > * Open Government Working Group [8 Principles of Open Government Data](http://www.opengovdata.org/home/8principles)
@@ -136,7 +137,7 @@ these often aren't the ones who are looking very analytically at the spreadsheet
 [![Chris Metcalf](http://chrismetcalf.net/)](http://chrismetcalf.net/images/xsleep_deprived.png.pagespeed.ic.MohADXKdwI.jpg)
 [![Tim Wisniewski](http://timwis.com/images/backgrounds/me.jpg)](http://timwis.com/)
 
-People like Nicole, Noel, Jack, Chris, Mark
+People like Nicole, Noel, Jack, Chris, and Tim
 have worked with various organizations (mostly governments) to publish
 their data, and they know a lot the many datasets being published by the
 organizations they respectively work. If you want to know whether a city
@@ -147,7 +148,9 @@ search engine, and there isn't an easy way for them to convey all of this
 knowledge to others. Moreover, they only know about the data they've worked
 on in their respective governments; they don't know much about other governments.
 
-(slide)
+> Tools for figuring out what all these spreadsheets are about
+> =============================================================
+> "Data-driven data"
 
 Considering that we're talking about open **data**, I figured that we should
 be searching through these data in a **data-driven** way. As I said earlier,
