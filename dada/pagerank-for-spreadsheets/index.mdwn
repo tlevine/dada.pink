@@ -102,35 +102,41 @@ but you can also make graphs!
 
 OpenData Lombardia does it too!
 
-(slide)
+![](lombardia-grafico.png)
 
-These graphs are nice, but we still have the same problem as before.
+These graphs are nice, but we still have the same problem as before:
 Even if we have the most perfect graphs about each separate spreadsheet,
 we won't have time to look at of the millions of spreadsheets; before
 it's worth looking at these graphs, we have to choose a small group of
 spreadsheets to make graphs about.
 
-(slide)
+> Word of mouth
 
 In practice, I find that people learn what's in a spreadsheet through word
 of mouth, without looking directly at the spreadsheet. I know what's in the
 various datasets published by the United States Census, but I've never used
 any of them myself. I know what's in New York City's tax parcel boundaries
-dataset (PLUTO) because lots of people have been talking about it,
-but I haven't looked at it myself.
-http://spatialityblog.com/2013/04/04/a-modest-proposal-for-nyc-tax-parcel-data/
-http://www.codeforamerica.org/blog/2013/07/25/epic-win-for-nycs-open-data-community-pluto-is-free/
+dataset (PLUTO) because lots of people have been
+[talking](http://spatialityblog.com/2013/04/04/a-modest-proposal-for-nyc-tax-parcel-data/)
+[about](http://www.codeforamerica.org/blog/2013/07/25/epic-win-for-nycs-open-data-community-pluto-is-free/)
+it, but I haven't looked at it myself.
 And I know that several cities release data about the use of bike-share programs
 because people get excited every time this happens, but again, I haven't looked
 at any of it myself.
 
-(slides with pictures of people)
+[![Nicole Neditch](https://pbs.twimg.com/profile_images/3109685140/4d01018916293ef57c2233df71855a87_bigger.jpeg)](https://twitter.com/nneditch)
+[![Noel Hidalgo](http://farm2.static.flickr.com/1047/799125271_97a7d5fab2.jpg)](http://noneck.org/)
+[![Jack Madans](https://pbs.twimg.com/profile_images/1851379517/TweeterPic.jpg)](http://www.codeforamerica.org/blog/author/jmadans/)
 
 The people I meet who know the most about what's in these large collections
 of disparate open data spreadsheets are the people in charge of putting them
-on the internet in a form that people can use them. 
+on the internet in a form that people can use them. Surprisingly to me,
+these often aren't the ones who are looking very analytically at the spreadsheets.
 
-People like Nicole, Noel, Jack, Chris, Mark (above)
+[![Chris Metcalf](http://chrismetcalf.net/)](http://chrismetcalf.net/images/xsleep_deprived.png.pagespeed.ic.MohADXKdwI.jpg)
+[![Tim Wisniewski](http://timwis.com/images/backgrounds/me.jpg)](http://timwis.com/)
+
+People like Nicole, Noel, Jack, Chris, Mark
 have worked with various organizations (mostly governments) to publish
 their data, and they know a lot the many datasets being published by the
 organizations they respectively work. If you want to know whether a city
