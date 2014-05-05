@@ -1,0 +1,50 @@
+(data table slide)
+
+The [data table](http://www.datakind.org/blog/whats-in-a-table/)
+is an intuitive paradigm for many people. In a tidy data table, rows
+correspond to observations/records, and columns to variables/attributes
+collected about each observation/record.
+
+(data table in a spreadsheet slide)
+
+We can use spreadsheets to represent data tables, and we can use
+data tables to represent musical scores.
+
+(spreadsheet versus ordinary sheet music slide)
+
+In this figure we see music represented in two forms.
+
+(spreadsheet versus ordinary sheet music slide, with column/staff highlighted)
+
+Each column in the spreadsheet corresponds to a staff in the sheet music,
+
+(spreadsheet versus ordinary sheet music slide, with row/beat highlighted)
+
+and each row in the spreadsheet corresponds to a beat.
+
+(spreadsheet versus ordinary sheet music slide, with styles for dynamics)
+
+We can use color to represent dynamics (how loud or soft the sound is).
+
+(spreadsheet versus ordinary sheet music slide, with borders for bars)
+
+Music is often divided into measures. In sheet music, this is typically
+represented with bars, and we can do the same in spreadsheets.
+
+(Slide: ddpy.to_midi(df), with a diagram of all of the translations)
+
+Spreadsheets store data, so we can use them just as we can use any data
+table format.
+
+(Slide: synthesizer functions)
+
+Spreadsheets are also code, so we can use them to make music.
+I wrote a package that lets you use a spreadsheet as a music synthesizer.
+
+("pip2 install sheetmusic")
+
+To be confusing, let's call it "SheetMusic".
+
+% Explain, functions, examples
+
+I find that people are overly constrained in their perception of what
