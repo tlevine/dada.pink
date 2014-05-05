@@ -7,15 +7,21 @@ contained.
 <!-- ![Plot of dataset counts and download counts by site](/dada/socrata-summary/figure/big_portals_density_text.png) -->
 ![Plot of dataset counts by site](/dada/socrata-summary/figure/big_portals_datasets.png)
 
-With hardly any effort, I had amassed tens of thousands of datasets,
+With hardly any effort, I had amassed tens of thousands of datasets.
 I quickly realized that nobody had any idea what was in these datasets,
 so I started making tools to understand what was in them.
 
+> Data!?
+
 Before I talk about these tools, let me explain why nobody knows what's
-in these datasets. Also, keep in mind that "dataset" is usually a fancy
+in these datasets.
+
+[![Tom holding a letterpress print of a CSV file](/dada/print-formaldehyde/csv-print.jpg)](/dada/print-formaldehyde)
+
+Also, keep in mind that "dataset" is usually a fancy
 word for "spreadsheet".
 
-(slide)
+
 
 How do we figure out what's in a bunch of spreadsheets today?
 We could manually look at every cell in every spreadsheet,
