@@ -1,3 +1,5 @@
+*These are slides for [my talk at SEMS](http://spreadsheetlab.org/2014/04/10/sems-accepted-papers-published/)*.
+
 For the past few years, I've been hearing a lot about "open data".
 I was apparently even an expert in open data even though I didn't
 really know what it was. So I started going to various repositories
@@ -18,8 +20,8 @@ in these datasets.
 
 [![Tom holding a letterpress print of a CSV file](/dada/print-formaldehyde/csv-print.jpg)](/dada/print-formaldehyde)
 
-Also, keep in mind that "dataset" is usually a fancy
-word for "spreadsheet".
+And keep in mind that "dataset" is usually a fancy
+word for "spreadsheet", often in CSV format.
 
 ![A spreadsheet](bus-spreadsheet.png)
 
@@ -87,11 +89,14 @@ So what else can we do to make it easier to look at lots of spreadsheets?
 
 > Graphs and stuff
 
+Lots of people say that we need graphs and stuff so that people can understand
+the data.
+
 (slide)
 
-% Even if we have the most perfect graphs about each separate spreadsheet,
-% we won't have time to look at them all; we need to narrow down
-% the spreadsheet base before we look at them
+Even if we have the most perfect graphs about each separate spreadsheet,
+we won't have time to look at of the millions of spreadsheets; we need
+to narrow it down to maybe ten or so.
 
 (slide)
 
