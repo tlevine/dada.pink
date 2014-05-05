@@ -5,7 +5,7 @@ is an intuitive paradigm for many people. In a tidy data table, rows
 correspond to observations/records, and columns to variables/attributes
 collected about each observation/record.
 
-(data table in a spreadsheet slide)
+[![Tom holding a letterpress print of a CSV file](/dada/print-formaldehyde/csv-print.jpg)](/dada/print-formaldehyde)
 
 We can use spreadsheets to represent data tables, and we can use
 data tables to represent musical scores.
