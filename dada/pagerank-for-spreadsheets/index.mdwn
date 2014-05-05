@@ -89,14 +89,26 @@ So what else can we do to make it easier to look at lots of spreadsheets?
 
 > Graphs and stuff
 
-Lots of people say that we need graphs and stuff so that people can understand
-the data.
+Lots of people say that graphs make us understand data. So a lot of these
+repositories of spreadsheets let people make graphs.
+
+On the French national rail company data site, you can look at tables,
+
+![](sncf-tableau.png)
+
+but you can also make graphs!
+
+![](sncf-analyse.png)
+
+OpenData Lombardia does it too!
 
 (slide)
 
+These graphs are nice, but we still have the same problem as before.
 Even if we have the most perfect graphs about each separate spreadsheet,
-we won't have time to look at of the millions of spreadsheets; we need
-to narrow it down to maybe ten or so.
+we won't have time to look at of the millions of spreadsheets; before
+it's worth looking at these graphs, we have to choose a small group of
+spreadsheets to make graphs about.
 
 (slide)
 
