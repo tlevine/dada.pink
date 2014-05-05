@@ -29,7 +29,13 @@ but this would take a long time.
 
 It might take a bit less long if we have good spreadsheets.
 
-(slide)
+> Open data guidelines
+> ===============
+> * Open Knowledge Foundation [Open Data Census](http://census.okfn.org/)
+> * Tim Berners-Lee [Five Stars](http://inkdroid.org/journal/2010/06/04/the-5-stars-of-open-linked-data/) of open linked data.
+> * Open Government Working Group [8 Principles of Open Government Data](http://www.opengovdata.org/home/8principles)
+> * Sunlight Foundation [Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/)
+> * Open Data Institute [Certificates](https://certificates.theodi.org/)
 
 Many "open data" guidelines provide direction as to how a person
 or organization with lots of datasets might allow other people
@@ -44,10 +50,15 @@ they publish data. This can be a lot of work, so it's unreasonable
 for us to expect this to happen for anything other than the most
 important of datasets.
 
-(slide)
+> Standard Schemas
+> =================
+> * RSS, Atom, &c.
+> * [GeoJson](http://geojson.org/)
+> * LIVES ([Yelp](http://www.yelp.com/healthscores), [Code for America](http://foodinspectiondata.us/))
 
-% Many groups have developed standard schemas for particular sorts
-% of data. examples (cite stuff) RSS, Yelp, other CfA, geojson
+Many groups have developed standard schemas for particular sorts
+of data. And when I say "schema", I mean "a definition of what
+the columns should be and what the rows mean".
 
 This is helpful when different organizations have similar datasets.
 For example, this can work if multiple bloggers are publishing blog
