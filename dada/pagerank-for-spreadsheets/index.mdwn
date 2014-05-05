@@ -21,11 +21,13 @@ in these datasets.
 Also, keep in mind that "dataset" is usually a fancy
 word for "spreadsheet".
 
-
+![A spreadsheet](bus-spreadsheet.png)
 
 How do we figure out what's in a bunch of spreadsheets today?
 We could manually look at every cell in every spreadsheet,
 but this would take a long time.
+
+It might take a bit less long if we have good spreadsheets.
 
 (slide)
 
@@ -34,7 +36,9 @@ or organization with lots of datasets might allow other people
 to use them. At a basic level, many guidelines suggest that data
 be available on the internet and under a free license; at the other
 end of the spectrum, guidelines suggest that data be in standard
-formats accompanied with assorted metadata. These guidelines put
+formats accompanied with assorted metadata.
+
+These guidelines put
 responsibility on the publishers of data to do certain things when
 they publish data. This can be a lot of work, so it's unreasonable
 for us to expect this to happen for anything other than the most
