@@ -275,23 +275,38 @@ and shapefiles at those respective spikes.
 
 I'm just showing you this file format thing to give you a feel for how very
 crude inspection of these datasets can yield interesting information.
+Now let's look at another thing!
 
-(slide)
+> Graphs?
+> ==========
 
-I looked at how people use different features of these data publishing website
-software programs. One of these programs is called "Socrata Open Data Portal",
-and it has features for making graphs of data inside your browser. If you save
+I said earlier that people like making graphs. They like making graphs so much
+that people like Socrata put it in their data catalog software, so you can
+make graphs of data inside your browser and save them.
+
+![](/dada/socrata-users/figure/n.views.png)
+
+People with special privileges can make private graphs, but most people can
+only make public ones; if you save
 the graph you make, it shows up on the public website, so I can see how people
-are using this feature. To make the long story short, it looks like people don't
-use this feature very much.
+are using this feature and how many graphs they're making.
+Socrata says that this "democratizes the data experience" by letting ordinary
+"citizens" analyze data.
 
-(slide about file formats)
+> Main users
+> ==========
+> * Socrata employees
+> * Socrata clients (like data.gov)
+> * A bot
+> * Ordinary people making lots of different queries on the same spreadsheet
+> * People testing apps that take data from Socrata
 
-I started looking into the file formats that people use....
+To make the long story short: It looks like there are a lot of good reasons
+to have this feature, but enabling data analysis by ordinary people isn't
+one of them.
 
-(slide about duplication)
-
-other things....
+> Quantifying compliance with guidelines
+> =======================================
 
 My main approach in all of this work has been to acquire a lot of spreadsheets
 and run silly things across all of them. At some point, I started focusing this
