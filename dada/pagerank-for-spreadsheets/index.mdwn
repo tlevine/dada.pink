@@ -171,10 +171,41 @@ sites that used the Socrata Open Data Portal software.)
 Many organizations report this count of datasets that they publish, and this number
 turns out to be nearly useless.
 
-![]()
+> **Column names**: "grade", "year", "demographic", "number_tested", "mean_scale_score", "num_level_1", "pct_level_1", "num_level_2", "pct_level_2", "num_level_3", "pct_level_3", "num_level_4", "pct_level_4", "num_level_3_and_4", "pct_level_3_and_4"
+>
+> **Datasets with these column names**:
+>
+> * [Math Test Results 2006-2012 - Citywide - Gender](https://data.cityofnewyork.us/d/2bh6-qmgg)
+> * [Math Test Results 2006-2012 - Citywide - Ethnicity](https://data.cityofnewyork.us/d/vve2-26rs)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - SWD](https://data.cityofnewyork.us/d/d72n-ivax)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - ELL](https://data.cityofnewyork.us/d/72db-huua)
+> * [Math Test Results 2006-2012 - Citywide - SWD](https://data.cityofnewyork.us/d/ufu7-zp25)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - All Students](https://data.cityofnewyork.us/d/89di-hi4s)
+> * [Math Test Results 2006-2012 - Citywide - ELL](https://data.cityofnewyork.us/d/ngbi-cq85)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - Gender](https://data.cityofnewyork.us/d/cs9m-cz6f)
+> * [Math Test Results 2006-2012 - Citywide - All Students](https://data.cityofnewyork.us/d/fxwm-3t4n)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - Ethnicity](https://data.cityofnewyork.us/d/p5w7-g72z)
 
-Maybe it's a bit more helpful to look at how many times people have downloaded
-these datasets.
+<!--
+[{"id": "2bh6-qmgg", "name": "Math Test Results 2006-2012 - Citywide - Gender"}
+, {"id": "vve2-26rs", "name": "Math Test Results 2006-2012 - Citywide - Ethnicity"}
+, {"id": "d72n-ivax", "name": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - SWD"}
+, {"id": "72db-huua", "name": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - ELL"}
+, {"id": "ufu7-zp25", "name": "Math Test Results 2006-2012 - Citywide - SWD"}
+, {"id": "89di-hi4s", "name": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - All Students"}
+, {"id": "ngbi-cq85", "name": "Math Test Results 2006-2012 - Citywide - ELL"}
+, {"id": "cs9m-cz6f", "name": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - Gender"}
+, {"id": "fxwm-3t4n", "name": "Math Test Results 2006-2012 - Citywide - All Students"}
+, {"id": "p5w7-g72z", "name": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - Ethnicity"}
+]
+-->
+
+These "datasets" can all be thought of as subsets of the same single dataset.
+If I just take different subsets of a single spreadsheet (and optionally
+pivot/reshape the subsets), I can easily expand one spreadsheet into over 9000.
+
+So maybe we should look at other things too.
+How many times people have downloaded these datasets?
 
 ![Plot of dataset counts and download counts by site](/dada/socrata-summary/figure/big_portals_density_text.png)
 
