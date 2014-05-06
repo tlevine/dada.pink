@@ -10,6 +10,7 @@ contained.
 ![Plot of dataset counts by site](/dada/socrata-summary/figure/big_portals_datasets.png)
 
 With hardly any effort, I had amassed tens of thousands of datasets.
+Here we have a plot of the number of datasets on each of the different repositories I was looking at.
 I quickly realized that nobody had any idea what was in these datasets,
 so I started making tools to understand what was in them.
 
@@ -89,6 +90,7 @@ It still puts a burden on the publishers of data.
 So what else can we do to make it easier to look at lots of spreadsheets?
 
 > Graphs and stuff
+> =================
 
 Lots of people say that graphs make us understand data. So a lot of these
 repositories of spreadsheets let people make graphs.
@@ -112,6 +114,7 @@ it's worth looking at these graphs, we have to choose a small group of
 spreadsheets to make graphs about.
 
 > Word of mouth
+> ================
 
 In practice, I find that people learn what's in a spreadsheet through word
 of mouth, without looking directly at the spreadsheet. I know what's in the
@@ -160,15 +163,49 @@ Considering that we're talking about open **data**, I figured that we should
 be searching through these data in a **data-driven** way. I started downloading
 lots of datasets and running crude statistics across them.
 
-(slide)
+![Plot of dataset counts by site](/dada/socrata-summary/figure/big_portals_datasets.png)
 
-(slide)
+As you saw before, I can see how many spreadsheets there are.
 
-(slide)
+![Plot of dataset counts and download counts by site](/dada/socrata-summary/figure/big_portals_density_text.png)
 
-These "datasets" are mostly in comma-separated values (CSV) format---spreadsheets
-without code---where columns are variables and rows are records. It turns out that
-most of them are pretty small.
+I can see how much they get downloaded. Here, the x axis is the same as the
+previous plot but the y axis is the total downloads by site.
+
+![](/dada/socrata-formats/figure/deduplicated.png)
+
+These "datasets" are mostly available in comma-separated values (CSV) format.
+More precisely, you can get them in a lot of formats and CSV is just the first
+of them in alphabetical order.
+
+You can actually learn a lot from just looking at file formats.
+
+![](/dada/socrata-formats/figure/sf.png)
+
+Here are the file formats for just the data catalog for the San Francisco government.
+
+![](/dada/socrata-formats/figure/sf-changes.png)
+
+If we look over time, we can see bursts of CSV upload.
+Here, the x-axis is time and the y-axis is number of datasets uploaded that month.
+The color indicates whether the dataset is in CSV format.
+
+![](/dada/socrata-formats/figure/sf-shapefile.png)
+
+If we change the graph slightly, we see bursts of shapefile upload.
+My guess is that someone was going around trying to get departments
+to upload their data and hit departments with lots of spreadsheets
+and shapefiles at those respective spikes.
+
+![](/dada/socrata-formats/figure/deduplicated.png)
+
+I'm just showing you this file format thing to give you a feel for how very
+crude inspection of these datasets can yield interesting information.
+
+Regardless of the format of these datasets, you can think of them as
+spreadsheets without code, where columns are variables and rows are records.
+
+It turns out that most of them are pretty small.
 
 (slide)
 
