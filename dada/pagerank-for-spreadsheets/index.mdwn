@@ -207,7 +207,14 @@ spreadsheets without code, where columns are variables and rows are records.
 
 It turns out that most of them are pretty small.
 
-(slide)
+![](/dada/socrata-summary/figure/datasets_size_over_time1.png)
+
+Here's a very ugly graph. The x axis is the date at which a dataset was created
+on the data catalog, and the y axis is the number of rows presently in the dataset.
+(It's possible that a dataset was updated after being created.) V
+
+The colors tell us which catalog the dataset came from, but there are too many colors for that to be worth thinking about
+
 
 (slide)
 
