@@ -163,14 +163,57 @@ Considering that we're talking about open **data**, I figured that we should
 be searching through these data in a **data-driven** way. I started downloading
 lots of datasets and running crude statistics across them.
 
+(A small note: When I first started doing this, I was only looking at catalog
+sites that used the Socrata Open Data Portal software.)
+
 ![Plot of dataset counts by site](/dada/socrata-summary/figure/big_portals_datasets.png)
 
-As you saw before, I can see how many spreadsheets there are.
+Many organizations report this count of datasets that they publish, and this number
+turns out to be nearly useless.
+
+![]()
+
+Maybe it's a bit more helpful to look at how many times people have downloaded
+these datasets.
 
 ![Plot of dataset counts and download counts by site](/dada/socrata-summary/figure/big_portals_density_text.png)
 
-I can see how much they get downloaded. Here, the x axis is the same as the
-previous plot but the y axis is the total downloads by site.
+Here, the x axis is the same as the previous plot but the y axis is the total
+downloads by site.
+
+I can also look at how big they are.
+It turns out that most of them are pretty small.
+
+<!--
+  s <- read.csv('~/t/socrata-analysis/socrata-deduplicated.csv')
+  sum(is.na(s$nrow))                                                                                                  
+[1] 476
+  mean(s$nrow > 100, na.rm = T)                                                                                       
+[1] 0.2507369
+  mean(s$nrow > 1000, na.rm = T)                                                                                      
+[1] 0.1162797
+  mean(s$nrow > 10000, na.rm = T)                                                                                     
+[1] 0.05230904
+  mean(s$nrow > 100000, na.rm = T)                                                                                    
+[1] 0.01799659
+-->
+
+> Dataset sizes
+> ===============
+> In Socrata catalogs as of last summer,
+> * Only 25% of datasets had more than 100 rows.
+> * Only 12% of datasets had more than 1,000 rows.
+> * Only 5% of datasets had more than 10,000 rows.
+
+Regardless of the format of these datasets, you can think of them as
+spreadsheets without code, where columns are variables and rows are records.
+In Socrata catalogs as of last summer,
+
+* Only 25% of datasets had more than 100 rows.
+* Only 12% of datasets had more than 1,000 rows.
+* Only 5% of datasets had more than 10,000 rows.
+
+Now let's look at something different: The formats of these datasets.
 
 ![](/dada/socrata-formats/figure/deduplicated.png)
 
@@ -201,25 +244,6 @@ and shapefiles at those respective spikes.
 
 I'm just showing you this file format thing to give you a feel for how very
 crude inspection of these datasets can yield interesting information.
-
-Regardless of the format of these datasets, you can think of them as
-spreadsheets without code, where columns are variables and rows are records.
-
-It turns out that most of them are pretty small.
-
-![](/dada/socrata-summary/figure/datasets_size_over_time1.png)
-
-Here's a very ugly graph. The x axis is the date at which a dataset was created
-on the data catalog, and the y axis is the number of rows presently in the dataset.
-(It's possible that a dataset was updated after being created.) V
-
-The colors tell us which catalog the dataset came from, but there are too many colors for that to be worth thinking about
-
-
-(slide)
-
-Many organizations report the number of datasets that they publish, and this number
-turns out to be nearly useless.
 
 (slide)
 
