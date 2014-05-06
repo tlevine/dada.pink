@@ -537,19 +537,20 @@ anything interesting comes out.
 I've been downloading lots of spreadsheets and doing crude, silly things
 with them.
 
-(pictures)
+![](/dada/zombie-links/figure/p_prop_links.png)
 
 I started out by looking at very simple things like how big they are.
 I also tried to quantify other people's ideas of how good datasets are,
 like whether they are up-to-date and whether they are freely licensed.
 
-(people having no idea)
+> ???
+> ====
 
 The main thing that I keep seeing is that nobody has any idea what's in all
 of these spreadsheets; I notice this because people continue to be interested
 in results that I find pretty boring.
 
-("Search" slide)
+> "Search"
 
 Part of this is that it's pretty hard to search for spreadsheets.
 
@@ -558,18 +559,23 @@ bars. Dedicated search engines like DuckDuckGo don't index all of the
 spreadsheets, so you're stuck using site-specific searches, and these only
 search within their specific sites.
 
-(openprism)
+[![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
 
 I wrote OpenPrism to deal with this; you type your search into one search
 bar, and it's as if you typed it in to all of the data catalogs I know about
 at once.
 
-(schema)
-
 The other issue is that our methods for searching spreadsheets are quite naive.
 Most of these data catalogs look for exact string matches in the datasets or
-for something similarly crude. PageRank is hailed as the magical invention that
+for something similarly crude.
+
+![](wordsearch.png)
+
+We have designed search engines to look for things arranged in paragraphs
+and sections and pages and hyperlinks; we haven't designed search engines for
+things with tables and rows and columns and join keys.
+PageRank is hailed as the magical invention that
 fixed web search, but it doesn't help much with spreadsheets. That's why I'm
 looking at ways to surface spreadsheets whose schemas are related.
 
-(inspriational thing)
+![](commasearch.png)
