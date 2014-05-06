@@ -352,30 +352,32 @@ You can search in a generic web search engine, but the spreadsheets might not
 be indexed, and the search might not work that well even if the spreadsheets
 are indexed.
 
-(slide of search bar)
+![](search-delft.png)
 
 You can use the search bars on these various websites, but they usually do a
 very naive keyword search. Also, these sites tend to be quite slow.
 
-(slide)
+![](/dada/dataset-as-datapoint/spreadsheet-spreadsheet.png)
 
 Having assembled a spreadsheet about my spreadsheets, I was quite able to
 search through them. Even though I only had metadata in this spreadsheet,
 I could do powerful searches because I could create any metadata I wanted.
 Here's an example. In my composition of music from spreadsheets and in my
 teaching, I often want a dataset whose schema has particular characteristics.
+For example, I might want a dataset with lots of date columns.
+
+    SELECT * FROM datasets WHERE "ncol.date" > 3;
+
 So I collected data about the column types in these various tables and ran
 queries like this on my spreadsheet.
 
-(slide: A search engine for spreadsheets)
+![](/dada/data-about-open-data-talk-december-2-2013/unsilo.jpg)
 
 Here's another issue with using website-specific search bars.
 When I'm looking for spreadsheets, the publishing organization is unlikely
 to be my main concern. For example, if I'm interested in data about the
 composition of different pesticides, but I don't really care whether the
 data were collected by this city government or by that country government.
-
-(middle layer slide)
 
 In my view, we can have one set of tools/people that focus on making
 data available in a crude form and another set for assembling these crude
@@ -385,8 +387,14 @@ data into something more relevent to the people who want the data
 
 OpenPrism
 
-
 Let me reiterate my thoughts on searching spreadsheets.
+
+> Why searching for spreadsheets is hard
+> ==========================================
+>
+> * Naive search method
+> * Site-specific search
+
 I see two main issues in the common means of searching through spreadsheets.
 The first issue is that the search method is quite naive; these websites are
 usually running keyword searches.
