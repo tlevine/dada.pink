@@ -524,7 +524,8 @@ diagrams of the network
 Let's now trace what happens when we compare one spreadsheet to our database
 of spreadsheets.
 
-    code
+    # This is the one missing slide;
+    # I'll fill it in once I make this thing easier to query.
 
 Spreadsheets with high overlap might be good to join to each other, and
 spreadsheets with low overlap might be good to union with each other.
