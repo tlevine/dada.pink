@@ -21,9 +21,9 @@ srcdir: /home/b-thomaslevine/source
 # where to build the wiki
 destdir: /home/b-thomaslevine/public_html
 # base url to the wiki
-url: http://thomaslevine.branchable.com
+url: http://dada.pink
 # url to the ikiwiki.cgi
-cgiurl: http://thomaslevine.branchable.com/ikiwiki.cgi
+cgiurl: http://dada.pink/ikiwiki.cgi
 # filename of cgi wrapper to generate
 cgi_wrapper: /var/www/b-thomaslevine/ikiwiki.cgi
 # mode for cgi_wrapper (can safely be made suid)
@@ -176,8 +176,10 @@ gitmaster_branch: master
 # ikiwikihosting plugin
 # list of urls that alias to the main url
 urlalias:
-- http://dada.pink/
+- http://thomaslevine.branchable.com/
+- http://thomaslevine.branchable.com/
 - http://www.dada.pink/
+- http://dada.pink/
 # openid of primary site owner
 owner: http://thomaslevine.com/
 # optional hostname of site this one was branched from
