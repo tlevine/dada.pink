@@ -571,6 +571,9 @@ for something similarly crude.
 
 ![](wordsearch.png)
 
+The way we look up information today is to type some words into a search engine
+and read the first few results. Why is that not the way we look up data?
+
 We have designed search engines to look for things arranged in paragraphs
 and sections and pages and hyperlinks; we haven't designed search engines for
 things with tables and rows and columns and join keys.
@@ -579,4 +582,5 @@ fixed web search, but it depends on hyperlinks, so doesn't help much with spread
 
 ![](commasearch.png)
 
-A search engine for spreadsheets might look a little different.
+The search engine for spreadsheets is going to look a bit different from
+the search engine for words.
