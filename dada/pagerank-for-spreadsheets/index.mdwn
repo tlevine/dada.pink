@@ -315,13 +315,13 @@ are codified in the various guidelines that I mentioned before. The guidelines
 I reference are all written in English, and none are written in code. I started
 coming up with software approaches for assessing compliance with these guidelines.
 
-updatedness
+<!-- updatedness -->
 
 dead links
 
 I continue to be shocked that people find any of this stuff interesting.
 For the various statistics above, I haven't been doing any notable inspection
-of the contents of the spreadsheets. People haven't looked at these
+of the contents of the spreadsheets. People just haven't looked at these
 spreadsheets in mass, so even the simplest of studies are informative.
 
 (slide: Searching)
