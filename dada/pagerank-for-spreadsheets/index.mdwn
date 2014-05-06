@@ -408,10 +408,14 @@ of the spreadsheets, and I started to address the second issue by letting
 people search many sites at once. Taking this further, I've been thinking
 about what it would mean to have a search engine for spreadsheets.
 
-![](spreadsheet-search-bar.png)
+![](wordsearch.png)
 
 When we search for ordinary written documents, we send words into a search
-engine and get pages of words back. What if we could search for spreadsheets
+engine and get pages of words back.
+
+![](commasearch.png)
+
+What if we could search for spreadsheets
 by sending spreadsheets into a search engine and getting spreadsheets back?
 The order of the results would be determined by various specialized statistics;
 just as we use PageRank to find relevant hypertext documents, we can develop
@@ -419,9 +423,22 @@ other statistics that help us find relevant spreadsheets.
 
 So now I'm looking for ways to do interesting searches on spreadsheets.
 
-rows and columns
+> Rows and columns
 
-special snowflake
+I think a lot about rows and columns. When we define tables in relational
+databases, we can say reasonably well what each column means, based on
+names and types, and what a row means, based on unique indices.
+In spreadsheets, we still have column names, but we don't get everything
+else.
+
+The unique indices tell us quite a lot; they give us an idea about the
+observational unit of the table and what other tables we can nicely
+join or union with that table. So I made a package that finds unique
+indices in ordinary CSV files.
+
+    pip3 install special_snowflake
+
+It's called "special snowflake", but it needs a better name.
 
 If we pass the iris dataset to it, ::
 
@@ -450,7 +467,7 @@ Of course, if we add an identifier column, ::
 that one gets returned. ::
 
     >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
-    {('',)}
+    {('Id',)}
 
 For a more interesting example, let's look at chickweight.
 
