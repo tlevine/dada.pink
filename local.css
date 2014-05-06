@@ -16,3 +16,5 @@ hr {
   background-color: #fe57a1;
   height: 1px;
 }
+
+#content img { width: 50%; }
