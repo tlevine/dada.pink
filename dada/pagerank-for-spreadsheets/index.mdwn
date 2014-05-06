@@ -507,7 +507,7 @@ we find five functional unique keys. Just by looking at the column names,
 I'm gussing that the first two are combinations of parts of the postal address
 and that the latter three look are formal identifiers.
 And when I do things correctly and look at the
-`data dictionary <http://data.iledefrance.fr/api/datasets/1.0/liste-des-points-de-contact-du-reseau-postal-dile-de-france/attachments/laposte_description_champs_pointdecontact_pdf/>`_,
+[data dictionary](http://data.iledefrance.fr/api/datasets/1.0/liste-des-points-de-contact-du-reseau-postal-dile-de-france/attachments/laposte_description_champs_pointdecontact_pdf/),
 I come to the same interpretation.
 
 This tells me that this dataset is about postal service locations,
