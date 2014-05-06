@@ -408,7 +408,7 @@ of the spreadsheets, and I started to address the second issue by letting
 people search many sites at once. Taking this further, I've been thinking
 about what it would mean to have a search engine for spreadsheets.
 
-> 
+![](spreadsheet-search-bar.png)
 
 When we search for ordinary written documents, we send words into a search
 engine and get pages of words back. What if we could search for spreadsheets
