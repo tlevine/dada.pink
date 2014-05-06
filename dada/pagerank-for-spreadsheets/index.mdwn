@@ -317,7 +317,25 @@ coming up with software approaches for assessing compliance with these guideline
 
 <!-- updatedness -->
 
-dead links
+![](/dada/zombie-links/figure/p_link_types.png)
+
+One common guideline is that data should be on the internet. It turns out that
+a lot of data were once on the internet but have synce disappeared.
+This plot shows us what proportion of datasets from each of many data catalog
+sites are dead links. There are nuances in the mortality of datasets, but let's
+just say that the cyan and purple are portions of the bars are dead datasets
+and everything else is live datasets.
+
+![](/dada/zombie-links/figure/p_prop_links.png)
+
+It turns out that data catalog software relates to this. (What do you know!?)
+In the CKAN software, people are encouraged to link to data stored on other
+servers, and in the Socrata software, people are encouraged to upload data
+to Socrata servers. It is thus pretty hard to have dead datasets on the
+Socrata software.
+
+> How is this interesting!?
+> ===========================
 
 I continue to be shocked that people find any of this stuff interesting.
 For the various statistics above, I haven't been doing any notable inspection
