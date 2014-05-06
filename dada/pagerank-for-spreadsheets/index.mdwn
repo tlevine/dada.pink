@@ -519,7 +519,7 @@ to run this on lots of spreadsheets.
 In [blizzard](https://pypi.python.org/pypi/blizzard), I find spreadsheets with
 the same unique indices, and then I look for overlap between those spreadsheets.
 
-diagrams of the network
+![](network.png)
 
 Let's now trace what happens when we compare one spreadsheet to our database
 of spreadsheets.
