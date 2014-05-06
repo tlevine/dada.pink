@@ -341,10 +341,12 @@ I continue to be shocked that people find any of this stuff interesting.
 For the various statistics above, I haven't been doing any notable inspection
 of the contents of the spreadsheets. People just haven't looked at these
 spreadsheets in mass, so even the simplest of studies are informative.
+But I eventually arrived at something that I thought was kind of interesting.
 
-(slide: Searching)
+> Searching for spreadsheets is hard
+> ====================================
 
-I gradually noticed that it's very hard to find spreadsheets that are relevant
+I noticed that it's very hard to find spreadsheets that are relevant
 to a particular analysis unless you already know that the spreadsheet exists.
 You can search in a generic web search engine, but the spreadsheets might not
 be indexed, and the search might not work that well even if the spreadsheets
