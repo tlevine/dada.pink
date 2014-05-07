@@ -10,17 +10,23 @@ collected about each observation/record.
 We can use spreadsheets to represent data tables, and we can use
 data tables to represent musical scores.
 
-(spreadsheet versus ordinary sheet music slide)
+![spreadsheet versus ordinary sheet music](sheetmusic-side-by-side.png)
 
 In this figure we see music represented in two forms.
 
+<!--
 (spreadsheet versus ordinary sheet music slide, with column/staff highlighted)
 
 Each column in the spreadsheet corresponds to a staff in the sheet music,
+-->
 
-(spreadsheet versus ordinary sheet music slide, with row/beat highlighted)
+![spreadsheet versus ordinary sheet music slide, with row/beat highlighted](sheetmusic-side-by-side-highlighted.png)
 
-and each row in the spreadsheet corresponds to a beat.
+Each row in the spreadsheet corresponds to a beat,
+
+![](sheetmusic-function-call.png)
+
+and different notes are in different columns.
 
 (spreadsheet versus ordinary sheet music slide, with styles for dynamics)
 
