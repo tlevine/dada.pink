@@ -17,4 +17,4 @@ hr {
   height: 1px;
 }
 
-#content img { width: 50%; }
+#content img { max-width: 50%; }
