@@ -20,7 +20,7 @@ In this figure we see music represented in two forms.
 Each column in the spreadsheet corresponds to a staff in the sheet music,
 -->
 
-![spreadsheet versus ordinary sheet music slide, with row/beat highlighted](sheetmusic-side-by-side-highlighted.png)
+![spreadsheet versus ordinary sheet music slide, with row/beat highlighted](sheetmusic-side-by-side-highlighted-rowbeat.png)
 
 Each row in the spreadsheet corresponds to a beat,
 
@@ -28,11 +28,13 @@ Each row in the spreadsheet corresponds to a beat,
 
 and different notes are in different columns.
 
+<!--
 (spreadsheet versus ordinary sheet music slide, with styles for dynamics)
 
 We can use color to represent dynamics (how loud or soft the sound is).
+-->
 
-(spreadsheet versus ordinary sheet music slide, with borders for bars)
+![spreadsheet versus ordinary sheet music slide, with borders for bars](sheetmusic-side-by-side-highlighted-borderbar.png))
 
 Music is often divided into measures. In sheet music, this is typically
 represented with bars, and we can do the same in spreadsheets.
