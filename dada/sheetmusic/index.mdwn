@@ -27,6 +27,8 @@ Each row in the spreadsheet corresponds to a beat,
 ![](sheetmusic-function-call.png)
 
 and different notes are in different columns.
+Here is how my music synthesizer, SheetMusic, does the conversion
+between spreadsheets and ordinary sheet music.
 
 <!--
 (spreadsheet versus ordinary sheet music slide, with styles for dynamics)
@@ -34,25 +36,26 @@ and different notes are in different columns.
 We can use color to represent dynamics (how loud or soft the sound is).
 -->
 
-![spreadsheet versus ordinary sheet music slide, with borders for bars](sheetmusic-side-by-side-highlighted-borderbar.png))
+![spreadsheet versus ordinary sheet music slide, with borders for bars](sheetmusic-side-by-side-highlighted-borderbar.png)
 
 Music is often divided into measures. In sheet music, this is typically
 represented with bars, and we can do the same in spreadsheets.
 
-(Slide: ddpy.to_midi(df), with a diagram of all of the translations)
+> I like tables.
+> ==============
 
-Spreadsheets store data, so we can use them just as we can use any data
-table format.
+The point here is that lots of things can be represented as data tables.
+Spreadsheets are a good way for working with data tables, so we can use
+spreadsheets to work with music.
 
-(Slide: synthesizer functions)
+![synthesizer functions](synthesizer-functions.png)
 
-Spreadsheets are also code, so we can use them to make music.
-I wrote a package that lets you use a spreadsheet as a music synthesizer.
-
-("pip2 install sheetmusic")
-
-To be confusing, let's call it "SheetMusic".
+But spreadsheets are also code, so we can use them to make music!
+For example, sheetmusic provides a "third_interval" function for making
+a third interval in a particular key.
 
 % Explain, functions, examples
 
 I find that people are overly constrained in their perception of what
+
+    pip2 install sheetmusic
