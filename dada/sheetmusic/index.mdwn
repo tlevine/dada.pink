@@ -197,16 +197,16 @@ musical or gastronomical elements. When we produce data-driven music or food,
 we are simply using a more accessible plotting device to map abstract data
 onto real things that we can perceive.
 
-...
-
-
-> **Summary**
+> Summary
+> ========
 > 
 > * Convert the world to tidy data tables.
 > * Convert tidy data tables back to the world.
 > * These conversions are less magical than we make them seem.
 > * Data analysis software does a lot more than that.
 > * So we make music from spreadsheets.
+
+In case you fell asleep, let me remind you of everything I just said.
 
 * We can represent lots of things as tidy data tables.
 * We convert abstract data tables into concrete things.
