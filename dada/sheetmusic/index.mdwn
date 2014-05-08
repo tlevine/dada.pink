@@ -156,7 +156,9 @@ cilantro had relatively high grades that year.
 
 % a fancy-looking plot
 
-The same goes for conversions in the other direction. This plot
+As I see it, food is just another way of plotting data. The people
+in this room are probably more used to representing data with a plot like this.
+This plot
 might look very fancy, but we can decompose it into a bunch of simple
 components.
 
@@ -167,13 +169,9 @@ components.
 * The lines connect XXXs of the same YYY.
 * ...
 
-This is still a bit scary for some people, but I find that it gets less
-scary when we create more tangible outputs.
-
-% Mention "aesthetics" and "elements"
-
-As XXX thinks about graphics, we convert our abstract data into primitive
-graphical elements through a mapping that he calls "aesthetics".
+To use the language of the Grammar of Graphics, we have abstract data
+and concrete elements, and we define aesthetics that provide mappings
+between the abstract data and the concrete elements.
 
 % Grammar of graphics slide quoting the non-visual aesthetics bit
 
