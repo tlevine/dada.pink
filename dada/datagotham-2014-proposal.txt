@@ -1,0 +1,5 @@
+We have designed search engines to look for things arranged in paragraphs
+and sections and pages and hyperlinks; what if we designed search engines for
+things with tables and rows and columns and join keys? A year ago, I started downloading a million spreadsheets from open data websites and trying to get a vague idea of what was in all of them, and I've since arrived at an approach to grouping related spreadsheets based on their schemas.
+
+I'll talk about how I started doing all this, how the search works, and some interesting things I learned along the way about how people share data.
