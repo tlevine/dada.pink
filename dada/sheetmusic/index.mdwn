@@ -154,7 +154,10 @@ went up across the board. One of the bowls (I don't remember which.)
 is a bit spicier, because school years corresponding to pepper and
 cilantro had relatively high grades that year.
 
-% a fancy-looking plot
+<!--
+p = ggplot(iris) + aes(x = Sepal.Width, y = Sepal.Length, color = Species) + geom_point(size = 5)                   
+-->
+![](iris-plot.png)
 
 As I see it, food is just another way of plotting data. The people
 in this room are probably more used to representing data with a plot like this.
@@ -162,23 +165,26 @@ This plot
 might look very fancy, but we can decompose it into a bunch of simple
 components.
 
-* Each dot is a XXX
-* The distance from the bottom is how YYY the XXX is.
-* The distance from the right is how YYY the XXX is.
-* The size of the dot is XXX
-* The lines connect XXXs of the same YYY.
-* ...
+* Each dot is an iris
+* The distance from the bottom is how long the iris's petal is.
+* The distance from the right is how wide the iris's petal is.
+* The color of the dot is the species of iris.
 
 To use the language of the Grammar of Graphics, we have abstract data
 and concrete elements, and we define aesthetics that provide mappings
 between the abstract data and the concrete elements.
+And there's no reason that these elements have to be graphical!
 
-![FOMC tacos]()
+    library(geomtaco)
+    ggplot(iris) + aes(meat = Species, salsa = Sepal.Length) + geom_taco()
 
-There's no reason that these elements have to be graphical! To convert
+To convert
 data into music or food, we just need to come up with parametrized primitive
-musical or gastronomical elements. When we produce data-driven music or food,
-we are simply using a more accessible plotting device to map abstract data
+musical or gastronomical elements. In this line of code, we use the geom\_taco
+library to produce data-driven taco recipes with ggplot2.
+
+When we produce data-driven music or food,
+we are simply using a different plotting device to map abstract data
 onto real things that we can perceive.
 
 > Summary
