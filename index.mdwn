@@ -14,6 +14,7 @@ into boxes of two to five things.
 
 ## repositories
 
+* `pip install tlevine && tlevine`
 * <a href="https://github.com/tlevine" rel="me">github</a>
 * <a href="https://bitbucket.org/tlevine" rel="me">bitbucket</a>
 * <a href="https://scraperwiki.com/profiles/tlevine" rel="me">scraperwiki</a>
@@ -35,36 +36,30 @@ into boxes of two to five things.
 
 * <a href="http://deadpeoplebornonmybirthday.thomaslevine.com">dead people</a>
 * <a href="https://github.com/tlevine/hipstogram">hipstogram</a>
-
-## hip
-
 * <a href="https://github.com/tlevine/hipstogram">hipstogram</a>
-* <a href="http://csvsoundsystem.com">csv soundsystem</a>
-
-## earthmoving
-* <a href="https://github.com/scraperwiki/dumptruck">dumptruck</a>
 * <a href="http://pinterest.com/perluette/earthmoving-equipment/">pinterest</a>
 
-## buttons
-* <a href="http://redirect.thomaslevine.com">http redirects</a>
-* <a href="https://views.scraperwiki.com/run/usps_lookup/">usps</a>
-* <a href="http://bettercoach.thomaslevine.com">buses</a>
-
-## nerd cred
+## hax
 
 <a href="https://gist.github.com/1231284">web forms</a>
 <a href="https://github.com/tlevine/unwatermark">unwatermark</a>
-<a href="https://github.com/tlevine/.prophyl-teh-awesum">.profile</a>
 
-## shell testing
+## shell
 
 * <a href="https://github.com/scraperwiki/urchin">urchin</a>
 * <a href="https://blog.scraperwiki.com/2012/12/how-to-test-shell-scripts/">alternatives</a>
+* <a href="https://github.com/tlevine/.prophyl-teh-awesum">.profile</a>
 
 ## open data
 
 * <a href="open-data">meta</a>
 * <a href="http://openprism.thomaslevine.com">openprism</a>
+* pagerank for spreadsheets
+
+## pickles
+
+* [pickle warehouse](http://pypi.python.org/pypi/pickle-warehouse)
+* [pickle cache](http://pypi.python.org/pypi/picklecache)
 
 ## letterpress
 
@@ -81,12 +76,6 @@ into boxes of two to five things.
 <a href="!/christmas-gifts">christmas</a>
 <a href="http://fms.csvsoundsystem.com">fed spending</a>
 <a href="!/twinkle/">twinkle</a>
-
-## doodles
-
-* <a href="http://smug.thomaslevine.com/Typography/Pizza-Boxes">pizza boxes</a>
-* <a href="http://smug.thomaslevine.com/Typography/Risquirer/risquirer-20100504/12846614_ZbL7xv#!i=932454990&amp;k=r7xgo&amp;lb=1&amp;s=A">risquirer</a>
-* <a href="http://smug.thomaslevine.com/Typography/Doodles">more</a>
 
 ## toilets
 
