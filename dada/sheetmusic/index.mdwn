@@ -128,12 +128,12 @@ Data analysis seems very magical to many people. When we represent
 data as familiar things like music, the analysis becomes more
 accessible.
 
-% slide with abstract data versus concrete guacamole
+![abstract data](iris.png)
 
 Numbers are abstract, theoretical things that don't have to be
 related to the world.
 
-% slide with conversions between data and guacamole
+![concrete guacamole](
 
 When I say that data things are "magical" to people, I mean that
 people don't recognize that we can convert between these abstract
