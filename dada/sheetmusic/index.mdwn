@@ -173,7 +173,7 @@ To use the language of the Grammar of Graphics, we have abstract data
 and concrete elements, and we define aesthetics that provide mappings
 between the abstract data and the concrete elements.
 
-% Grammar of graphics slide quoting the non-visual aesthetics bit
+![FOMC tacos]()
 
 There's no reason that these elements have to be graphical! To convert
 data into music or food, we just need to come up with parametrized primitive
