@@ -137,36 +137,8 @@ related to the world.
 
 When I say that data things are "magical" to people, I mean that
 people don't recognize that we can convert between these abstract
-numbers and this real world. When I explain the conversion in
-excruciating detail, it makes perfect sense to people.
-
-% Wetlands thing to spreadsheet
-
-I'm apparently pretty good at converting data formats. By that,
-I mean converting scans of photocopies of non-standard notifications
-that someone wants to dredge or fill a wetland.
-If I say that the computer is going to read the image and
-figure out what the data table says, it can sound like the computer is doing
-something very fancy that you couldn't possibly understand.
-
-(slide)
-
-Instead, I can say that the computer is approximately doing the following.
-
-1. separating the image into a million dots, with most of the dots white
-    and some of them black
-2. doing the same with all of the letters of the alphabet, using a typeface
-    that I specified to be similar to the one in the document
-3. aligning the letters to find things that match
-4. coming up with a long series of letters for the whole file based on the
-    above process
-5. looking through that series of letters until it finds the word
-    "LOCATION", in capital letters
-6. looking at all of the letters within about 100 letters of that word
-7. looking for some digits separated by a comma
-8. calling those digits the longitude and latitude
-
-When I do this, it's almost kind of boring and obvious.
+numbers and this real world. A big step in understanding this data
+stuff is understanding how we make these conversions.
 
 % a fancy-looking plot
 
