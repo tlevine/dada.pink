@@ -131,14 +131,28 @@ accessible.
 ![abstract data](iris.png)
 
 Numbers are abstract, theoretical things that don't have to be
-related to the world.
+related to the world. Given how strange numbers are, all of this
+data stuff can seem very magical. In contrast, most people can
+grasp the concept of guacamole quite well.
 
-![concrete guacamole](
+![concrete guacamole](data-guacamole.jpg)
+
+Guacamole is a tasty but otherwise quite straightforward thing
+that you can see and touch and taste and smell.
 
 When I say that data things are "magical" to people, I mean that
 people don't recognize that we can convert between these abstract
 numbers and this real world. A big step in understanding this data
 stuff is understanding how we make these conversions.
+
+It turns out that the guacamole you see here is actually data-driven;
+each bowl of guacamole represents New York City math test scores for
+a different year, and the different ingredients correspond to the
+average scores for students of different years in school. The bowl
+to the right has more guacamole because of grade inflation---scores
+went up across the board. One of the bowls (I don't remember which.)
+is a bit spicier, because school years corresponding to pepper and
+cilantro had relatively high grades that year.
 
 % a fancy-looking plot
 
