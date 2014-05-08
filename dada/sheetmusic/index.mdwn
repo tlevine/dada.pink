@@ -1,9 +1,15 @@
-(data table slide)
+![](data-table-1.png)
 
 The [data table](http://www.datakind.org/blog/whats-in-a-table/)
-is an intuitive paradigm for many people. In a tidy data table, rows
-correspond to observations/records, and columns to variables/attributes
-collected about each observation/record.
+is an intuitive paradigm for many people.
+
+![](data-table-2.png)
+
+In a tidy data table, rows correspond to observations/records,
+
+![](data-table-3.png)
+
+and columns to variables/attributes collected about each observation/record.
 
 [![Tom holding a letterpress print of a CSV file](/dada/print-formaldehyde/csv-print.jpg)](/dada/print-formaldehyde)
 
