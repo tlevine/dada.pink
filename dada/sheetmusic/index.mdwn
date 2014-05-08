@@ -1,3 +1,5 @@
+*These are materials for [my talk at SEMS](http://spreadsheetlab.org/2014/04/10/sems-accepted-papers-published/). Blockquotes, code blocks, and images will be slides projected for everyone to see, and everything else is things that I'll say.*
+
 ![](data-table-1.png)
 
 The [data table](http://www.datakind.org/blog/whats-in-a-table/)
