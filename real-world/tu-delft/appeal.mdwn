@@ -19,10 +19,26 @@ the following.
 First, is closeness of academic background a formal admission requirement?
 If not, I can appeal.
 
-Second, what do I do if the Selection Committee was in error regarding the
+Second, what else do I do if the Selection Committee was in error regarding the
 closeness of my academic background?
 
 Some further documentation of the appeal process might clarify this.
+I didn't manage to find that, but I did get this cryptic email in response
+to a these two questions.
+
+> Dear Tom
+> 
+> You applied to do the Software technology track of the Computer Science
+> master's degree. The Selection Committee considers your academic
+> background/specialisation not closely enough related to the MSc programme
+> you wish to participate in. If you want to appeal their decision, you can
+> follow the appeal procedures.
+> 
+> Please check www.appeal.tudelft.nl for further information on the procedure.
+> 
+> Kid regards
+
+So I guess I'll appeal.
 
 ## Closeness of academic background
 Relate to software technology...
@@ -30,7 +46,7 @@ Relate to software technology...
 My bachelor's program was in ergonomics and was closely related to
 the software technology track of the computer science masters at Delft.
 Much of my coursework was on the topics of usability and human-computer
-interaction design, and I thus wound up developing software in my courses.
+interaction design; my courses involved developing software.
 
 Some of the confusion about the closeness of my bachelor's program might
 come from the slightly different focus of the
@@ -38,12 +54,13 @@ come from the slightly different focus of the
 discipline, and there appears to be more focus on building architecture in
 the program at Delft than there was in my program.
 
-Moreover, I've found my understanding of usability to be quite helpful
-in software engineering. In maintaining software code, I use usability
-research methods to identify aspects of the code that are confusing to
-engineers, and I structure the code in ways that are intuitive to other
-engineers. I do the same when documenting software code and teaching people
-how to program.
+Moreover, there is much overlap between usability research and software
+engineering. The same methods that are used in usability research to
+design easy-to-use products are also used in software engineering to
+structure source code in ways that are clear for engineers. Both of these
+disciplines involve very fast-pased product development have both developed
+specialized approaches for the management of projects. There is much overlap
+in these methods between the two disciplines.
 
 ## Math background
 While it wasn't mentioned in the decision email, I heard that the selection
