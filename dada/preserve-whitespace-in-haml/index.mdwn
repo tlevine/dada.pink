@@ -5,13 +5,13 @@ If been to this site in the last few weeks, you've seen ugly code blocks like
 this one (from my article on my [scp wrapper](/!/scp-wrapper/)).
 
 <img alt="Code block with weird indenting"
-     src="<%= @item.identifier %>unpreserved.png"
+     src="unpreserved.png"
      class="wide" />
 
 But I had intended for the blocks to look like this.
 
 <img alt="Code block with ordinary lack of indenting"
-     src="<%= @item.identifier %>preserved.png"
+     src="preserved.png"
      class="wide" />
 
 What happened?

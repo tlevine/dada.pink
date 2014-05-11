@@ -136,7 +136,7 @@ on the twelve days of Christmas.
 
 Then CSV made a music video about the financial crisis.
 
-[<img alt="FMS Symphony" src="<% @item.identifier %>fms.png" class="wide" />](http://fms.csvsoundsystem.com)
+[<img alt="FMS Symphony" src="fms.png" class="wide" />](http://fms.csvsoundsystem.com)
 
 More recently, I made one about transit ridership in Chicago and New York.
 

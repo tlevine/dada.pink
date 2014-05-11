@@ -17,11 +17,11 @@ not really the market value.)
 I wanted to know what the general distribution of assessed values was like,
 so I plotted a histogram.
 
-![Histogram from $0 to $2,000,000 with one bin far towards the left](<%= item.identifier %>total-assessed-simple.png)
+![Histogram from $0 to $2,000,000 with one bin far towards the left](total-assessed-simple.png)
 
 The data were very positively skewed, so I plotted them on a log scale.
 
-![Histogram on a log scale with several bins, peaking around $100,000](<%= item.identifier %>total-assessed-log.png)
+![Histogram on a log scale with several bins, peaking around $100,000](total-assessed-log.png)
 
 The mound at the far-left is the 210 of 5954 properties that were assessed
 at $0. (These are the properties in the wholly exempt section of the roll.)
@@ -41,7 +41,7 @@ types of exemptions for each particular tax. Here's a plot of standard
 deviation of taxable assessment by mean taxable assessment. It excludes
 properties that had the same assessment for all three taxes.
 
-![Scatterplot of standard deviation of different taxes by mean tax, each point being a house](<%= item.identifier %>apartments.png)
+![Scatterplot of standard deviation of different taxes by mean tax, each point being a house](apartments.png)
 
 We find the standard deviation correlated with the mean; this makes sense
 because they're both indicators of the scale of the assessment; as the mean
@@ -85,14 +85,14 @@ for a few of these properties in the roll just based on the tax rates.
 The first record seems to correspond to the Wabecks (page 608 of the roll).
 
 <img alt="Record in the roll for the Wabecks"
-     src="<%= item.identifier %>wabeck.png"
+     src="wabeck.png"
      class="wide" />
 
 They, like many others, have the `41854 RES STAR` exemption code. Here are a
 couple other records with different exemption codes (from page 685).
 
 <img alt="Two records in the roll"
-     src="<%= item.identifier %>685.png"
+     src="685.png"
      class="wide" />
 
 The first record has both the `41854 RES STAR` exemption and the

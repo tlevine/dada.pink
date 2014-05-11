@@ -227,7 +227,7 @@ I haven't found any documentation on that, but I might document that eventually.
 This also returns counts, presumably view counts. The root associative array
 maps an origin (like `http://thomaslevine.com`) to an associative
 array, and that child associative array maps the rest of the URL
-(like `<%= @item.identifier %>?foo=bar`) to a count.
+(like `http://thomaslevine.com/open-data?foo=bar`) to a count.
 
     curl 'https://data.oregon.gov/api/site_metrics.json?start=1375315200000&end=1376438399999&method=top&top=REFERRERS&_=1376451966200'
     {
@@ -275,7 +275,7 @@ Within each, a mapping from search terms to counts is returned.
 This returns the same format as the top referrers; the root associative array
 maps an origin (like `http://thomaslevine.com`) to an associative
 array, and that child associative array maps the rest of the URL
-(like `<%= @item.identifier %>?foo=bar`) to a count.
+(like `http://thomaslevine.com/open-data?foo=bar`) to a count.
 
     curl 'https://data.oregon.gov/api/site_metrics.json?start=1375315200000&end=1376438399999&method=top&top=EMBEDS'
     {

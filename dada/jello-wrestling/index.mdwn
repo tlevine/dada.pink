@@ -19,7 +19,7 @@ in jello, but I did want to continue this jello wrestling legend.
 
 In December 2010, I printed a few dozen of these posters.
 
-![Poster advertising nude jello wrestling to happen at Risley Hall on February 18](<%= @item.identifier %>feb18.jpg)
+![Poster advertising nude jello wrestling to happen at Risley Hall on February 18](feb18.jpg)
 
 Few people knew that I had printed these, and there were never any plans for
 nude jello wrestling to happen.
@@ -42,7 +42,7 @@ to do with that.
 I wanted to know more about people react to these posters. On the same night in December
 2010 when I had printed the February 18 posters, I had also printed some of these.
 
-![Poster advertising nude jello wrestling to happen at Risley Hall on April 15](<%= @item.identifier %>apr15.jpg)
+![Poster advertising nude jello wrestling to happen at Risley Hall on April 15](apr15.jpg)
 
 Like before, I posted a few of these around campus on the week before the
 non-event. This time, I wrote my Cornell email address at the bottom of the posters

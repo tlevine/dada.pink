@@ -8,7 +8,7 @@ I took some [information](https://github.com/tlevine/scarsdale-data/blob/master/
 out of the Scarsdale budgets and noticed that the property tax rate increases quite consisently.
 
 <img alt="Tax rate over time"
-     src="<%= @item.identifier %>tax_rate_by_year.png"
+     src="tax_rate_by_year.png"
      class="wide" />
 
 The property tax rate is a proportion of the assessed value of the house; if
@@ -25,7 +25,7 @@ the tax rate against the value of a dollar in today's dollars based on the
 Consumer Price Index. (This tries to adjust for inflation.)
 
 <img alt="Tax rate as a function of inflation"
-     src="<%= @item.identifier %>tax_rate_by_inflation.png"
+     src="tax_rate_by_inflation.png"
      class="wide" />
 
 This doesn't look that different from the previous plot becauses the value of
@@ -38,7 +38,7 @@ that year's taxes (the solid line) in 2009 rather than in the year to which
 they correspond.
 
 <img alt="Raw and inflation-adjusted tax rate over time"
-     src="<%= @item.identifier %>adj_tax_rate.png"
+     src="adj_tax_rate.png"
      class="wide" />
 
 If the increase in property tax rate is explained only by inflation, this line

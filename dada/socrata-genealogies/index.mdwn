@@ -105,7 +105,7 @@ but we don't need to know about them for now.
 ### Tables
 {:#term-table}
 
-![A table family, containing a dataset and several filtered views, charts and maps](<%= @item.identifier %>family.jpg){:.wide}
+![A table family, containing a dataset and several filtered views, charts and maps](family.jpg){:.wide}
 <!-- Icons from https://explore.data.gov/stylesheets/images/icons/type_icons_30.png?1 -->
 
 There is also a concept of a **table**, and
@@ -281,9 +281,9 @@ most of the hits/downloads came from the source dataset.
 If they are far apart, most
 hits/downloads came from filtered views, charts and maps.
 
-![Hits by dataset family](<%= @item.identifier %>hits.png){:.wide}
+![Hits by dataset family](hits.png){:.wide}
 
-![Downloads by dataset family](<%= @item.identifier %>downloads.png){:.wide}
+![Downloads by dataset family](downloads.png){:.wide}
 
 This information might tell us something about
 how people like to use the data. Perhaps people working with the World Bank
@@ -296,11 +296,11 @@ The view size and shape give us an idea of what sort of queries people are runni
 Are people selecting certain variables, or are they aggregating or subsetting
 the records?
 
-![A rectangle indicating the original dataset](<%= @item.identifier %>query-1.jpg)
+![A rectangle indicating the original dataset](query-1.jpg)
 
-![The same rectangle, with a shorter one for a record subset](<%= @item.identifier %>query-2.jpg)
+![The same rectangle, with a shorter one for a record subset](query-2.jpg)
 
-![The same rectangles, with a tall, thin one for a selection of variables](<%= @item.identifier %>query-3.jpg)
+![The same rectangles, with a tall, thin one for a selection of variables](query-3.jpg)
 
 #### Federation
 As I discussed earlier, federation is all-or-nothing; you either include all

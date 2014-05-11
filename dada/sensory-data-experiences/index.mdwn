@@ -17,7 +17,7 @@ experiences. I started toying with this a few years ago around Christmas time.
 They've recently become more popular. My [band](http://csvsoundsystem.com)
 made a music video of treasury data.
 
-[<img alt="FMS Symphony" src="<% @item.identifier %>fms.png" class="wide" />](http://fms.csvsoundsystem.com)
+[<img alt="FMS Symphony" src="fms.png" class="wide" />](http://fms.csvsoundsystem.com)
 
 Küechenstudio made a [podcast](http://www.kuechenstud.io/datenschau/podcast/ds008/)
 about some of the other recent advances in data music.
@@ -37,10 +37,10 @@ Data animations are also becoming popular in experimental physics, for both the
 ATLAS and CMS experiments.
 
 <!-- https://twiki.cern.ch/twiki/pub/AtlasPublic/HiggsPublicResults//4l-FixedScale-NoMuProf2.gif -->
-[![ATLAS](4l-FixedScale-NoMuProf2-preview.png)](<% @item.identifier %>4l-FixedScale-NoMuProf2.gif)
+[![ATLAS](4l-FixedScale-NoMuProf2-preview.png)](4l-FixedScale-NoMuProf2.gif)
 
 <!-- https://twiki.cern.ch/twiki/pub/CMSPublic/Hig13002TWiki/HZZ4l_animated.gif -->
-[![CMS](HZZ4l_animated-preview.png)](<% @item.identifier %>HZZ4l_animated.gif)
+[![CMS](HZZ4l_animated-preview.png)](HZZ4l_animated.gif)
 
 Dynamic, multisensory data experiences will help us make sense of big data.
 In the long term, we really need to gastronomify data in order to experience

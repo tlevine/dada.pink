@@ -7,11 +7,8 @@ tweet_link: https://twitter.com/thomaslevine/status/416278017347166208
 twitter_image: hawaii.png
 facebook_image: hawaii.png
 
-<% root = 'https://github.com/tlevine/open-data/blob/master/' %>
-<% pricing = 'https://github.com/tlevine/socrata-pricing/blob/master/d/' %>
-
 Some governments were awesome enough to open data about the
-[pricing of Socrata products](<%= pricing %>).
+[pricing of Socrata products](https://github.com/tlevine/socrata-pricing/blob/master/d/).
 
 I thought it would be interesting to figure out which plans different
 Socrata clients were on and to see which features were most in demand.
@@ -24,8 +21,8 @@ beginning of Socrata's offerings.
 
 I'm going to summarize it here, but
 you can read more in any of the
-[price lists](<%= pricing %>), such as the
-[Washington price list](<%= pricing %>washington.xlsx)
+[price lists](https://github.com/tlevine/socrata-pricing/blob/master/d/), such as the
+[Washington price list](https://github.com/tlevine/socrata-pricing/blob/master/d/washington.xlsx)
 
 ### Socrata Open Data Portal
 The main product that you hear about is the
@@ -54,7 +51,7 @@ And here's the enterprise plan (Soc-OD-Ent).
 
 The plans and their differences are a bit more complex,
 so I remind you to read the
-[Washington price list](<%= pricing %>washington.xlsx)
+[Washington price list](https://github.com/tlevine/socrata-pricing/blob/master/d/washington.xlsx)
 if you care for the details.
 
 ### Explorers
@@ -90,7 +87,7 @@ And here's the enterprise plan (Soc-DC-Ent).
 * Costs just under $20,000 per month
 
 Based on the full description in the
-[Washington price list](<%= pricing %>washington.xlsx),
+[Washington price list](https://github.com/tlevine/socrata-pricing/blob/master/d/washington.xlsx),
 I think there's a lot more to DataCollect than I can see publically.
 
 On the other hand, I do think we can see some of it publically;
@@ -155,16 +152,16 @@ I collected all of the data over the past week.
 I downloaded lots of files,
 put them into an SQLite3 database, and
 then I ran the following
-[queries](<%= root %>reports/socrata-pricing.sql).
+[queries](https://github.com/tlevine/open-data/blob/master/reports/socrata-pricing.sql).
 
 To count **datasets**, I
-[called the search API](<%= root %>download.py) and
+[called the search API](https://github.com/tlevine/open-data/blob/master/download.py) and
 [removed federation and derived views](/!/socrata-deduplicate).
 I arrived at the number of [tables](/!/socrata-genealogies#term-table)
 per data portal.
 
 To count **APIs**, I
-[went](<%= root %>apis.py)
+[went](https://github.com/tlevine/open-data/blob/master/apis.py)
 to the following URL for each data portal.
 
     https://${catalog}/browse?limitTo=apis&utf8=%E2%9C%93

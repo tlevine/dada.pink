@@ -64,7 +64,7 @@ is a hacker collective with many projects surrounding this theme.
 We collectively made a song about the financial crisis based on
 treasury data.
 
-[<img alt="FMS Symphony" src="<% @item.identifier %>fms.png" class="wide" />](http://fms.csvsoundsystem.com)
+[<img alt="FMS Symphony" src="fms.png" class="wide" />](http://fms.csvsoundsystem.com)
 
 More recently, I made one about transit ridership in Chicago and New York.
 

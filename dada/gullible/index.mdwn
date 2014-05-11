@@ -3,6 +3,6 @@
 
 This one time, I painted the word "Gullible" on the ceiling.
 
-<img src="<%= @item.identifier %>gullible.jpg"
+<img src="gullible.jpg"
      alt='A narrow hallway with "Gullible" painted on the ceiling'
      class="wide" />

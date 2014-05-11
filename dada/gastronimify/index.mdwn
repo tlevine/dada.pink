@@ -12,7 +12,7 @@ Install it like so.
 install_git('git://github.com/csv/gastronomify.git')
 ```
 
-Then generate recipes. [Here](<%= @item.identifier %>yahoo-finance.r)'s
+Then generate recipes. [Here](yahoo-finance.r)'s
 an example gastronomification of four stocks' prices for the past six
 years; it creates one recipe for each day.
 

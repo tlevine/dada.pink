@@ -30,7 +30,7 @@ Most of my emails go to "Pulse", but some stay in "INBOX".
 ## My configuration
 Some of the filters that I use contain information that could be unsafe to post
 publically, so I've removed some of the pulse filters, replaced them with the
-line `-- ...`, and posted the configuration [here](<%= @item.identifier %>config.lua).
+line `-- ...`, and posted the configuration [here](config.lua).
 I walk through it below.
 
 First, I set some options that were in some other configuration files.
