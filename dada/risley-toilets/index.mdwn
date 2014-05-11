@@ -1,6 +1,6 @@
 [[!meta title="Unsanitary conditions in dormitory bathrooms"]]
 <!-- created_at: 2011-06-27 -->
-[[!tags ergonomics shenanigans]]
+[[!tag ergonomics shenanigans]]
 
 Some concerns over sanitation of bathrooms in
 [my dorm](http://en.wikipedia.org/wiki/Risley_Residential_College) in the

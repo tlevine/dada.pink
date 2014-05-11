@@ -1,6 +1,6 @@
 [[!meta title="Talking at Open Austin"]]
 <!-- created_at: 2014-02-24 -->
-[[!tags open-data]]
+[[!tag open-data]]
 twitter_image: unsilo.png
 facebook_image: unsilo.png
 [[!meta description="A whirlwind tour of my studies about open data"]]

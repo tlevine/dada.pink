@@ -5,7 +5,7 @@ twitter_title: Some people actually use @socrata's web-based analysis tools!
 twitter_description: 'Like "not The White House", who discovered a @SecretService barbecue'
 <!-- created_at: 2013-07-25 -->
 twitter_image: user-model.jpg
-[[!tags socrata open-data]]
+[[!tag socrata open-data]]
 other_source: https://github.com/tlevine/socrata-analysis
 
 I recently downloaded the metadata files for all

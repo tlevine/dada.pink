@@ -1,7 +1,7 @@
 [[!meta title="Seven Open Data Tips for Data Pickaxe Factories"]]
 [[!meta description="If you're working some data software product, here are some tips for you."]]
 tweet_text: Here's what I think you should know if you do some data something and want to make money from open data.
-[[!tags open-data]]
+[[!tag open-data]]
 
 I've heard that the real money in gold rushes was made by people selling
 pickaxes rather than by people mining gold. I've yet to find any convincing

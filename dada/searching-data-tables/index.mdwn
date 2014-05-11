@@ -1,6 +1,6 @@
 [[!meta title="Searching data tables"]]
 description: How we can make it easier to search through open data
-[[!tags open-data]]
+[[!tag open-data]]
 <!-- created_at: 2013-03-31 -->
 
 There are loads of open data portals

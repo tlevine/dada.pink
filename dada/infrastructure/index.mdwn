@@ -1,5 +1,5 @@
 [[!meta title="My personal computer infrastructure"]]
-[[!tags computer]]
+[[!tag computer]]
 
 This is the architecture that runs my various sites and other services
 

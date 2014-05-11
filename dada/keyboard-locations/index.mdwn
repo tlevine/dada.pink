@@ -1,4 +1,4 @@
-[[!tags ergonomics]]
+[[!tag ergonomics]]
 <!-- created_at: 2011-08-24 -->
 [[!meta title="Keyboard locations"]]
 [[!meta description="Where do people position computer keyboards?"]]

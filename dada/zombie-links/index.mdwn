@@ -4,7 +4,7 @@ description: Some of these links were less dead than I'd thought.
 tweet_text: You won't believe how little went wrong when I messed up my database schema. http://thomaslevine.com/!/zombie-links #opendata
 twitter_image: figure/prop_links.png
 facebook_image: figure/prop_links.png
-[[!tags open-data]]
+[[!tag open-data]]
 <!-- created_at: 2014-02-22 -->
 ---
 After I wrote about

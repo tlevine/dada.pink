@@ -1,5 +1,5 @@
 [[!meta title="What's in a table?"]]
-[[!tags datakind]]
+[[!tag datakind]]
 
 <style>
 #row tbody tr:nth-of-type(2n),

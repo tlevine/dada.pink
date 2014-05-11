@@ -1,5 +1,5 @@
 [[!meta title="Utlity of Cobalt"]]
-[[!tags computer]]
+[[!tag computer]]
 relationships: ['scraperwiki']
 
 x.scraperwiki.com uses a new infrastructure for running scripts. We call it

@@ -3,7 +3,7 @@
 tweet_text: Making my data about open data less confusing http://thomaslevine.com/!/better-datasets-about-open-data/
 tweet_link: ''
 <!-- created_at: 2014-01-27 -->
-[[!tags open-data]]
+[[!tag open-data]]
 ---
 I've recently been [studying data about open data](/open-data),
 and I want to make it easy for other people to use my data data for more

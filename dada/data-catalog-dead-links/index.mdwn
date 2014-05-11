@@ -3,7 +3,7 @@
 tweet_text: The next big drug craze will be a URL resurrection potion. http://thomaslevine.com/!/data-catalog-dead-links #opendata
 twitter_image: figure/prop_links.png
 facebook_image: figure/prop_links.png
-[[!tags open-data]]
+[[!tag open-data]]
 <!-- created_at: 2014-01-16 -->
 
 As I started looking at data on [CKAN](http://ckan.org/) sites, I noticed that a lot of the
