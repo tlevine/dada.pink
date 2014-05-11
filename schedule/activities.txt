@@ -109,3 +109,6 @@ DAILY:20140423:20140425 In Ontodia's office
 20140510 9:30 am, Ecohack, Etsy, 55 Washington St. http://ecohack.org/
 20140510 6:30 pm MoMath
 DAILY:20140512:20140513 Maybe lunch with Brian
+DAILY:20140606:20140608 Public Laboratory Barn Raising http://publiclab.org/wiki/barnraising
+20140605 Maybe arrive early at Public Lab Barnraising
+20140528 1 pm Eye of the Storm The Science of Weather, bring some lunch, Gould Plaza, NYU, 40 W 4th St
