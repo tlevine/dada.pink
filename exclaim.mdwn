@@ -1,1 +1,1 @@
-[[!meta forward="[[dada]]"]]
+[[!meta forward="/dada"]]
