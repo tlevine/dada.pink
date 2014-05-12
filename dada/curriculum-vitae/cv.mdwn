@@ -1,3 +1,9 @@
+<style>
+@media print {
+  .pageheader > .header { display: none; }
+}
+</style>
+
 Thomas Kai Levine<br/>
 thomaslevine.com<br/>
 _@thomaslevine.com<br/>
