@@ -13,4 +13,8 @@ If you dare read this, keep in mind that I'm inflating things in order
 to play the real-world game. If you are me and you want to print it out
 so you can submit it to some fancy place, go [here](cv).
 
-[[!inline pages="dada/curriculum-vitae/cv or dada/curriculum-vitae/press" raw="yes"]]
+[[!inline pages="dada/curriculum-vitae/cv" raw="yes"]]
+
+## Press
+
+[[!inline pages="dada/curriculum-vitae/press" raw="yes"]]
