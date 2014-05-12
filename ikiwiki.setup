@@ -64,11 +64,11 @@ add_plugins:
 - html
 - rawhtml
 - txt
-- prettydate
 - typography
 - autoindex
 # plugins to disable
-disable_plugins: []
+disable_plugins:
+- prettydate
 # additional directory to search for template files
 templatedir: /usr/share/ikiwiki/templates
 # base wiki source location
