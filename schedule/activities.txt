@@ -102,7 +102,7 @@ DAILY:20140423:20140425 In Ontodia's office
 20140429 Plan (on paper) the talks/slides for both EuSpRIG papers. Transfer them to computer tomorrow.
 20140502 12 pm Tom and Ryan have lunch.
 20140509 6 pm, pre-extinct, 536 Myrtle Hall, Pratt, https://www.facebook.com/events/473310139468689
-20140512 6 pm Tow Center Innovation Showcase
+20140513 6 pm Tow Center Innovation Showcase
 20140517 9 am, Big Apps, Made in NY Media Center, 30 John St, Brooklyn, NY
 20140512 GeoNYC, Mapzen, 30 W 26th Street, 7th floor
 20140510 9:30 am, Ecohack, Etsy, 55 Washington St. http://ecohack.org/
@@ -112,4 +112,4 @@ DAILY:20140606:20140608 Public Laboratory Barn Raising http://publiclab.org/wiki
 20140528 1 pm Eye of the Storm The Science of Weather, bring some lunch, Gould Plaza, NYU, 40 W 4th St
 20140610 7 pm, Hack Portland, 30 Danforth St. Suite 304, http://www.meetup.com/Hack-Portland/events/175712472/
 DAILY:20140806:20140810 Wikimania, http://wikimania2014.wikimedia.org/wiki/Main_Page
-DAILY:20140512:20140513 Lunch/coffee with Brian at 4 pm, meet at Bryant Park
+20140513 Lunch/coffee with Brian at 4 pm, meet at Bryant Park
