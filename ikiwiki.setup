@@ -265,7 +265,7 @@ langdefdir: /usr/share/highlight/langDefs/
 
 # mdwn plugin
 # enable multimarkdown features?
-#multimarkdown: 0
+multimarkdown: 1
 # disable use of markdown discount?
 #nodiscount: 0
 
@@ -313,8 +313,8 @@ po_link_to: default
 
 ######################################################################
 # web plugins
-#   (404, attachment, comments, editdiff, edittemplate, getsource, google,
-#    goto, mirrorlist, remove, rename, repolist, search, theme, userlist,
+#   (404, attachment, comments, editdiff, edittemplate, google, goto,
+#    mirrorlist, remove, rename, repolist, search, theme, userlist,
 #    websetup, wmd)
 ######################################################################
 
@@ -339,10 +339,6 @@ comments_pagename: comment_
 comments_commit: 1
 # Restrict formats for comments to (no restriction if empty)
 comments_allowformats: ''
-
-# getsource plugin
-# Mime type for returned source.
-#getsource_mimetype: text/plain; charset=utf-8
 
 # mirrorlist plugin
 # list of mirrors
