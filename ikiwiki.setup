@@ -55,7 +55,6 @@ add_plugins:
 - listdirectives
 - poll
 - progress
-- relativedate
 - search
 - testpagespec
 - version
@@ -66,9 +65,10 @@ add_plugins:
 - txt
 - typography
 - autoindex
+- prettydate
 # plugins to disable
 disable_plugins:
-- prettydate
+- relativedate
 # additional directory to search for template files
 templatedir: /usr/share/ikiwiki/templates
 # base wiki source location
