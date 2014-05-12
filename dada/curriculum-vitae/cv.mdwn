@@ -26,7 +26,7 @@ consultant, helping organizations take advantage of data. My services include
 
 For [Vy Capital](http://vycapital.com/), a venture capital firm,
 I am developing large-scale data
-acquisition systems to drive their investment decisions. (2014--present)
+acquisition systems to drive investment decisions. (2014--present)
 
 I am integrating my spreadsheet search tools into
 the [Pediacities](http://nyc.pediacities.com/) data encyclopedia
@@ -34,7 +34,7 @@ for [Ontodia](http://www.ontodia.com/). (2014--present)
 
 I am advising [Enigma](http://enigma.io/), a data provider,
 on data architecture and on
-methods for searching their data (many thousands of datasets). (2014--present)
+methods for linking and searching thousands of datasets. (2014--present)
 
 As part of [csv soundsystem](http://csvsoundsystem.com),
 I did engineering and product management on [treasury.io](http://treasury.io). (2013)
