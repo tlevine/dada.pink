@@ -1,18 +1,39 @@
+    To:
+    Examination Appeals Board,
+    Postbus 5, 2600 AA
+    Delft
+    the Netherlands
 
+Dear Examination Appeals Board,
 
-## Ergonomics background
+My application to the software technology tract of the masters program in computer science
+was rejected, and I wish to appeal this decision.
+
+My decision letter provides the following reason for the rejection of my application.
+
+> The Selection Committee considers your academic background/specialisation not closely enough related to the MSc programme you wish to participate in.
+
+I would like to appeal this decision on the following grounds:
+I consider my academic background and specialisation to be very closely related to MSc that I wish to participate in.
+Below, you will find further description of these grounds.
+
+Thank you
+
+Thomas Levine
+
+(signature)
+
+(date)
+
+## Further description of the grounds for the appeal
+
+### Ergonomics background
 My bachelor's program was in ergonomics and was closely related to
 the software technology track of the computer science masters at Delft.
 Much of my coursework was on the topics of usability and human-computer
 interaction design; my courses involved developing software.
 
-Some confusion about the closeness of my bachelor's program might
-come from the slightly different focus of the widely renouned ergonomics
-program at Delft; ergonomics is a rather broad discipline, and the program
-at Delft seems to have more of a focus on anthropometry and less on
-human-computer interaction design.
-
-## Math background
+### Math background
 While it wasn't mentioned in the decision email, I heard that the selection
 committee was also concerned that I do not have enough of a math background
 to take the higher level computer science courses. In case that was indeed
@@ -47,8 +68,46 @@ course were graduate students. Among other things, the course involved
 probability, linear algebra, and programming.
 I received a perfect score (4.0) in the course.
 
-## Computer science background
+### Computer science background
 My curriculum vitae should demonstrate that I have a rather strong
 understanding of computer science even though I haven't taken many courses
 in computer science. I've worked as a software engineer, spoken at major
 industry conferences, and even taught computer programming.
+
+## Copy of the contested decision
+The following decision was sent to me over email.
+
+    MSC REGISTRATION NUMBER 46333
+    
+    
+    T.K.  Levine
+    54 Walworth Avenue
+     10583 AND Scarsdale
+    Verenigde Staten van Amerika
+    
+    
+    Dear Mr. Levine,
+    
+    We regret to inform you that the MSc Programme Selection Committee has declined your application for admission to the MSc programme 2014 - 2016 in Master Computer Science at Delft University of Technology (TU Delft). TU Delft maintains admission requirements for Master's programmes. These admission requirements are published on the website of TU Delft. The reason for the rejection of your application for admission is:
+    
+    The Selection Committee considers your academic background/specialisation not closely enough related to the MSc programme you wish to participate in.
+    
+    We would like to thank you for the interest shown in our university and we wish you success in your further career.
+    
+    On behalf of the Executive Board.
+    
+    Sincerely,
+    
+    
+    Carla Flühr MA
+    Team Leader Admission & Mobility
+    Central International Office
+    Delft University of Technology
+    
+    email:  msc2@tudelft.nl
+    phone:  +31 (0)15 2788012
+    
+    
+    You are entitled to appeal to the Examination Appeals Board, unless you were rejected on the grounds that you do not meet TU Delft's formal admission requirements, as stated on our website (such as obtaining the minimum CGPA score and the minimum score on the English language test).
+    
+    Please check www.appeal.tudelft.nl for further information on the procedure.
