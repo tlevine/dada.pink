@@ -27,9 +27,9 @@ Thank you
 
 Thomas Levine
 
-(signature)
+![Tom's signature](../signature.png)
 
-(date)
+13 May, 2014
 
 ## Further description of the grounds for the appeal
 
