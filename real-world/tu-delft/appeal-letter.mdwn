@@ -1,6 +1,6 @@
 
 
-## Closeness of academic background
+## Ergonomics background
 My bachelor's program was in ergonomics and was closely related to
 the software technology track of the computer science masters at Delft.
 Much of my coursework was on the topics of usability and human-computer
@@ -46,3 +46,9 @@ considered an advanced course at my university, and most of the students in the
 course were graduate students. Among other things, the course involved
 probability, linear algebra, and programming.
 I received a perfect score (4.0) in the course.
+
+## Computer science background
+My curriculum vitae should demonstrate that I have a rather strong
+understanding of computer science even though I haven't taken many courses
+in computer science. I've worked as a software engineer, spoken at major
+industry conferences, and even taught computer programming.
