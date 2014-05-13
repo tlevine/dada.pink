@@ -63,9 +63,6 @@ masters program to require.
 3. I took calculus in secondary school, and this shows up on my university
     transcript. (AP Mathematics: Calculus BC, fall 2008)
 
-None of these courses were in the math department at my unversity, and
-that might have caused some confusion.
-
 Also, I have demonstrated an ability to take a higher level computer science
 course. The one computer science course I have ever taken was Introduction to
 Natural Language processing (CS 4740, spring 2011). This course was
