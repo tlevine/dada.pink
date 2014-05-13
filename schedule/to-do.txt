@@ -18,7 +18,7 @@ DAILY:20140416:20140505 Finish my SEMS stuff.
 20140430 Book flight to Europe: Norwegian to CPH. (Book the return flight later.)
 20140504 Book travel to Stuttgart.
 20140515 Book a train from London to Plymouth for 27 July and to somewhere else 4 August. I should be in London by 6 August.
-20140508 Apply to Gov Lab
+20140515 Apply to Gov Lab
 20140515 Switch to pass http://www.zx2c4.com/projects/password-store/
 20140515 Look for cool git hooks.
 20140530 Write up the Grammar of Graphics language parser thing
