@@ -116,3 +116,4 @@ DAILY:20140806:20140810 Wikimania, http://wikimania2014.wikimedia.org/wiki/Main_
 20140513 ~5 pm (after Brian) Call Mauricio and look at his map stuff.
 20140521 Supercollider http://www.meetup.com/nyc-supercollider/events/176603852/
 20140513 3 pm UBS, bring a cheque
+20140515 9 am meet Joel at Secaucus Junction for Open Data NJ http://njnewscommons.org/opendatanj/
