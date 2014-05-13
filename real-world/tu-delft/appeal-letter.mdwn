@@ -27,7 +27,7 @@ Thank you
 
 Thomas Levine
 
-![Tom's signature](../signature.png)
+<img alt="Tom's signature" src="../signature.png" style="max-width: 10em;" />
 
 13 May, 2014
 
