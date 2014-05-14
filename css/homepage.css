@@ -57,7 +57,7 @@ input#searchbox {
 }
 @media screen and (min-width: 240px) {
   input#searchbox {
-    margin-left: 80px;
+    margin-right: 80px;
   }
 }
 @media screen and (min-width: 440px) {
@@ -69,6 +69,7 @@ input#searchbox {
   }
   input#searchbox {
     width: 320px;
+    margin-right: 0;
   }
 }
 @media screen and (min-width: 640px) {
