@@ -16,6 +16,9 @@ html, body {
   width: 100%;
   text-align: center;
 }
-.card > a, .card > img {
-  display: block;
+.card > a { display: block; }
+.card > img {
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
 }
