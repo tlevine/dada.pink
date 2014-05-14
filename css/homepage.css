@@ -36,6 +36,7 @@ h2 {
 #content {
   float: left;
   width: 180px;
+  margin-left: 10px;
 }
 #callingcard {
   width: 120px;
@@ -58,6 +59,6 @@ h2 {
     width: 600px;
   }
   #callingcard {
-    width: 500px;
+    width: 480px;
   }
 }
