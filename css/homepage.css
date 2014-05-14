@@ -15,7 +15,11 @@ html, body {
   background-color: white;
   width: 100%;
   text-align: center;
-  height: 320px;
 }
-.card > a, .card > img { display: block; }
-.card > img { margin-left: auto; margin-right: auto; }
+#callingcard > a, #callingcard > img { display: block; }
+#callingcard > img { margin-left: auto; margin-right: auto; }
+#boxes > .card {
+  width: 220px;
+  padding: 20px;
+  margin: 0;
+}
