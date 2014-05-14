@@ -25,3 +25,7 @@ html, body {
   width: 200px;
   height: 200px;
 }
+#callingcard { height: 480px; }
+@media screen and (min-width: 480px; ) {
+  #callingcard { height: 320px; }
+}
