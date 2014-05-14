@@ -13,7 +13,6 @@ html, body {
 }
 .card {
   background-color: white;
-  width: 100%;
   text-align: center;
   padding: 20px;
   margin: 20px;
@@ -26,9 +25,18 @@ html, body {
   height: 200px;
 }
 #callingcard {
+  width: 280px;
   height: 480px;
   margin-top: 0;
 }
 @media screen and (min-width: 480px) {
-  #callingcard { height: 320px; }
+  #callingcard {
+    width: 440px;
+    height: 320px;
+  }
+}
+@media screen and (min-width: 540px) {
+  #callingcard {
+    width: 500px;
+  }
 }
