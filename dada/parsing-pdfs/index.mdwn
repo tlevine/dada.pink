@@ -365,3 +365,8 @@ something similar.
 Finally, it's quite hard to convert data formats without losing information,
 so don't worry about losing information. You can always write a new parser
 for any other information that you want.
+
+## See also
+I gave a talk on this at
+[Data Wranglers DC](http://www.meetup.com/Data-Wranglers-DC/events/160592492/).
+Materials are [here](https://github.com/tlevine/data-wranglers-dc-pdfs)
