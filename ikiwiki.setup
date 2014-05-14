@@ -14,6 +14,7 @@ adminemail: _@thomaslevine.com
 # users who are wiki admins
 adminuser:
 - http://thomaslevine.com/
+- https://pypi.python.org/id/tlevine
 # users who are banned from the wiki
 banned_users: []
 # where the source of the wiki is located
@@ -88,7 +89,7 @@ discussion: 1
 # name of Discussion pages
 discussionpage: Discussion
 # generate HTML5?
-html5: 0
+html5: 1
 # only send cookies over SSL connections?
 sslcookie: 0
 # extension to use for new pages
@@ -171,7 +172,7 @@ gitmaster_branch: master
 
 # htmlscrubber plugin
 # PageSpec specifying pages not to scrub
-htmlscrubber_skip: '!dada/curriculum-vitae/cv'
+htmlscrubber_skip: '!dada/curriculum-vitae/cv and !index'
 
 # ikiwikihosting plugin
 # list of urls that alias to the main url
@@ -231,7 +232,7 @@ pingurl: []
 
 # lockedit plugin
 # PageSpec controlling which pages are locked
-locked_pages: '!dada/curriculum-vitae/cv'
+locked_pages: '!dada/curriculum-vitae/cv and !index'
 
 # moderatedcomments plugin
 # PageSpec matching users or comment locations to moderate
