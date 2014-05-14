@@ -28,6 +28,7 @@ hr {
 .w300 { width: 300px;}
 h1, h2, h3, h4, h5, h6 {
   font: bold 100% sans-serif;
+  page-breaks-after: avoid;
 }
 h2 { font-size: 2em; }
 h3 { font-size: 1.5em; }
