@@ -34,30 +34,29 @@ Thomas Levine
 
 14 May, 2014
 
-## Further description of the grounds for the appeal
+## 1. Further description of the grounds for the appeal
 I have studied the sorts of things that I would expect to be required
 of people starting a masters in computer science, and this should be
 clear from my academic transcript and curriculum vitae.
 
-### Computer science background
+### 1.1 Computer science background
 My strong computer science abilities should be quite clear from my application.
-
-I have taken an advanced computer science course and done well in it. This
-course was Introduction to Natural Language processing (CS 4740, spring 2011).
-The 4 at the beginning of the course code indicates that this course was
-considered a fourth-year course at my university. Being a course on natural
-language processing, it involved data structures, algorithms, probability,
-and linear algebra. Students are usually expected to take several computer
-science prerequisites for this course, but I placed out of these.
-(Much of my computer science education happened before or outside university.)
-I received a perfect score (4.0) in the course.
 
 My curriculum vitae should demonstrate that I have a rather strong
 understanding of computer science even though I haven't taken many courses
 in computer science. I've worked as a software engineer, spoken at major
 industry conferences, and even taught computer programming.
 
-### Math background
+I have also taken an advanced computer science course and done well in it. This
+course was Introduction to Natural Language processing (CS 4740, spring 2011).
+The 4 at the beginning of the course code indicates that this course was
+considered a fourth-year course at my university. Being a course on natural
+language processing, it involved data structures, algorithms, probability,
+and linear algebra. Students are usually expected to take several computer
+science prerequisites for this course, but I placed out of these.
+I received a perfect score (4.0) in the course.
+
+### 1.2. Math background
 I've studied the typical math topics that I would expect a computer science
 masters program to require.
 
@@ -74,13 +73,13 @@ masters program to require.
 3. I took calculus in secondary school, and this shows up on my university
     transcript. (AP Mathematics: Calculus BC, fall 2008)
 
-### Ergonomics background
+### 1.3. Ergonomics background
 My bachelor's program was in ergonomics and was closely related to
 the software technology track of the computer science masters at Delft.
 Much of my coursework was on the topics of usability and human-computer
 interaction design; my courses involved developing software.
 
-## Copy of the contested decision
+## 2. Copy of the contested decision
 The following decision was sent to me over email.
 
 > MSC REGISTRATION NUMBER 46333
