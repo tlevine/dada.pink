@@ -1,8 +1,16 @@
 /* Make the home page pretty. */
 nav.actions > ul { display: none; }
-#pagebody { background-color: #666666; }
+body { background-color: #666; }
+#pageheader { background-color: white; }
+html, body {
+  width: 100%;
+  height: 100%;
+}
 #content {
   width: 100%;
   max-width: 520px;
   float: right;
+}
+.card {
+  
 }
