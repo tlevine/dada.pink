@@ -1,13 +1,4 @@
-<style>
-/* Make the home page pretty. */
-nav.actions > ul { display: none; }
-#pagebody { background-color: #666666; }
-#content {
-  width: 100%;
-  max-width: 520px;
-  float: right;
-}
-</style>
+[[!meta stylesheet="css/homepage.css" rel="Homepage stylesheet" title="Homepage stylesheet"]]
 <a rel="me" href="mailto:_@thomaslevine.com">_@thomaslevine.com</a>
 <a rel="me" href="sms:+19145741328">+1 914 574 1328</a>
 <img src="/img/pink_hat_icon-200.png" alt="Tom's hat" />

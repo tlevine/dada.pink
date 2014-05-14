@@ -1,0 +1,8 @@
+/* Make the home page pretty. */
+nav.actions > ul { display: none; }
+#pagebody { background-color: #666666; }
+#content {
+  width: 100%;
+  max-width: 520px;
+  float: right;
+}
