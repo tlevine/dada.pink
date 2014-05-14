@@ -84,7 +84,7 @@ input#searchbox {
     width: 500px;
   }
 }
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 900px) {
   #searchform {
     position: absolute;
     right: 20px;
