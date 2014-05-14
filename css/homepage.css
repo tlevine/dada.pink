@@ -59,8 +59,11 @@ h2 {
   #content {
     width: 400px;
   }
-  #callingcard, #searchbox {
+  #callingcard {
     width: 300px;
+  }
+  #searchbox {
+    width: 320px;
   }
 }
 @media screen and (min-width: 640px) {
@@ -69,6 +72,9 @@ h2 {
   }
   #callingcard, #searchbox {
     width: 480px;
+  }
+  #searchbox {
+    width: 500px;
   }
 }
 @media screen and (min-width: 800px) {
