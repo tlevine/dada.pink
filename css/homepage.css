@@ -43,13 +43,16 @@ h2 {
   height: 320px;
   margin-top: 0;
 }
-#searchbox { border: none; }
+#searchbox {
+  border: none;
+  width: 120px;
+}
 .page { margin-top: 20px; }
 
 #searchform {
   float: left;
+  margin-left: 20px;
   margin-bottom: 20px;
-  width: 120px;
 }
 @media screen and (min-width: 440px) {
   #content {
