@@ -7,7 +7,7 @@ html, body {
   height: 100%;
 }
 
-html, body, h2, #boxes ul, blockquote, #searchbox {
+html, body, h2, #boxes ul, blockquote, input#searchbox {
   margin: 0;
   padding: 0;
 }
@@ -43,11 +43,10 @@ h2 {
   height: 320px;
   margin-top: 0;
 }
-#searchbox {
+input#searchbox {
   display: block;
   border: none;
   width: 140px;
-  padding-right: 20px;
 }
 .page { margin-top: 20px; }
 
@@ -56,6 +55,11 @@ h2 {
   margin-left: 20px;
   margin-bottom: 20px;
 }
+@media screen and (min-width: 240px) {
+  input#searchbox {
+    margin-left: 80px;
+  }
+}
 @media screen and (min-width: 440px) {
   #content {
     width: 400px;
@@ -63,7 +67,7 @@ h2 {
   #callingcard {
     width: 300px;
   }
-  #searchbox {
+  input#searchbox {
     width: 320px;
   }
 }
@@ -71,10 +75,10 @@ h2 {
   #content {
     width: 100%;
   }
-  #callingcard, #searchbox {
+  #callingcard, input#searchbox {
     width: 480px;
   }
-  #searchbox {
+  input#searchbox {
     width: 500px;
   }
 }
