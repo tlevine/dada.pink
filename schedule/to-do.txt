@@ -28,6 +28,6 @@ DAILY:20140416:20140505 Finish my SEMS stuff.
 20140603 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
 20140525 Redo Socrata updating but with the correct date field
 20140513 Write about what I learned about housing markets, and send it to Rob
-DAILY:20140519:20140522 When I go home, redo the backup now that I've mounted the EBS volume
+DAILY:20140518:20140519 When I go home, redo the backup now that I've mounted the EBS volume
 20140520 Write "R for people who are used to good programming languages".
 20140520 Solicit students
