@@ -47,6 +47,7 @@ input#searchbox {
   display: block;
   border: none;
   width: 140px;
+  padding-right: 20px;
 }
 .page { margin-top: 20px; }
 
@@ -87,5 +88,8 @@ input#searchbox {
   #searchform {
     position: absolute;
     right: 20px;
+  }
+  input#searchbox {
+    width: 320px;
   }
 }
