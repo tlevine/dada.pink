@@ -50,7 +50,7 @@ h2 {
     width: 400px;
   }
   #callingcard {
-    width: 340px;
+    width: 300px;
   }
 }
 @media screen and (min-width: 640px) {
@@ -58,6 +58,6 @@ h2 {
     width: 600px;
   }
   #callingcard {
-    width: 550px;
+    width: 500px;
   }
 }
