@@ -17,4 +17,5 @@ html, body {
   text-align: center;
   height: 320px;
 }
-.card > a, .card img { display: block; }
+.card > a, .card > img { display: block; }
+.card > img { margin-left: auto; margin-right: auto; }
