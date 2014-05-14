@@ -44,6 +44,7 @@ h2 {
   margin-top: 0;
 }
 #searchbox {
+  display: block;
   border: none;
   width: 120px;
 }
@@ -58,7 +59,7 @@ h2 {
   #content {
     width: 400px;
   }
-  #callingcard, #searchbox {
+  #callingcard {
     width: 300px;
   }
 }
@@ -66,7 +67,7 @@ h2 {
   #content {
     width: 100%;
   }
-  #callingcard, #searchbox {
+  #callingcard {
     width: 480px;
   }
 }
