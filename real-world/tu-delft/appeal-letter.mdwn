@@ -17,77 +17,59 @@ I would like to appeal this decision on the following grounds:
 I consider my academic background and specialisation to be very closely related to MSc that I wish to participate in.
 Below, you will find further description of these grounds.
 
-<!--
-As a practical note, I plan on being in Delft from July 1 to 6,
-and possibly a few days before that; it would be very convenient
-for me if the hearing could be scheduled during that time.
--->
-
 Thank you
 
 Thomas Levine
 
 ![Tom's signature](../signature.png)
 
-13 May, 2014
+14 May, 2014
 
 ## Further description of the grounds for the appeal
+I have studied the sorts of things that I would expect to be required
+of people starting a masters in computer science, and this should be
+clear from my academic transcript and curriculum vitae.
 
-### Ergonomics background
-My bachelor's program was in ergonomics and was closely related to
-the software technology track of the computer science masters at Delft.
-Much of my coursework was on the topics of usability and human-computer
-interaction design; my courses involved developing software.
+### Computer science background
+My strong computer science abilities should be quite clear from my application.
+
+I have taken an advanced computer science course and done well in it. This
+course was Introduction to Natural Language processing (CS 4740, spring 2011).
+The 4 at the beginning of the course code indicates that this course was
+considered a fourth-year course at my university. Being a course on natural
+language processing, it involved data structures, algorithms, probability,
+and linear algebra. Students are usually expected to take several computer
+science prerequisites for this course, but I placed out of these.
+(Much of my computer science education happened before or outside university.)
+I received a perfect score (4.0) in the course.
+
+My curriculum vitae should demonstrate that I have a rather strong
+understanding of computer science even though I haven't taken many courses
+in computer science. I've worked as a software engineer, spoken at major
+industry conferences, and even taught computer programming.
 
 ### Math background
-While it wasn't mentioned in the decision email, I heard that the selection
-committee was also concerned that I do not have enough of a math background
-to take the higher level computer science courses. In case that was indeed
-an issue, I address it here as well. I'm going to focus on things that could
-be inferred from my academic transcript.
-
-I haven't found a list of math requirements for this specific program, but
 I've studied the typical math topics that I would expect a computer science
 masters program to require.
 
-1. Based on my six statistics courses, you may infer that I know something
+1. Based on my five statistics courses, you may infer that I know something
     about probability theory. (These are the courses in the "BTRY", "PAM",
     and "STSCI" departments.)
 2. Multivariate statistics requires a strong understanding of linear
     algebra. I received a perfect score (4.0) in my multivariate statistics
     course (BTRY 4100, spring 2010), so you may infer that I have a
-    strong understanding of linear algebra. At my undergraduate university,
+    strong understanding of linear algebra; at my undergraduate university,
     linear algebra was a prerequisite for multivariate statistics, (With my
     background, I managed to have the requirement waived.) and there may be
     a similar situation at Delft.
 3. I took calculus in secondary school, and this shows up on my university
     transcript. (AP Mathematics: Calculus BC, fall 2008)
 
-Also, I have demonstrated an ability to take a higher level computer science
-course. The one computer science course I have ever taken was Introduction to
-Natural Language processing (CS 4740, spring 2011). This course was
-considered an advanced course at my university, and most of the students in the
-course were graduate students. Among other things, the course involved
-probability, linear algebra, and programming.
-I received a perfect score (4.0) in the course.
-
-### Belly dancing courses
-*Hmm should I put this in?*
-
-> I also heard informally that the selection committee was concerned that I
-took too much belly dancing in university. I did take multiple belly dancing
-classes, but they didn't get in the way of my other studies, and this should
-be clear from my academic transcript. These courses were physical education
-courses that did not count towards my main course requirements;
-also, taking belly dancing during multiple semesters didn't prevent me from
-taking far more than a typical course load at the same time and still doing
-well in those other courses.
-
-### Computer science background
-My curriculum vitae should demonstrate that I have a rather strong
-understanding of computer science even though I haven't taken many courses
-in computer science. I've worked as a software engineer, spoken at major
-industry conferences, and even taught computer programming.
+### Ergonomics background
+My bachelor's program was in ergonomics and was closely related to
+the software technology track of the computer science masters at Delft.
+Much of my coursework was on the topics of usability and human-computer
+interaction design; my courses involved developing software.
 
 ## Copy of the contested decision
 The following decision was sent to me over email.
