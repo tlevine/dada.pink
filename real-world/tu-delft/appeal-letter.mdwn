@@ -83,37 +83,37 @@ interaction design; my courses involved developing software.
 ## Copy of the contested decision
 The following decision was sent to me over email.
 
-    MSC REGISTRATION NUMBER 46333
-    
-    
-    T.K.  Levine
-    54 Walworth Avenue
-     10583 AND Scarsdale
-    Verenigde Staten van Amerika
-    
-    
-    Dear Mr. Levine,
-    
-    We regret to inform you that the MSc Programme Selection Committee has declined your application for admission to the MSc programme 2014 - 2016 in Master Computer Science at Delft University of Technology (TU Delft). TU Delft maintains admission requirements for Master's programmes. These admission requirements are published on the website of TU Delft. The reason for the rejection of your application for admission is:
-    
-    The Selection Committee considers your academic background/specialisation not closely enough related to the MSc programme you wish to participate in.
-    
-    We would like to thank you for the interest shown in our university and we wish you success in your further career.
-    
-    On behalf of the Executive Board.
-    
-    Sincerely,
-    
-    
-    Carla Flühr MA
-    Team Leader Admission & Mobility
-    Central International Office
-    Delft University of Technology
-    
-    email:  msc2@tudelft.nl
-    phone:  +31 (0)15 2788012
-    
-    
-    You are entitled to appeal to the Examination Appeals Board, unless you were rejected on the grounds that you do not meet TU Delft's formal admission requirements, as stated on our website (such as obtaining the minimum CGPA score and the minimum score on the English language test).
-    
-    Please check www.appeal.tudelft.nl for further information on the procedure.
+> MSC REGISTRATION NUMBER 46333
+> 
+> 
+> T.K.  Levine<br />
+> 54 Walworth Avenue<br />
+>  10583 AND Scarsdale<br />
+> Verenigde Staten van Amerika
+> 
+> 
+> Dear Mr. Levine,
+> 
+> We regret to inform you that the MSc Programme Selection Committee has declined your application for admission to the MSc programme 2014 - 2016 in Master Computer Science at Delft University of Technology (TU Delft). TU Delft maintains admission requirements for Master's programmes. These admission requirements are published on the website of TU Delft. The reason for the rejection of your application for admission is:
+> 
+> The Selection Committee considers your academic background/specialisation not closely enough related to the MSc programme you wish to participate in.
+> 
+> We would like to thank you for the interest shown in our university and we wish you success in your further career.
+> 
+> On behalf of the Executive Board.
+> 
+> Sincerely,
+> 
+> 
+> Carla Flühr MA<br />
+> Team Leader Admission & Mobility<br />
+> Central International Office<br />
+> Delft University of Technology
+> 
+> email:  msc2@tudelft.nl<br />
+> phone:  +31 (0)15 2788012
+> 
+> 
+> You are entitled to appeal to the Examination Appeals Board, unless you were rejected on the grounds that you do not meet TU Delft's formal admission requirements, as stated on our website (such as obtaining the minimum CGPA score and the minimum score on the English language test).
+> 
+> Please check www.appeal.tudelft.nl for further information on the procedure.
