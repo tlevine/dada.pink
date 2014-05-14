@@ -7,7 +7,7 @@ html, body {
   height: 100%;
 }
 #content {
-  width: 100%;
+  width: 80%;
   max-width: 500px;
   float: left;
 }
@@ -26,6 +26,6 @@ html, body {
   height: 200px;
 }
 #callingcard { height: 480px; }
-@media screen and (min-width: 480px; ) {
+@media screen and (min-width: 480px) {
   #callingcard { height: 320px; }
 }
