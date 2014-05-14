@@ -60,7 +60,8 @@ h2 {
   #callingcard {
     width: 480px;
   }
-}
-@media screen and (max-width: 640px) {
-  #searchform { height: 40px; }
+  #searchform {
+    position: absolute;
+    right: 20px;
+  }
 }
