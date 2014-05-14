@@ -19,7 +19,7 @@ h2 {
   background-color: white;
   text-align: center;
   padding: 20px;
-  margin: 20px;
+  margin: 10px;
 }
 #boxes li {
   list-style-type: none;
@@ -33,10 +33,6 @@ h2 {
   width: 120px;
   height: 120px;
 }
-#content {
-  float: left;
-  width: 320px;
-}
 #callingcard {
   width: 120px;
   height: 320px;
@@ -46,18 +42,12 @@ h2 {
   height: 40px;
 }
 @media screen and (min-width: 440px) {
-  #content {
-    width: 400px;
-  }
   #callingcard {
-    width: 320px;
+    width: 340px;
   }
 }
 @media screen and (min-width: 640px) {
-  #content {
-    width: 600px;
-  }
   #callingcard {
-    width: 520px;
+    width: 550px;
   }
 }
