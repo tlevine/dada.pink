@@ -43,9 +43,7 @@ h2 {
   height: 320px;
   margin-top: 0;
 }
-#searchform {
-  height: 40px;
-}
+#searchbox { border: none; }
 .page { margin-top: 20px; }
 @media screen and (min-width: 440px) {
   #content {
@@ -62,4 +60,7 @@ h2 {
   #callingcard {
     width: 480px;
   }
+}
+@media screen and (max-width: 640px) {
+  #searchform { height: 40px; }
 }
