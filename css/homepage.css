@@ -7,7 +7,7 @@ html, body {
   height: 100%;
 }
 
-html, body, h2, #boxes ul {
+html, body, h2, #boxes ul, blockquote {
   margin: 0;
   padding: 0;
 }
@@ -25,6 +25,7 @@ h2 {
   list-style-type: none;
 }
 
+#callingcard p { text-align: left; }
 #callingcard > a, #callingcard > img { display: block; }
 #callingcard > img { margin-left: auto; margin-right: auto; }
 #boxes > .card {
