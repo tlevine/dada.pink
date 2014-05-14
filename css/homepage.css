@@ -15,7 +15,7 @@ html, body {
 #callingcard > a, #callingcard > img { display: block; }
 #callingcard > img { margin-left: auto; margin-right: auto; }
 #boxes > .card {
-  display: inline;
+  float: left;
   width: 140px;
   height: 140px;
 }
