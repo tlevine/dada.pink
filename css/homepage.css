@@ -9,7 +9,7 @@ html, body {
 #content {
   width: 100%;
   max-width: 520px;
-  float: right;
+  float: left;
 }
 .card {
   background-color: white;
