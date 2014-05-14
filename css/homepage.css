@@ -62,4 +62,7 @@ h2 {
   #callingcard {
     width: 480px;
   }
+  #searchform {
+    height: 0;
+  }
 }
