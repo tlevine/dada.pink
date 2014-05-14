@@ -30,7 +30,7 @@ Thank you
 
 Thomas Levine
 
-![Tom's signature](../signature.png)
+<img alt="Tom's signature" href="../signature.png" class="w300" />
 
 14 May, 2014
 
