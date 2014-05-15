@@ -81,6 +81,7 @@ input#searchbox {
   #callingcard {
     height: 360px;
   }
+  #callingcard p { text-align: center; }
   #callingcard, input#searchbox {
     width: 480px;
   }
