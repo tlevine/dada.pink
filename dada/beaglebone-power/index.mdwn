@@ -1,5 +1,5 @@
 [[!meta title="BeagleBone Power Supply""]]
-<!-- <!-- created_at: 2012-05-07 --> -->
+<!-- created_at: 2012-05-07 -->
 
 I want to make a cluster of [BeagleBones](http://beagleboard.org/bone),
 so I was pondering how to power them. I wanted a unit that would provide
