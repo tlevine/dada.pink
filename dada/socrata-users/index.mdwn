@@ -384,7 +384,7 @@ I ran queries like this to find what portals and data they used.
 
 They look more like real people doing real analysis.
 
-![Picture of not The White House](profiles/not The White House.jpg)
+![Picture of not The White House](profiles/not-The-White-House.jpg)
 
 [not The White House](https://explore.data.gov/profile/not-The-White-House/732w-crxq)
 is "[w]ay more open and transparent than the official White House website."
@@ -415,7 +415,7 @@ has also made a bunch of interesting filters on Baltimore data.
 His website discusses this [a bit more](http://www.vinylfox.com/about/).
 <!-- Talk to him. -->
 
-![Picture of Dave Francis Rodrigues](profiles/Dave Francis Rodrigues.jpg)
+![Picture of Dave Francis Rodrigues](profiles/Dave-Francis-Rodrigues.jpg)
 
 [Dave](https://finances.worldbank.org/profile/Dave-Francis-Rodrigues/ef7y-9vvy?)
 has made a lot of filters and charts about India.
