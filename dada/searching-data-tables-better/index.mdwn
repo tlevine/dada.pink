@@ -21,7 +21,7 @@ open data **is** all about money; that's pretty much
 [I](https://theodi.org/guides/how-make-business-case-open-data)
 [ever](http://www.socrata.com/blog/economic-impact-open-data/)
 [hear](http://www.forbes.com/sites/bethsimonenoveck/2014/01/08/from-faith-based-to-evidence-based-the-open-data-500-and-understanding-how-open-data-helps-the-american-economy/)
-about why you need open data.
+about why we need open data.
 Since open data is supposed to be good for business,
 it annoys me that people don't want to pay for it.
 
