@@ -2,10 +2,10 @@
 [[!meta title="Open Calendars"]]
 <!-- tweet_text: How we can prevent data-siloing in the first place http://thomaslevine.com/!/socrata-calendars #opendata -->
 <!-- tweet_link: https://twitter.com/thomaslevine/status/361993726496735232 -->
-twitter_title: Oregon's open calendar is a 3436-row spreadsheet.
+<!-- twitter_title: Oregon's open calendar is a 3436-row spreadsheet. -->
 [[!meta description="Open calendars on Socrata suggest an elegant open data strategy."]]
-twitter_image: figure/meeting-length-2.png
-facebook_image: figure/meeting-length-2.png
+<!-- twitter_image: figure/meeting-length-2.png -->
+<!-- facebook_image: figure/meeting-length-2.png -->
 [[!tag socrata open-data]]
 
 To a lot of people, we can get "data" out of an SQL database but not out

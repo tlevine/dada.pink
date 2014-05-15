@@ -3,8 +3,8 @@
 [[!tag open-data]]
 <!-- created_at: 2013-11-22 -->
 <!-- tweet_text: I wrongly assumed that people actually update their data. http://thomaslevine.com/!/data-updatedness/ -->
-twitter_image: figure/small_samples.png
-facebook_image: figure/small_samples.png
+<!-- twitter_image: figure/small_samples.png -->
+<!-- facebook_image: figure/small_samples.png -->
 other_source: https://github.com/tlevine/socrata-analysis/tree/master/words/15-dates.Rmd
 
 [Project Open Data](http://project-open-data.github.io/principles/),
