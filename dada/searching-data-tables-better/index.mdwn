@@ -30,13 +30,17 @@ Or maybe it is good for business but only because it is
 externalizing business costs to volunteers.
 
 Here's what I think.
-Open data [isn't all about money](http://sunlightfoundation.com/blog/2014/04/22/beyond-business-the-impacts-of-open-data/),
-and the [business value isn't particularly compelling](http://blog.okfn.org/2013/11/08/open-datas-business-value-isnt-that-important/).
-But things are only true if you can make money from them,
+
+Things are only true if you can make money from them,
 so open data is only good if you can make money from it.
+Open data [isn't all about money](http://sunlightfoundation.com/blog/2014/04/22/beyond-business-the-impacts-of-open-data/),
+and the [business value isn't particularly compelling](http://blog.okfn.org/2013/11/08/open-datas-business-value-isnt-that-important/),
+but people pretend that it is all about money because that's how they
+convince themselves that it's true.
 Thus, everyone keeps
 saying that open data is going to save money, enable new businesses,
-and create new jobs. They're also saying that it's also going to end
+and create new jobs.
+To be fair, they're also saying that it's also going to end
 corruption, make people trust governments, and otherwise save the world.
 Open data is probably going to do some good, but these sorts of assertions
 are exaggerated.
