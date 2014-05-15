@@ -41,7 +41,7 @@ h2 {
 }
 #callingcard {
   width: 120px;
-  height: 320px;
+  height: 360px;
   margin-top: 0;
 }
 input#searchbox {
@@ -68,6 +68,7 @@ input#searchbox {
   }
   #callingcard {
     width: 300px;
+    height: 320px;
   }
   input#searchbox {
     width: 320px;
