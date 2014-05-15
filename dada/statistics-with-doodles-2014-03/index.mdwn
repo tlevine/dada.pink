@@ -1,7 +1,7 @@
 [[!meta title="Statistics with Doodles"]]
 <!-- created_at: 2014-03-21 -->
 [[!meta description="People usually explain statistics with symbols, but I prefer colorful drawings."]]
-tweet_text: Statistics with doodles and fire alarms http://thomaslevine.com/!/statistics-with-doodles-2014-03/
+<!-- tweet_text: Statistics with doodles and fire alarms http://thomaslevine.com/!/statistics-with-doodles-2014-03/ -->
 facebook_text: Statistics with doodles and fire alarms http://thomaslevine.com/!/statistics-with-doodles-2014-03/
 twitter_image: doodle.png
 facebook_image: doodle.png

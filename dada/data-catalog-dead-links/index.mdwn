@@ -1,6 +1,6 @@
 [[!meta title="Dead links on data catalogs"]]
 [[!meta description="Software just might influence the liveliness of URLs."]]
-tweet_text: The next big drug craze will be a URL resurrection potion. http://thomaslevine.com/!/data-catalog-dead-links #opendata
+<!-- tweet_text: The next big drug craze will be a URL resurrection potion. http://thomaslevine.com/!/data-catalog-dead-links #opendata -->
 twitter_image: figure/prop_links.png
 facebook_image: figure/prop_links.png
 [[!tag open-data]]
