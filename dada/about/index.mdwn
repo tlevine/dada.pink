@@ -18,5 +18,7 @@ wrist pain, and then he started studying ergonomics. His back and wrists now hur
 At some point, people started calling him a data scientist.
 
 ## Teaching
+Thomas apparently knows a lot about computer stuff, and he wants to
+[teach you](/dada/learning-data-stuff/) whatever he can.
 
 <!-- https://web.archive.org/web/20111007065304/http://vihart.com/vi/ -->

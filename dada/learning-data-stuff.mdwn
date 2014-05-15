@@ -1,0 +1,54 @@
+Lots of people seem to want to learn computer-data-stuff
+from me. Here's a learning approach that I want to try.
+Please read below and then
+[email me](mailto:_@thomaslevine.com)
+if you're interested.
+
+## Why not classrooms
+First, let's talk about some more conventional things and
+why I don't like them
+
+### What should be taught?
+For at least computer-data-stuff, I've been thinking that
+it's not worth having a set curriculum for a class of more
+than a couple days. It's rather hard to figure out what should
+go in the curriculum in the first place, and then it's hard
+to figure out which class's curriculum is the one that a
+particular person should learn.
+
+### Laziness
+Part of the issue with classrooms is that it's a lot of work
+on the teachers. Even if I'm not teaching every day, it's a
+lot of work for me to explain things; I only like doing it if
+I'm teaching a lot of people at once.
+
+
+## Generalizing
+I decided about a year ago that I'll teach things to
+people one-on-one, but only if I write down what I'm saying so
+that I can later write up a tutorial for other people. This is
+still a bit of work, but it's a lot better. Teaching people
+one-on-one lets me figure out what they need to know, and writing
+about it lets me teach lots of people without doing that much
+talking.
+
+But there are too many things I want to write about
+
+## What I propose
+If you want to learn stuff, this is what I want to try.
+
+You'll do your own projects that are interesting to you and
+related to the stuff you want to learn, and you'll talk with me
+at least once every of couple weeks for assorted advice and help
+with specific confusing things.
+
+In return for this advice, you'll infrequently write little
+tutorials about specific things that you previously found
+really confusing but later figured out. (For inspiration,
+see [protocols](/dada/street-sign-protocol) and
+[binary files](/dada/downloading-binary-files-non-magic/).)
+
+Actually, they don't have to be written; they can be sound
+or video or food recipes or statues; it just has to be something
+that lots of people can use, because then we can teach more
+people more things with less work.
