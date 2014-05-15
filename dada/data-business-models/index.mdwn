@@ -1,6 +1,6 @@
 [[!meta title="Data business models"]]
 <!-- created_at: 2013-04-15 -->
-relationships: ['scraperwiki']
+<!-- relationships: ['scraperwiki'] -->
 
 I've been at loads of hip and non-hip data talks here and there and have come
 four categories of data business model in this hip data ecosystem. Here they are.

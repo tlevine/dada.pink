@@ -1,6 +1,6 @@
 [[!meta title="News Hack Day SF"]]
 <!-- created_at: 2012-06-02 -->
-relationships: ['scraperwiki']
+<!-- relationships: ['scraperwiki'] -->
 
 Blogging about [News Hack Day SF](http://newshackdaysf.tumblr.com)
 [so](http://www.civicplayground.com/2012/06/25/we-liberated-the-data-at-newshack/)

@@ -1,6 +1,6 @@
 [[!meta title="Microfinance Data Scraping"]]
 <!-- created_at: 2012-05-24 -->
-relationships: ['mix']
+<!-- relationships: ['mix'] -->
 
 I've been scraping some websites for the
 [Microfinance Information Exchange](http://themix.org),

@@ -1,5 +1,5 @@
 [[!meta title="Addiction Recovery Meetings"]]
-relationships: ['addicaid']
+<!-- relationships: ['addicaid'] -->
 <!-- created_at: 2013-04-07 -->
 
 I've been helping [Addicaid](http://addicaid.com/) think about data.
