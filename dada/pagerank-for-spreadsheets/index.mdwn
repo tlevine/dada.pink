@@ -6,7 +6,6 @@ really know what it was. So I started going to various repositories
 of open data, downloading all of the data, and looking at what they
 contained.
 
-<!-- ![Plot of dataset counts and download counts by site](/dada/socrata-summary/figure/big_portals_density_text.png) -->
 ![Plot of dataset counts by site](/dada/socrata-summary/figure/big_portals_datasets.png)
 
 With hardly any effort, I had amassed tens of thousands of datasets.
