@@ -4,7 +4,7 @@ new infrastructure, and that involves some up-front work. Also, I've been
 thinking a bit about how I might find spreadsheets that are related to each
 other, and I'm going to tell you about that below.
 
-## Preface: Open data is good for business?
+## Preface: Open data is good for business!?
 But before I get to the main part of this article, I'm going to rant about the
 other thing that has kept me busy.
 
@@ -145,7 +145,7 @@ we won't have time to look at of the millions of spreadsheets; before
 it's worth looking at these graphs, we have to choose a small group of
 spreadsheets to make graphs about.
 
-#### What usually happens: Word of mouth and other informal means
+### What usually happens: Word of mouth and other informal means
 
 In practice, I find that people learn what's in a spreadsheet through word
 of mouth, without looking directly at the spreadsheet. I know what's in the
@@ -318,7 +318,7 @@ If we pass the iris dataset to it, ::
 
 we get no unique keys.
 
-    >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
+    >>> special_snowflake.fromcsv(open('iris.csv'))
     set()
 
 because no combination of columns uniquely identifies the rows.
@@ -333,7 +333,7 @@ Of course, if we add an identifier column,
 
 that one gets returned.
 
-    >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
+    >>> special_snowflake.fromcsv(open('iris.csv'))
     {('Id',)}
 
 For a more interesting example, let's look at chickweight.
