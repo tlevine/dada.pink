@@ -1,5 +1,6 @@
 /* Make the home page pretty. */
 .pageheader .title ,
+.pagefooter,
 nav.actions > ul { display: none; }
 body { background-color: #666; }
 html, body {
