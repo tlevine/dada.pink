@@ -1,6 +1,8 @@
 You may have noticed that I've been much less active for the past few months.
-This is partly because I've been acquiring some new data datasets, and I'm
-going to tell you about one of them today.
+This is partly because I've been acquiring some new datasets and setting up some
+new infrastructure, and that involves some up-front work. Also, I've been
+thinking a bit about how I might find spreadsheets that are related to each
+other, and I'm going to tell you about that below.
 
 ## Open data is good for business?
 But before I get to the main part of this article, I'm going to rant about the
@@ -10,9 +12,9 @@ I've been doing these silly open data studies for a while for fun,
 and people have been saying that they're informative and useful and
 important and whatnot, but people don't want to (or can't) pay me for
 the open data stuff. So I gave up at finding funding for my silly
-open data studies and over the past two months did some totally
+open data studies and over the past few months am doing some totally
 unrelated work for money instead. It happens that I also recently
-got a small bit of funding from a couple people to do silly open data
+got a small bit of funding from some people to do silly open data
 stuff. That's very nice, but it's small.
 
 I understand that life isn't all about money, but sometimes it seems like
@@ -31,16 +33,19 @@ externalizing business costs to volunteers.
 
 Here's what I think.
 Open data [isn't all about money](http://sunlightfoundation.com/blog/2014/04/22/beyond-business-the-impacts-of-open-data/),
-the [business value isn't particularly compelling](http://blog.okfn.org/2013/11/08/open-datas-business-value-isnt-that-important/),
-but things are only true if you can make money from them.
-Open data is only good if you can make money from it, so everyone keeps
+and the [business value isn't particularly compelling](http://blog.okfn.org/2013/11/08/open-datas-business-value-isnt-that-important/).
+But things are only true if you can make money from them,
+so open data is only good if you can make money from it.
+Thus, everyone keeps
 saying that open data is going to save money, enable new businesses,
 and create new jobs. They're also saying that it's also going to end
 corruption, make people trust governments, and otherwise save the world.
+Open data is probably going to do some good, but these sorts of assertions
+are exaggerated.
 
 All of this hype is really confusing for me, and listening to it is a lot of
-work. I wish we could make less of a big deal out of the little toys that we're
-all making.
+work. I wish we could make less of a big deal out of the little open data
+toys that we're all making. Also, I still don't know what open data is.
 
 ## Joining spreadsheets
 My reduction in writing happened partly because I was busy making money, but
