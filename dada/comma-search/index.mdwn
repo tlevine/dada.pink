@@ -47,6 +47,573 @@ All of this hype is really confusing for me, and listening to it is a lot of
 work. I wish we could make less of a big deal out of the little open data
 toys that we're all making. Also, I still don't know what open data is.
 
-## Joining spreadsheets
+## Comma search
 Now that I'm finished complaining about open data hype and lack of funds,
-I'm going tell you about searching spreadsheets.
+I'm going tell you about searching datasets.
+
+### People don't know what's in all these open data
+For the past year I've been looking at lots of datasets from lots of open
+data catalogs. People seem interested in my stupidly basic analyses across
+all of these datasets, and that tells me that people don't know what's in
+these datasets.
+
+#### Too many datasets for manual review
+These "datasets" are usually spreadsheets;
+how do we figure out what's in a bunch of spreadsheets today?
+
+![A spreadsheet](bus-spreadsheet.png)
+
+We could manually look at every cell in every spreadsheet,
+but this would take a long time.
+
+#### Data publishing guidelines
+It might take a bit less long if we have good spreadsheets.
+so people make guidelines as to how a person or organization
+with lots of datasets might allow other people to use them.
+Here are some guidelines.
+
+* Open Knowledge Foundation [Open Data Census](http://census.okfn.org/)
+* Tim Berners-Lee [Five Stars](http://inkdroid.org/journal/2010/06/04/the-5-stars-of-open-linked-data/) of open linked data.
+* Open Government Working Group [8 Principles of Open Government Data](http://www.opengovdata.org/home/8principles)
+* Sunlight Foundation [Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/)
+* Open Data Institute [Certificates](https://certificates.theodi.org/)
+
+At a basic level, many guidelines suggest that data
+be available on the internet and under a free license; at the other
+end of the spectrum, guidelines suggest that data be in standard
+formats accompanied with assorted metadata.
+
+These guidelines put
+responsibility on the publishers of data to do certain things when
+they publish data. This can be a lot of work, so it's unreasonable
+for us to expect this to happen for anything other than the most
+important of datasets.
+
+#### Standard Schemas
+
+Many groups have developed standard schemas for particular sorts
+of data. Here are some examples.
+
+* RSS, Atom, &c.
+* [GeoJson](http://geojson.org/)
+* LIVES ([Yelp](http://www.yelp.com/healthscores), [Code for America](http://foodinspectiondata.us/))
+
+When I say "schema", I loosly mean "a definition of
+what the columns should be and what the rows mean".
+
+![](/dada/pagerank-for-spreadsheets/hovering-schema.png)
+
+For example, I'll tell you a bit about the schema of this spreadsheet.
+I asked a bunch of people how they use toilets in differenc scenarios,
+and some of the results are in this spreadsheet. I asked each person
+about twelve different scenarios. Each row in the spreadsheet corresponds
+to a scenario within a person; there is one row per person.
+The "participantId" column defines the person, and the "task", "privacy",
+and "cleanliness" columns define the scenario; these four columns thus
+act as a unique index on the table. The other columns are about their
+responses to the questions. I'll save the full discussion for a talk
+about the [viscious hovering cycle](/dada/hovering-cycle); the point here
+is that a schema is roughly a definition of what the different columns
+and rows mean and what values are allowed in the cells.
+
+As you probably know from experience,
+this is helpful when different organizations have similar datasets.
+For example, this can work if multiple bloggers are publishing blog
+posts or if multiple cities are publishing restaurant inspection results.
+It still puts a burden on the publishers of data.
+
+#### Graphs and stuff
+
+Lots of people say that graphs make us understand data. So a lot of these
+repositories of spreadsheets let people make graphs.
+
+On the French national rail company data site, you can look at tables,
+
+![](sncf-tableau.png)
+
+but you can also make graphs!
+
+![](sncf-analyse.png)
+
+OpenData Lombardia does it too!
+
+![](lombardia-grafico.png)
+
+These graphs are nice, but we still have the same problem as before:
+Even if we have the most perfect graphs about each separate spreadsheet,
+we won't have time to look at of the millions of spreadsheets; before
+it's worth looking at these graphs, we have to choose a small group of
+spreadsheets to make graphs about.
+
+> Word of mouth
+> ================
+
+In practice, I find that people learn what's in a spreadsheet through word
+of mouth, without looking directly at the spreadsheet. I know what's in the
+various datasets published by the United States Census, but I've never used
+any of them myself. I know what's in New York City's tax parcel boundaries
+dataset (PLUTO) because lots of people have been
+[talking](http://spatialityblog.com/2013/04/04/a-modest-proposal-for-nyc-tax-parcel-data/)
+[about](http://www.codeforamerica.org/blog/2013/07/25/epic-win-for-nycs-open-data-community-pluto-is-free/)
+it, but I haven't looked at it myself.
+And I know that several cities release data about the use of bike-share programs
+because people get excited every time this happens, but again, I haven't looked
+at any of it myself.
+
+[![Nicole Neditch](https://pbs.twimg.com/profile_images/3109685140/4d01018916293ef57c2233df71855a87_bigger.jpeg)](https://twitter.com/nneditch)
+[![Noel Hidalgo](http://farm2.static.flickr.com/1047/799125271_97a7d5fab2.jpg)](http://noneck.org/)
+[![Jack Madans](https://pbs.twimg.com/profile_images/1851379517/TweeterPic.jpg)](http://www.codeforamerica.org/blog/author/jmadans/)
+
+The people I meet who know the most about what's in these large collections
+of disparate open data spreadsheets are the people in charge of putting them
+on the internet in a form that people can use them. Surprisingly to me,
+these often aren't the ones who are looking very analytically at the spreadsheets.
+
+[![Chris Metcalf](http://chrismetcalf.net/)](http://chrismetcalf.net/images/xsleep_deprived.png.pagespeed.ic.MohADXKdwI.jpg)
+[![Tim Wisniewski](http://timwis.com/images/backgrounds/me.jpg)](http://timwis.com/)
+
+People like Nicole, Noel, Jack, Chris, and Tim
+have worked with various organizations (mostly governments) to publish
+their data, and they know a lot the many datasets being published by the
+organizations they respectively work. If you want to know whether a city
+publishes a particular dataset, these are the people you want to ask.
+
+Unfortunately, these people don't have time to serve as everyone's personal
+search engine, and there isn't an easy way for them to convey all of this
+knowledge to others. Moreover, they only know about the data they've worked
+on in their respective governments; they don't know much about other governments.
+
+> Tools for figuring out what all these spreadsheets are about
+> =============================================================
+
+Sorry for taking such a long detour on why I want these tools. Now that you
+see why I want to make these tools, I can tell you what I've been doing.
+
+> "Data-driven data"
+
+Considering that we're talking about open **data**, I figured that we should
+be searching through these data in a **data-driven** way. I started downloading
+lots of datasets and running crude statistics across them.
+
+(A small note: When I first started doing this, I was only looking at catalog
+sites that used the Socrata Open Data Portal software.)
+
+![Plot of dataset counts by site](/dada/socrata-summary/figure/big_portals_datasets.png)
+
+Many organizations report this count of datasets that they publish, and this number
+turns out to be nearly useless.
+
+> **Column names**: "grade", "year", "demographic", "number_tested", "mean_scale_score", "num_level_1", "pct_level_1", "num_level_2", "pct_level_2", "num_level_3", "pct_level_3", "num_level_4", "pct_level_4", "num_level_3_and_4", "pct_level_3_and_4"
+>
+> **Datasets with these column names**:
+>
+> * [Math Test Results 2006-2012 - Citywide - Gender](https://data.cityofnewyork.us/d/2bh6-qmgg)
+> * [Math Test Results 2006-2012 - Citywide - Ethnicity](https://data.cityofnewyork.us/d/vve2-26rs)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - SWD](https://data.cityofnewyork.us/d/d72n-ivax)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - ELL](https://data.cityofnewyork.us/d/72db-huua)
+> * [Math Test Results 2006-2012 - Citywide - SWD](https://data.cityofnewyork.us/d/ufu7-zp25)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - All Students](https://data.cityofnewyork.us/d/89di-hi4s)
+> * [Math Test Results 2006-2012 - Citywide - ELL](https://data.cityofnewyork.us/d/ngbi-cq85)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - Gender](https://data.cityofnewyork.us/d/cs9m-cz6f)
+> * [Math Test Results 2006-2012 - Citywide - All Students](https://data.cityofnewyork.us/d/fxwm-3t4n)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - Ethnicity](https://data.cityofnewyork.us/d/p5w7-g72z)
+
+<!--
+[{"id": "2bh6-qmgg", "name": "Math Test Results 2006-2012 - Citywide - Gender"}
+, {"id": "vve2-26rs", "name": "Math Test Results 2006-2012 - Citywide - Ethnicity"}
+, {"id": "d72n-ivax", "name": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - SWD"}
+, {"id": "72db-huua", "name": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - ELL"}
+, {"id": "ufu7-zp25", "name": "Math Test Results 2006-2012 - Citywide - SWD"}
+, {"id": "89di-hi4s", "name": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - All Students"}
+, {"id": "ngbi-cq85", "name": "Math Test Results 2006-2012 - Citywide - ELL"}
+, {"id": "cs9m-cz6f", "name": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - Gender"}
+, {"id": "fxwm-3t4n", "name": "Math Test Results 2006-2012 - Citywide - All Students"}
+, {"id": "p5w7-g72z", "name": "English Language Arts (ELA) Test Results 2006-2012 - Citywide - Ethnicity"}
+]
+-->
+
+These "datasets" can all be thought of as subsets of the same single dataset.
+If I just take different subsets of a single spreadsheet (and optionally
+pivot/reshape the subsets), I can easily expand one spreadsheet into over 9000.
+
+So maybe we should look at other things too.
+How many times people have downloaded these datasets?
+
+![Plot of dataset counts and download counts by site](/dada/socrata-summary/figure/big_portals_density_text.png)
+
+Here, the x axis is the same as the previous plot but the y axis is the total
+downloads by site.
+
+I can also look at how big they are.
+It turns out that most of them are pretty small.
+
+<!--
+  s <- read.csv('~/t/socrata-analysis/socrata-deduplicated.csv')
+  sum(is.na(s$nrow))                                                                                                  
+[1] 476
+  mean(s$nrow > 100, na.rm = T)                                                                                       
+[1] 0.2507369
+  mean(s$nrow > 1000, na.rm = T)                                                                                      
+[1] 0.1162797
+  mean(s$nrow > 10000, na.rm = T)                                                                                     
+[1] 0.05230904
+  mean(s$nrow > 100000, na.rm = T)                                                                                    
+[1] 0.01799659
+-->
+
+> Dataset sizes
+> ===============
+> In Socrata catalogs as of last summer,
+> 
+> * Only 25% of datasets had more than 100 rows.
+> * Only 12% of datasets had more than 1,000 rows.
+> * Only 5% of datasets had more than 10,000 rows.
+
+Regardless of the format of these datasets, you can think of them as
+spreadsheets without code, where columns are variables and rows are records.
+In Socrata catalogs as of last summer,
+
+* Only 25% of datasets had more than 100 rows.
+* Only 12% of datasets had more than 1,000 rows.
+* Only 5% of datasets had more than 10,000 rows.
+
+Now let's look at something different: The formats of these datasets.
+
+![](/dada/socrata-formats/figure/deduplicated.png)
+
+These "datasets" are mostly available in comma-separated values (CSV) format.
+More precisely, you can get them in a lot of formats and CSV is just the first
+of them in alphabetical order.
+
+You can actually learn a lot from just looking at file formats.
+
+![](/dada/socrata-formats/figure/sf.png)
+
+Here are the file formats for just the data catalog for the San Francisco government.
+
+![](/dada/socrata-formats/figure/sf-changes.png)
+
+If we look over time, we can see bursts of CSV upload.
+Here, the x-axis is time and the y-axis is number of datasets uploaded that month.
+The color indicates whether the dataset is in CSV format.
+
+![](/dada/socrata-formats/figure/sf-shapefile.png)
+
+If we change the graph slightly, we see bursts of shapefile upload.
+My guess is that someone was going around trying to get departments
+to upload their data and hit departments with lots of spreadsheets
+and shapefiles at those respective spikes.
+
+![](/dada/socrata-formats/figure/deduplicated.png)
+
+I'm just showing you this file format thing to give you a feel for how very
+crude inspection of these datasets can yield interesting information.
+Now let's look at another thing!
+
+> Graphs?
+> ==========
+
+I said earlier that people like making graphs. They like making graphs so much
+that people like Socrata put it in their data catalog software, so you can
+make graphs of data inside your browser and save them.
+
+![](/dada/socrata-users/figure/n.views.png)
+
+People with special privileges can make private graphs, but most people can
+only make public ones; if you save
+the graph you make, it shows up on the public website, so I can see how people
+are using this feature and how many graphs they're making.
+Socrata says that this "democratizes the data experience" by letting ordinary
+"citizens" analyze data.
+
+> Main users
+> ==========
+> * Socrata employees
+> * Socrata clients (like data.gov)
+> * A bot
+> * Ordinary people making lots of different queries on the same spreadsheet
+> * People testing apps that take data from Socrata
+
+To make the long story short: It looks like there are a lot of good reasons
+to have this feature, but enabling data analysis by ordinary people isn't
+one of them.
+
+> Quantifying compliance with guidelines
+> =======================================
+
+My main approach in all of this work has been to acquire a lot of spreadsheets
+and run silly things across all of them. At some point, I started focusing this
+a bit. People have various ideas about what makes for a good dataset, and these
+are codified in the various guidelines that I mentioned before. The guidelines
+I reference are all written in English, and none are written in code. I started
+coming up with software approaches for assessing compliance with these guidelines.
+
+<!-- updatedness -->
+
+![](/dada/zombie-links/figure/p_link_types.png)
+
+One common guideline is that data should be on the internet. It turns out that
+a lot of data were once on the internet but have synce disappeared.
+This plot shows us what proportion of datasets from each of many data catalog
+sites are dead links. There are nuances in the mortality of datasets, but let's
+just say that the cyan and purple are portions of the bars are dead datasets
+and everything else is live datasets.
+
+![](/dada/zombie-links/figure/p_prop_links.png)
+
+It turns out that data catalog software relates to this. (What do you know!?)
+In the CKAN software, people are encouraged to link to data stored on other
+servers, and in the Socrata software, people are encouraged to upload data
+to Socrata servers. It is thus pretty hard to have dead datasets on the
+Socrata software.
+
+> How is this interesting!?
+> ===========================
+
+I continue to be shocked that people find any of this stuff interesting.
+For the various statistics above, I haven't been doing any notable inspection
+of the contents of the spreadsheets. People just haven't looked at these
+spreadsheets in mass, so even the simplest of studies are informative.
+But I eventually arrived at something that I thought was kind of interesting.
+
+> Searching for spreadsheets is hard
+> ====================================
+
+I noticed that it's very hard to find spreadsheets that are relevant
+to a particular analysis unless you already know that the spreadsheet exists.
+You can search in a generic web search engine, but the spreadsheets might not
+be indexed, and the search might not work that well even if the spreadsheets
+are indexed.
+
+![](search-delft.png)
+
+You can use the search bars on these various websites, but they usually do a
+very naive keyword search. Also, these sites tend to be quite slow.
+
+![](/dada/dataset-as-datapoint/spreadsheet-spreadsheet.png)
+
+Having assembled a spreadsheet about my spreadsheets, I was quite able to
+search through them. Even though I only had metadata in this spreadsheet,
+I could do powerful searches because I could create any metadata I wanted.
+Here's an example. In my composition of music from spreadsheets and in my
+teaching, I often want a dataset whose schema has particular characteristics.
+For example, I might want a dataset with lots of date columns.
+
+    SELECT * FROM datasets WHERE "ncol.date" > 3;
+
+So I collected data about the column types in these various tables and ran
+queries like this on my spreadsheet.
+
+![](/dada/data-about-open-data-talk-december-2-2013/unsilo.jpg)
+
+Here's another issue with using website-specific search bars.
+When I'm looking for spreadsheets, the publishing organization is unlikely
+to be my main concern. For example, if I'm interested in data about the
+composition of different pesticides, but I don't really care whether the
+data were collected by this city government or by that country government.
+
+In my view, we can have one set of tools/people that focus on making
+data available in a crude form and another set for assembling these crude
+data into something more relevent to the people who want the data
+
+[![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
+
+And that's why I made OpenPrism. This is a disgustingly simple site that
+forwards your search query to 100 other sites that house spreadsheets.
+
+Let me reiterate my thoughts on searching spreadsheets.
+
+> Why searching for spreadsheets is hard
+> ==========================================
+>
+> * Naive search method
+> * Site-specific search
+
+I see two main issues in the common means of searching through spreadsheets.
+The first issue is that the search method is quite naive; these websites are
+usually running keyword searches.
+The second issue is that the search is localized to datasets that are published
+or otherwise managed by a particular entity; it's hard to search for
+spreadsheets without first identifying a specific publisher or repository.
+
+I started to address the first issue by pulling schema-related features out
+of the spreadsheets, and I started to address the second issue by letting
+people search many sites at once. Taking this further, I've been thinking
+about what it would mean to have a search engine for spreadsheets.
+
+![](wordsearch.png)
+
+When we search for ordinary written documents, we send words into a search
+engine and get pages of words back.
+
+![](commasearch.png)
+
+What if we could search for spreadsheets
+by sending spreadsheets into a search engine and getting spreadsheets back?
+The order of the results would be determined by various specialized statistics;
+just as we use PageRank to find relevant hypertext documents, we can develop
+other statistics that help us find relevant spreadsheets.
+
+So now I'm looking for ways to do interesting searches on spreadsheets.
+
+> Rows and columns
+
+I think a lot about rows and columns. When we define tables in relational
+databases, we can say reasonably well what each column means, based on
+names and types, and what a row means, based on unique indices.
+In spreadsheets, we still have column names, but we don't get everything
+else.
+
+The unique indices tell us quite a lot; they give us an idea about the
+observational unit of the table and what other tables we can nicely
+join or union with that table. So I made a package that finds unique
+indices in ordinary CSV files.
+
+    pip3 install special_snowflake
+
+It's called "special snowflake", but it needs a better name.
+
+If we pass the iris dataset to it, ::
+
+    "Sepal.Length","Sepal.Width","Petal.Length","Petal.Width","Species"
+    5.1,3.5,1.4,0.2,"setosa"
+    4.9,3,1.4,0.2,"setosa"
+    4.7,3.2,1.3,0.2,"setosa"
+    4.6,3.1,1.5,0.2,"setosa"
+    ...
+
+we get no unique keys ::
+
+    >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
+    set()
+
+because no combination of columns uniquely identifies the rows.
+Of course, if we add an identifier column, ::
+
+    "Id","Sepal.Length","Sepal.Width","Petal.Length","Petal.Width","Species"
+    1,5.1,3.5,1.4,0.2,"setosa"
+    2,4.9,3,1.4,0.2,"setosa"
+    3,4.7,3.2,1.3,0.2,"setosa"
+    4,4.6,3.1,1.5,0.2,"setosa"
+    ...
+
+that one gets returned. ::
+
+    >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
+    {('Id',)}
+
+For a more interesting example, let's look at chickweight.
+
+    "weight","Time","Chick","Diet"
+    42,0,"1","1"
+    51,2,"1","1"
+    59,4,"1","1"
+    64,6,"1","1"
+    76,8,"1","1"
+    ...
+
+I could read the documentation on this dataset and tell you
+what its statistical unit is (`?ChickWeight` in R), or I could
+just let `special_snowflake` figure it out for me.
+
+    >>> special_snowflake.fromcsv(open('chick.csv'))
+    {('Time', 'Chick')}
+
+The statistical unit is chicks in time. That is, something was
+observed across multiple chick, and multiple observations were
+taken from each (well, at least one) chick.
+
+Some spreadsheets are have less obvious identifiers. In this
+table of 1219 rows and 33 columns,
+
+    >>> from urllib.request import urlopen
+    >>> url = 'http://data.iledefrance.fr/explore/dataset/liste-des-points-de-contact-du-reseau-postal-dile-de-france/download/?format=csv'
+    >>> fp = urlopen(url)
+    >>> special_snowflake.fromcsv(fp, delimiter = ';')
+    {('adresse', 'code_postal'),
+     ('adresse', 'localite'),
+     ('identifiant',),
+     ('libelle_du_site',),
+     ('wgs84',)}
+
+we find five functional unique keys. Just by looking at the column names,
+I'm gussing that the first two are combinations of parts of the postal address
+and that the latter three look are formal identifiers.
+And when I do things correctly and look at the
+[data dictionary](http://data.iledefrance.fr/api/datasets/1.0/liste-des-points-de-contact-du-reseau-postal-dile-de-france/attachments/laposte_description_champs_pointdecontact_pdf/),
+I come to the same interpretation.
+
+This tells me that this dataset is about postal service locations,
+with one location per row. It also gives me some ideas as to things that can
+act as unique identifiers for postal service locations.
+
+It's kind of cool to run this on individual spreadsheets, but it's even cooler
+to run this on lots of spreadsheets.
+In [blizzard](https://pypi.python.org/pypi/blizzard), I find spreadsheets with
+the same unique indices, and then I look for overlap between those spreadsheets.
+
+![](network.png)
+
+Let's now trace what happens when we compare one spreadsheet to our database
+of spreadsheets.
+
+    # This is the one missing slide;
+    # I'll fill it in once I make this thing easier to query.
+
+Spreadsheets with high overlap might be good to join to each other, and
+spreadsheets with low overlap might be good to union with each other.
+
+All of this is quite crude at the moment, so I'm somewhat surprised that
+anything interesting comes out.
+
+## Review
+I've been downloading lots of spreadsheets and doing crude, silly things
+with them.
+
+![](/dada/zombie-links/figure/p_prop_links.png)
+
+I started out by looking at very simple things like how big they are.
+I also tried to quantify other people's ideas of how good datasets are,
+like whether they are up-to-date and whether they are freely licensed.
+
+> ???
+> ====
+
+The main thing that I keep seeing is that nobody has any idea what's in all
+of these spreadsheets; I notice this because people continue to be interested
+in results that I find pretty boring.
+
+> "Search"
+
+Part of this is that it's pretty hard to search for spreadsheets.
+
+The first issue is that you need to type your search into multiple search
+bars. Dedicated search engines like DuckDuckGo don't index all of the
+spreadsheets, so you're stuck using site-specific searches, and these only
+search within their specific sites.
+
+[![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
+
+I wrote OpenPrism to deal with this; you type your search into one search
+bar, and it's as if you typed it in to all of the data catalogs I know about
+at once.
+
+The other issue is that our methods for searching spreadsheets are quite naive.
+Most of these data catalogs look for exact string matches in the datasets or
+for something similarly crude.
+
+![](wordsearch.png)
+
+The way we look up information today is to type some words into a search engine
+and read the first few results. Why is that not the way we look up data?
+
+We have designed search engines to look for things arranged in paragraphs
+and sections and pages and hyperlinks; we haven't designed search engines for
+things with tables and rows and columns and join keys.
+PageRank is hailed as the magical invention that
+fixed web search, but it depends on hyperlinks, so doesn't help much with spreadsheets.
+
+![](commasearch.png)
+
+The search engine for spreadsheets is going to look a bit different from
+the search engine for words.
