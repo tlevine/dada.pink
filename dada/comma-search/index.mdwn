@@ -4,7 +4,7 @@ new infrastructure, and that involves some up-front work. Also, I've been
 thinking a bit about how I might find spreadsheets that are related to each
 other, and I'm going to tell you about that below.
 
-## Open data is good for business?
+## Preface: Open data is good for business?
 But before I get to the main part of this article, I'm going to rant about the
 other thing that has kept me busy.
 
@@ -47,17 +47,17 @@ All of this hype is really confusing for me, and listening to it is a lot of
 work. I wish we could make less of a big deal out of the little open data
 toys that we're all making. Also, I still don't know what open data is.
 
-## Comma search
+## Abrupt transition
 Now that I'm finished complaining about open data hype and lack of funds,
 I'm going tell you about searching datasets.
 
-### People don't know what's in all these open data
+## People don't know what's in all these open data
 For the past year I've been looking at lots of datasets from lots of open
 data catalogs. People seem interested in my stupidly basic analyses across
 all of these datasets, and that tells me that people don't know what's in
 these datasets.
 
-#### Too many datasets for manual review
+### Too many datasets for manual review
 These "datasets" are usually spreadsheets;
 how do we figure out what's in a bunch of spreadsheets today?
 
@@ -66,7 +66,7 @@ how do we figure out what's in a bunch of spreadsheets today?
 We could manually look at every cell in every spreadsheet,
 but this would take a long time.
 
-#### Data publishing guidelines
+### Data publishing guidelines
 It might take a bit less long if we have good spreadsheets.
 so people make guidelines as to how a person or organization
 with lots of datasets might allow other people to use them.
@@ -89,7 +89,7 @@ they publish data. This can be a lot of work, so it's unreasonable
 for us to expect this to happen for anything other than the most
 important of datasets.
 
-#### Standard Schemas
+### Standard Schemas
 
 Many groups have developed standard schemas for particular sorts
 of data. Here are some examples.
@@ -122,7 +122,7 @@ For example, this can work if multiple bloggers are publishing blog
 posts or if multiple cities are publishing restaurant inspection results.
 It still puts a burden on the publishers of data.
 
-#### Graphs and stuff
+### Graphs and stuff
 
 Lots of people say that graphs make us understand data. So a lot of these
 repositories of spreadsheets let people make graphs.
@@ -186,24 +186,23 @@ search engine, and there isn't an easy way for them to convey all of this
 knowledge to others. Moreover, they only know about the data they've worked
 on in their respective governments; they don't know much about other governments.
 
-### Tools for figuring out what all these spreadsheets are about
-Sorry for taking such a long detour on why I want these tools. Now that you
-see why I want to make these tools, I can tell you what I've been doing.
+## Why you might have trouble searching for spreadsheets
+I see [two main issues](/dada/searching-data-tables)
+in the common means of searching through spreadsheets.
+The first issue is that the search method is quite naive; these websites are
+usually running keyword searches.
+The second issue is that the search is localized to datasets that are published
+or otherwise managed by a particular entity; it's hard to search for
+spreadsheets without first identifying a specific publisher or repository.
 
-
-I noticed that it's very hard to find spreadsheets that are relevant
-to a particular analysis unless you already know that the spreadsheet exists.
 You can search in a generic web search engine, but the spreadsheets might not
 be indexed, and the search might not work that well even if the spreadsheets
 are indexed.
 
-![](/dada/pagerank-for-spreadsheetst/search-delft.png)
-
 You can use the search bars on these various websites, but they usually do a
 very naive keyword search. Also, these sites tend to be quite slow.
 
-![](/dada/dataset-as-datapoint/spreadsheet-spreadsheet.png)
-
+### Dabbling with other search paradigms
 Having assembled a spreadsheet about my spreadsheets, I was quite able to
 search through them. Even though I only had metadata in this spreadsheet,
 I could do powerful searches because I could create any metadata I wanted.
@@ -250,9 +249,10 @@ And here are the columns, in case you're curious.
 These datasets are clearly related, so searching for datasets based on schema
 might not be a horrible idea.
 
+
+### Dealing with website-specific searches
 ![](/dada/data-about-open-data-talk-december-2-2013/unsilo.jpg)
 
-Here's another issue with using website-specific search bars.
 When I'm looking for spreadsheets, the publishing organization is unlikely
 to be my main concern. For example, if I'm interested in data about the
 composition of different pesticides, but I don't really care whether the
@@ -262,37 +262,23 @@ In my view, we can have one set of tools/people that focus on making
 data available in a crude form and another set for assembling these crude
 data into something more relevent to the people who want the data
 
-[![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
-
-And that's why I made OpenPrism. This is a disgustingly simple site that
+And that's why I made
+[OpenPrism](http://openprism.thomaslevine.com).
+This is a disgustingly simple site that
 forwards your search query to 100 other sites that house spreadsheets.
 
-Let me reiterate my thoughts on searching spreadsheets.
-
-> Why searching for spreadsheets is hard
-> ==========================================
->
-> * Naive search method
-> * Site-specific search
-
-I see two main issues in the common means of searching through spreadsheets.
-The first issue is that the search method is quite naive; these websites are
-usually running keyword searches.
-The second issue is that the search is localized to datasets that are published
-or otherwise managed by a particular entity; it's hard to search for
-spreadsheets without first identifying a specific publisher or repository.
-
-I started to address the first issue by pulling schema-related features out
-of the spreadsheets, and I started to address the second issue by letting
+## A search engine for spreadsheets!?
+I just articulated two issues with searching spreadsheets.
+I started to address the issue of search paradigm by pulling schema-related
+features out of the spreadsheets, and I started to address the issue of
+site-specific search by letting
 people search many sites at once. Taking this further, I've been thinking
 about what it would mean to have a search engine for spreadsheets.
-
-![](wordsearch.png)
 
 When we search for ordinary written documents, we send words into a search
 engine and get pages of words back.
 
-![](commasearch.png)
+![](/dada/pagerank-for-spreadsheetst/wordsearch.png)
 
 What if we could search for spreadsheets
 by sending spreadsheets into a search engine and getting spreadsheets back?
@@ -300,11 +286,13 @@ The order of the results would be determined by various specialized statistics;
 just as we use PageRank to find relevant hypertext documents, we can develop
 other statistics that help us find relevant spreadsheets.
 
+![](/dada/pagerank-for-spreadsheetst/commasearch.png)
+
 So now I'm looking for ways to do interesting searches on spreadsheets.
 
-> Rows and columns
-
-I think a lot about rows and columns. When we define tables in relational
+I think a lot about
+[rows and columns](http://www.datakind.org/blog/whats-in-a-table/).
+When we define tables in relational
 databases, we can say reasonably well what each column means, based on
 names and types, and what a row means, based on unique indices.
 In spreadsheets, we still have column names, but we don't get everything
@@ -328,13 +316,13 @@ If we pass the iris dataset to it, ::
     4.6,3.1,1.5,0.2,"setosa"
     ...
 
-we get no unique keys ::
+we get no unique keys.
 
     >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
     set()
 
 because no combination of columns uniquely identifies the rows.
-Of course, if we add an identifier column, ::
+Of course, if we add an identifier column,
 
     "Id","Sepal.Length","Sepal.Width","Petal.Length","Petal.Width","Species"
     1,5.1,3.5,1.4,0.2,"setosa"
@@ -343,7 +331,7 @@ Of course, if we add an identifier column, ::
     4,4.6,3.1,1.5,0.2,"setosa"
     ...
 
-that one gets returned. ::
+that one gets returned.
 
     >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
     {('Id',)}
@@ -398,80 +386,15 @@ to run this on lots of spreadsheets.
 In [blizzard](https://pypi.python.org/pypi/blizzard), I find spreadsheets with
 the same unique indices, and then I look for overlap between those spreadsheets.
 
-![](network.png)
-
-Let's now trace what happens when we compare one spreadsheet to our database
-of spreadsheets.
-
-    # This is the one missing slide;
-    # I'll fill it in once I make this thing easier to query.
+![](/dada/pagerank-for-spreadsheets/network.png)
 
 Spreadsheets with high overlap might be good to join to each other, and
 spreadsheets with low overlap might be good to union with each other.
-
 All of this is quite crude at the moment, so I'm somewhat surprised that
 anything interesting comes out.
 
-## Review
-I've been downloading lots of spreadsheets and doing crude, silly things
-with them.
-
-![](/dada/zombie-links/figure/p_prop_links.png)
-
-I started out by looking at very simple things like how big they are.
-I also tried to quantify other people's ideas of how good datasets are,
-like whether they are up-to-date and whether they are freely licensed.
-
-> ???
-> ====
-
-The main thing that I keep seeing is that nobody has any idea what's in all
-of these spreadsheets; I notice this because people continue to be interested
-in results that I find pretty boring.
-
-> "Search"
-
-Part of this is that it's pretty hard to search for spreadsheets.
-
-The first issue is that you need to type your search into multiple search
-bars. Dedicated search engines like DuckDuckGo don't index all of the
-spreadsheets, so you're stuck using site-specific searches, and these only
-search within their specific sites.
-
-[![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
-
-I wrote OpenPrism to deal with this; you type your search into one search
-bar, and it's as if you typed it in to all of the data catalogs I know about
-at once.
-
-The other issue is that our methods for searching spreadsheets are quite naive.
-Most of these data catalogs look for exact string matches in the datasets or
-for something similarly crude.
-
-![](wordsearch.png)
-
-The way we look up information today is to type some words into a search engine
-and read the first few results. Why is that not the way we look up data?
-
-We have designed search engines to look for things arranged in paragraphs
-and sections and pages and hyperlinks; we haven't designed search engines for
-things with tables and rows and columns and join keys.
-PageRank is hailed as the magical invention that
-fixed web search, but it depends on hyperlinks, so doesn't help much with spreadsheets.
-
-![](commasearch.png)
-
+## Anti-climax
+I don't yet have a nice package for searching spreadsheets, so I'll just
+leave you with the following thought:
 The search engine for spreadsheets is going to look a bit different from
 the search engine for words.
-
-
-
-
-
-
-
-
-
-
-
-
