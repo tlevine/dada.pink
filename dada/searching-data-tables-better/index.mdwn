@@ -6,15 +6,17 @@ and now I have some more thoughts of that.
 Before I get to the main part of this article, I'm going to rant about the
 another thing that has kept me busy over the past few months.
 
-I've been doing these silly open data studies for a while.
-People have been saying that they're informative and useful and
-important and whatnot, but people don't want to (or can't) pay me for
+People keep saying that my
+[open data research](/open-data)
+is informative and useful and
+important and whatnot, but people don't want to pay me for
 the open data stuff. So I gave up at finding funding for my silly
 open data studies and over the past few months am doing some totally
 unrelated work for money instead. I've also very recently received a
 small bit of funding from some people to do silly open data stuff.
 That's very nice, but it's small.
 
+### All about money
 I understand that life isn't all about money, but sometimes it seems like
 open data **is** all about money; that's pretty much
 [all](http://beyondtransparency.org/chapters/preface/)
@@ -29,14 +31,19 @@ Could it be that open data isn't good for business?
 Or maybe it is good for business but only because it is
 externalizing business costs to volunteers.
 
-Here's what I think.
-
+### My thoughts
+Here's what I think:
 Things are only true if you can make money from them,
 so open data is only good if you can make money from it.
+Well I don't really think that, but I think that that's
+what people think.
+
 Open data [isn't all about money](http://sunlightfoundation.com/blog/2014/04/22/beyond-business-the-impacts-of-open-data/),
 and the [business value isn't particularly compelling](http://blog.okfn.org/2013/11/08/open-datas-business-value-isnt-that-important/),
 but people pretend that it is all about money because that's how they
 convince themselves that it's true.
+
+### Hype is confusing
 Thus, everyone keeps
 saying that open data is going to save money, enable new businesses,
 and create new jobs.
