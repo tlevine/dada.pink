@@ -13,6 +13,9 @@ salaries can stay normal.
 Anyway, start a new section with your name and write about you.
 
 ## Tom
+I graduated from college in May 2011, and I don't think I have any
+interesting salary stuff to say from before that.
+
 I worked at [ScraperWiki](https://scraperwiki.com) for 11 months in 2012
 and made $45,833. I was working pretty much full time, but I was
 a contractor. Also, the company is in England, and full time there
