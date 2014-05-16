@@ -1,0 +1,45 @@
+Let's share our salaries! But how do we do that?
+I think it's easiest if we each write a long discourse about
+all of the ways we've earned money in the past few years
+and how much we worked or what we did.
+
+People often focus on the amount of money, maybe because it's
+easier to count than the other things, and I think it's important
+to talk about the other parts; my hunch is that it feels strange
+when people have particularly high or low salaries and that the
+amount of work that people do gets adjusted in order that the
+salaries can stay normal.
+
+Anyway, start a new section with your name and write about you.
+
+## Tom
+I worked at [ScraperWiki](https://scraperwiki.com) for 11 months in 2012
+and made $45,833. I was working pretty much full time, but I was
+a contractor. Also, the company is in England, and full time there
+is a bit less work than full time in the United States.
+
+I also did a small project for the
+[Microfinance Information Exchange](http://www.themix.org/), over weekends
+spanning three (?) months and made about $9,000.
+
+I did lots and lots of work on [treasury.io](http://treasury.io) with
+others from csv soundsystem and made $1,000 in 2013. And we won like $100
+each as a prize from the [Bicoastal Datafest](http://www.bdatafest.computationalreporting.com/).
+
+I worked for about a month full time at [DataPad](http://datapad.io)
+in 2013 and made about $9,000.
+
+I worked for about four months in 2013 at [Zipfian Acadamey](http://www.zipfianacademy.com/).
+I worked a bit more than half-time, though it was a bit complicated. They didn't pay
+everything they said they would, but it was nominally about $40/hour, and I wound
+getting something like $12,000.
+
+I worked for five weeks, about half-time at [Vy Capital](http://vycapital.com/)
+during 2014 and made about $7,000 per week, or $35,000.
+
+For the past month or so (in 2014), I have been working half-time for [Ontodia](http://ontodia.com/),
+for $4,000/month. Note well: The project I'm working on involves looking at lots of spreadsheets,
+and I was [already](/open-data) doing that for free, so most of it doesn't feel like work.
+
+## Your name here
+Explain below
