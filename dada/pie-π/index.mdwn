@@ -8,7 +8,7 @@ nor a [π pie](http://en.wikipedia.org/wiki/File:Pi_pie2.jpg),
 
 ![A pie with π written on it](π-pie.jpg)
 
-and not even [π pies](π-pies.jpg).
+and not even π pies.
 
 ![Three pizza pies and one slice](π-pies.jpg)
 
