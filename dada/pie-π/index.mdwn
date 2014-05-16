@@ -1,8 +1,17 @@
 [[!meta title="Pie π"]]
 
 I made a pie π! No, not a [pypy](http://pypy.org),
+
+![PyPy logo](pypy.png)
+
 nor a [π pie](http://en.wikipedia.org/wiki/File:Pi_pie2.jpg),
+
+![A pie with π written on it](π-pie.jpg)
+
 and not even [π pies](π-pies.jpg).
+
+![Three pizza pies and one slice](π-pies.jpg)
+
 I mean a letter π made of pied type!
 
 ![A letter "π" made of jumbled up letters, printed in green ink on off-white paper](pie-π.jpg).
