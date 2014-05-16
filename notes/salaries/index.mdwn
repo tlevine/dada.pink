@@ -41,8 +41,11 @@ I worked for five weeks, about half-time at [Vy Capital](http://vycapital.com/)
 during 2014 and made about $7,000 per week, or $35,000.
 
 For the past month or so (in 2014), I have been working half-time for [Ontodia](http://ontodia.com/),
-for $4,000/month. Note well: The project I'm working on involves looking at lots of spreadsheets,
-and I was [already](/open-data) doing that for free, so most of it doesn't feel like work.
+for $4,000/month. They actually offered $5,000/month, but they seemed really stressed out about going
+that high. A side note: The project I'm working on involves looking at lots of spreadsheets,
+I was [already](/open-data) doing that for free, and Ontodia is the
+[only](/dada/searching-data-tables-better/)
+company so far who is paying me to keep doing that.
 
 ## Your name here
 Explain below
