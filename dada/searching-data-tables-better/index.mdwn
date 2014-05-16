@@ -290,7 +290,7 @@ about what it would mean to have a search engine for spreadsheets.
 When we search for ordinary written documents, we send words into a search
 engine and get pages of words back.
 
-![](/dada/pagerank-for-spreadsheetst/wordsearch.png)
+![](/dada/pagerank-for-spreadsheets/wordsearch.png)
 
 What if we could search for spreadsheets
 by sending spreadsheets into a search engine and getting spreadsheets back?
@@ -298,7 +298,7 @@ The order of the results would be determined by various specialized statistics;
 just as we use PageRank to find relevant hypertext documents, we can develop
 other statistics that help us find relevant spreadsheets.
 
-![](/dada/pagerank-for-spreadsheetst/commasearch.png)
+![](/dada/pagerank-for-spreadsheets/commasearch.png)
 
 So now I'm looking for ways to do interesting searches on spreadsheets.
 
