@@ -1,9 +1,11 @@
 My calendar is spread across a few pal files.
 
-* [Activities](activities)
+* [Activities with durations](activities)
 * [Sleeping arrangements](sleeping)
-* [Things to do](to-do)
+* [Things to do any time](to-do)
 * [Birthdays](birthdays)
+* [Travel arrangements](travel)
+* [Postponed](postponed) (These don't show up when I run `pal`.)
 
 There's also a private file, as explained in the
 [operations](/operations/) page.
