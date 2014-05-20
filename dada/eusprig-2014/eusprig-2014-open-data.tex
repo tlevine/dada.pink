@@ -135,48 +135,28 @@ Datasets can be a joy to work with when these data quality guidelines
 are followed, but this requires much upfront work by the publishers
 of the data.
 
+\subsection{Asking people}
+In practice, I find that people learn what's in a spreadsheet through word
+of mouth, even if the data are already published on the internet in standard
+formats with good metadata.
 
+* Advertising the publication of data
+* Amanda's list
+* Conference talks on publication of data
 
-
-
-quantitative methods to look at 100,000 different datasets at once?
-
-The research has since focused more specifically on trying to understand what
-is going on in data-sharing ecosystems.
-I've been collecting data about publicly shared open data
-and looking for patterns in publishing and usage across the datasets.
-Here are three specific issues that I look at.
-
-\begin{enumerate}
-\item How can I find datasets that I care to see?
-\item What can I do about incomplete metadata?
-\item Can we quantify how good a particular dataset is?
-\end{enumerate}
-
-I'll briefly discuss some related work by other people and explain how I
-acquire lots of spreadsheets; then I'll review some of my findings in the
-above three areas.
-
-\section{Related work}
-Many other people have used relatively qualitative means to make sense of
-the release of diverse open data spreadsheets.
-For example, Open Knowledge Foundation volunteers manually looked through
-many websites to assemble a census \cite{open-data-census}
-of the availability of key datasets released by different countries.
-
-McKinsey \cite{mckinsey} and the Governance Lab \cite{govlab,joel}
-have looked at how specific businesses use specific publicly available spreadsheets.
-
-The general approach in these various studies is to look in depth at how a
-few datasets are used, or how data-related projects are run. My research,
-on the other hand, tries to get a broad picture across many different spreadsheets.
+Surely we can do better than this.
 
 \section{Acquiring lots of spreadsheets}
+In order to explore methods for examining thousands of spreadsheets,
+I needed to find spreadsheets that I could explore.
+
+Many governments and other large organizations publish spreadsheets on
+data catalog websites.
 Data catalogs make it kind of easy to get a bunch of spreadsheets all together.
 The basic approach is this.
 
 \begin{enumerate}
-\item Get all of the dataset identifiers.
+\item Get all of the dataset identifiers that are present in the data catalog.
 \item Download the metadata document about each dataset.
 \item Download data files about each dataset.
 \end{enumerate}
@@ -186,20 +166,32 @@ I've implemented this for the following data catalog softwares.
 \begin{itemize}
 \item Socrata
 \item CKAN
-\item Junar (partially)
 \item OpenDataSoft
 \end{itemize}
 
 This allows me to get all of the data from most of the open data catalogs I know about.
 
-Most of these spreadsheets are represented as tables,
+Most of these spreadsheets are represented as data tables,
 where rows correspond to records and columns correspond to variables. \cite{table}
 
 After I've downloaded spreadsheets and their metadata,
-I assemble them into a spreadsheet about spreadsheets. \cite{data-driven}
+I often assemble them into a spreadsheet about spreadsheets. \cite{data-driven}
 In this super-spreadsheet, each record corresponds to a full
 sub-spreadsheet; you could say that I am collecting features or statistics
 about each spreadsheet.
+
+\section{Crude statistics about spreadsheets}
+
+
+
+
+\section{Searching for spreadsheets}
+
+
+
+
+
+
 
 \section{Findings}
 Here are some of the things I've found by looking at lots of spreadsheets at
