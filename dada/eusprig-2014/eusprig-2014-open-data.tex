@@ -97,7 +97,28 @@ based on a data availability rubric.
 As slow as it may be, a crude approach like this one is feasible and
 worthwhile when we are very focused with our goals.
 
-\subsection{Provide good metadata and standard data formats}
+\subsection{Use standard metaformats}
+Many groups develop domain-specific metaformats for expressing a very specific
+sort of data. For example, JSON API is a metaformat for expressing the
+response of a database query on the web \cite{jsonapi}, Data Packages is a
+metaformat for expressing metadata about a dataset \cite{datapackages},
+and KML is a metaformat for expressing annotations of geographic maps \citep{kml}.
+% http://portal.opengeospatial.org/files/?artifact_id=27810
+% http://dataprotocols.org/data-packages/
+% http://jsonapi.org/
+% http://www.opengeospatial.org/standards/is
+
+Agreement on format and metaformat makes it faster and easier to inspect
+individual files. On the other hand, it is less helpful at alleviating the
+need to acquire lots of different files and to at least glance at them.
+
+The same sort of thing happens when data publishers provide graphs of
+each individual dataset. When we provide some graphs of a dataset
+rather than simply the standard data file, we try to make it easier for
+people to understand that particular dataset. We are less concerned with
+alleviating the need to look through many different datasets.
+
+\subsection{Provide good metadata}
 Data may be easier to find if we catalog our data well and adhere to
 certain data quality standards. With this reasoning,
 many "open data" guidelines provide direction as to how a person
@@ -110,7 +131,9 @@ be available on the internet and under a free license; at the other
 end of the spectrum, guidelines suggest that data be in standard
 formats accompanied with particular metadata.
 
-
+Datasets can be a joy to work with when these data quality guidelines
+are followed, but this requires much upfront work by the publishers
+of the data.
 
 
 
