@@ -17,6 +17,8 @@ DAILY:20140416:20140505 Finish my SEMS stuff.
 20140430 Book flight to Europe: Norwegian to CPH. (Book the return flight later.)
 20140504 Book travel to Stuttgart.
 20140515 Book a train from London to Plymouth for 27 July
+20140525 Write "R for people who are used to good programming languages".
+20140525 Solicit students
 20140525 Book a train to somewhere else 4 August. I should be in London by 6 August.
 20140525 Book a train to Liverpool? Also book a flight home.
 20140525 Apply to Gov Lab
@@ -26,6 +28,4 @@ DAILY:20140416:20140505 Finish my SEMS stuff.
 20140513 Get rid of SmugMug and all these tiny VPSs
 20140513 Write about what I learned about housing markets, and send it to Rob
 DAILY:20140518:20140519 When I go home, redo the backup now that I've mounted the EBS volume
-20140520 Write "R for people who are used to good programming languages".
-20140520 Solicit students
 20140520 Decide how to divide my weekend between Transparency Camp and WikiConference USA, and book travel accordingly.

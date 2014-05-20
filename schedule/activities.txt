@@ -109,7 +109,6 @@ DAILY:20140423:20140425 In Ontodia's office
 20140510 9:30 am, Ecohack, Etsy, 55 Washington St. http://ecohack.org/
 20140510 6:30 pm MoMath
 DAILY:20140606:20140608 Public Laboratory Barn Raising http://publiclab.org/wiki/barnraising
-20140605 Maybe arrive early at Public Lab Barnraising
 20140528 1 pm Eye of the Storm The Science of Weather, bring some lunch, Gould Plaza, NYU, 40 W 4th St
 20140610 7 pm, Hack Portland, 30 Danforth St. Suite 304, http://www.meetup.com/Hack-Portland/events/175712472/
 DAILY:20140806:20140810 Wikimania, http://wikimania2014.wikimedia.org/wiki/Main_Page
@@ -122,3 +121,7 @@ DAILY:20140806:20140810 Wikimania, http://wikimania2014.wikimedia.org/wiki/Main_
 20140522 7 pm MedTech Regulation, Blueprint Health, 483 Broadway, 2nd floor, http://www.meetup.com/legalhackers/events/180062612/
 20140521 10 am Speak with Brian and Beatrice on Skype (beatricemartini)
 20140517 3pm, Dumpster diving at NYU, Northeast corner of 3rd Avenue and 14th Street, call Janet 347-724-6954 if I need
+DAILY:20140520:20140521 Finish papers for SEMS/EuSpRIG
+20140521 19:00 Relearn meeting on freenode #relearn
+20140524 Staten Island pizza? I have to tell people.
+20140605 Arrive early at Public Lab Barnraising

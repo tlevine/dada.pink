@@ -21,3 +21,4 @@ DAILY:20140727:20140804 Provided by YRS (Plymouth, for YRS)
 DAILY:20140806:20140810 XXX (London, for Wikimania)
 DAILY:20140811:20140815 XXX (Liverpool, for fun)
 DAILY:20140817:20140824 Maybe http://ses.ikso.net/2014/ru/Kotizoj (Moscow)
+DAILY:20140605:20140607 Public Lab Barnraising
