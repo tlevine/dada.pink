@@ -10,24 +10,22 @@ TD To do
 20140408 Write sheetmusic in Gnumeric with the Python plugin
 20140415 Move two bags and day bag to storage unit
 20140419 Order a Tom Bihn Synapse 19, steel/ultraviolet
-20140506 Decide how to divide my weekend between Transparency Camp and WikiConference USA, and book travel accordingly.
 DAILY:20140416:20140505 Finish my SEMS stuff.
 20140504 Buy this stuff. Maybe switch RAM with the desktop. http://community.acer.com/t5/2013-Archives/FYI-Aspire-One-AO725-RAM-amp-Samsung-840-SSD-Upgrade-Success/td-p/71433
 20140501 Move mail to cold storage.
 20140425 Deposit cheque and inquire about wiring money to the Netherlands.
 20140430 Book flight to Europe: Norwegian to CPH. (Book the return flight later.)
 20140504 Book travel to Stuttgart.
-20140515 Book a train from London to Plymouth for 27 July and to somewhere else 4 August. I should be in London by 6 August.
-20140515 Apply to Gov Lab
-20140515 Switch to pass http://www.zx2c4.com/projects/password-store/
-20140515 Look for cool git hooks.
+20140515 Book a train from London to Plymouth for 27 July
+20140525 Book a train to somewhere else 4 August. I should be in London by 6 August.
+20140525 Book a train to Liverpool? Also book a flight home.
+20140525 Apply to Gov Lab
 20140530 Write up the Grammar of Graphics language parser thing
 20140530 Write up the Wikipedia scraper thing that I did with Anastasya
 20140508 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
 20140513 Get rid of SmugMug and all these tiny VPSs
-20140603 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
-20140525 Redo Socrata updating but with the correct date field
 20140513 Write about what I learned about housing markets, and send it to Rob
 DAILY:20140518:20140519 When I go home, redo the backup now that I've mounted the EBS volume
 20140520 Write "R for people who are used to good programming languages".
 20140520 Solicit students
+20140520 Decide how to divide my weekend between Transparency Camp and WikiConference USA, and book travel accordingly.
