@@ -1,8 +1,6 @@
 % Adjustments
 % ===========
 
-% We produce lots of spreadsheets. Cite some figures.
-% When we have so many spreadsheets, how can we know what is in them?
 
 % \subsection{Existing means of understanding a lot of spreadsheets}
 % We could manually look at every cell in every spreadsheet,
@@ -50,7 +48,7 @@
 \documentclass{acm_proc_article-sp}
 \usepackage{url}
 \begin{document}
-\title{Automatically assessing the relevance, quality, and usability of spreadsheets}
+\title{How can we figure out what is inside thousands of spreadsheets?}
 \numberofauthors{1}
 \author{ \alignauthor Thomas Levine\\ \email{\_@thomaslevine.com} }
 \date{6 March 2014}
@@ -65,19 +63,59 @@ analysis questions; I will explain both how these methods work and how they
 can help you you manage and analyze your spreadsheets.
 \end{abstract}
 
-% A category with the (minimum) three required fields
-%\category{H.4}{Information Systems Applications}{Miscellaneous}
-%A category including the fourth, optional field follows...
-%\category{D.2.8}{Software Engineering}{Metrics}[complexity measures, performance measures]
-%\terms{Research paper}
 \keywords{data management, spreadsheets, open data}
 
 \section{Introduction}
-Through recent open data initiatives, governments and large organizations have
-begun releasing much of their internal data as public files on the internet.
-From just a few different websites, we can easily download 100,000 different
-spreadsheets \cite{ny-talk}.
-My research began with this question: What becomes possible when we use
+These days, we have more data than we know what to do with. And by "data",
+we often mean unclean, poorly documented spreadsheets. How are we to have
+any idea what these millions of spreadsheets contain? In my research,
+I search for approaches to understanding the contents of large collections
+of weakly structured spreadsheets.
+
+\section{Typical approaches to exploring the contents of spreadsheets}
+Before we discuss my experimental spreadsheet exploration methods,
+let's consider some more common approaches.
+How do we figure out what's in a bunch of spreadsheets today?
+
+\subsection{Look at every spreadsheet}
+One approach is to look manually at every cell in every spreadsheet.
+This takes a long time, but it is feasible in some situations.
+
+For example, the Open Knowledge Foundation \cite{open-data-census}
+and Code for America \cite{open-data-census-us}
+conducted open data censuses to determine which governments were
+releasing what data publically on the internet. The two studies
+focused on a few datasets (11 for the former, 17 for the latter)
+whose public release they deemed especially important; these datasets
+included budgets, laws, and procurement contracts.
+In each case, volunteers searched the internet and talked to
+government employees in order to determine whether each dataset was
+available. When datasets were available, volunteers recorded some
+metadata about the dataset and rated how well the data were published
+based on a data availability rubric.
+
+As slow as it may be, a crude approach like this one is feasible and
+worthwhile when we are very focused with our goals.
+
+\subsection{Provide good metadata and standard data formats}
+Data may be easier to find if we catalog our data well and adhere to
+certain data quality standards. With this reasoning,
+many "open data" guidelines provide direction as to how a person
+or organization with lots of datasets might allow other people
+to use them.
+\cite{open-data-census,fivestars,sunlight,sebastopol,odi}
+
+At a basic level, these guidelines suggest that data should
+be available on the internet and under a free license; at the other
+end of the spectrum, guidelines suggest that data be in standard
+formats accompanied with particular metadata.
+
+
+
+
+
+
+
 quantitative methods to look at 100,000 different datasets at once?
 
 The research has since focused more specifically on trying to understand what
