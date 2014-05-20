@@ -67,8 +67,8 @@ Here are the items that I will try to fit in these two backpacks.
   * Public transit cards (MetroCard, Oyster Card, Tap Card, &c.)
   * United States national identification (learner's permit)
   * Ordinary wallet things
+* Empty space for food
 * Other
-  * Food
   * Napkins
   * Pens
   * Keys
@@ -84,8 +84,10 @@ carries these things.
 * Documents
 * Washing supplies
 * Projector
+* Food
+* "Other"
 
-That's not very many things yet, so it'll probably also have these things
+That's not very many things yet, so it'll probably also have these things too.
 
 * Laptop charger
 * Teeth things
