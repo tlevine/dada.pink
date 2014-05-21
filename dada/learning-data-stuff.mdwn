@@ -46,7 +46,7 @@ In return for this advice, you'll infrequently write little
 tutorials about specific things that you previously found
 really confusing but later figured out. (For inspiration,
 see [protocols](/dada/street-sign-protocol) and
-[binary files](/dada/downloading-binary-files-non-magic/).)
+[binary files](/dada/downloading-binary-files-is-not-magic/).
 
 Actually, they don't have to be written; they can be sound
 or video or food recipes or statues; it just has to be something
