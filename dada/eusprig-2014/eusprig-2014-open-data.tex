@@ -1,50 +1,3 @@
-% Adjustments
-% ===========
-
-
-% \subsection{Existing means of understanding a lot of spreadsheets}
-% We could manually look at every cell in every spreadsheet,
-% but this would take a long time. Instead, we develop tools,
-% and standard practices to make this a bit easier.
-
-% Many "open data" guidelines provide direction as to how a person
-% or organization with lots of spreadsheets might allow other people
-% to use them. At a basic level, many guidelines suggest that data
-% be available on the internet and under a free license; at the other
-% end of the spectrum, guidelines suggest that data be in standard
-% formats accompanied with assorted metadata.
-
-% Many groups have developed standard schemas for particular sorts
-% of data. examples (cite stuff)
-
-% \subsection{Things that don't exist but maybe should}
-% The various tools that I describe above assist in understanding
-% individual spreadsheets. What if we have a million spreadsheets?
-% Even if we have the most perfect graphs about each separate spreadsheet,
-% we won't have time to look at them all; we need to narrow down
-% the spreadsheet base before we look at them
-
-% It's like the concept of information retrieval and the-other-thing
-
-% but I think we can take a qualitatively
-% different approach to understanding 
-
-
-% search engine
-
-% stats for search engine (pagerank for spreadsheets)
-
-
-
-% -- Do I need this part?
-% People want to share spreadsheets with each other (citations).
-% People, governments, and other organizations even want to share spreadsheets and with the
-% entire world, and they often call this "open data".
-% In either case, this might intuitively seem like a good idea;
-% this can enable a wide range of people to perform new sorts of analysis.
-
-% 
-
 \documentclass{acm_proc_article-sp}
 \usepackage{url}
 \begin{document}
@@ -66,15 +19,26 @@ can help you analyze and manage your spreadsheets.
 
 \section{Introduction}
 These days, we have more data than we know what to do with. And by "data",
-we often mean unclean, poorly documented spreadsheets. How are we to have
-any idea what these millions of spreadsheets contain? In my research,
-I search for approaches to understanding the contents of large collections
-of weakly structured spreadsheets.
+we often mean unclean, poorly documented spreadsheets. I started wondering
+what was in all of these spreadsheets. Addressing my curiosity turned out
+to be quite difficult, so I've found up developing various approaches to
+understanding the contents of large collections of weakly structured
+spreadsheets.
+
+My initial curiosity stemmed from the release of thousands of spreadsheets
+in government open data initiatives. I wanted to know what they had released
+so that I may find interesting things in it.
+
+More practically, I often am looking for data from multiple sources that I
+can connect in relation to a particular topic. For example, in a project I had
+data about cash flows through the United States treasury and wanted to join
+them to data about the daily interest rates for United States bonds. In situations
+like this, I usually need to know the name of the dataset or to ask around until
+I find the name. I wanted a faster and more systematic approach to this.
 
 \section{Typical approaches to exploring the contents of spreadsheets}
-Before we discuss my spreadsheet exploration methods,
-let's consider some more common approaches.
-How do we figure out what's in a bunch of spreadsheets today?
+Before we discuss my spreadsheet exploration methods, let's discuss some
+more ordinary methods that I see in common use today.
 
 \subsection{Look at every spreadsheet}
 One approach is to look manually at every cell in many spreadsheets.
