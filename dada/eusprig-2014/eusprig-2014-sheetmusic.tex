@@ -16,8 +16,8 @@ Thomas Levine\\
 The spreadsheet provides an intuitive paradigm for the expression of musical
 scores. Musical scores can be expressed as data tables, with each record
 corresponding to a place in time and each column corresponding to a note
-or instrument. SheetMusic is a plugin for Gnumeric that provides music
-sequencing spreadsheet functions. Tools like SheetMusic provide intuitive
+or instrument. Sheetmusic is a plugin for Gnumeric that provides music
+sequencing spreadsheet functions. Tools like Sheetmusic provide intuitive
 music composition interfaces for people who are used to data analysis software.
 Moreover, they help us plot data with the sense of sound.
 \end{abstract}
@@ -26,6 +26,7 @@ Moreover, they help us plot data with the sense of sound.
 Data analyists often use visualization as a means for plotting data.
 But there are other approaches!
 
+\subsection{Music}
 Ferguson \& al. \cite{ferguson} provide auditory analogs for simple
 visual plots, such as the dotplot and boxplot.
 % http://sonification.de/handbook/index.php/chapters/chapter8
@@ -37,27 +38,82 @@ these auditory plots and conventional visual histograms and then to
 judge statistical properties datasets. Accuracy was comparable between
 the two plot types.
 
-Flowers \& al. \cite{flowers2005} propose that auditory plots be
+\subsection{Music videos}
+Combining the visual and auditory senses, we can plot data in the form
+of music videos. One example of this is the FMS Symphony
+(csv soundsystem, 2012 \cite{fms}).
+In the FMS Symphony, each beat of music corresponds to a business day
+during the period between 2005 and 2013, the pitch of one instrument
+corresponds to the United States interest rate, the pitch of another
+instrument corresponds to the distance to the United States debt ceiling,
+and the activation of certain flourishes corresponds to changes in the
+balance of the United States treasury. These data are also represented
+visually, through the combination of an animated line plot and a
+Chernoff face.
+\cite{fms-about}
+% http://www.bdatafest.computationalreporting.com/projects/fms-symphony
+
+Flowers \& al. \cite{flowers2005} propose that auditory plots may be
 particularly helpful for augmenting visual information in instructional
 settings, for enabling more complex inferences from data, and for
 the analysis of spatial data.
 
-We can plot data for the auditory sense by making music.
+\subsection{Food}
+Why stop at just vision and hearing? We can plot data as food and use
+all five senses.
+Census Spices
+% http://www.npr.org/blogs/codeswitch/2013/07/04/198424045/a-bbq-rub-that-tastes-like-brooklyn
+
+\section{Our tools for musical plotting}
+We at csv soundsystem \cite{csv} have been exploring multisensory
+data plotting methods, including music videos and food.
+In our production of data-driven music videos, we have recognized a need
+for data analysis software and music software to be more strongly integrated.
+We wanted a more seamless transition between modeling and music, and we
+wanted it to be easier for data analysts to work with music. We have
+developed tools like Sheetmusic to bridge this gap.
 
 To use the language of the Grammar of Graphics, \cite{XXX}
 we have abstract data and concrete plot elements,
 and we define aesthetics that provide mappings
 between the abstract data and the concrete elements.
-And there's no reason that these elements have to be graphical.
+The primitive plot elements that we use for music are things
+like key, rhythm, pitch, and interval.
+
+\subsection{Data tables}
+We've found that the tabular representation of data aligns very well with
+typical representations of music. Our data music tools work by mapping these
+two concepts to each other.
+
+We can think of data tables as collections of similar things, with the
+same sorts of information being collected about each thing. In tidy data
+tables \cite{tidydata} each row corresponds to an observation (a thing),
+and each column corresponds to a variable. We add more rows to the table
+as we observe more things, and we add more columns to the table as we
+collect more information about each thing.
+
+We can think of music as a composition of many different sounds over time,
+with sounds coming from many different instruments. In musical scores
+we represent time as movement from left to right, and we represent different
+instruments by different staves (stacked on top of each other).
+The staff becomes wider as the song gets longer, (They are often spread
+across multiple pages.) and we add more staves as we add more instruments.
+
+Rather than composing music as traditional sheet music,
+we can use a table-editing program of our choice to compose
+this sort of table. Our data music software simply adds
+musical functions to table containers in various data analysis
+tools. Sheetmusic is our offering for spreadsheets, but we
+also have libraries for R data frames\cite{ddr} and Pandas
+data frames.\cite{ddpy}
 
 
-We started out by writing a music video in R.
 
-[![FMS Symphony](fms.png)](http://fms.csvsoundsystem.com)
 
-One benefit of this approach is that it lets us make music from empirical data.
-Here's a music video about the finances of the United States government.
-(Explain what's in the video.)
+
+
+
+
 
 
 When we start using data analysis software for other things,
@@ -132,82 +188,6 @@ onto real things that we can perceive.
 
 
 
-
-In our production of data-driven music videos, we have recognized a need
-for data analysis software and music software to be more strongly integrated.
-We wanted a more seamless transition between modeling and music, and we
-wanted it to be easier for data analysts to work with music. We have
-developed tools like Sheetmusic to bridge this gap.
-
-\section{Data tables}
-We've found that the tabular representation of data aligns very well with
-typical representations of music. Sheetmusic works by mapping these two
-concepts to each other.
-
-We can think of data tables as collections of similar things, with the
-same sorts of information being collected about each thing. In tidy data
-tables \cite{tidydata} each row corresponds to an observation (a thing),
-and each column corresponds to a variable. We add more rows to the table
-as we observe more things, and we add more columns to the table as we
-collect more information about each thing.
-
-We can think of music as a composition of many different sounds over time,
-with sounds coming from many different instruments. In musical scores
-we represent time as movement from left to right, and we represent different
-instruments by different staves (stacked on top of each other).
-The staff becomes wider as the song gets longer, (They are often spread
-across multiple pages.) and we add more staves as we add more instruments.
-
-If we constrain the manner of data and of music, we can losslessly convert
-between the data table concept and the musical staff concept. As an example,
-let's look at a passage from Chopin's \'Etude Op. 10, No. 1. \cite{chopin}.
-Figure \ref{sheet} represents it in ordinary sheet music.
-
-\begin{figure}
-\label{sheet}
-\includegraphics[width=\columnwidth]{chopin.png}
-\caption{Chopin's \'Etude Op. 10, No. 1. as ordinary sheet music}
-\end{figure}
-
-Table \ref{table} displays it as a data table as comma-separated values.
-(Well almost; it doesn't include the two chords of dotted half notes.)
-
-\begin{table}
-\label{table}
-\centering
-\begin{tabular}{c c} \hline
-Left Hand&Right Hand\\ \hline
-   (NA)  &   (NA)\\
-    C2   &    E6\\
-    G2   &    C6\\
-    C3   &    G5\\
-    E3   &    C5\\
-    C3   &    E5\\
-    G3   &    C5\\
-    C4   &    G4\\
-    E4   &    C4\\
-    C4   &    G4\\
-    G4   &    C5\\
-    C5   &    G5\\
-    E5   &    C6\\
-    C5   &    G5\\
-    G4   &    C5\\
-    C4   &    G5\\
-    E4   &    C5\\
-    C4   &    G4\\
-    G3   &    C4\\
-    C3   &    E4\\
-    E3   &    C4\\
-    C3   &    G3\\
-    G2   &    E3\\
-    C2   &    C3\\ \hline
-\end{tabular}
-\caption{Chopin's \'Etude Op. 10, No. 1. as a data table}
-\end{table}
-
-Rather than composing music as traditional sheet music,
-we can use a table-editing program of our choice to compose
-this sort of table.
 
 \section{How to use it}
 Sheetmusic is implemented as a JavaScript function that loads data
