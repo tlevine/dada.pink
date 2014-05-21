@@ -291,48 +291,44 @@ them across all of these datasets.
 I noticed that it's very hard to find spreadsheets that are relevant
 to a particular analysis unless you already know that the spreadsheet exists.
 Major search engines focus on HTML format web pages, and spreadsheet files
-are often not indexed at all.
-
-The various data catalog software programs
+are often not indexed at all. The various data catalog software programs
 discussed in section \ref{acquire} include a search feature, but this feature
 only works within the particular website. For example, I have to go to the
 Dutch government's data catalog website in order to search for Dutch data.
 
-I see two main issues in the common means of searching through spreadsheets.
-The first issue is that the search method is quite naive; these websites are
-usually running crude keyword searches.
-
-The second issue is that the search is localized to datasets that are published
+To summarize my thoughts about the common means of searching through
+spreadsheets, I see two main issues.
+The first issue is that the search is localized to datasets that are published
 or otherwise managed by a particular entity; it's hard to search for
 spreadsheets without first identifying a specific publisher or repository.
+The second issue is that the search method is quite naive; these websites are
+usually running crude keyword searches.
 
-Here's another issue with using website-specific search bars.
+Having articulated these difficulties in searching for spreadsheets, I started
+trying to address them.
+
+\subsection{Searching across publishers}
 When I'm looking for spreadsheets, the publishing organization is unlikely
 to be my main concern. For example, if I'm interested in data about the
 composition of different pesticides, but I don't really care whether the
 data were collected by this city government or by that country government.
 
-In my view, we can have one set of tools/people that focus on making
-data available in a crude form and another set for assembling these crude
-data into something more relevent to the people who want the data
 
 [![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
 
 And that's why I made OpenPrism. This is a disgustingly simple site that
 forwards your search query to 100 other sites that house spreadsheets.
 
-Let me reiterate my thoughts on searching spreadsheets.
-
-> Why searching for spreadsheets is hard
-> ==========================================
->
-> * Naive search method
-> * Site-specific search
-
+\subsection{Spreadsheets-specific search algorithms}
+The other issue is that our search algorithms don't take advantage of all
+of the structure that is encoded in a spreadsheet.
 
 I started to address the first issue by pulling schema-related features out
-of the spreadsheets, and I started to address the second issue by letting
-people search many sites at once. Taking this further, I've been thinking
+of the spreadsheets.
+
+XXX
+
+Taking this further, I've been thinking
 about what it would mean to have a search engine for spreadsheets.
 
 ![](wordsearch.png)
