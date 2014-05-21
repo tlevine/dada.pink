@@ -153,7 +153,7 @@ There are even entire conferences about the contents of newly released datasets
 % http://apdu.org/events/conference/apdu-2013/
 \cite{apdu}
 
-\section{How I acquire lots of spreadsheets}
+\section{How I acquire lots of spreadsheets} \label{acquire}
 In order to explore methods for examining thousands of spreadsheets,
 I needed to find spreadsheets that I could explore.
 
@@ -288,53 +288,23 @@ them across all of these datasets.
 
 
 \section{Searching for spreadsheets}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> Searching for spreadsheets is hard
-> ====================================
-
 I noticed that it's very hard to find spreadsheets that are relevant
 to a particular analysis unless you already know that the spreadsheet exists.
-You can search in a generic web search engine, but the spreadsheets might not
-be indexed, and the search might not work that well even if the spreadsheets
-are indexed.
+Major search engines focus on HTML format web pages, and spreadsheet files
+are often not indexed at all.
 
-![](search-delft.png)
+The various data catalog software programs
+discussed in section \ref{acquire} include a search feature, but this feature
+only works within the particular website. For example, I have to go to the
+Dutch government's data catalog website in order to search for Dutch data.
 
-You can use the search bars on these various websites, but they usually do a
-very naive keyword search. Also, these sites tend to be quite slow.
+I see two main issues in the common means of searching through spreadsheets.
+The first issue is that the search method is quite naive; these websites are
+usually running crude keyword searches.
 
-![](/dada/dataset-as-datapoint/spreadsheet-spreadsheet.png)
-
-Having assembled a spreadsheet about my spreadsheets, I was quite able to
-search through them. Even though I only had metadata in this spreadsheet,
-I could do powerful searches because I could create any metadata I wanted.
-Here's an example. In my composition of music from spreadsheets and in my
-teaching, I often want a dataset whose schema has particular characteristics.
-For example, I might want a dataset with lots of date columns.
-
-    SELECT * FROM datasets WHERE "ncol.date" > 3;
-
-So I collected data about the column types in these various tables and ran
-queries like this on my spreadsheet.
-
-![](/dada/data-about-open-data-talk-december-2-2013/unsilo.jpg)
+The second issue is that the search is localized to datasets that are published
+or otherwise managed by a particular entity; it's hard to search for
+spreadsheets without first identifying a specific publisher or repository.
 
 Here's another issue with using website-specific search bars.
 When I'm looking for spreadsheets, the publishing organization is unlikely
@@ -359,12 +329,6 @@ Let me reiterate my thoughts on searching spreadsheets.
 > * Naive search method
 > * Site-specific search
 
-I see two main issues in the common means of searching through spreadsheets.
-The first issue is that the search method is quite naive; these websites are
-usually running keyword searches.
-The second issue is that the search is localized to datasets that are published
-or otherwise managed by a particular entity; it's hard to search for
-spreadsheets without first identifying a specific publisher or repository.
 
 I started to address the first issue by pulling schema-related features out
 of the spreadsheets, and I started to address the second issue by letting
