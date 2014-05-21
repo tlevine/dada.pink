@@ -117,7 +117,7 @@ rather than simply the standard data file, we try to make it easier for
 people to understand that particular dataset. We are less concerned with
 alleviating the need to look through many different datasets.
 
-\subsection{Provide good metadata}
+\subsection{Provide good metadata} \label{guidelines}
 Data may be easier to find if we catalog our data well and adhere to
 certain data quality standards. With this reasoning,
 many "open data" guidelines provide direction as to how a person
@@ -145,21 +145,6 @@ formats with good metadata.
 
 Surely we can do better than this.
 
-\section{Ways that looking through data can be quickened}
-I like to think of two families of strategies for making it easier:
-It can take a long time to look at a particular spreadsheet, and we
-can have a lot of spreadsheets to look at. We can express this as
-a simple product.
-
-$$ \left(Total time\right) = \left(Number of spreadsheets\right) \times \left(Average time\right) $$
-
-My definition of ``look'' is very fuzzy, but I think this is still
-informative.
-We can reduce the time spend in looking at these spreadsheets by
-reducing the number of spreadsheets that we look at or by spending
-less time looking at each spreadsheet.
-We make it easier to look at a single spreadsheet
-
 \section{Acquiring lots of spreadsheets}
 In order to explore methods for examining thousands of spreadsheets,
 I needed to find spreadsheets that I could explore.
@@ -170,7 +155,7 @@ Data catalogs make it kind of easy to get a bunch of spreadsheets all together.
 The basic approach is this.
 
 \begin{enumerate}
-\item Get all of the dataset identifiers that are present in the data catalog.
+\item Download a list of all of the dataset identifiers that are present in the data catalog.
 \item Download the metadata document about each dataset.
 \item Download data files about each dataset.
 \end{enumerate}
@@ -195,6 +180,101 @@ sub-spreadsheet; you could say that I am collecting features or statistics
 about each spreadsheet.
 
 \section{Crude statistics about spreadsheets}
+My first approach was involved running rather crude analyses on this
+interesting dataset-about-datasets that I had assembled.
+
+\subsection{How many datasets}
+![Plot of dataset counts by site](/dada/socrata-summary/figure/big_portals_datasets.png)
+
+\subsection{Meaninglessness of the count of datasets}
+
+Many organizations report this count of datasets that they publish, and this number
+turns out to be nearly useless.
+
+> **Column names**: "grade", "year", "demographic", "number_tested", "mean_scale_score", "num_level_1", "pct_level_1", "num_level_2", "pct_level_2", "num_level_3", "pct_level_3", "num_level_4", "pct_level_4", "num_level_3_and_4", "pct_level_3_and_4"
+>
+> **Datasets with these column names**:
+>
+> * [Math Test Results 2006-2012 - Citywide - Gender](https://data.cityofnewyork.us/d/2bh6-qmgg)
+> * [Math Test Results 2006-2012 - Citywide - Ethnicity](https://data.cityofnewyork.us/d/vve2-26rs)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - SWD](https://data.cityofnewyork.us/d/d72n-ivax)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - ELL](https://data.cityofnewyork.us/d/72db-huua)
+> * [Math Test Results 2006-2012 - Citywide - SWD](https://data.cityofnewyork.us/d/ufu7-zp25)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - All Students](https://data.cityofnewyork.us/d/89di-hi4s)
+> * [Math Test Results 2006-2012 - Citywide - ELL](https://data.cityofnewyork.us/d/ngbi-cq85)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - Gender](https://data.cityofnewyork.us/d/cs9m-cz6f)
+> * [Math Test Results 2006-2012 - Citywide - All Students](https://data.cityofnewyork.us/d/fxwm-3t4n)
+> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - Ethnicity](https://data.cityofnewyork.us/d/p5w7-g72z)
+
+These "datasets" can all be thought of as subsets of the same single dataset.
+If I just take different subsets of a single spreadsheet (and optionally
+pivot/reshape the subsets), I can easily expand one spreadsheet into over 9000.
+
+\subsection{Downloads of datasets}
+So maybe we should look at other things too.
+Socrata Open Data Portal software provides a number for
+how many times people have downloaded each dataset.
+So how many have people downloaded these datasets?
+
+![Plot of dataset counts and download counts by site](/dada/socrata-summary/figure/big_portals_density_text.png)
+
+Here, the x axis is the same as the previous plot but the y axis is the total
+downloads by site.
+
+\subsection{Size of the datasets}
+I can also look at how big they are.
+It turns out that most of them are pretty small.
+
+%   s <- read.csv('~/t/socrata-analysis/socrata-deduplicated.csv')
+%   sum(is.na(s$nrow))                                                                                                  
+% [1] 476
+%   mean(s$nrow > 100, na.rm = T)                                                                                       
+% [1] 0.2507369
+%   mean(s$nrow > 1000, na.rm = T)                                                                                      
+% [1] 0.1162797
+%   mean(s$nrow > 10000, na.rm = T)                                                                                     
+% [1] 0.05230904
+%   mean(s$nrow > 100000, na.rm = T)                                                                                    
+% [1] 0.01799659
+
+Regardless of the format of these datasets, you can think of them as
+spreadsheets without code, where columns are variables and rows are records.
+In Socrata catalogs as of last summer,
+
+* Only 25% of datasets had more than 100 rows.
+* Only 12% of datasets had more than 1,000 rows.
+* Only 5% of datasets had more than 10,000 rows.
+
+
+
+\subsection{Derived datasets}
+The Socrata product allows the public to write queries on datasets and
+save them publically as new datasets. Aside from inflating the number
+of datasets, making it hard to distinguish between official data and
+unofficial queries on official data, and complicating the various
+statistics about each dataset, this allows us to see how people are
+querying datasets.
+
+
+XXX image of families
+
+
+
+
+\section{Measuring how well different spreadsheets follow data publishing guidelines}
+Having gotten some feel for the contents of these various data catalogs,
+I started running some less arbitrary statistics.
+As discussed in section \ref{guidelines}, many groups have written guidelines
+as to how data should be published.
+\cite{open-data-census,fivestars,sunlight,sebastopol,odi}
+I started coming up with measures of adherence to these guidelines and running
+them across all of these datasets.
+
+
+
+
+
+
 
 
 
