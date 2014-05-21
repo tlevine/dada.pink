@@ -72,12 +72,12 @@ I search for approaches to understanding the contents of large collections
 of weakly structured spreadsheets.
 
 \section{Typical approaches to exploring the contents of spreadsheets}
-Before we discuss my experimental spreadsheet exploration methods,
+Before we discuss my spreadsheet exploration methods,
 let's consider some more common approaches.
 How do we figure out what's in a bunch of spreadsheets today?
 
 \subsection{Look at every spreadsheet}
-One approach is to look manually at every cell in every spreadsheet.
+One approach is to look manually at every cell in many spreadsheets.
 This takes a long time, but it is feasible in some situations.
 
 For example, the Open Knowledge Foundation \cite{open-data-census}
@@ -108,14 +108,16 @@ and KML is a metaformat for expressing annotations of geographic maps \citep{kml
 % http://www.opengeospatial.org/standards/is
 
 Agreement on format and metaformat makes it faster and easier to inspect
-individual files. On the other hand, it is less helpful at alleviating the
+individual files. On the other hand, it does not alleviate the
 need to acquire lots of different files and to at least glance at them.
+We spend less time manually inspecting each dataset, but we must still
+manually inspect lots of dataset.
 
 The same sort of thing happens when data publishers provide graphs of
 each individual dataset. When we provide some graphs of a dataset
-rather than simply the standard data file, we try to make it easier for
-people to understand that particular dataset. We are less concerned with
-alleviating the need to look through many different datasets.
+rather than simply the standard data file, we are trying to make it easier for
+people to understand that particular dataset, rather than trying to focus
+them on a particular subset of datasets.
 
 \subsection{Provide good metadata} \label{guidelines}
 Data may be easier to find if we catalog our data well and adhere to
@@ -143,9 +145,15 @@ formats with good metadata.
 * Amanda's list
 * Conference talks on publication of data
 
-Surely we can do better than this.
+Amanda Hickman teaches journalism and keeps a list of data sources for her
+students. \cite{amanda}
+https://github.com/amandabee/cunyjdata/wiki/Where-to-Find-Data
 
-\section{Acquiring lots of spreadsheets}
+There are even entire conferences about the contents of newly released datasets
+% http://apdu.org/events/conference/apdu-2013/
+\cite{apdu}
+
+\section{How I acquire lots of spreadsheets}
 In order to explore methods for examining thousands of spreadsheets,
 I needed to find spreadsheets that I could explore.
 
@@ -163,8 +171,8 @@ The basic approach is this.
 I've implemented this for the following data catalog softwares.
 
 \begin{itemize}
-\item Socrata
-\item CKAN
+\item Socrata Open Data Portal
+\item Common Knowledge Archive Network (CKAN)
 \item OpenDataSoft
 \end{itemize}
 
