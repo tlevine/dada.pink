@@ -245,17 +245,23 @@ to be detrimental to their ability to be shared and reused
 
 \subsection{Liveliness of links}
 One common guideline is that data be available on the internet. If a dataset
-shows in one of these catalogs, you might think that it is on the internet,
-but it turns out that many of them are dead links. I tried downloading the
-full data file for each dataset refenced in any of these catalogs and found
-lots of dead links \cite{dead,zombie}.
+shows up in one of these catalogs, you might think that it is on the internet.
+It turns out that the links to these datasets often do not work.
 
+I tried downloading the
+full data file for each dataset refenced in any of these catalogs and recorded
+any errors I received \cite{dead,zombie}. I found most links to be working and
+noticed some common reasons why links didn't work.
+\begin{itemize}
+\item Many link URLs were in fact local file paths or links within an intranet.
+\item Many link "URLs" were badly formed or were not URLs at all.
+\item Some servers did not have SSL configured properly.
+\item Some servers took a very long time to respond.
+\end{itemize}
 
-
-
-
-
-
+I also discovered that one of the sites with very alive links,
+\url{https://data.gov.uk}, had a "Broken links" tool for identifying these
+broken links.
 
 \section{Searching for spreadsheets}
 I remarked that it's very hard to find spreadsheets that are relevant
