@@ -1,10 +1,9 @@
 AGREEMENT TO GRANT NON-EXCLUSIVE PUBLICATION PERMISSIONS
 
-Original work entitled: ________________________________________________ 
-________________________________________________________________________
+Original work entitled: "How can we figure out what is inside thousands
+of spreadsheets?"
 
-Authors: _______________________________________________________________
-________________________________________________________________________
+Authors: Thomas Levine
 
 Prepared for the Workshop/Conference/Book: First Workshop on Software
 Engineering Methods in Spreadsheets (SEMS'14)
@@ -35,7 +34,7 @@ described in this document as permitted herein. This includes, but is not
 limited to, my right of privacy or publicity, copyright, patent rights, trade 
 secret rights, moral rights or trademark rights.
 
-I have used third-party material:  ( ) Yes  ( ) No
+I have used third-party material:  ( ) Yes  (X) No
 
 If the previous answer is yes, I have the necessary permission to use the third-
 party material: ( ) Yes  ( ) No  ( ) Not applicable
@@ -44,10 +43,10 @@ party material: ( ) Yes  ( ) No  ( ) Not applicable
 Signature
 ____________________________________________________________________
 
-Print Name: ________________________________________________________
+Print Name: Thomas Levine
 
 
-Date: ______________________________________________________________
+Date: May 21, 2014
 
 Please return this form by email to:
 
