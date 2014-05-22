@@ -55,7 +55,7 @@ Many groups develop domain-specific metaformats for expressing a very specific
 sort of data. For example, JSON API is a metaformat for expressing the
 response of a database query on the web \cite{jsonapi}, Data Packages is a
 metaformat for expressing metadata about a dataset \cite{datapackages},
-and KML is a metaformat for expressing annotations of geographic maps.\citep{kml}
+and KML is a metaformat for expressing annotations of geographic maps.\cite{kml}
 
 Agreement on format and metaformat makes it faster and easier to inspect
 individual files. On the other hand, it does not alleviate the
@@ -93,7 +93,6 @@ formats with good metadata.
 
 Amanda Hickman teaches journalism and keeps a list of data sources for her
 students. \cite{amanda}
-https://github.com/amandabee/cunyjdata/wiki/Where-to-Find-Data
 
 There entire conferences about the contents of newly released datasets,
 such as the annual meeting of the Association of Public Data Users.\cite{apdu}
@@ -144,7 +143,11 @@ interesting dataset-about-datasets that I had assembled.
 \subsection{How many datasets}
 I started out by simply counting how many datasets each catalog website had.
 
-{../socrata-summary/figure/big_portals_datasets.png}
+\begin{figure}
+\includegraphics[width=\columnwidth]{../socrata-summary/figure/big_portals_datasets.png}
+\caption{How many datasets (spreadsheets) each data catalog had}
+\centering
+\end{figure}
 
 The smaller sites had just a few spreadsheets, and the larger sites had thousands.
 
@@ -173,18 +176,18 @@ These spreadsheets all had the same column names; they were
 \item grade
 \item year
 \item demographic
-\item number_tested
-\item mean_scale_score
-\item num_level_1
-\item pct_level_1
-\item num_level_2
-\item pct_level_2
-\item num_level_3
-\item pct_level_3
-\item num_level_4
-\item pct_level_4
-\item num_level_3_and_4
-\item pct_level_3_and_4
+\item number\_tested
+\item mean\_scale\_score
+\item num\_level\_1
+\item pct\_level\_1
+\item num\_level\_2
+\item pct\_level\_2
+\item num\_level\_3
+\item pct\_level\_3
+\item num\_level\_4
+\item pct\_level\_4
+\item num\_level\_3\_and\_4
+\item pct\_level\_3\_and\_4
 \end{itemize}
 
 These "datasets" can all be thought of as subsets of the same single dataset.
