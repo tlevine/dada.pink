@@ -192,17 +192,6 @@ If I just take different subsets of a single spreadsheet (and optionally
 pivot/reshape the subsets), I can easily expand one spreadsheet into over 9000.
 This is why the dataset count figure is near useless.
 
-\subsection{Downloads of datasets}
-What other measures can we use to asses how large a collection of datasets is?
-Socrata Open Data Portal software provides a number for
-how many times people have downloaded each dataset.
-So how many have people downloaded these datasets?
-
-![Plot of dataset counts and download counts by site](/dada/socrata-summary/figure/big_portals_density_text.png)
-
-Here, the x axis is the same as the previous plot but the y axis is the total
-downloads by site.
-
 \subsection{Size of the datasets}
 I can also look at how big they are.
 It turns out that most of them are pretty small.
@@ -276,11 +265,10 @@ to be my main concern. For example, if I'm interested in data about the
 composition of different pesticides, but I don't really care whether the
 data were collected by this city government or by that country government.
 
-
-[![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
-
 And that's why I made OpenPrism. This is a disgustingly simple site that
 forwards your search query to 100 other sites that house spreadsheets.
+Lots of people use it, and this says something about the inconvenience of
+having separate search bars for separate websites.
 
 \subsection{Spreadsheets-specific search algorithms}
 The other issue is that our search algorithms don't take advantage of all
@@ -292,12 +280,20 @@ of the spreadsheets (section \ref{colnames}).
 Taking this further, I've been thinking
 about what it would mean to have a search engine for spreadsheets.
 
-![](wordsearch.png)
+\begin{figure}
+\includegraphics[width=\columnwidth]{../pagerank-for-spreadsheets/wordsearch.png}
+\caption{The search engine for words takes words as input and emits words as output}
+\centering
+\end{figure}
 
 When we search for ordinary written documents, we send words into a search
 engine and get pages of words back.
 
-![](commasearch.png)
+\begin{figure}
+\includegraphics[width=\columnwidth]{../pagerank-for-spreadsheets/commasearch.png}
+\caption{The search engine for spreadsheets takes spreadsheets as input and emits spreadsheets as output}
+\centering
+\end{figure}
 
 What if we could search for spreadsheets
 by sending spreadsheets into a search engine and getting spreadsheets back?
@@ -328,7 +324,11 @@ then looks for spreadsheets that are uniquely indexed by these columns.
 The results are ordered by how much overlap there is between the values of
 the two spreadsheets.
 
-![](network.png)
+\begin{figure}
+\includegraphics[width=\columnwidth]{../pagerank-for-spreadsheets/network.png}
+\caption{Commasearch infers some schema information about each spreadsheet and looks for other spreadsheets with similar schemas.}
+\centering
+\end{figure}
 
 To say this more colloquially, comma search looks for many-to-one join
 relationships between disparate datasets.
