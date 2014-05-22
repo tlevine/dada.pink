@@ -191,9 +191,10 @@ I can also look at how big they are.
 It turns out that most of them are pretty small.
 
 \begin{itemize}
-\item Only 25% of datasets had more than 100 rows.
-\item Only 12% of datasets had more than 1,000 rows.
-\item Only 5% of datasets had more than 10,000 rows.
+\setlength{\itemsep}{0pt}
+\item Only 25\% of datasets had more than 100 rows.
+\item Only 12\% of datasets had more than 1,000 rows.
+\item Only 5\% of datasets had more than 10,000 rows.
 \end{itemize}
 
 %   s <- read.csv('~/t/socrata-analysis/socrata-deduplicated.csv')
@@ -255,6 +256,7 @@ full data file for each dataset refenced in any of these catalogs and recorded
 any errors I received \cite{dead,zombie}. I found most links to be working and
 noticed some common reasons why links didn't work.
 \begin{itemize}
+\setlength{\itemsep}{0pt}
 \item Many link URLs were in fact local file paths or links within an intranet.
 \item Many link "URLs" were badly formed or were not URLs at all.
 \item Some servers did not have SSL configured properly.
@@ -293,8 +295,9 @@ to be my main concern. For example, if I'm interested in data about the
 composition of different pesticides, but I don't really care whether the
 data were collected by this city government or by that country government.
 
-And that's why I made OpenPrism. This is a disgustingly simple site that
-forwards your search query to 100 other sites that house spreadsheets.
+To address this issue, I made a a disgustingly simple site that
+forwards your search query to 100 other websites and returns the results
+to you in a single page \cite{openprism}.
 Lots of people use it, and this says something about the inconvenience of
 having separate search bars for separate websites.
 
