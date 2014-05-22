@@ -99,9 +99,10 @@ collect more information about each thing.
 We can think of music as a composition of many different sounds over time,
 with sounds coming from many different instruments. In musical scores
 we represent time as movement from left to right, and we represent different
-instruments by different staves (stacked on top of each other).
+notes played at the same time by different dots on a staff,
 The staff becomes wider as the song gets longer, (They are often spread
-across multiple pages.) and we add more staves as we add more instruments.
+across multiple pages.) and we add more dots as we add more notes
+(figure \ref{highlight}).
 
 Rather than composing music as traditional sheet music,
 we can use a table-editing program of our choice to compose
@@ -111,14 +112,9 @@ tools.
 
 \begin{figure*} \label{highlight}
 \centering
-\caption{spreadsheet versus ordinary sheet music slide, with row/beat highlighted}
+\caption{A spreadsheet is displayed alongside some corresponding ordinary sheet music, with a corresponding row/beat highlighted.}
 \includegraphics[width=\textwidth]{../sheetmusic/sheetmusic-side-by-side-highlighted-rowbeat.png}
 \end{figure*}
-
-Each row in the spreadsheet corresponds to a beat,
-and different notes are in different columns (figure \ref{highlight}).
-Here is how my music synthesizer, SheetMusic, does the conversion
-between spreadsheets and ordinary sheet music.
 
 Sheetmusic is our offering for spreadsheets, but we
 also have libraries for R data frames \cite{ddr} and Pandas
@@ -145,15 +141,13 @@ The data analyst can use conventional spreadsheet approaches for
 composing music. For example, the following function can be used
 to produce a major scale in a spreadsheet column.
 
-\begin{verbatim}
-=IONIAN_SCALE("A4")
-\end{verbatim}
+\begin{verbatim}=IONIAN_SCALE("A4")\end{verbatim}
 
 Once you have a major scale in one column, you can easily make
 chords with a spreadsheet functions like this.
-\begin{verbatim}
-=MAJOR_THIRD(B1)
-\end{verbatim}
+
+\begin{verbatim}=MAJOR_THIRD(B1)\end{verbatim}
+
 If you put this in cell B1, A1 and B1 will form a major third interval.
 
 \subsection{Rendering music}
