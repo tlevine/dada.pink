@@ -1,1 +1,13 @@
-[[!map pages="dada/data-visualization-needs-to-die/* and ! dada/data-visualization-needs-to-die/*/*"]]
+[[!meta title="Data Visualization Needs to Die"]]
+
+Data visualization is a common data analysis tool. We convert data
+into visuals in order to make sense of what is going on.
+
+![](chart-1.png)
+
+Data visualization works on small data, but it starts to break down
+when we have big data.
+
+![](chart-2.png)
+
+Our eyes do not have the sensory bandwith to take in all of the information
