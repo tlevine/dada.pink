@@ -27,9 +27,9 @@ Data analyists often use visualization as a means for plotting data.
 But there are other approaches!
 
 \subsection{Music}
-Ferguson \& al. \cite{ferguson} provide auditory analogs for simple
+Sonification of data is not new.
+Ferguson \& al. \cite{ferguson} created auditory analogs for simple
 visual plots, such as the dotplot and boxplot.
-% http://sonification.de/handbook/index.php/chapters/chapter8
 Flowers \& Hauer (1992) \cite{flowers1992} created an auditory plot for
 single-dimension datasets where the value of the variable of interest
 is mapped to pitch and the resulting pitches are played in ascending
@@ -49,18 +49,16 @@ instrument corresponds to the distance to the United States debt ceiling,
 and the activation of certain flourishes corresponds to changes in the
 balance of the United States treasury. These data are also represented
 visually, through the combination of an animated line plot and a
-Chernoff face.
-\cite{fms-about}
-% http://www.bdatafest.computationalreporting.com/projects/fms-symphony
+Chernoff face \cite{fms-about}.
 
 \subsection{Food}
 Why stop at just vision and hearing? We can plot data as food and use
-all five senses.
-Census Spices
-% http://www.npr.org/blogs/codeswitch/2013/07/04/198424045/a-bbq-rub-that-tastes-like-brooklyn
+all five senses. One example of this is Census Spices, a set of spices
+that represent different neighborhoods based on demographics collected
+by the United States Census \cite{censusspices}.
 
 \section{Our tools for musical plotting}
-We at csv soundsystem \cite{csv} have been exploring multisensory
+We at csv soundsystem have been exploring multisensory
 data plotting methods, including music videos and food.
 In our production of data-driven music videos, we have recognized a need
 for data analysis software and music software to be more strongly integrated.
@@ -68,7 +66,7 @@ We wanted a more seamless transition between modeling and music, and we
 wanted it to be easier for data analysts to work with music. We have
 developed tools like Sheetmusic to bridge this gap.
 
-To use the language of the Grammar of Graphics, \cite{XXX}
+To use the language of the Grammar of Graphics, \cite{grammar}
 we have abstract data and concrete plot elements,
 and we define aesthetics that provide mappings
 between the abstract data and the concrete elements.
@@ -99,8 +97,8 @@ we can use a table-editing program of our choice to compose
 this sort of table. Our data music software simply adds
 musical functions to table containers in various data analysis
 tools. Sheetmusic is our offering for spreadsheets, but we
-also have libraries for R data frames\cite{ddr} and Pandas
-data frames.\cite{ddpy}
+also have libraries for R data frames \cite{ddr} and Pandas
+data frames \cite{ddpy}.
 
 \section{How to use Sheetmusic}
 Let's divide Sheetmusic's features into two groups. The first group
