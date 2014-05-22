@@ -96,7 +96,20 @@ Rather than composing music as traditional sheet music,
 we can use a table-editing program of our choice to compose
 this sort of table. Our data music software simply adds
 musical functions to table containers in various data analysis
-tools. Sheetmusic is our offering for spreadsheets, but we
+tools.
+
+\begin{figure*} \label{highlight}
+\centering
+\caption{spreadsheet versus ordinary sheet music slide, with row/beat highlighted}
+\includegraphics[width=\textwidth]{../sheetmusic/sheetmusic-side-by-side-highlighted-rowbeat.png}
+\end{figure*}
+
+Each row in the spreadsheet corresponds to a beat,
+and different notes are in different columns (figure \ref{highlight}).
+Here is how my music synthesizer, SheetMusic, does the conversion
+between spreadsheets and ordinary sheet music.
+
+Sheetmusic is our offering for spreadsheets, but we
 also have libraries for R data frames \cite{ddr} and Pandas
 data frames \cite{ddpy}.
 
@@ -133,11 +146,11 @@ chords with a spreadsheet functions like this.
 If you put this in cell B1, A1 and B1 will form a major third interval.
 
 \subsection{Rendering music}
-\begin{figure*}
-\includegraphics[width=\textwidth]{../sheetmusic/sheetmusic-function-call.png}
-\caption{Using Sheetmusic to render a spreadsheet as sheetmusic}
+\begin{figure}
+\includegraphics[width=\columnwidth]{../sheetmusic/sheetmusic-function-call.png}
 \centering
-\end{figure*}
+\caption{Using Sheetmusic to render a spreadsheet as sheetmusic}
+\end{figure}
 
 Once we have composed our piece, we can select the appropriate cells,
 specify the key and time signatures of the piece, and export it as
