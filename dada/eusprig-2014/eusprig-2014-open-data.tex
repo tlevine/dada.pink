@@ -148,7 +148,7 @@ I started out by simply counting how many datasets each catalog website had.
 
 The smaller sites had just a few spreadsheets, and the larger sites had thousands.
 
-\subsection{Meaninglessness of the count of datasets}
+\subsection{Meaninglessness of the count of datasets} \label{colnames}
 Many organizations report this count of datasets that they publish, and this number
 turns out to be nearly useless. As illustration of this, let's consider a specific
 group of spreadsheets. Here are the titles of a few spreadsheets in New York City's
@@ -286,10 +286,7 @@ forwards your search query to 100 other sites that house spreadsheets.
 The other issue is that our search algorithms don't take advantage of all
 of the structure that is encoded in a spreadsheet.
 I started to address this issue by pulling schema-related features out
-of the spreadsheets.
-
-XXX reference the prior schema thing
-
+of the spreadsheets (section \ref{colnames}).
 
 \subsection{Spreadsheets as input to a search}
 Taking this further, I've been thinking
@@ -366,37 +363,6 @@ and read the first few results. Why is that not the way we look up data?
 
 
 
-
-One example is the detection of spreadsheets that can be stacked on top of
-each other (unioned).
-My work on this started with AppGen,\cite{appgen} which was a system to
-generate random apps based on randomly combined datasets. I combined spreadsheets
-by matching spreadsheets with the same column headers.
-
-Spreadsheets with the same column headers seemed to be semantically related to
-each other. For example, there were 23 spreadsheets with these same columns.
-\begin{itemize}
-\item type\_of\_abuse\_of\_authority\_allegation
-\item substantiated\_number
-\item sunstantiated\_rate
-\item exonerated\_number
-\item exonerated\_rate
-\item unsubstantiated\_number
-\item unsubstantiated\_rate
-\item unfounded\_number
-\item unfounded\_rate
-\item officer\_unidentified\_number
-\item officer\_unidentified\_rate
-\item miscellaneous
-\item miscellaneous\_rate
-\end{itemize}
-
-All of these spreadsheets were uploaded by the same person, and they all had
-titles of the form ``\$\{crime\} Allegations \$\{year\}'', such as
-``Disposition Of Force Allegations 2006''.
-
-When we organize spreadsheets by their column headers, groups of related
-spreadsheets pop out at us.
 
 
 
