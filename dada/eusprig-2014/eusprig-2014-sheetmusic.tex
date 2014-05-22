@@ -135,11 +135,21 @@ chords with a spreadsheet functions like this.
 If you put this in cell B1, A1 and B1 will form a major third interval.
 
 \subsection{Rendering music}
-XXX image
+\begin{figure*}
+\includegraphics[width=\textwidth]{../sheetmusic/sheetmusic-function-call.png)
+\caption{Using Sheetmusic to render a spreadsheet as sheetmusic}
+\centering
+\end{figure*}
 
 Once we have composed our piece, we can select the appropriate cells,
 specify the key and time signatures of the piece, and export it as
 MIDI or sheetmusic.
+
+It is possible, of course, to convert to any number of music formats,
+just as we can convert spreadsheets to any number of data table formats.
+Only MIDI and sheetmusic are implemented at present, but you can
+indirectly convert to many formats by first saving as MIDI and then
+converting from MIDI to your output format of choice.
 
 \subsection{Musical plots}
 I've discussed how we can use Sheetmusic for conventional music
