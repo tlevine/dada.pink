@@ -228,30 +228,19 @@ It turns out that most of them are pretty small.
 Regardless of the format of these datasets, you can think of them as
 spreadsheets without code, where columns are variables and rows are records.
 
-
-
-\subsection{Derived datasets}
-The Socrata product allows the public to write queries on datasets and
-save them publically as new datasets. Aside from inflating the number
-of datasets, making it hard to distinguish between official data and
-unofficial queries on official data, and complicating the various
-statistics about each dataset, this allows us to see how people are
-querying datasets.
-
-XXX image of families
-
-
-
-
 \section{Measuring how well different spreadsheets follow data publishing guidelines}
 Having gotten some feel for the contents of these various data catalogs,
 I started running some less arbitrary statistics.
 As discussed in section \ref{guidelines}, many groups have written guidelines
-as to how data should be published.
+as to how data should be published.%
 \cite{open-data-census,fivestars,sunlight,sebastopol,odi}
 I started coming up with measures of adherence to these guidelines and running
 them across all of these datasets.
 
+\subsection{Licensing}
+
+
+\subsection{Liveliness of links}
 
 
 
@@ -262,7 +251,7 @@ them across all of these datasets.
 
 
 \section{Searching for spreadsheets}
-I noticed that it's very hard to find spreadsheets that are relevant
+I remarked that it's very hard to find spreadsheets that are relevant
 to a particular analysis unless you already know that the spreadsheet exists.
 Major search engines focus on HTML format web pages, and spreadsheet files
 are often not indexed at all. The various data catalog software programs
@@ -296,12 +285,13 @@ forwards your search query to 100 other sites that house spreadsheets.
 \subsection{Spreadsheets-specific search algorithms}
 The other issue is that our search algorithms don't take advantage of all
 of the structure that is encoded in a spreadsheet.
-
-I started to address the first issue by pulling schema-related features out
+I started to address this issue by pulling schema-related features out
 of the spreadsheets.
 
-XXX
+XXX reference the prior schema thing
 
+
+\subsection{Spreadsheets as input to a search}
 Taking this further, I've been thinking
 about what it would mean to have a search engine for spreadsheets.
 
@@ -318,10 +308,7 @@ The order of the results would be determined by various specialized statistics;
 just as we use PageRank to find relevant hypertext documents, we can develop
 other statistics that help us find relevant spreadsheets.
 
-So now I'm looking for ways to do interesting searches on spreadsheets.
-
-> Rows and columns
-
+\subsubsection{Schema-based searches}
 I think a lot about rows and columns. When we define tables in relational
 databases, we can say reasonably well what each column means, based on
 names and types, and what a row means, based on unique indices.
@@ -330,157 +317,45 @@ else.
 
 The unique indices tell us quite a lot; they give us an idea about the
 observational unit of the table and what other tables we can nicely
-join or union with that table. So I made a package that finds unique
-indices in ordinary CSV files.
+join or union with that table.
 
-    pip3 install special_snowflake
+Commasearch \cite{commasearch} is the present state of my spreadsheet search
+tools. To use comma search, you first index a lot of spreadsheets. Once you
+have the index, you may search by providing a single spreadsheet as input.
 
-It's called "special snowflake", but it needs a better name.
-
-If we pass the iris dataset to it, ::
-
-    "Sepal.Length","Sepal.Width","Petal.Length","Petal.Width","Species"
-    5.1,3.5,1.4,0.2,"setosa"
-    4.9,3,1.4,0.2,"setosa"
-    4.7,3.2,1.3,0.2,"setosa"
-    4.6,3.1,1.5,0.2,"setosa"
-    ...
-
-we get no unique keys ::
-
-    >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
-    set()
-
-because no combination of columns uniquely identifies the rows.
-Of course, if we add an identifier column, ::
-
-    "Id","Sepal.Length","Sepal.Width","Petal.Length","Petal.Width","Species"
-    1,5.1,3.5,1.4,0.2,"setosa"
-    2,4.9,3,1.4,0.2,"setosa"
-    3,4.7,3.2,1.3,0.2,"setosa"
-    4,4.6,3.1,1.5,0.2,"setosa"
-    ...
-
-that one gets returned. ::
-
-    >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
-    {('Id',)}
-
-For a more interesting example, let's look at chickweight.
-
-    "weight","Time","Chick","Diet"
-    42,0,"1","1"
-    51,2,"1","1"
-    59,4,"1","1"
-    64,6,"1","1"
-    76,8,"1","1"
-    ...
-
-I could read the documentation on this dataset and tell you
-what its statistical unit is (`?ChickWeight` in R), or I could
-just let `special_snowflake` figure it out for me.
-
-    >>> special_snowflake.fromcsv(open('chick.csv'))
-    {('Time', 'Chick')}
-
-The statistical unit is chicks in time. That is, something was
-observed across multiple chick, and multiple observations were
-taken from each (well, at least one) chick.
-
-Some spreadsheets are have less obvious identifiers. In this
-table of 1219 rows and 33 columns,
-
-    >>> from urllib.request import urlopen
-    >>> url = 'http://data.iledefrance.fr/explore/dataset/liste-des-points-de-contact-du-reseau-postal-dile-de-france/download/?format=csv'
-    >>> fp = urlopen(url)
-    >>> special_snowflake.fromcsv(fp, delimiter = ';')
-    {('adresse', 'code_postal'),
-     ('adresse', 'localite'),
-     ('identifiant',),
-     ('libelle_du_site',),
-     ('wgs84',)}
-
-we find five functional unique keys. Just by looking at the column names,
-I'm gussing that the first two are combinations of parts of the postal address
-and that the latter three look are formal identifiers.
-And when I do things correctly and look at the
-[data dictionary](http://data.iledefrance.fr/api/datasets/1.0/liste-des-points-de-contact-du-reseau-postal-dile-de-france/attachments/laposte_description_champs_pointdecontact_pdf/),
-I come to the same interpretation.
-
-This tells me that this dataset is about postal service locations,
-with one location per row. It also gives me some ideas as to things that can
-act as unique identifiers for postal service locations.
-
-It's kind of cool to run this on individual spreadsheets, but it's even cooler
-to run this on lots of spreadsheets.
-In [blizzard](https://pypi.python.org/pypi/blizzard), I find spreadsheets with
-the same unique indices, and then I look for overlap between those spreadsheets.
+In the indexing phase, spreadsheets are examined do find all combinations of
+columns that act as unique indices, that is, all combinations of fields whose
+values are not duplicated within the spreadsheet. In the search phase,
+comma search finds all combinations of columns in the input spreadsheet and
+then looks for spreadsheets that are uniquely indexed by these columns.
+The results are ordered by how much overlap there is between the values of
+the two spreadsheets.
 
 ![](network.png)
 
-Let's now trace what happens when we compare one spreadsheet to our database
-of spreadsheets.
+To say this more colloquially, comma search looks for many-to-one join
+relationships between disparate datasets.
 
-    # This is the one missing slide;
-    # I'll fill it in once I make this thing easier to query.
-
-Spreadsheets with high overlap might be good to join to each other, and
-spreadsheets with low overlap might be good to union with each other.
-
-All of this is quite crude at the moment, so I'm somewhat surprised that
-anything interesting comes out.
-
-## Review
+\section{Review}
 I've been downloading lots of spreadsheets and doing crude, silly things
 with them.
-
-![](/dada/zombie-links/figure/p_prop_links.png)
-
 I started out by looking at very simple things like how big they are.
 I also tried to quantify other people's ideas of how good datasets are,
-like whether they are up-to-date and whether they are freely licensed.
+like whether they are freely licensed. In doing this, I have noticed that
+it's pretty hard to search for spreadsheets.
 
-> ???
-> ====
-
-The main thing that I keep seeing is that nobody has any idea what's in all
-of these spreadsheets; I notice this because people continue to be interested
-in results that I find pretty boring.
-
-> "Search"
-
-Part of this is that it's pretty hard to search for spreadsheets.
-
-The first issue is that you need to type your search into multiple search
+The first issue in search is that you need to type your search into multiple search
 bars. Dedicated search engines like DuckDuckGo don't index all of the
 spreadsheets, so you're stuck using site-specific searches, and these only
 search within their specific sites.
-
-[![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
-
-I wrote OpenPrism to deal with this; you type your search into one search
-bar, and it's as if you typed it in to all of the data catalogs I know about
-at once.
 
 The other issue is that our methods for searching spreadsheets are quite naive.
 Most of these data catalogs look for exact string matches in the datasets or
 for something similarly crude.
 
-![](wordsearch.png)
-
 The way we look up information today is to type some words into a search engine
 and read the first few results. Why is that not the way we look up data?
 
-We have designed search engines to look for things arranged in paragraphs
-and sections and pages and hyperlinks; we haven't designed search engines for
-things with tables and rows and columns and join keys.
-PageRank is hailed as the magical invention that
-fixed web search, but it depends on hyperlinks, so doesn't help much with spreadsheets.
-
-![](commasearch.png)
-
-The search engine for spreadsheets is going to look a bit different from
-the search engine for words.
 
 
 
@@ -491,30 +366,6 @@ the search engine for words.
 
 
 
-
-
-
-
-
-\section{Findings}
-Here are some of the things I've found by looking at lots of spreadsheets at
-once. I think of them as ways of automating some of the early steps in data
-analysis, but I'm packaging them into the three categories I mentioned above
-(looking for datasets, dealing with metadata problems, and quantifying quality).
-
-\subsection{New ways of looking for datasets}
-We search for prose by typing prose into a search bar; why don't
-we search for spreadsheets by typing spreadsheets into a search bar?
-Spreadsheets are much more structured than arbitrary prose, and we
-can use this structure to enable new search paradigms. We could search
-for things like the following.
-
-\begin{itemize}
-\item Spreadsheets that were produced by the same program as another spreadsheet
-\item Spreadsheets that I can join to a particular spreadsheet
-\item Spreadsheets with a particular statistical unit
-\item Spreadsheets in long format (rather than wide format)
-\end{itemize}
 
 One example is the detection of spreadsheets that can be stacked on top of
 each other (unioned).
@@ -547,37 +398,7 @@ titles of the form ``\$\{crime\} Allegations \$\{year\}'', such as
 When we organize spreadsheets by their column headers, groups of related
 spreadsheets pop out at us.
 
-\subsection{Dealing with incomplete metadata}
-People complain about how data are bad and metadata are bad. Rather than
-fixing it on a case-by-case basis, I think we should just come up with ways
-of dealing with it. As an example, let's talk about unique identifiers.
 
-I don't know of anyone who specifies within a spreadsheet file which columns
-should be unique. There are methods with external metadata files, such as data
-packages \cite{datapackages}, but hardly anyone uses those either. Rather than
-trying to get people to write down which columns are unique, we can just figure
-it out for ourselves.
-
-special\_snowflake \cite{specialsnowflake} is a package that does just that.
-It looks at all combinations of columns within a particular spreadsheet and
-determines which combinations function as unique identifiers.
-
-With tools like special\_snowflake, we don't have to rely as much on other
-people for the creation of accurate metadata; we can lazily figure out the
-metadata ourselves.
-
-\subsection{Quantifying data quality}
-A bunch of people \cite{open-data-census,fivestars,sunlight,sebastopol,odi}
-have come up with relatively qualitative guidelines for publishing data.
-
-I've been exploring ways of assigning numbers to represent data quality.
-Using only the simple metadata files from open data catalogs, I've come up
-with automated approaches for describing the updating, \cite{updatedness}
-licensing, \cite{licensing} size \cite{summary}, file format \cite{file-formats}
-and availability \cite{dead,zombie} of groups of datasets.
-
-By quantifying these guidelines about data quality, we can more quickly and
-precisely assess data quality.
 
 \section{Applications}
 A couple of people can share a few spreadsheets without any special means,
@@ -600,17 +421,6 @@ statistics provide a quick and timely summary of the issues with different
 datasets and allow for a more targeted approach in the maintenance of a
 data catalog.
 
-\section{Future}
-Many people say that releasing open data will create transparency in government,
-engage citizens in their governments, and stimulate the economy. This all seems
-reasonable, but I haven't seen much empirical research that suggests that the
-sharing of data affects any of these outcomes.
-
-As I come up with more ways of computationally describing datasets, I am becoming
-more able to apply various quantitative analyses to the dataset of datasets;
-this is starting to enable weaker versions of the aforementioned measure of
-outcomes. It would be nice to know whether releasing your organization's data on
-the internet will get people to use them.
 
 \bibliographystyle{abbrv}
 \bibliography{spreadsheets}
