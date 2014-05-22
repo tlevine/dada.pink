@@ -1,5 +1,4 @@
 For Tom
-For Tom
 --------
 
 `./permissions/ <permissions>`_
