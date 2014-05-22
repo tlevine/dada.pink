@@ -115,6 +115,7 @@ Data catalogs make it kind of easy to get a bunch of spreadsheets all together.
 The basic approach is this.
 
 \begin{enumerate}
+\setlength{\itemsep}{0pt}
 \item Download a list of all of the dataset identifiers that are present in the data catalog.
 \item Download the metadata document about each dataset.
 \item Download data files about each dataset.
@@ -123,6 +124,7 @@ The basic approach is this.
 I've implemented this for the following data catalog softwares.
 
 \begin{itemize}
+\setlength{\itemsep}{0pt}
 \item Socrata Open Data Portal
 \item Common Knowledge Archive Network (CKAN)
 \item OpenDataSoft
@@ -158,6 +160,7 @@ group of spreadsheets. Here are the titles of a few spreadsheets in New York Cit
 open data catalog.
 
 \begin{itemize}
+\setlength{\itemsep}{0pt}
 \item Math Test Results 2006-2012 - Citywide - Gender
 \item Math Test Results 2006-2012 - Citywide - Ethnicity
 \item English Language Arts (ELA) Test Results 2006-2012 - Citywide - SWD
@@ -171,26 +174,14 @@ open data catalog.
 \end{itemize}
 
 These spreadsheets all had the same column names; they were
+"grade", "year", "demographic", "number\_tested",\\ "mean\_scale\_score", 
+"num\_level\_1", "pct\_level\_1", "num\_level\_2", "pct\_level\_2",
+"num\_level\_3", "pct\_level\_3", "num\_level\_4",\\ "pct\_level\_4", 
+"num\_level\_3\_and\_4", and "pct\_level\_3\_and\_4".
 
-\begin{itemize}
-\item grade
-\item year
-\item demographic
-\item number\_tested
-\item mean\_scale\_score
-\item num\_level\_1
-\item pct\_level\_1
-\item num\_level\_2
-\item pct\_level\_2
-\item num\_level\_3
-\item pct\_level\_3
-\item num\_level\_4
-\item pct\_level\_4
-\item num\_level\_3\_and\_4
-\item pct\_level\_3\_and\_4
-\end{itemize}
+These "datasets" can all be thought of as subsets of the same single dataset
+of test scores.
 
-These "datasets" can all be thought of as subsets of the same single dataset.
 If I just take different subsets of a single spreadsheet (and optionally
 pivot/reshape the subsets), I can easily expand one spreadsheet into over 9000.
 This is why the dataset count figure is near useless.
