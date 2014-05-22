@@ -131,9 +131,6 @@ I've implemented this for the following data catalog softwares.
 
 This allows me to get all of the data from most of the open data catalogs I know about.
 
-Most of these spreadsheets are represented as data tables,
-where rows correspond to records and columns correspond to variables. \cite{table}
-
 After I've downloaded spreadsheets and their metadata,
 I often assemble them into a spreadsheet about spreadsheets. \cite{data-driven}
 In this super-spreadsheet, each record corresponds to a full
@@ -145,34 +142,58 @@ My first approach was involved running rather crude analyses on this
 interesting dataset-about-datasets that I had assembled.
 
 \subsection{How many datasets}
-![Plot of dataset counts by site](/dada/socrata-summary/figure/big_portals_datasets.png)
+I started out by simply counting how many datasets each catalog website had.
+
+{../socrata-summary/figure/big_portals_datasets.png}
+
+The smaller sites had just a few spreadsheets, and the larger sites had thousands.
 
 \subsection{Meaninglessness of the count of datasets}
-
 Many organizations report this count of datasets that they publish, and this number
-turns out to be nearly useless.
+turns out to be nearly useless. As illustration of this, let's consider a specific
+group of spreadsheets. Here are the titles of a few spreadsheets in New York City's
+open data catalog.
 
-> **Column names**: "grade", "year", "demographic", "number_tested", "mean_scale_score", "num_level_1", "pct_level_1", "num_level_2", "pct_level_2", "num_level_3", "pct_level_3", "num_level_4", "pct_level_4", "num_level_3_and_4", "pct_level_3_and_4"
->
-> **Datasets with these column names**:
->
-> * [Math Test Results 2006-2012 - Citywide - Gender](https://data.cityofnewyork.us/d/2bh6-qmgg)
-> * [Math Test Results 2006-2012 - Citywide - Ethnicity](https://data.cityofnewyork.us/d/vve2-26rs)
-> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - SWD](https://data.cityofnewyork.us/d/d72n-ivax)
-> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - ELL](https://data.cityofnewyork.us/d/72db-huua)
-> * [Math Test Results 2006-2012 - Citywide - SWD](https://data.cityofnewyork.us/d/ufu7-zp25)
-> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - All Students](https://data.cityofnewyork.us/d/89di-hi4s)
-> * [Math Test Results 2006-2012 - Citywide - ELL](https://data.cityofnewyork.us/d/ngbi-cq85)
-> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - Gender](https://data.cityofnewyork.us/d/cs9m-cz6f)
-> * [Math Test Results 2006-2012 - Citywide - All Students](https://data.cityofnewyork.us/d/fxwm-3t4n)
-> * [English Language Arts (ELA) Test Results 2006-2012 - Citywide - Ethnicity](https://data.cityofnewyork.us/d/p5w7-g72z)
+\begin{itemize}
+\item Math Test Results 2006-2012 - Citywide - Gender
+\item Math Test Results 2006-2012 - Citywide - Ethnicity
+\item English Language Arts (ELA) Test Results 2006-2012 - Citywide - SWD
+\item English Language Arts (ELA) Test Results 2006-2012 - Citywide - ELL
+\item Math Test Results 2006-2012 - Citywide - SWD
+\item English Language Arts (ELA) Test Results 2006-2012 - Citywide - All Students
+\item Math Test Results 2006-2012 - Citywide - ELL
+\item English Language Arts (ELA) Test Results 2006-2012 - Citywide - Gender
+\item Math Test Results 2006-2012 - Citywide - All Students
+\item English Language Arts (ELA) Test Results 2006-2012 - Citywide - Ethnicity
+\end{itemize}
+
+These spreadsheets all had the same column names; they were
+
+\begin{itemize}
+\item grade
+\item year
+\item demographic
+\item number_tested
+\item mean_scale_score
+\item num_level_1
+\item pct_level_1
+\item num_level_2
+\item pct_level_2
+\item num_level_3
+\item pct_level_3
+\item num_level_4
+\item pct_level_4
+\item num_level_3_and_4
+\item pct_level_3_and_4
+\end{itemize}
 
 These "datasets" can all be thought of as subsets of the same single dataset.
 If I just take different subsets of a single spreadsheet (and optionally
 pivot/reshape the subsets), I can easily expand one spreadsheet into over 9000.
+This is why the dataset count figure is near useless.
 
 \subsection{Downloads of datasets}
-So maybe we should look at other things too.
+What other measures can we use to asses how large a collection of datasets is?
 Socrata Open Data Portal software provides a number for
 how many times people have downloaded each dataset.
 So how many have people downloaded these datasets?
@@ -185,6 +206,12 @@ downloads by site.
 \subsection{Size of the datasets}
 I can also look at how big they are.
 It turns out that most of them are pretty small.
+
+\begin{itemize}
+\item Only 25% of datasets had more than 100 rows.
+\item Only 12% of datasets had more than 1,000 rows.
+\item Only 5% of datasets had more than 10,000 rows.
+\end{itemize}
 
 %   s <- read.csv('~/t/socrata-analysis/socrata-deduplicated.csv')
 %   sum(is.na(s$nrow))                                                                                                  
@@ -200,11 +227,6 @@ It turns out that most of them are pretty small.
 
 Regardless of the format of these datasets, you can think of them as
 spreadsheets without code, where columns are variables and rows are records.
-In Socrata catalogs as of last summer,
-
-* Only 25% of datasets had more than 100 rows.
-* Only 12% of datasets had more than 1,000 rows.
-* Only 5% of datasets had more than 10,000 rows.
 
 
 
@@ -215,7 +237,6 @@ of datasets, making it hard to distinguish between official data and
 unofficial queries on official data, and complicating the various
 statistics about each dataset, this allows us to see how people are
 querying datasets.
-
 
 XXX image of families
 
