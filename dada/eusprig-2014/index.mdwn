@@ -1,1 +1,1 @@
-[[!map pages="wiki/real-world/eusprig-2014/* and ! wiki/real-world/eusprig-2014/*/*"]]
+[[!map pages="dada/eusprig-2014/* and ! dada/eusprig-2014/*/*"]]
