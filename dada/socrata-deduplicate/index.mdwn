@@ -7,7 +7,6 @@
 <!-- twitter_image: figure/network.png -->
 <!-- facebook_image: figure/network.png -->
 [[!tag socrata open-data]]
-other_source: https://github.com/tlevine/socrata-defederate
 
 Lots of governments use Socrata data portals to release their open data.
 This results in a super-dataset of datasets that tells us something about
@@ -120,3 +119,6 @@ before people can stop caring about counts.
 
 <script src="d3.v3.min.js"></script>
 <script src="graph-diagram.js"></script>
+
+## Associated computer program
+Go [here](https://github.com/tlevine/socrata-defederate).

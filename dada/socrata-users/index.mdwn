@@ -6,7 +6,6 @@
 <!-- created_at: 2013-07-25 -->
 <!-- twitter_image: user-model.jpg -->
 [[!tag socrata open-data]]
-other_source: https://github.com/tlevine/socrata-analysis
 
 I recently downloaded the metadata files for all
 of the datasets on all of the Socrata portals (for a particular definition
@@ -553,3 +552,6 @@ And if you don't administrate a portal, I want you convince your local portal
 administrator to. It's just one box in administrator dashboard that you need to click.
 
 Open data!
+
+Go [here](https://github.com/tlevine/socrata-analysis) for source code
+for the stuff you just read about.

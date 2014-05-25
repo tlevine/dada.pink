@@ -11,7 +11,6 @@
 <!-- facebook_description: This one time, I downloaded all of Socrata's datasets and analyzed them. -->
 <!-- tweet_link: https://twitter.com/thomaslevine/status/353952098762760193 -->
 <!-- facebook_link: https://www.facebook.com/perluette/posts/2480962388120 -->
-other_source: https://github.com/tlevine/socrata-download
 
 I downloaded the metadata files for all of the datasets across all of the [Socrata](http://www.socrata.com/) data portals.
 Here I explain how I did that and present an summary of the sorts of data that we find in the portals.
@@ -463,3 +462,6 @@ I'm conducting more detailed studies around more pointed data portal considerati
 expect those to come out over the next few months. And I could use your help. If you
 use or publish open data, I'd love to talk and see what you would like to know about
 how open data get used; there's probably a lot we can learn from this dataset.
+
+## Source code
+See [here](https://github.com/tlevine/socrata-download).
