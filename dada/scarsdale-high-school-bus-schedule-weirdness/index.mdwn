@@ -1,8 +1,7 @@
-[[!meta title="Scarsdale High School bus schedule weirdness"]]
-short_title: Weird bus schedules
+[[!meta title="Weird Scarsdale High School bus schedules"]]
 [[!tag scarsdale]]
 <!-- created_at: 2013-01-25 -->
-other_source: https://github.com/tlevine/scarsdale-data
+<!-- other_source: https://github.com/tlevine/scarsdale-data -->
 
 Scarsdale High School bus schedules are
 [here](http://www.scarsdaleschools.org/cms/lib5/NY01001205/Centricity/Domain/13/SHSBusSchedule.pdf).
