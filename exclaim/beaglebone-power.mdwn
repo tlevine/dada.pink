@@ -1,0 +1,3 @@
+[[!meta redir="dada/beaglebone-power"]]
+
+I moved things around, so you are getting redirected.

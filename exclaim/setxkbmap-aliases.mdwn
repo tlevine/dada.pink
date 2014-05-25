@@ -1,0 +1,3 @@
+[[!meta redir="dada/setxkbmap-aliases"]]
+
+I moved things around, so you are getting redirected.

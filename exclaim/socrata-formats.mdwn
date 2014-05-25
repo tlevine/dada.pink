@@ -1,0 +1,3 @@
+[[!meta redir="dada/socrata-formats"]]
+
+I moved things around, so you are getting redirected.

@@ -1,0 +1,3 @@
+[[!meta redir="dada/terminal-history"]]
+
+I moved things around, so you are getting redirected.

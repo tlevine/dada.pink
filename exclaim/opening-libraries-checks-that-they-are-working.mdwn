@@ -1,0 +1,3 @@
+[[!meta redir="dada/opening-libraries-checks-that-they-are-working"]]
+
+I moved things around, so you are getting redirected.

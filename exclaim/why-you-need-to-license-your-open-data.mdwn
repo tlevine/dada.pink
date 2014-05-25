@@ -1,0 +1,3 @@
+[[!meta redir="dada/why-you-need-to-license-your-open-data"]]
+
+I moved things around, so you are getting redirected.

@@ -1,0 +1,3 @@
+[[!meta redir="dada/real-world-algorithms"]]
+
+I moved things around, so you are getting redirected.
