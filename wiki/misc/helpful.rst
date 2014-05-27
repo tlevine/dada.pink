@@ -11,3 +11,7 @@ JACK
 Python metaprogramming
 
 * http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html
+
+Arch Linux
+
+* https://wiki.archlinux.org/index.php/Pacman-key
