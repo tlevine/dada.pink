@@ -1,0 +1,21 @@
+==projects==
+
+* real estate lookup
+** helps real estate investors look up great displacement investment opportunities, provide stats and metrics on properties, when used, provides detailed description of the realtor's personal home
+
+* campaginify
+** helps you identify voter supression targets and suggests optimal suppression strategies based on geography and demographics
+
+* crowdsourced debt collection (?)
+** helps the average joe look up debt collection / debt investment opportunities
+
+* iCop
+** WHAT DOES ICOP DO?????
+** simulated version of handcuffs, taser, pepper spray, riot gear, big busses, guns, body armor, barricade, kettle, horse tomp, 
+** 
+
+* 
+
+
+
+
