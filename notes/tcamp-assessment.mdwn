@@ -2,8 +2,17 @@
 Assessing the assessort: The opacity of taxable property values
 
 ## Brief Abstract
+My dad got excited about the recent
+[revaluation of assessed values](http://transparencycamp.org/schedule/2014/talk-about-small-tools-related-to-open-data-stuff/edit/?2212b127479325cd58eb07702cf9a3c0890408d1)
+in my home town. I want to talk to other people who know something about property tax valuations.
+Some particular things I'm wondering about:
+
+* Ways that governments assess property values
+* Data I can get about property assessments
+* New York State's RPS Version 4 FOIL Utility
 
 ## Tag Your Session's Theme
+assessments, taxes, open data, transparency, thomaslevine
 
 ## Add a Twitter Hashtag
 \#propertytaxes
