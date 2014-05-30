@@ -1,13 +1,15 @@
 ## Session Title
-Pink hat hacking: What cool things can we do when we do stupid things to a million spreadsheets at once?
+Doing silly things with a million spreadsheets
 
 ## Brief Abstract
 There are too many cool data to look at, and I want to look at them
 all. But I also want to sleep, so I get computers to look at the data.
 I've been downloading lots of "open data" (spreadsheets) and doing
-[silly things](http://dada.pink/open-data)
+[silly things](http://thomaslevine.com/open-data)
 to them to figure out what they all are.
-I'm finding out what open data are released, how people are using them, and how we can make them better.
+I want to talk about some of my findings, to hear about similar things
+that other people are doing, and to get ideas of other things people can do.
+
 Here are some particular things I'll mention.
 
 * [Pluplusch](https://pypi.python.org/pypi/pluplusch): Get spreadsheets from different places
@@ -16,14 +18,10 @@ Here are some particular things I'll mention.
 * Looking at server logs on data publisher websites
 * [Comma search](https://pypi.python.org/pypi/commasearch): Search for spreadsheets based on spreadsheets
 
-And then I want to brainstorm other silly things I and others can do, like
+And maybe some related thoughts on open data things
 
-* How can we measure how good or bad a spreadsheet is?
-* How can we look for spreadsheets that are relevant to a particular thing?
-* How can we deal with bad metadata?
-* The way we publish data might affect how we use them. Can we test
-    for effects of data publishing methods by looking at how thousands
-    of differently published datasets are used?
+* Unexcitement about data catalog softwares
+* (Why) it's hard to find spreadsheets
 
 ## Tag Your Session's Theme
 open data, data catalogs, socrata, ckan, opendatasoft, csv
