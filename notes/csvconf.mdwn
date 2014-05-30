@@ -1,0 +1,19 @@
+[The submission form](https://docs.google.com/forms/d/19GmY1Mt5QTBhqzdLubYN87_L4VJMUW_houyhhubxSag/viewform)
+
+## Your Name *
+Thomas Levine
+
+## Email address *
+_@thomaslevine.com
+
+## Talk title *
+comma search: Tom's views on searching across data tables
+
+## Talk description (about a paragraph) *
+
+
+## Might your employer sponsor you to come to CSVConf (or provide other sponsorship (hint hint))?
+n/a or no 
+
+## Anything else you'd like to tell us?
+No
