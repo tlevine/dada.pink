@@ -1,0 +1,34 @@
+## Session Title
+Talk about small tools related to open data stuff
+
+## Brief Abstract
+Let's talk about tiny tools related to open data stuff.
+Everyone gets two minutes to talk about each thing.
+
+I'll seed this with some of Tom's tools.
+
+* [special_snowflake](https://pypi.python.org/pypi/special_snowflake)
+* [pickle_warehouse](https://pypi.python.org/pypi/pickle-warehouse)
+* [picklecache](https://pypi.python.org/pypi/picklecache)
+* [tlevine](https://pypi.python.org/pypi/tlevine)
+* [pluplusch](https://pypi.python.org/pypi/pluplusch)
+* [comma search](https://pypi.python.org/pypi/commasearch)
+* [friendly brief](https://pypi.python.org/pypi/friendly_brief)
+
+## Tag Your Session's Theme
+computer, open data, unix
+
+## Add a Twitter Hashtag
+\#opendatatoys
+
+## Do you have slides or other media?
+Other media
+
+## Speaker Information
+Thomas Levine<br/>
+_@thomaslevine.com<br/>
+thomaslevine<br/>
+dada artist
+
+## Special requests?
+I'm submitting two other sessions, and I would like my sessions not to conflict.
