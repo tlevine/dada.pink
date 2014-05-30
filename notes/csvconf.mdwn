@@ -10,7 +10,17 @@ _@thomaslevine.com
 comma search: Tom's views on searching across data tables
 
 ## Talk description (about a paragraph) *
+I see two main issues in the common means of searching across data tables.
+One issue is that the search is localized to datasets that are published
+or otherwise managed by a particular entity, and another is that the search
+mechanism doesn't use information relating to the tabular structure of
+these data tables.
 
+We can do better! Comma search indexes as many data tables as you want,
+regardless of where they're from, and it uses the tabular structure of
+these data tables to search for them. You provide a spreadsheet as input
+and receive a list of spreadsheets in return. In this talk, you'll learn
+how it works and how to use it.
 
 ## Might your employer sponsor you to come to CSVConf (or provide other sponsorship (hint hint))?
 n/a or no 
