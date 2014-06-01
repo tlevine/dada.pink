@@ -1,0 +1,4 @@
+http://tcamp-pad-74.herokuapp.com/p/2014-lets-make-scraping-suck-less
+https://twitter.com/tcampdc
+https://twitter.com/TCampDC/lists/tcamp14-attendees
+http://transparencycamp.org/schedule/2014/doing-silly-things-with-a-million-spreadsheets/
