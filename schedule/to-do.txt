@@ -18,17 +18,16 @@ DAILY:20140416:20140505 Finish my SEMS stuff.
 20140504 Book travel to Stuttgart.
 20140515 Book a train from London to Plymouth for 27 July
 20140525 Solicit students
-20140530 Write up the Grammar of Graphics language parser thing
-20140530 Write up the Wikipedia scraper thing that I did with Anastasya
 DAILY:20140518:20140519 When I go home, redo the backup now that I've mounted the EBS volume
 20140520 Decide how to divide my weekend between Transparency Camp and WikiConference USA, and book travel accordingly.
 20140528 Book a train to somewhere else 4 August. I should be in London by 6 August.
 20140528 Book a train to Liverpool? Also book a flight home.
-20140528 Apply to Gov Lab
 20140613 Write about what I learned about housing markets, and send it to Rob
 20140613 Get rid of SmugMug and all these tiny VPSs
 20140613 Email Dropthought about my toilet stuff. (I saw one of their things at Strata.)
 20140625 Write "R for people who are used to good programming languages".
 20140610 Join this https://www.linkedin.com/groups/Rawlings-Cornell-Presidential-Research-Scholars-4588253
-20140529 Book one of these http://ojp.nationalrail.co.uk/service/timesandfares/PLY/LIV/040814/1315/dep
-20140529 Book London to Oslo for after Wikimania
+20140609 Book one of these http://ojp.nationalrail.co.uk/service/timesandfares/PLY/LIV/040814/1315/dep
+20140609 Book London to Oslo for after Wikimania
+20140630 Write up the Grammar of Graphics language parser thing
+20140630 Write up the Wikipedia scraper thing that I did with Anastasya

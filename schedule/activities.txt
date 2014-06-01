@@ -121,4 +121,3 @@ DAILY:20140520:20140521 Finish papers for SEMS/EuSpRIG
 20140521 19:00 Relearn meeting on freenode #relearn
 20140605 Arrive early at Public Lab Barnraising
 20140529 http://www.meetup.com/NoVA-Vim/events/172212532/
-20140529 11 am call with Julia and Elizabeth
