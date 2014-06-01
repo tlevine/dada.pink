@@ -73,8 +73,21 @@ The following things go in the back pack
 * Teeth things
 * Vibram FiveFingers
 
+## Notable non-contents
+There is no pillow nor towel; clothes can be used for these purposes.
+
+A bed, bed sheets, and blankets are excluded. I can take these with me,
+but I would need to bring another bag to carry it.
+
+The above contents account for free space for food, but the specific foods
+are not listed.
+
 ## Likely changes
 
 * Switch the Acer Aspire One 725-0488 for a ThinkPad X201.
 * Switch the earmuffs for custom earmuffs.
 * Switch one pair of plastic pants for a pair of cotton shorts.
+
+## Related
+
+* [Hackpacks](https://sudoroom.org/wiki/Hackpack)
