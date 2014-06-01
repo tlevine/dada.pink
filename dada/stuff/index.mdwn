@@ -52,6 +52,7 @@ Here are the contents of these bags.
   * Small paper notebook
   * Small jar of [Blue Lizard](http://www.bluelizard.net/) sunscreen
 
+### What goes in the front pack
 Heavy stuff that I use infrequently should go in the front pack.
 This way, it balances the weight of the backpack, and I can drop
 the front pack somewhere without adjusting my packing. The front pack
@@ -63,6 +64,7 @@ carries these things.
 * Food
 * "Other"
 
+### What goes in the back pack
 The following things go in the back pack
 
 * The laptop itself (It's too big for the front pack. )
