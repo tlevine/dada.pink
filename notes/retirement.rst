@@ -33,17 +33,22 @@ so one year of work yields five to ten years of retirement. Also,
 my present expenses would be worth 20 years. Thus, I would need to
 work an 
 
-## Kids and stuff
+## Semi-retirment
+I'll feel more comfortable not working if I have lots of savings,
+but it's sort of silly to try to save up everything at once.
+
+### Kids and stuff
 I haven't looked at all into what it costs to raise a child, but I
 figure that it's on the order of what it costs to raise an adult.
 Let's figure that I get married and hawe two kids. If the hypothetical
 partner and I contribute equal funds, I'll have to pay for two people
-(me and a kid) instead of just one. Let's figure that I need an
-additional $300,000 (30 years at $10,000 each) to do this. That would
-mean that I would need to work for an extra three to six years.
+(me and a kid) instead of just one.
+
+This makes the necessary retirement funds a lot higher.
 
 ## Making money slowly
 I'll feel more comfortable retiring with lots of savings, but it
 kind of makes more sense for tax reasons to make money slowly. If
 I make something more like $30,000 per year, my taxes will be a lot
-lower.
+lower; I could do much less work this way, but it means that I'll
+have to hope that this data bubble doesn't burst too badly.
