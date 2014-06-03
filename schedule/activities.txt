@@ -121,3 +121,4 @@ DAILY:20140520:20140521 Finish papers for SEMS/EuSpRIG
 20140605 Arrive early at Public Lab Barnraising
 20140529 http://www.meetup.com/NoVA-Vim/events/172212532/
 20140603 1 pm Hang with Mony, meet at Varick and Spring
+20140604 6:30 pm http://momath.org/math-encounters/
