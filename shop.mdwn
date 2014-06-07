@@ -1,4 +1,1 @@
-<img />
-<p><a href="dada/pie-π/">pie π</a><br/>$2,000</p>
-
-<p>blah blah</p>
+[[!meta redir="store"]]
