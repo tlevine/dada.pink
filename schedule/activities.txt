@@ -123,3 +123,4 @@ DAILY:20140520:20140521 Finish papers for SEMS/EuSpRIG
 20140603 1 pm Hang with Mony, meet at Varick and Spring
 20140604 6:30 pm http://momath.org/math-encounters/
 20140611 Code for DC, Impact Hub, 419 7th St NW, Second Floor, http://www.meetup.com/Code-for-DC/events/186026042/
+20140611 2:30 pm Meet with Andrew Turner and other Esri employees at 1001 19th St N, Rosslyn
