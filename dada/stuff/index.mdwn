@@ -1,78 +1,51 @@
 [[!meta title="Tom's stuff"]]
 
-Here are the things that I need to bring with me when I move house.
+Everything I need to carry when I move house fits in a
+[Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)
 (I also have a storage unit for things that I didn't really need
 day-to-day, like my power tools and belly dancing costuming.)
-
-## Bags
-I have a [Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)
-and a [Ribz Front Pack](http://www.ribzwear.com/ribz-front-pack/), small-size.
-
-## Contents
-Here are the contents of these bags.
+Here are those things.
 
 * Computers
   * Laptop (Acer Aspire One 725-0488) and power adapter
-  * Aaxa P300 projector, HDMI cable, and power adapter
   * Phone (Nexus S), many micro-USB cables, USB power adapter
 * Clothes (including the clothes I'm wearing)
-  * Four or five pairs of socks ([Injinji](http://www.injinji.com/) Performance Series Toe Socks)
-  * Four or five pairs of cotton underwear
-  * Two pairs of plastic pants
-  * Shirts, all long-sleeved because I like those
-    * Three plastic shirts (Long-sleeved EMS Techwick with half-height zipper)
-  * A cashmere hoodie
+  * Four pairs of [Injinji](http://www.injinji.com/) Performance Series Toe Socks
+  * Four pairs of cotton underwear
+  * One pair of plastic long pants
+  * One pair of plastic short pants
+  * Three plastic shirts (long-sleeved EMS Techwick with half-height zipper)
+  * Water-resistant jacket
+  * Warm sweater (optional)
 * Teeth things
   * Toothbrush
-  * Toothpaste
+  * Toothpaste (travel-size only)
   * Normal floss
   * Floss for under my braces
   * Retainer
-  * Mouthwash
-* Washing supplies
-  * Soap
-  * Maybe shampoo
-  * Maybe conditioner
-  * Jar of laundry powder (powder so I can bring it on a plane)
 * Footwear
   * Pink Vibram FiveFingers
   * Boots (must be worn if I am to carry both pairs of shoes)
 * Documents
   * Passport
-  * Two checkbooks (two checking accounts)
+  * A few blank cheques
   * Public transit cards (MetroCard, Oyster Card, Tap Card, &c.)
   * United States national identification (learner's permit)
   * Ordinary wallet things
 * Empty space for food
 * Other
-  * Napkins
+  * Small paper notebook
   * Pens
   * Keys
+* Supplies stored in tiny cosmetic sample containers
+  * [Blue Lizard](http://www.bluelizard.net/) sunscreen
+  * Shampoo
+  * Laundry powder (powder so I can bring it on a plane)
+* Supplies stored with no special container
+  * Napkins
   * Empty plastic bags
   * Disposible water bottle
-  * Small paper notebook
-  * Small jar of [Blue Lizard](http://www.bluelizard.net/) sunscreen
-
-### What goes in the front pack
-Heavy stuff that I use infrequently should go in the front pack.
-This way, it balances the weight of the backpack, and I can drop
-the front pack somewhere without adjusting my packing. The front pack
-carries these things.
-
-* Documents
-* Washing supplies
-* Projector
-* Food
-* "Other"
-
-### What goes in the back pack
-The following things go in the back pack
-
-* The laptop itself (It's too big for the front pack. )
-* A few [sample containers](http://samplecontainerstore.ecrater.com/c/219972/sample-containers)
-    of shampoo, laundry powder, and sunscreen
-* Teeth things
-* Vibram FiveFingers
+* An empty [Ribz Front Pack](http://www.ribzwear.com/ribz-front-pack/), small-size, for extra space in an emergency and for separating dirty laundry.
 
 ## Notable non-contents
 There is no pillow nor towel; clothes can be used for these purposes.
@@ -83,11 +56,18 @@ but I would need to bring another bag to carry it.
 The above contents account for free space for food, but the specific foods
 are not listed.
 
+I have an Aaxa P300 projector (with HDMI cable, and power adapter) that
+I have previously found useful but have removed to keep things small.
+
+The supplies need to be refilled as I use them.
+If I'm in the same place for a while, I purchase larger containers of these things.
+
 ## Likely changes
 
 * Switch the Acer Aspire One 725-0488 for a ThinkPad X201.
 * Switch the earmuffs for custom earmuffs.
 * Switch one pair of plastic pants for a pair of cotton shorts.
+* Get a small container for mouthwash
 
 ## Related
 
