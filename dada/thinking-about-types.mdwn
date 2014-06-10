@@ -1,0 +1,9 @@
+I think I'm starting to get something about Haskell.
+
+The dynamic (R, Python, JavaScript, &c.) way is to build libraries that
+provide very simple structures as output and thus make few assumptions
+about type. This allows us to postpone dealing with types.
+
+The static (Haskell, &c.) is to import things right away with strong types
+and to build generic libraries that might require some configuration but
+can be connected to complex types.
