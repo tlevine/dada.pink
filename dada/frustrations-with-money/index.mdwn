@@ -11,4 +11,20 @@ abstract value, which can be exchanged for lots of things
 
 * interactions
 
-##
+## Better ways
+
+Make it easier to adjust transactions, and record more dimensions!
+
+Sharing our transaction history with each other might get us pretty far
+with the first issue
+
+Julian Todd suggests that we just hire a thousand lawyers for everyone.
+
+Record more information about transactions! For important things,
+we keep good accounts that tell us that a transaction occurred,
+that a particular amount of money was moved, some information about
+how it was moved, and maybe a description of what was exchanged for
+the money.
+
+Usually we just record
+that we have a certain amount
