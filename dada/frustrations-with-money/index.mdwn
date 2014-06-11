@@ -35,7 +35,13 @@ deal, you can write about it in a review; if the company knowingly
 provided you with defective products, you can sue them; if you thnik
 that someone with no money is worth anything, you can give her or him
 some money; and if someone robs a bank, you can arrest him and take the
-money back.
+money back. This is to say that we have many approaches for updating our
+estimates of the values of transactions and that most of these approaches
+involve a lot of work.
+
+I view mnoey as a measure of the true value of things. When we determine
+that this measure is inaccurate, it takes a lot of work
+That is to say that it's a lot of work to update
 
 ### 
 one dimension
