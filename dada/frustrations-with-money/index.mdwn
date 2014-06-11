@@ -34,8 +34,10 @@ about it; if you like a restaurant and think that it's a really good
 deal, you can write about it in a review; if the company knowingly
 provided you with defective products, you can sue them; if you thnik
 that someone with no money is worth anything, you can give her or him
-some money; and if someone robs a bank, you can arrest him and take the
-money back. This is to say that we have many approaches for updating our
+some money; if someone robs a bank, you can arrest him and take the
+money back; and if a company does anti-competitive things like form
+a monopoly, we can force it to split into separate companies.
+This is to say that we have many approaches for updating our
 estimates of the values of transactions and that most of these approaches
 involve a lot of work.
 
@@ -48,6 +50,18 @@ In using a single money number as a general measure of value, we wind up
 forcing lots of different sorts of information into a single number;
 this limits how well we can use money to represent the values of things
 and to decide how to exchange things.
+
+I still haven't really figured out how to articulate this issue, but
+the best things I've come up with are the following examples of situations
+that I'm calling "interactions" and "implicit trades".
+
+**Interactions**.
+In some cases, one thing is more valuable when you also have another
+thing. For example, 
+The seller can set a high price to prioritize the first group and lose
+the business of the second group; she can set a low price to sell more
+XXXs, without giving preference to the other group; or she can set a
+high price and offer coupons to the second group.
 
 * interactions
 * splits, net
