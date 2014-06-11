@@ -2,7 +2,27 @@ I've been frustrated with the common use of money for several years.
 I'm going to try articulating these frustations.
 
 ##
-adjusting is expensive
+Once we have exchanged money, it is a lot of work to update the amount
+of money that we transacted. For example, if I sell you something, we
+decide on the price at the same time that I provide you the thing;
+if I later decide that the price should have been lower, it can be hard
+for me to give you the money. And if you later decide that the price should
+have been lower, you have to convince me to give you a refund.
+
+Money is a rather abstract thing, so what do I mean by what the price
+"should" be? I'm thinking of money as an approximation of the "true"
+value embodied in a thing. For example, if I sell you a thing for $80,
+we're estimating that the true value of the thing is about $80.
+It's hard to figure out what this true value is, though, so we should
+expect that it's not *exactly* $80.
+
+If we trust that the errors are small and that they average out to $0
+for everyone n the long run, we don't need to be able to update the values
+of transactions. On the other hand, when we determine that unfairness occurred
+and that there were systematic mismatches between the amount of money
+exchanged and the "true" value of the transaction, we do need to update
+the values of transactions in order that money may serve as an accurate
+indicator of value.
 
 ### 
 one dimension
