@@ -43,12 +43,23 @@ I view mnoey as a measure of the true value of things. This measure is
 sometimes in accurate, and we need to do a lot of work when we want to
 fix the inaccuracies.
 
-## 
-one dimension
-
-abstract value, which can be exchanged for lots of things
+## We lose a lot of information when we express things as money.
+In using a single money number as a general measure of value, we wind up
+forcing lots of different sorts of information into a single number;
+this limits how well we can use money to represent the values of things
+and to decide how to exchange things.
 
 * interactions
+* splits, net
+
+For important things, we keep good accounts that tell us more information
+about the thing, but I don't think we really use this to inform how to
+exchange things; I see it more as a way of auditing what has been going
+on and trying to prevent unfair transactions.
+
+We try to express lots of different things in terms of the same
+dimension of money, so we are bound to lose lots of interesting/useful
+information about our activities.
 
 ## Better ways
 
