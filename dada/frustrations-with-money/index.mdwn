@@ -3,7 +3,7 @@ I'm going to try articulating these frustations.
 
 ## Difficulty of updating money amounts
 Once we have exchanged money, it is a lot of work to update the amount
-of money that we transacted. For example, if I sell you something, we
+of money that we exchanged. For example, if I sell you something, we
 decide on the price at the same time that I provide you the thing;
 if I later decide that the price should have been lower, it can be hard
 for me to give you the money. And if you later decide that the price should
@@ -43,7 +43,7 @@ I view mnoey as a measure of the true value of things. This measure is
 sometimes in accurate, and we need to do a lot of work when we want to
 fix the inaccuracies.
 
-### 
+## 
 one dimension
 
 abstract value, which can be exchanged for lots of things
