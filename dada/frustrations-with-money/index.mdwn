@@ -1,7 +1,7 @@
 I've been frustrated with the common use of money for several years.
 I'm going to try articulating these frustations.
 
-## 
+## Difficulty of updating money amounts
 Once we have exchanged money, it is a lot of work to update the amount
 of money that we transacted. For example, if I sell you something, we
 decide on the price at the same time that I provide you the thing;
@@ -39,9 +39,9 @@ money back. This is to say that we have many approaches for updating our
 estimates of the values of transactions and that most of these approaches
 involve a lot of work.
 
-I view mnoey as a measure of the true value of things. When we determine
-that this measure is inaccurate, it takes a lot of work
-That is to say that it's a lot of work to update
+I view mnoey as a measure of the true value of things. This measure is
+sometimes in accurate, and we need to do a lot of work when we want to
+fix the inaccuracies.
 
 ### 
 one dimension
