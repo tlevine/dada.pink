@@ -1,7 +1,7 @@
 I've been frustrated with the common use of money for several years.
 I'm going to try articulating these frustations.
 
-##
+## 
 Once we have exchanged money, it is a lot of work to update the amount
 of money that we transacted. For example, if I sell you something, we
 decide on the price at the same time that I provide you the thing;
@@ -23,6 +23,14 @@ and that there were systematic mismatches between the amount of money
 exchanged and the "true" value of the transaction, we do need to update
 the values of transactions in order that money may serve as an accurate
 indicator of value.
+
+We conduct the "updating" that I discuss with things like refunds,
+advocacy, reviews, lawsuits, donations, and criminal court. For example,
+if you determine that a product that you bought was defective, you may
+ask for a refund; if a bunch of people decide that a power plant is
+removing more value from the environment than they are paying as money,
+a bunch of people might advocate for the government to do something
+about it; if you like a restaurant and think that
 
 ### 
 one dimension
