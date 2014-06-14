@@ -1,0 +1,24 @@
+Someone asked me what she should learn so she could handle datasets
+that don't fit in Excel. R? Python? Separations by language are kind
+of useless.
+
+In this case, maybe you just need to know how to make the data smaller.
+Here are some ways you can do that.
+
+In R::
+
+    # Load a CSV file
+    contracts <- read.csv(‘contracts.csv’, stringsAsFactors = FALSE)
+    
+    # Query with SQL
+    library(sqldf)
+    smaller <- sqldf(‘SELECT sum(Amount) FROM contracts GROUP BY contractor’)
+
+    # Just take the first 100 rows.
+    smaller.2 <- contracts[1:100,]
+
+    # Sample
+    smaller.3 <- contracts[sample(rownames(contract
+    
+    # Save
+    write.csv(smaller, ‘smaller.csv’, row.names = FALSE)
