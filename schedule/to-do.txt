@@ -31,3 +31,4 @@ DAILY:20140518:20140519 When I go home, redo the backup now that I've mounted th
 20140602 Book a train to somewhere else 4 August. I should be in London by 6 August.
 20140615 Book a train to Liverpool? Also book a flight home.
 20140612 Remind Julia to show me how to do payments stuff
+20140616 Submit bank payment requests
