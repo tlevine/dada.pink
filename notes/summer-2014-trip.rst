@@ -16,7 +16,7 @@ Brussels (Relearn)
 Berlin (Annabel)
     Sunday, 13 July to dunno exactly when
 Plymouth (Young Rewired State)
-    Thursday, 31 July to Monday, 4 August
+    Thursday, 31 July to Monday, 4 August (This is kind of up in the air because the whole thing is confusing me.)
 Somewhere around Dartmoor
     Monday, 4 August to Wednesday, 6 August
 London
