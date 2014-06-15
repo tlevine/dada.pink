@@ -4,21 +4,34 @@
 I'm going to these places and visiting (these people).
 
 Copenhagen (Paula)
-    Tuesday, 17 June to
+    Tuesday, 17 June to Thursday, 19 June
 Solitude (Rob)
-    to 23 June
+    Thursday, 19 June to Monday, 23 June
 Near Berlin (Sabrina)
-    23 June to 
+    Monday, 23 June to Monday, 30 June (possibly leave earlier)
 Delft
-    to 6 June
+    Monday, 30 June (possibly arrive earlier) to Sunday, 6 July
 Brussels (Relearn)
-    6 June to
+    Sunday, 6 July to Sunday, 13 (12?) July
 Berlin (Annabel)
-    _
+    Sunday, 13 July to dunno exactly when
 Plymouth (Young Rewired State)
-    _
+    Thursday, 31 July to Monday, 4 August
+Somewhere around Dartmoor
+    Monday, 4 August to Wednesday, 6 August
 London
-    _
+    Wednesday, 6 August to ???
+Liverpool
+    ??? to ???
+Somewhere
+    ???
+Boston
+    20 July to ???
+
+And I have a flight from Manchester to Boston on 20 July,
+so I might go to the Lake District or something.
+
+Further scheduling is in the `schedule </schedule>`_.
 
 ## Notes for people I'm staying with
 Thanks for letting me stay with you! Here are some
@@ -32,12 +45,8 @@ here are some suitable places.
 * In a shared bed
 * On the banister of a staircase
 
-I'll need a blanket or radiator. I can do without a pillow.
-
-I'm bringing these things with me, so I don't really need them.
-
-* Towel
-* Soap
+I'll need a blanket or radiator. I'm bringing soap and towel
+and pillow, so I don't really need them. But they also can't hurt!
 
 I'll be fine with my own laundry supplies, but the following
 always makes things a bit easier.
@@ -55,10 +64,10 @@ at least every three days.
 I want to give away `CSV files </dada/print-formaldehide>`_.
 Remind me if I forget.
 
-I'm bringing an empty frontpack in case I ever acquire more
-things than fit in my backpack. I have a feeling that I won't
-wind up using it at all, so I'll probably want to give it
-away to someone.
+I'm bringing an empty `frontpack </dada/stuff/>`_ in case
+I ever want to carry more things than fit in my backpack.
+I have a feeling that I won't wind up using it at all,
+so I'll probably want to give it away to someone.
 
 There are a few items that I wouldn't mind going shopping for.
 
