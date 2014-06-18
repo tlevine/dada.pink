@@ -172,7 +172,7 @@ gitmaster_branch: master
 
 # htmlscrubber plugin
 # PageSpec specifying pages not to scrub
-htmlscrubber_skip: dada/curriculum-vitae/cv or index
+htmlscrubber_skip: dada/curriculum-vitae/cv or index or dada/statistics-with-doodles-sudoroom
 
 # ikiwikihosting plugin
 # list of urls that alias to the main url
@@ -232,7 +232,7 @@ pingurl: []
 
 # lockedit plugin
 # PageSpec controlling which pages are locked
-locked_pages: dada/curriculum-vitae/cv or index
+locked_pages: dada/curriculum-vitae/cv or index or dada/statistics-with-doodles-sudoroom
 
 # moderatedcomments plugin
 # PageSpec matching users or comment locations to moderate
