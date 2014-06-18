@@ -58,6 +58,7 @@ and we took videos of it. Watch them here!
   <a href="javascript:small()">Small videos</a>
 </p>
 
+<script src="/js/_jquery-1.10.1.min.js" />
 <script>document.write('<script src="script.js?date=' + (new Date()).getTime() + '"><' + '/script>')</script>
 
 The videos gloss over the reasons why we have these statistics,
