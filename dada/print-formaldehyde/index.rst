@@ -11,10 +11,10 @@ The table is also shown below in digital form.
     0.3,0.269
     0.5,0.446
     0.6,0.538
-    0.7,0.626
+    0.7,0.62**5**
     0.9,0.782
-
 
 The dataset is derived from the
 `Formaldehyde <http://stat.ethz.ch/R-manual/R-devel/library/datasets/html/Formaldehyde.html>`_
-dataset from base R.
+dataset from base R, but a "6" was swapped for the highlighted "5"
+because I ran out of 6s.
