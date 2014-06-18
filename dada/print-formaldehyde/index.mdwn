@@ -1,5 +1,0 @@
-[chase](csv-chase.jpg)
-
-[print](csv-print.jpg)
-
-[formaldehyde](http://stat.ethz.ch/R-manual/R-devel/library/datasets/html/Formaldehyde.html)
