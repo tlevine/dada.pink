@@ -1,4 +1,5 @@
 [[!meta title="Websites to data tables"]]
+[[!tag learn]]
 
 I apparently know a lot about making websites into data tables.
 You might call this "web scraping". Here's a bit of how I go about
