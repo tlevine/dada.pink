@@ -1,5 +1,6 @@
 [[!meta title="Data Wranglers DC PDF parsing"]]
 [[!tag learn]]
+[[!tag convert]]
 
 I'm talking about PDFs
 [at Data Wranglers DC](http://www.meetup.com/Data-Wranglers-DC/events/160592492/).
