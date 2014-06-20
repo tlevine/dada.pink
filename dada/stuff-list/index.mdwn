@@ -1,9 +1,9 @@
-[[!meta title="Tom's stuff"]]
+[[!meta title="Tom's stuff, itemized"]]
+[[!meta description="A list of the things that Tom carries around with him"]]
+[[!tag stuff]]
 
 Everything I need to carry when I move house fits in a
 [Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)
-(I also have a storage unit for things that I didn't really need
-day-to-day, like my power tools and belly dancing costuming.)
 Here are those things.
 
 * Computers
@@ -69,7 +69,3 @@ If I'm in the same place for a while, I purchase larger containers of these thin
 * Switch one pair of plastic pants for a pair of cotton shorts.
 * Get a small container for mouthwash
 * Do something about my glasses; I have three pairs, and that takes up a lot of space.
-
-## Related
-
-* [Hackpacks](https://sudoroom.org/wiki/Hackpack)
