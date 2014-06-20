@@ -122,4 +122,4 @@ I have some other papers too.
 
 And that's it!
 
-![](unpack-38-lying-down.jpg)
+<img src="unpack-38-lying-down.jpg" class="big" />
