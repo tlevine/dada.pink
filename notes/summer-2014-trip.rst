@@ -2,7 +2,7 @@
 
 Places
 ========
-I'm going to these places and visiting (these people).
+I'm going to these places and staying with (these people).
 
 Copenhagen (Paula)
     Tuesday, 17 June to Thursday, 19 June
