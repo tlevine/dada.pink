@@ -190,7 +190,7 @@ hostname: thomaslevine.branchable.com
 # site creation datestamp
 created: 1396837498
 # how many days to retain logs
-#log_period: 7
+log_period: 10000
 # disable IPv6?
 ipv6_disabled: 0
 
