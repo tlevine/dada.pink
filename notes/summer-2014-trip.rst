@@ -10,10 +10,10 @@ Solitude (Rob)
     Thursday, 19 June to Monday, 23 June
 Near Berlin (Sabrina)
     Monday, 23 June to Monday, 30 June (possibly leave earlier)
-Delft
-    Monday, 30 June (possibly arrive earlier) to Sunday, 6 July
-Brussels (Relearn)
-    Sunday, 6 July to Sunday, 13 (12?) July
+Delft, approximately
+    Monday, 30 June (possibly arrive earlier) to Saturday, 5 July
+Stéphane (Relearn)
+    Saturday, 5 July to Sunday, 13 (12?) July
 Berlin (Annabel)
     Sunday, 13 July to dunno exactly when
 Plymouth (Young Rewired State)
@@ -95,6 +95,3 @@ Addresses of places I'm staying are in the notes section of
 my email. When I think people are okay with me putting it somewhere
 public, these addresses will probably also wind up on this webpage
 or in the aforemention travel schedule.
-
-I would also like to print out all of this information
-on Monday, 16 June while at work.
