@@ -58,4 +58,15 @@ Ideas from there include
 * [Abacus](http://kdbio.inesc-id.pt/~aml/abacus/abacus.html)
 * [Esheet](http://esheet.sourceforge.net/)
 * [Dismal mode](http://ritter.ist.psu.edu/dismal/dismal.html)
-* [Teapot](http://www.syntax-k.de/projekte/teapot/)
+* [Teapot](http://www.syntax-k.de/projekte/teapot/) looks super awesome.
+
+A side note, "teapot" refers to some widely different programs. ::
+
+    $ yaourt teapot
+    1 aur/teapot 2.3.0-2 (28)
+        Table Editor and Planner.  A 3D curses based spreadsheet for mathy people.
+    2 aur/teapotnet-git 20140211-1 (3)
+        Private and decentralized social network for file sharing and streaming
+    3 aur/teapotviewer 0.2.6.0-5 (5)
+        An Open Source third party viewers for Second Life® (secondlife) and OpenSim (opensimulator) 
+        grids.
