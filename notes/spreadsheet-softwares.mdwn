@@ -36,6 +36,7 @@ Searching around, I came up with some JavaScript spreadsheets.
     for a spreadsheet program.
 * [dhtmlxSpreadsheet](http://dhtmlx.com/docs/products/dhtmlxSpreadsheet/)
 * [jQuery.sheet](http://roberto.open-lab.com/2010/01/30/javascript-grid-editor-i-want-to-be-excel/)
+* [spreadjs](http://wijmo.com/widgets/wijmo-enterprise/spreadjs/)
 
 [This page](http://linuxfinances.info/info/spreadsheetsfree.html) is awesome.
 Ideas from there include
@@ -68,3 +69,4 @@ I think these are the most promising.
 * Dismal mode
 * Esheet
 * jQuery.sheet
+* spreadjs
