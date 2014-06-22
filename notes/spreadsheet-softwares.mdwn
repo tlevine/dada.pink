@@ -67,3 +67,4 @@ I think these are the most promising.
 * sc
 * Dismal mode
 * Esheet
+* jQuery.sheet
