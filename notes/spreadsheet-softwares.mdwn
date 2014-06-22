@@ -1,0 +1,61 @@
+Gnumeric's Python plugin stuff is a bit less documented
+and functioning than I had hoped, so I'm considering
+switching [sheetmusic](https://pypi.python.org/pypi/sheetmusic)
+to something other than Gnumeric.
+
+## Non-web GUI
+One possibility is to use Gnumeric with a different language
+plugin, but I felt like Python's documentation was among the
+best in Gnumeric, and I'm still concerned that the bugs will be
+a bit common; I get the feeling that people just don't write
+very many Gnumeric functions in Python.
+
+I narrowed down
+[this list of spreadsheet software](https://en.wikipedia.org/wiki/List_of_spreadsheet_software#Free_and_Open_Source_Software)
+to things that support custom functions and are still being
+developed; I came up with [Calligra Sheets](http://www.calligra.org/sheets/)
+
+I had even more trouble with LibreOffice, so I don't want to use that.
+
+## Text-based
+[Org mode](http://orgmode.org/) has spreadsheets, and that has to be pretty
+easy to program. I looked at a few others.
+
+[These](http://stackoverflow.com/questions/22931622/vim-like-command-line-spreadsheet-sc-how-do-you-deal-with-the-lack-of-undo-fea)
+[pages](http://unix.stackexchange.com/questions/24245/command-line-friendly-spreadsheets)
+got me to the following programs.
+
+* [sc](http://www.linuxjournal.com/article/10699)
+* [oleo](http://www.gnu.org/software/oleo/doc/oleo.html)
+* [slsc](ftp://space.mit.edu/pub/davis/slsc/)
+* [vim-orgmode](http://www.vim.org/scripts/script.php?script_id=3642)
+* [spreadsheet.vim](http://www.vim.org/scripts/script.php?script_id=558)
+
+## JavaScript
+Searching around, I came up with these.
+
+* [SlickGrid](https://github.com/mleibman/SlickGrid/) looks like just
+    a grid, but I can check the
+    [used-by page](https://github.com/mleibman/SlickGrid/wiki/Used-by)
+    for a spreadsheet program.
+* [dhtmlxSpreadsheet](http://dhtmlx.com/docs/products/dhtmlxSpreadsheet/)
+
+Here are some more lists.
+
+From this question about
+[JavaScript spreadsheets](http://www.quora.com/What-is-the-best-open-source-JavaScript-spreadsheet-implementation) (requires login), I got these.
+
+* [jQuery.sheet](http://roberto.open-lab.com/2010/01/30/javascript-grid-editor-i-want-to-be-excel/)
+* [
+
+## ...
+[This page](http://linuxfinances.info/info/spreadsheetsfree.html) is awesome.
+Ideas from there include
+
+* [xspread](http://www.chemie.fu-berlin.de/chemnet/use/xspread.html)
+* [History of spreadsheets](http://linuxfinances.info/info/spreadsheets.html)
+* [SS](http://www.freebsd.org/cgi/url.cgi?ftp://ftp.freebsd.org/pub/FreeBSD/FreeBSD-current/ports/math/ss/pkg/DESCR)
+* [Abacus](http://kdbio.inesc-id.pt/~aml/abacus/abacus.html)
+* [Esheet](http://esheet.sourceforge.net/)
+* [Dismal mode](http://ritter.ist.psu.edu/dismal/dismal.html)
+* [Teapot](http://www.syntax-k.de/projekte/teapot/)
