@@ -3,7 +3,6 @@ and functioning than I had hoped, so I'm considering
 switching [sheetmusic](https://pypi.python.org/pypi/sheetmusic)
 to something other than Gnumeric.
 
-## Non-web GUI
 One possibility is to use Gnumeric with a different language
 plugin, but I felt like Python's documentation was among the
 best in Gnumeric, and I'm still concerned that the bugs will be
@@ -14,10 +13,8 @@ I narrowed down
 [this list of spreadsheet software](https://en.wikipedia.org/wiki/List_of_spreadsheet_software#Free_and_Open_Source_Software)
 to things that support custom functions and are still being
 developed; I came up with [Calligra Sheets](http://www.calligra.org/sheets/)
-
 I had even more trouble with LibreOffice, so I don't want to use that.
 
-## Text-based
 [Org mode](http://orgmode.org/) has spreadsheets, and that has to be pretty
 easy to program. I looked at a few others.
 
@@ -31,24 +28,15 @@ got me to the following programs.
 * [vim-orgmode](http://www.vim.org/scripts/script.php?script_id=3642)
 * [spreadsheet.vim](http://www.vim.org/scripts/script.php?script_id=558)
 
-## JavaScript
-Searching around, I came up with these.
+Searching around, I came up with some JavaScript spreadsheets.
 
 * [SlickGrid](https://github.com/mleibman/SlickGrid/) looks like just
     a grid, but I can check the
     [used-by page](https://github.com/mleibman/SlickGrid/wiki/Used-by)
     for a spreadsheet program.
 * [dhtmlxSpreadsheet](http://dhtmlx.com/docs/products/dhtmlxSpreadsheet/)
-
-Here are some more lists.
-
-From this question about
-[JavaScript spreadsheets](http://www.quora.com/What-is-the-best-open-source-JavaScript-spreadsheet-implementation) (requires login), I got these.
-
 * [jQuery.sheet](http://roberto.open-lab.com/2010/01/30/javascript-grid-editor-i-want-to-be-excel/)
-* [
 
-## ...
 [This page](http://linuxfinances.info/info/spreadsheetsfree.html) is awesome.
 Ideas from there include
 
@@ -70,3 +58,12 @@ A side note, "teapot" refers to some widely different programs. ::
     3 aur/teapotviewer 0.2.6.0-5 (5)
         An Open Source third party viewers for Second Life® (secondlife) and OpenSim (opensimulator) 
         grids.
+
+## Most promising
+I think these are the most promising.
+
+* Calligra
+* Teapot
+* sc
+* Dismal mode
+* Esheet
