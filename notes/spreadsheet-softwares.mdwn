@@ -46,7 +46,8 @@ Ideas from there include
 * [Abacus](http://kdbio.inesc-id.pt/~aml/abacus/abacus.html)
 * [Esheet](http://esheet.sourceforge.net/)
 * [Dismal mode](http://ritter.ist.psu.edu/dismal/dismal.html)
-* [Teapot](http://www.syntax-k.de/projekte/teapot/) looks super awesome.
+* [Teapot](http://www.syntax-k.de/projekte/teapot/) looks super awesome,
+    but extensions need to be written in C. :(
 
 A side note, "teapot" refers to some widely different programs. ::
 
@@ -63,7 +64,6 @@ A side note, "teapot" refers to some widely different programs. ::
 I think these are the most promising.
 
 * Calligra
-* Teapot
 * sc
 * Dismal mode
 * Esheet
