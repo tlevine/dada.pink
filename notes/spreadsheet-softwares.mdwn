@@ -61,6 +61,10 @@ A side note, "teapot" refers to some widely different programs. ::
         An Open Source third party viewers for Second Life® (secondlife) and OpenSim (opensimulator) 
         grids.
 
+Oleg [suggests](https://lists.okfn.org/pipermail/okfn-labs/2014-June/001430.html)
+[EtherCalc/SocialCalc](http://ethercalc.net/).
+(And this pointed me, by the way, to a [cool book](http://aosabook.org/en/index.html).)
+
 ## Most promising
 I think these are the most promising.
 
@@ -70,3 +74,4 @@ I think these are the most promising.
 * Esheet
 * jQuery.sheet
 * spreadjs
+* EtherCalc/SocialCalc
