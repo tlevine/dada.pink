@@ -16,8 +16,9 @@ DAILY:20140612:20140615 XXX (???)
 20140616 On a plane
 DAILY:20140617:20140618 Paula (Copenhagen)
 DAILY:20140619:20140622 Rob (Near Stuttgart)
-DAILY:20140623:20140630 XXX (???)
-DAILY:20140701:20140704 XXX (Delft, for spreadsheets)
+20140623 On a train
+DAILY:20140624:20140629 Near Berlin (Sabrina)
+DAILY:20140630:20140704 XXX (Delft, for spreadsheets)
 DAILY:20140705:20140711 Stéphane (Brussels, for Relearn)
 DAILY:20140712:20140725 Annabel (Berlin, for OK Festival)
 20140726 XXX (London)
