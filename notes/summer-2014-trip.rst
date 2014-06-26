@@ -6,30 +6,30 @@ I'm going to these places and staying with (these people).
 
 Copenhagen (Paula)
     Tuesday, 17 June to Thursday, 19 June
-Solitude (Rob)
+`Solitude <http://www.akademie-solitude.de>`_, near Stuttgart (Rob)
     Thursday, 19 June to Monday, 23 June
-Near Berlin (Sabrina)
-    Monday, 23 June to Monday, 30 June (possibly leave earlier)
-Delft, approximately
-    Monday, 30 June (possibly arrive earlier) to Saturday, 5 July
-Stéphane (Relearn)
-    Saturday, 5 July to Sunday, 13 (12?) July
+`Kesselberg <https://kesselberg.info>`_, near Berlin (Sabrina)
+    Monday, 23 June to Saturday, 28 June
+Delft (probably a hostel)
+    Saturday, 28 June to Saturday, 5 July for spreadsheet conferences
+Brussels (Stéphane)
+    Saturday, 5 July to Sunday, 13 July for `Relearn <http://relearn.be/>`_
 Berlin (Annabel)
-    Sunday, 13 July to dunno exactly when
+    Sunday, 13 July to dunno exactly when for Open Knowledge Festival and stuff
 Plymouth (Young Rewired State)
-    Thursday, 31 July to Monday, 4 August (This is kind of up in the air because the whole thing is confusing me.)
+    Thursday, 31 July to Monday, 4 August for YRS Festival of Code (This is kind of up in the air because the whole thing is confusing me.)
 Somewhere around Dartmoor
     Monday, 4 August to Wednesday, 6 August
 London
-    Wednesday, 6 August to ???
-Liverpool
+    Wednesday, 6 August to ??? for Wikimania
+Liverpool (Francis)
     ??? to ???
 Somewhere
     ???
 Boston
     20 July to ???
 
-And I have a flight from Manchester to Boston on 20 July,
+I have a flight from Manchester to Boston on 20 July,
 so I might go to the Lake District or something.
 
 Further scheduling is in the `schedule </schedule>`_.
