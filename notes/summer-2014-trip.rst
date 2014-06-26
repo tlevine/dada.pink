@@ -7,9 +7,9 @@ I'm going to these places and staying with (these people).
 Copenhagen (Paula)
     Tuesday, 17 June to Thursday, 19 June
 `Solitude <http://www.akademie-solitude.de>`_, near Stuttgart (Rob)
-    Thursday, 19 June to Monday, 23 June
+    Thursday, 19 June to Monday, 24 June
 `Kesselberg <https://kesselberg.info>`_, near Berlin (Sabrina)
-    Monday, 23 June to Saturday, 28 June
+    Monday, 24 June to Saturday, 28 June
 Delft (probably a hostel)
     Saturday, 28 June to Saturday, 5 July for spreadsheet conferences
 Brussels (Stéphane)
