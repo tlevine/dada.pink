@@ -198,20 +198,23 @@ from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-prope
                         db['properties'].upsert(flat_row, ['property_number'])
 
 ## Tips for testing
-Picklecache makes it easy to write tests. When something breaks,
-find the appropriate file in the picklecache directory, copy it to a
-fixtures directory, and load it in your tests kind of like this.
 
-    with open(os.path.join('package_name', 'test', 'fixtures', 'foo-bar'), 'rb') as fp:
+### Fixtures
+When something breaks, find the appropriate file in the picklecache
+directory, copy it to a fixtures directory, and load it in your tests
+like this.
+
+    with open(os.path.join('package_name', 'test', 'fixtures', 'web-page'), 'rb') as fp:
         error, response = pickle.load(fp)
 
-Most of the time, you won't need a full response; you can mock responses
-with `collections.namedtuple` objects.
+As convenient as that is, you usually won't even need/want the full response.
+You can mock responses with `collections.namedtuple` objects.
 
     import collections
     MockResponse = collections.namedtuple('Response', ['ok','text'])
     response = MockResponse(ok = True, text = '<html>This is a web page.</html>')
 
+### Generating tests
 I tend run my tests with [nose](https://nose.readthedocs.org/en/latest/).
 One nice thing about nose is that it's easy to create many tests of the same
 structure but with similar data. For example, see
