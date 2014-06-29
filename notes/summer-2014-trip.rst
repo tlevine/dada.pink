@@ -39,6 +39,8 @@ Notes for people I'm staying with
 Thanks for letting me stay with you! Here are some
 things you might want to read.
 
+Sleeping
+~~~~~~~~~
 I'm quite flexible as to where I sleep. For example,
 here are some suitable places.
 
@@ -50,6 +52,8 @@ here are some suitable places.
 I'll need a blanket or radiator. I'm bringing soap and towel
 and pillow, so I don't really need them. But they also can't hurt!
 
+Washing
+~~~~~~~~~
 I'll be fine with my own laundry supplies, but the following
 always makes things a bit easier.
 
@@ -60,6 +64,13 @@ always makes things a bit easier.
 I'm bringing `three pairs of shirts </dada/stuff/>`_,
 so I'm going to do laundry (usually in a sink or bucket)
 at least every three days.
+
+Not sleeping
+~~~~~~~~~~~~~~
+If I'm snoring and that is keeping you up or otherwise bothering you,
+wake me up, and I'll adjust pillows so I stop snoring. If you're too
+shy to do that, find my `earmuffs`_ and wear them
+to sleep.
 
 Things
 ========
@@ -79,7 +90,7 @@ There are a few items that I wouldn't mind going shopping for.
 * A phone with service in Europe
 
 If I wind up getting ear plugs, I'm going to want to give my
-`earmuffs </dada/earmuffs/>`_.
+`earmuffs`_.
 
 Storage of important information
 ===================================
@@ -95,3 +106,5 @@ Addresses of places I'm staying are in the notes section of
 my email. When I think people are okay with me putting it somewhere
 public, these addresses will probably also wind up on this webpage
 or in the aforemention travel schedule.
+
+.. _earmuffs: /dada/ear-muffs/
