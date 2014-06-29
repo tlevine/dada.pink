@@ -1,7 +1,3 @@
-To do
-
-* Switch my SSH servers to listed on port 443.
-
 Getting around paid wifi
 
 * http://thomer.com/icmptx/

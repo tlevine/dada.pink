@@ -96,3 +96,9 @@ The following directories should be set in nsa.
     and it should not be used for anything other than my special git thingy.
 
 Both of these directories should be backed up to Prudence.
+
+Setting up systems for remote access
+---------------------------------------
+
+* git bare hooks
+* Put the line "Port 443" in the sshd_config
