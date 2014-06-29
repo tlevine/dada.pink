@@ -51,7 +51,7 @@ with picklecache.cache.
 in [`acpr`](https://pypi.python.org/pypi/acpr).)
 
 ## Parse functions
-Write parser functions that accept Response
+Write parser functions that accept `Response`
 objects as input and emit ordinary data structures.
 You probably will run this.
 
@@ -217,7 +217,7 @@ You can mock responses with `collections.namedtuple` objects.
 ### Generating tests
 I tend to run my tests with [nose](https://nose.readthedocs.org/en/latest/).
 One nice thing about nose is that it's easy to create many tests of the same
-structure but with similar data. For example, see
+structure and different data. For example, see
 [`craigsgenerator/test/test_parse/test_next_search_url.py`](http://small.dada.pink/craigsgenerator/craigsgenerator/test/test_parse/test_next_search_url.py)
 from [`craigsgenerator`](https://pypi.python.org/pypi/craigsgenerator)
 
