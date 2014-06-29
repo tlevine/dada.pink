@@ -2,9 +2,11 @@
 [[!meta description="The formaldehyde dataset printed on letterpress in CSV format"]]
 [[!tag letterpress]]
 
-`chase <csv-chase.jpg>`_
+.. image:: csv-chase.jpg
+    :alt: The <abbr>CSV</abbr> file in the chase
 
-`print <csv-print.jpg>`_
+.. image:: csv-print.jpg
+    :alt: Tom holding the printed <abbr>CSV</abbr> file
 
 The table is also shown below in digital form.
 
