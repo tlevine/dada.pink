@@ -133,8 +133,9 @@ the rest of the above `main.py` from
                     ]
                     writer.writerow(row)
 
-Here it is in [`acpr`](https://pypi.python.org/pypi/acpr)'s
-[`main.py`](http://small.dada.pink/acpr-banque-de-france/acpr/main.py).
+In [`acpr`](https://pypi.python.org/pypi/acpr)'s
+[`main.py`](http://small.dada.pink/acpr-banque-de-france/acpr/main.py)
+I write <abbr>JSON</abbr> lines to <code>STDOUT</code>.
 
     import itertools
     import json
