@@ -114,7 +114,7 @@ in [`wbcontractawards`](https://pypi.python.org/pypi/wbcontractawards).
 
 ## Storing data
 Iterate through the pages and send the results to whatever
-data store you like. I usually write CSV to STDOUT; here's
+data store you like. I usually write <abbr>CSV</csv> to <code>STDOUT</code>; here's
 the rest of the above `main.py` from 
 [`wbcontractawards`](https://pypi.python.org/pypi/wbcontractawards).
     

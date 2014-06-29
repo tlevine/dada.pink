@@ -3,10 +3,10 @@
 [[!tag letterpress]]
 
 .. image:: csv-chase.jpg
-    :alt: The <abbr>CSV</abbr> file in the chase
+    :alt: The CSV file in the chase
 
 .. image:: csv-print.jpg
-    :alt: Tom holding the printed <abbr>CSV</abbr> file
+    :alt: Tom holding the printed CSV file
 
 The table is also shown below in digital form.
 
