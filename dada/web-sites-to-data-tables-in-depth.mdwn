@@ -1,0 +1,217 @@
+[[!meta title="Websites to data tables, in depth"]]
+[[!tag learn]]
+[[!tag convert]]
+
+Once you've read the
+[other article on converting websites to data tables](/dada/web-sites-to-data-tables),
+you might want some more specifics.
+Here are some details of how I apply all of the linked theory
+when I'm using Python.
+
+## Download functions
+Inspect network requests, and figure out what HTTP requests to make.
+
+[![Inspecting HTTP requests in the New York City crime map](/dada/nyc-crime-map/firefox)](http://dada.pink/dada/nyc-crime-map/)
+
+Write downloader functions that return `Response`
+objects from the requests package, and decorate them
+with picklecache.cache.
+    
+    import os
+    
+    import requests
+    from picklecache import cache
+    
+    @cache(os.path.join(os.path.expanduser('~'), '.acpr'))
+    def search(pg:int):
+        '''
+        pg is a natural number.
+        '''
+        url = 'https://www.regafi.fr/spip.php'
+        params = {
+            'page': 'results',
+            'type': 'advanced',
+            'id_secteur': '3',
+            'lang': 'en',
+            'denomination': '',
+            'siren': '',
+            'cib': '',
+            'bic': '',
+            'nom': '',
+            'siren_agent': '',
+            'num': '',
+            'cat': '0',
+            'retrait': '0',
+            'pg': pg,
+        }
+        return requests.get(url, params = params)
+
+(This is from 
+[`download.py`](http://small.dada.pink/acpr-banque-de-france/acpr/download.py)
+in [`acpr`](http://pypi.python.org/pypi/acpr).)
+
+## Parse functionsn
+Write parser functions that accept Response
+objects as input and emit ordinary data structures.
+You probably will run this.
+
+    html = lxml.html.fromstring(response.text)
+
+and something like one of these.
+
+    html.xpath('id("blah")/div[@class="blah"]/a[@href="blah"]')
+    html.cssselect('#blah > div.blah > a[href="blah"]')
+
+Here's an example from the
+[`parse.py`](http://small.dada.pink/acpr-banque-de-france/acpr/parse.py)
+file in [`acpr`](http://pypi.python.org/pypi/acpr).
+
+    import re
+    from collections import OrderedDict
+    
+    from lxml.html import fromstring
+    
+    def search(response):
+        html = fromstring(response.text)
+        table = html.xpath('//table[@summary="Search results"]')[0]
+        keys = [re.sub(r'[^a-z]+', '.', str(th.text_content().strip()), flags = re.IGNORECASE) for th in table.xpath('tr[position()=1]/th')]
+        for tr in table.xpath('tr[td]'):
+            values = (td.text_content() for td in tr.xpath('td'))
+            yield OrderedDict(zip(keys, values))
+
+Make only one download inside each of the inner-most
+download functions, and make a parser function that
+corresponds to each download function; separate functions
+if they're making more than one HTTP request.
+
+## Generation
+Wrap everything up as a generator. I didn't do that for
+ACPR, so here's a different example of that from
+[`main.py`](http://small.dada.pink/wbcontractawards/wbcontractawards/main.py)
+in [`wbcontractawards`](http://pypi.python.org/pypi/wbcontractawards).
+"contracts" is the generator.
+
+    import sys
+    import csv
+    import itertools
+    
+    import wbcontractawards.download as d
+    import wbcontractawards.parse as p
+    
+    def contracts():
+        for os in itertools.count(0, 10):
+            response = d.search(os)
+            contract_urls = p.search(response)
+            if [] == contract_urls:
+                break
+            for url in contract_urls:
+                response = d.get(url)
+                try:
+                    yield p.contract(response)
+                except:
+                    sys.stderr.write('Error at %s\n' % url)
+                    raise
+
+## Storing data
+Iterate through the pages and send the results to whatever
+data store you like. I usually write CSV to STDOUT; here's
+the rest of the above `main.py` from 
+[`wbcontractawards`](http://pypi.python.org/pypi/wbcontractawards).
+    
+    def cli():
+        writer = csv.writer(sys.stdout)
+        writer.writerow(['contract','bidder','status','amount','currency'])
+        for contract in contracts():
+            if contract != None:
+                for bid in contract['bids']:
+                    row = [
+                        contract['url'],
+                        bid.get('bidder.name'),
+                        bid.get('status'),
+                        bid.get('opening.price.amount'),
+                        bid.get('opening.price.currency'),
+                    ]
+                    writer.writerow(row)
+
+Here it is in [`acpr`](http://pypi.python.org/pypi/acpr)'s
+[`main.py`](http://small.dada.pink/acpr-banque-de-france/acpr/main.py).
+
+    import itertools
+    import json
+    import sys
+    
+    import acpr.download as d
+    import acpr.parse as p
+    
+    def main():
+        for page in itertools.count(1,1):
+            response = d.search(page)
+            if page > 1 and p.is_page_one(response):
+                break
+            else:
+                for result in p.search(response):
+                    result['url'] = response.url
+                    sys.stdout.write(json.dumps(result) + '\n')
+
+A relational database is sometimes nice too. Here's part of
+[`main.py`](https://github.com/tlevine/scarsdale-property-inquiry/blob/master/scarsdale_property_inquiry/main.py#L64)
+from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-property-inquiry).
+
+    import os
+    import functools
+    
+    from jumble import jumble
+    import dataset
+    from pickle_warehouse import Warehouse
+    
+    import scarsdale_property_inquiry.download as dl
+    import scarsdale_property_inquiry.read as read
+    import scarsdale_property_inquiry.schema as schema
+
+    # Lots of thing omitted...
+
+    def main():
+        root_dir, html_dir, warehouse = get_fs()
+        url = getparser(root_dir).parse_args().database
+    
+        db = dataset.connect(url)
+        db.query(schema.properties)
+        
+        session, street_ids = dl.home(warehouse)
+        street = functools.partial(dl.street, warehouse, session)
+        for future in jumble(street, street_ids):
+            session, house_ids = future.result()
+            house = functools.partial(dl.house, warehouse, session)
+            for future in jumble(lambda house_id: (house_id, house(house_id)), house_ids):
+                house_id, text = future.result()
+                with open(os.path.join(html_dir, house_id + '.html'), 'w') as fp:
+                    fp.write(text)
+                bumpy_row = read.info(text)
+                if bumpy_row != None:
+                    excemptions = bumpy_row.get('assessment_information', {}).get('excemptions', [])
+                    if excemptions != []:
+                        for excemption in excemptions:
+                            excemption['property_number'] = bumpy_row['property_information']['Property Number']
+                            db['excemptions'].upsert(excemption, ['property_number'])
+                    flat_row = read.flatten(bumpy_row)
+                    if flat_row != None and 'property_number' in flat_row:
+                        db['properties'].upsert(flat_row, ['property_number'])
+
+## Tips for testing
+Picklecache makes it easy to write tests. When something breaks,
+find the appropriate file in the picklecache directory, copy it to a
+fixtures directory, and load it in your tests kind of like this.
+
+    with open(os.path.join('package_name', 'test', 'fixtures', 'foo-bar'), 'rb') as fp:
+        error, response = pickle.load(fp)
+
+Most of the time, you won't need a full response; you can mock responses
+with `collections.namedtuple` objects.
+
+    import collections
+    MockResponse = collections.namedtuple('Response', ['ok','text'])
+    response = MockResponse(ok = True, text = '<html>This is a web page.</html>')
+
+I tend run my tests with [nose](https://nose.readthedocs.org/en/latest/).
+One nice thing about nose is that it's easy to create many tests of the same
+structure but with similar data.
