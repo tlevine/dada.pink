@@ -66,7 +66,7 @@ what the columns should be and what the rows mean".
 ![](hovering-schema.png)
 
 For example, I'll tell you a bit about the schema of this spreadsheet.
-I asked a bunch of people how they use toilets in differenc scenarios,
+I asked a bunch of people how they use toilets in different scenarios,
 and some of the results are in this spreadsheet. I asked each person
 about twelve different scenarios. Each row in the spreadsheet corresponds
 to a scenario within a person; there is one row per person.
@@ -84,7 +84,8 @@ As you probably know from experience,
 this is helpful when different organizations have similar datasets.
 For example, this can work if multiple bloggers are publishing blog
 posts or if multiple cities are publishing restaurant inspection results.
-It still puts a burden on the publishers of data.
+It still puts a burden on the publishers of data, though, and
+things only become standardized if everyone somehow adopts the "standard".
 
 So what else can we do to make it easier to look at lots of spreadsheets?
 
@@ -385,7 +386,8 @@ data into something more relevent to the people who want the data
 
 [![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
 
-And that's why I made OpenPrism. This is a disgustingly simple site that
+And that's why I made OpenPrism. (It's like Prism, but open!!!)
+This is a disgustingly simple site that
 forwards your search query to 100 other sites that house spreadsheets.
 
 Let me reiterate my thoughts on searching spreadsheets.
@@ -393,43 +395,31 @@ Let me reiterate my thoughts on searching spreadsheets.
 > Why searching for spreadsheets is hard
 > ==========================================
 >
-> * Naive search method
 > * Site-specific search
+> * Naive search method
 
 I see two main issues in the common means of searching through spreadsheets.
-The first issue is that the search method is quite naive; these websites are
-usually running keyword searches.
-The second issue is that the search is localized to datasets that are published
+The first issue is that the search is localized to datasets that are published
 or otherwise managed by a particular entity; it's hard to search for
 spreadsheets without first identifying a specific publisher or repository.
 
-I started to address the first issue by pulling schema-related features out
-of the spreadsheets, and I started to address the second issue by letting
-people search many sites at once. Taking this further, I've been thinking
-about what it would mean to have a search engine for spreadsheets.
+The second issue is that the search method is quite naive; these websites are
+usually running keyword searches.
 
-![](wordsearch.png)
+I started to address the first issue by letting people search for lots of
+sites at once. Let's talk now about addressing the second issue
 
-When we search for ordinary written documents, we send words into a search
-engine and get pages of words back.
-
-![](commasearch.png)
-
-What if we could search for spreadsheets
-by sending spreadsheets into a search engine and getting spreadsheets back?
-The order of the results would be determined by various specialized statistics;
-just as we use PageRank to find relevant hypertext documents, we can develop
-other statistics that help us find relevant spreadsheets.
-
-So now I'm looking for ways to do interesting searches on spreadsheets.
-
-> Rows and columns
+> Guessing a schema
+> =======================
 
 I think a lot about rows and columns. When we define tables in relational
 databases, we can say reasonably well what each column means, based on
 names and types, and what a row means, based on unique indices.
 In spreadsheets, we still have column names, but we don't get everything
 else.
+
+> Brute-force guessing the observational unit
+> ============================================
 
 The unique indices tell us quite a lot; they give us an idea about the
 observational unit of the table and what other tables we can nicely
@@ -439,6 +429,10 @@ indices in ordinary CSV files.
     pip3 install special_snowflake
 
 It's called "special snowflake", but it needs a better name.
+
+You may have noticed that my only trick is to do stupid stuff with
+**all** the things. special snowflake just looks at **all** of the
+column combinations and checks whether there are any duplicate values.
 
 If we pass the iris dataset to it, ::
 
@@ -451,8 +445,7 @@ If we pass the iris dataset to it, ::
 
 we get no unique keys ::
 
-    >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
-    set()
+    $ snowflake iris.csv 
 
 because no combination of columns uniquely identifies the rows.
 Of course, if we add an identifier column, ::
@@ -466,8 +459,8 @@ Of course, if we add an identifier column, ::
 
 that one gets returned. ::
 
-    >>> special_snowflake.fromcsv(open('iris.csv'))                                                                  
-    {('Id',)}
+    $ snowflake iris.csv 
+    Id
 
 For a more interesting example, let's look at chickweight.
 
@@ -483,8 +476,8 @@ I could read the documentation on this dataset and tell you
 what its statistical unit is (`?ChickWeight` in R), or I could
 just let `special_snowflake` figure it out for me.
 
-    >>> special_snowflake.fromcsv(open('chick.csv'))
-    {('Time', 'Chick')}
+    $ snowflake chick.csv 
+    Time, Chick
 
 The statistical unit is chicks in time. That is, something was
 observed across multiple chick, and multiple observations were
@@ -493,15 +486,13 @@ taken from each (well, at least one) chick.
 Some spreadsheets are have less obvious identifiers. In this
 table of 1219 rows and 33 columns,
 
-    >>> from urllib.request import urlopen
-    >>> url = 'http://data.iledefrance.fr/explore/dataset/liste-des-points-de-contact-du-reseau-postal-dile-de-france/download/?format=csv'
-    >>> fp = urlopen(url)
-    >>> special_snowflake.fromcsv(fp, delimiter = ';')
-    {('adresse', 'code_postal'),
-     ('adresse', 'localite'),
-     ('identifiant',),
-     ('libelle_du_site',),
-     ('wgs84',)}
+    $ wget -O poste.csv http://data.iledefrance.fr/explore/dataset/liste-des-points-de-contact-du-reseau-postal-dile-de-france/download/?format=csv
+    $ snowflake poste.csv
+    adresse, code_postal
+    adresse, localite
+    identifiant
+    libelle_du_site
+    wgs84
 
 we find five functional unique keys. Just by looking at the column names,
 I'm gussing that the first two are combinations of parts of the postal address
@@ -514,14 +505,23 @@ This tells me that this dataset is about postal service locations,
 with one location per row. It also gives me some ideas as to things that can
 act as unique identifiers for postal service locations.
 
-It's kind of cool to run this on individual spreadsheets, but it's even cooler
-to run this on lots of spreadsheets.
-In [blizzard](https://pypi.python.org/pypi/blizzard), I find spreadsheets with
-the same unique indices, and then I look for overlap between those spreadsheets.
+> Brute-force guessing foreign keys
+> ===================================
+
+Pretty much everything I've done so far looks at individual spreadsheets.
+I want to look at relationships between spreadsheets so that I can guess
+which spreadsheets are the same as each other, which can be joined to each
+other, which are subsets of each other, &c. Also, I'm going to do this with
+brute force because that's all I know how to do.
+
+In [commasearch](https://pypi.python.org/pypi/commasearch), I basically run
+**all** of the possible inner joins between a bunch of spreadsheets,
+and then I can get a feel of the strengths of the connections between pairs
+of spreadsheets.
 
 ![](network.png)
 
-Let's now trace what happens when we compare one spreadsheet to our database
+Let's trace what happens when we compare one spreadsheet to our database
 of spreadsheets.
 
     # This is the one missing slide;
@@ -530,8 +530,22 @@ of spreadsheets.
 Spreadsheets with high overlap might be good to join to each other, and
 spreadsheets with low overlap might be good to union with each other.
 
-All of this is quite crude at the moment, so I'm somewhat surprised that
-anything interesting comes out.
+> Search Engine
+> ================
+
+It took me a while to figure out how to expose these brute force connections
+in a way that people could understand them. Here's what I came up with.
+
+![](wordsearch.png)
+
+When we search for ordinary written documents, we send words into a search
+engine and get pages of words back.
+
+![](commasearch.png)
+
+What if we could search for spreadsheets
+by sending spreadsheets into a search engine and getting spreadsheets back?
+The order of the results would be determined by various specialized statistics.
 
 ## Review
 I've been downloading lots of spreadsheets and doing crude, silly things
@@ -581,6 +595,3 @@ PageRank is hailed as the magical invention that
 fixed web search, but it depends on hyperlinks, so doesn't help much with spreadsheets.
 
 ![](commasearch.png)
-
-The search engine for spreadsheets is going to look a bit different from
-the search engine for words.
