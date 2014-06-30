@@ -569,16 +569,60 @@ thing called "pluplusch" that emits a list of CSV files.
 
 Then you search for a CSV file.
 
-    , --verbose https://explore.data.gov/resource/89u8-shx4.csv
-    {"url": "http://www-static.bouldercolorado.gov/docs/opendata/2000_Construction_Permits.csv", "overlap": 29, "nrow": 5082, "result_columns": [0], "search_columns": [0]}
-    # ...
+    , --verbose http://www-static.bouldercolorado.gov/docs/opendata/2000_Construction_Permits.csv
+    {"url": "http://data.ottawa.ca/storage/f/2013-04-16T201942/RingPost_Master_List_-Feb12_2013.csv", "search_columns": [4], "overlap": 4, "result_columns": [10], "nrow": 809}
+    {"url": "http://data.ottawa.ca/storage/f/2013-04-16T201942/RingPost_Master_List_-Feb12_2013.csv", "search_columns": [5], "overlap": 0, "result_columns": [10], "nrow": 809}
+    {"url": "http://data.ottawa.ca/storage/f/2013-04-16T201942/RingPost_Master_List_-Feb12_2013.csv", "search_columns": [6], "overlap": 0, "result_columns": [10], "nrow": 809}
+    {"url": "http://data.ottawa.ca/storage/f/2013-04-16T201942/RingPost_Master_List_-Feb12_2013.csv", "search_columns": [7], "overlap": 0, "result_columns": [10], "nrow": 809}
+    {"url": "http://data.ottawa.ca/storage/f/2013-04-16T201942/RingPost_Master_List_-Feb12_2013.csv", "search_columns": [8], "overlap": 1, "result_columns": [10], "nrow": 809}
+    {"url": "http://data.ottawa.ca/storage/f/2013-04-16T201942/RingPost_Master_List_-Feb12_2013.csv", "search_columns": [9], "overlap": 5, "result_columns": [10], "nrow": 809}
+    {"url": "http://data.ottawa.ca/storage/f/2013-04-16T201942/RingPost_Master_List_-Feb12_2013.csv", "search_columns": [10], "overlap": 138, "result_columns": [10], "nrow": 809}
+    {"url": "http://data.ottawa.ca/storage/f/2013-04-16T201942/RingPost_Master_List_-Feb12_2013.csv", "search_columns": [11], "overlap": 132, "result_columns": [10], "nrow": 809}
+    {"url": "http://data.ottawa.ca/storage/f/2013-04-16T201942/RingPost_Master_List_-Feb12_2013.csv", "search_columns": [12], "overlap": 556, "result_columns": [10], "nrow": 809}
+    
+This says that columns 10, 11, and 12 in `2000_Construction_Permits.csv` overlap
+a lot with column 10 of `RingPost_Master_List_-Feb12_2013.csv`.
+
+    $ head -n5 2000_Construction_Permits.csv
+
+Columns 10, 11, and 12 are called....
+
+    $ head -n5 RingPost_Master_List_-Feb12_2013.csv
+    Post_ID,Mid_block_ID,Street_1,Street_2,Street_3,Side,Adjacent_to,latitude,longitude,Core,Notes
+    1,1,Laurier Ave E,Henderson Ave,Nelson St,South,210 Laurier Ave E,45.42571,-75.681794,New,
+    2,1,Laurier Ave E,Henderson Ave,Nelson St,South,210 Laurier Ave E,45.425816,-75.681558,New,
+    3,1,Laurier Ave E,Henderson Ave,Nelson St,South,238 Laurier Ave E,45.425902,-75.681247,New,
+    4,2,Laurier Ave E,Cumberland St,Waller St,North,75 Laurier Ave E,45.42408,-75.686239,New,
+
+Column 10 of `RingPost_Master_List_-Feb12_2013.csv` is called "Core" and has a lot of "New" values.
 
 You get a list of a bunch of statistics about the joins.
 I still have to figure out how to sort them meaningfully.
 
 ## Review
-I've been downloading lots of spreadsheets and doing crude, silly things
-with them.
+Tons of people are releasing lots of data. That's too many fun data,
+and I couldn't decide which ones to look at, so I decided to just look
+at all of them. It turns out that this is hard.
+
+> Common ways of making it easier to understand disparate datasets
+> =================================================================
+> * Write data dictionaries, &c.
+> * Agree on standards
+> * Make graphs and stuff
+> * Ask someone
+
+We don't have great ways of figuring out what's in all these spreadsheets.
+People try to to tidy up and document the data really well, but that's
+a lot of work. People also try to make it easy for people to make graphs;
+I don't think that gets us much further. The most effective thing, in my
+experience, is to just ask someone who has already looked at the data.
+
+> My approach: Brute force
+> =========================
+
+My only trick is to do stupid things many times.
+I've been downloading lots of spreadsheets and doing
+crude, silly things on each of them.
 
 ![](/dada/zombie-links/figure/p_prop_links.png)
 
@@ -595,7 +639,11 @@ in results that I find pretty boring.
 
 > "Search"
 
-Part of this is that it's pretty hard to search for spreadsheets.
+I eventually started thinking about how to show other people what's
+in all of these spreadsheets. I noticed that it's pretty hard to search
+for spreadsheets.
+
+![](/dada/data-about-open-data-talk-december-2-2013/unsilo.jpg)
 
 The first issue is that you need to type your search into multiple search
 bars. Dedicated search engines like DuckDuckGo don't index all of the
@@ -617,10 +665,35 @@ for something similarly crude.
 The way we look up information today is to type some words into a search engine
 and read the first few results. Why is that not the way we look up data?
 
+![](commasearch.png)
+
 We have designed search engines to look for things arranged in paragraphs
 and sections and pages and hyperlinks; we haven't designed search engines for
 things with tables and rows and columns and join keys.
-PageRank is hailed as the magical invention that
-fixed web search, but it depends on hyperlinks, so doesn't help much with spreadsheets.
 
-![](commasearch.png)
+> Relevance to you
+> =================
+
+I doubt you're going to use any of the tools I've been talking about,
+but let me pass along some practical conclusions of this work.
+
+> ## 1. Nobody understands her own data. (You're not the only one.)
+
+Hardly anyone has a good understanding of what data are available in
+her organization. Or if someone thinks she knows about all of the data,
+she's deluding herself. So it's okay if you don't know what data you
+hahve, and you shouldn't expect someone else to know.
+
+> ## 2. If people aren't documenting their data, don't expect them to document their data
+
+It would be nice if everyone always wrote schemas for her data.
+Unfortunately, this doesn't happen. And when it does happen,
+the schema might be wrong anyway.
+
+If you're having trouble getting people to document their data,
+just accept that they won't, and figure out a way around it.
+
+> ## 3. Brute force can help you understand your data
+
+Computers are cheap. If you're wondering something about your spreadsheets,
+open them **all** up and find out!
