@@ -201,7 +201,19 @@ from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-prope
                     if flat_row != None and 'property_number' in flat_row:
                         db['properties'].upsert(flat_row, ['property_number'])
 
+## Functional wonderfulness
+If you follow the above directions, your parser functions will have no side-effects.
+Your downloader functions will by tiny, and their only side effects will be HTTP requests.
+You'll wrap all of these up in a generator that doesn't introduce new side-effects,
+and then you'll call this generator from another thing that has side-effects but
+isn't that hard to test.
+
+This arrangement makes much more sense to me and allows me not to think very hard.
+
 ## Tips for testing
+Testing is probably a lot simpler for this sort of stuff than for fancy
+"interactive" things. Break up the program into pure functions, treat them
+as black boxes, and make sure that they work.
 
 ### Fixtures
 When something breaks, find the appropriate file in the picklecache
@@ -217,6 +229,51 @@ You can mock responses with `collections.namedtuple` objects.
     import collections
     MockResponse = collections.namedtuple('Response', ['ok','text'])
     response = MockResponse(ok = True, text = '<html>This is a web page.</html>')
+
+### Testing downloader functions
+I usually make the downloader function really really tiny and hope that
+it works. I move everything else to pure functions that I do test.
+See, for example,
+[`params.py`](https://github.com/tlevine/scarsdale-property-inquiry/blob/master/scarsdale_property_inquiry/params.py)
+from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-property-inquiry).
+
+    def url():
+        return 'http://www.scarsdale.com/Home/Departments/InformationTechnology/PropertyInquiry.aspx'
+    
+    def headers(user_agent):
+        return {
+            'User-Agent': user_agent,
+            'Referer': url(),
+        }
+    
+    def data(publickeytoken, viewstate, eventvalidation, eventtarget, value):
+        return {
+            'StylesheetManager_TSSM': '',
+            'ScriptManager_TSM': ';;System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=' + publickeytoken,
+          # '__EVENTTARGET': 'dnn$ctr1381$ViewPIRPS$lstboxAddresses',
+            '__EVENTTARGET': eventtarget,
+            '__EVENTARGUMENT': '',
+            '__LASTFOCUS': '',
+            '__VIEWSTATE': viewstate,
+            '__EVENTVALIDATION': eventvalidation,
+            'dnn$SEARCH1$Search': 'SiteRadioButton',
+            'dnn$SEARCH1$txtSearch': '',
+           #'dnn$ctr1381$ViewPIRPS$lst...': '19.03.287',
+           #'dnn$ctr1381$ViewPIRPS$lstboxAddresses': '19.03.287',
+            eventtarget: value,
+            'dnn$dnnSEARCH$Search': 'SiteRadioButton',
+            'dnn$dnnSEARCH$txtSearch': '',
+            'ScrollTop': 228, # how far the page is scrolled
+            '__dnnVariable': '{"__scdoff":"1"}',
+        }
+
+These are all pure functions that I can test without knowing anything
+about HTTP. The downloader functions are impure, and I don't even try
+testing, but they pretty much just call these functions, so I'm fine
+with that. I wrote `scarsdale-property-inquiry` before I wrote
+`picklecache`, so its downloader functions include the cache and are
+thus a bit big. But you can see them
+[here](https://github.com/tlevine/scarsdale-property-inquiry/blob/master/scarsdale_property_inquiry/params.py).
 
 ### Generating tests
 I tend to run my tests with [nose](https://nose.readthedocs.org/en/latest/).
@@ -246,3 +303,5 @@ from [`craigsgenerator`](https://pypi.python.org/pypi/craigsgenerator)
         ]
         for fn, domain, url in testcases:
             yield check_next_search_url, fn, domain, url
+
+### Mock functions
