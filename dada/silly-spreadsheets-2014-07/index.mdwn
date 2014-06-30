@@ -554,7 +554,27 @@ engine and get pages of words back.
 
 What if we could search for spreadsheets
 by sending spreadsheets into a search engine and getting spreadsheets back?
-The order of the results would be determined by various specialized statistics.
+And thus I made comma search.
+
+    pip3 install commasearch                                                                            
+
+Here's how you use it.
+
+    , --index this.csv that.csv and.csv so.csv on.csv                                                   
+
+First, you index a bunch of CSV files. To assist with this, I wrote a separate
+thing called "pluplusch" that emits a list of CSV files.
+
+    pluplusch --urls | , --index -
+
+Then you search for a CSV file.
+
+    , --verbose https://explore.data.gov/resource/89u8-shx4.csv
+    {"url": "http://www-static.bouldercolorado.gov/docs/opendata/2000_Construction_Permits.csv", "overlap": 29, "nrow": 5082, "result_columns": [0], "search_columns": [0]}
+    # ...
+
+You get a list of a bunch of statistics about the joins.
+I still have to figure out how to sort them meaningfully.
 
 ## Review
 I've been downloading lots of spreadsheets and doing crude, silly things
