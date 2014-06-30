@@ -524,11 +524,20 @@ of spreadsheets.
 Let's trace what happens when we compare one spreadsheet to our database
 of spreadsheets.
 
-    # This is the one missing slide;
-    # I'll fill it in once I make this thing easier to query.
+![](factorial-1.png)
 
-Spreadsheets with high overlap might be good to join to each other, and
-spreadsheets with low overlap might be good to union with each other.
+We choose a group of columns in one table and a group of the same number
+of columns in the other table.
+
+![](factorial-1-overlap.png)
+
+We look at how much these columns overlap.
+Spreadsheets with high overlap might contain foreign key relationships
+or might be the same spreadsheet.
+
+![](factorial-2.png)
+
+Then we repeat this for all combinations of columns.
 
 > Search Engine
 > ================
