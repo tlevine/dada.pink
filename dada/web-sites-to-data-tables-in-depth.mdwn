@@ -211,9 +211,10 @@ isn't that hard to test.
 This arrangement makes much more sense to me and allows me not to think very hard.
 
 ## Tips for testing
-Testing is probably a lot simpler for this sort of stuff than for fancy
-"interactive" things. Break up the program into pure functions, treat them
-as black boxes, and make sure that they work.
+My tests are probably way simpler than most tests because I pretty much
+never use the `class` keyword in Python. My programs are broken into lots
+of mostly-pure functions, so my tests mostly just call the functions and
+check the outputs.
 
 ### Fixtures
 When something breaks, find the appropriate file in the picklecache
@@ -304,7 +305,7 @@ from [`craigsgenerator`](https://pypi.python.org/pypi/craigsgenerator)
         for fn, domain, url in testcases:
             yield check_next_search_url, fn, domain, url
 
-### Testing the generator
+### Testing generators
 You can test the generator that wraps everything up by substituting
 simple functions for your real functions. Let's look at
 [`craigsgenerator/test/test_craigsgenerator.py`](http://small.dada.pink/craigsgenerator/craigsgenerator/test/test_craigsgenerator.py)
@@ -382,18 +383,27 @@ rather arbitrary. Look for these things in whatever language you use.
 * An HTML parser with a decent query language (XPath or CSS, for example)
 * A way of saving HTTP responses
 * Libraries for whatever data store you are using, especially CSV
+* A package manager (pip, npm, pacman, apt-get, &c.)
 
 I'm always nervous about Python's impurity and dynamic typing; I see myself
 switching to Haskell reasonably soon.
 
 ### Frameworks
-I dislike **mechanize** because it combines downloading and parsing.
+I dislike Python [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
+because it combines downloading and parsing.
 These two things are wildly different and thus don't need to be connected;
 separating them makes lots of things easier. In particular, you have to
 do really weird things in mechanize if the standard parser doesn't do
 exactly what you want.
 
-I looked at **Scrapy** and was intrigued at first. I actually
+I'm still on the mechanize email list, however. Most of the posts to the
+list are questions about how to scrape particularly annoying websites,
+and my response is pretty much always that you should use different libraries
+in that case in order to have easier and separated control of the
+downloading and the parsing.
+
+Lots of people seem to like [Scrapy](http://scrapy.org/).
+I looked at it and was intrigued at first. I actually
 wrote something similar a few years ago, but I suppose there
 was a reason I stopped working on it. Scrapy adds frameworky
 layers that I didn't feel like thinking about, and it involves
