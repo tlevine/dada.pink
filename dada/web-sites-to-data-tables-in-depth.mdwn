@@ -304,4 +304,28 @@ from [`craigsgenerator`](https://pypi.python.org/pypi/craigsgenerator)
         for fn, domain, url in testcases:
             yield check_next_search_url, fn, domain, url
 
-### Mock functions
+### Testing the generator
+You can test the generator that wraps everything up by substituting
+simple functions for your real functions. Let's look at
+[`craigsgenerator/test/test_craigsgenerator.py`](http://small.dada.pink/craigsgenerator/craigsgenerator/test/test_craigsgenerator.py)
+from [`craigsgenerator`](https://pypi.python.org/pypi/craigsgenerator).
+
+    import nose.tools as n
+    
+    from craigsgenerator.craigsgenerator import craigsgenerator
+    
+    def test_not_superthreaded():
+        cg = craigsgenerator(sites = ['foo'], sections = ['bar'], listings = lambda *args, **kwargs: ['baz'], superthreaded = False)
+        n.assert_equal(next(cg), 'baz')
+        with n.assert_raises(StopIteration):
+            next(cg)
+    
+    def test_superthreaded():
+        cg = craigsgenerator(sites = ['foo'], sections = ['bar'], listings = lambda *args, **kwargs: ['baz'], superthreaded = True)
+        n.assert_equal(next(cg), 'baz')
+        with n.assert_raises(StopIteration):
+            next(cg)
+
+Instead of passing the real `listings` function, I pass
+this silly function that always returns `['baz']`, and
+I make sure that the output is what I expect.
