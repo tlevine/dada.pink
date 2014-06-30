@@ -329,3 +329,44 @@ from [`craigsgenerator`](https://pypi.python.org/pypi/craigsgenerator).
 Instead of passing the real `listings` function, I pass
 this silly function that always returns `['baz']`, and
 I make sure that the output is what I expect.
+
+### Testing that data are sent to the data store
+Pass the destination of your data as an argument to
+the function that is connecting everything. For example,
+here's a function that writes to stdout and stderr.
+
+    def main(stdout, stderr, dataset):
+        client = pymongo.MongoClient()
+        db = client[today.isoformat()]
+    
+        try:
+            tomongo(db, dataset)
+        except Exception as e:
+            stderr.write('Error at %s: %s\n' % (dataset['url'], e))
+        else:
+            stdout.write(do_stuff_with(dataset))
+
+Rather than using `sys.stdout` and `sys.stderr` directly,
+I passed them as arguments so that I can test the output.
+That said, while I write the function this way,
+I usually only write the test if something is broken.
+
+Similarly, you can test that Mongo is getting called correctly.
+`tomongo` calls a function called `save`, and it inserts some
+information about the dataset into the database. The test for
+`save` looks kind of like this.
+
+    def test_save():
+        MockCollection = namedtuple('MockCollection', ['insert'])
+        documents = []
+        db = {url:MockCollection(lambda document:documents.append(document))}
+
+        fp = open('blah blah')
+        url = 'blah blah blah'
+
+        save(db, fp, url)
+
+        expected_documents = [
+            # ...
+        ]
+        n.assert_list_equal(documents, expected_documents)
