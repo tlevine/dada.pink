@@ -78,7 +78,7 @@ about the [viscious hovering cycle](/dada/hovering-cycle); the point here
 is that a schema is roughly a definition of what the different columns
 and rows mean and what values are allowed in the cells.
 
-![slide about different organizations]()
+![slide about different organizations](standards.png)
 
 As you probably know from experience,
 this is helpful when different organizations have similar datasets.
