@@ -19,12 +19,12 @@ I use [Firefox](https://www.mozilla.org/en-US/firefox/).
 Write downloader functions that return `Response`
 objects from the requests package, and decorate them
 with picklecache.cache.
-    
+
     import os
-    
+
     import requests
     from picklecache import cache
-    
+
     @cache(os.path.join(os.path.expanduser('~'), '.acpr'))
     def search(pg:int):
         '''
@@ -71,9 +71,9 @@ file in [`acpr`](https://pypi.python.org/pypi/acpr).
 
     import re
     from collections import OrderedDict
-    
+
     from lxml.html import fromstring
-    
+
     def search(response):
         html = fromstring(response.text)
         table = html.xpath('//table[@summary="Search results"]')[0]
@@ -97,10 +97,10 @@ in [`wbcontractawards`](https://pypi.python.org/pypi/wbcontractawards).
     import sys
     import csv
     import itertools
-    
+
     import wbcontractawards.download as d
     import wbcontractawards.parse as p
-    
+
     def contracts():
         for os in itertools.count(0, 10):
             response = d.search(os)
@@ -120,7 +120,7 @@ Iterate through the pages and send the results to whatever
 data store you like. I usually write <abbr>CSV</abbr> to <code>STDOUT</code>; here's
 the rest of the above `main.py` from 
 [`wbcontractawards`](https://pypi.python.org/pypi/wbcontractawards).
-    
+
     def cli():
         writer = csv.writer(sys.stdout)
         writer.writerow(['contract','bidder','status','amount','currency'])
@@ -143,10 +143,10 @@ I write <abbr>JSON</abbr> lines to <code>STDOUT</code>.
     import itertools
     import json
     import sys
-    
+
     import acpr.download as d
     import acpr.parse as p
-    
+
     def main():
         for page in itertools.count(1,1):
             response = d.search(page)
@@ -163,11 +163,11 @@ from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-prope
 
     import os
     import functools
-    
+
     from jumble import jumble
     import dataset
     from pickle_warehouse import Warehouse
-    
+
     import scarsdale_property_inquiry.download as dl
     import scarsdale_property_inquiry.read as read
     import scarsdale_property_inquiry.schema as schema
@@ -177,10 +177,10 @@ from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-prope
     def main():
         root_dir, html_dir, warehouse = get_fs()
         url = getparser(root_dir).parse_args().database
-    
+
         db = dataset.connect(url)
         db.query(schema.properties)
-        
+
         session, street_ids = dl.home(warehouse)
         street = functools.partial(dl.street, warehouse, session)
         for future in jumble(street, street_ids):
@@ -239,13 +239,13 @@ from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-prope
 
     def url():
         return 'http://www.scarsdale.com/Home/Departments/InformationTechnology/PropertyInquiry.aspx'
-    
+
     def headers(user_agent):
         return {
             'User-Agent': user_agent,
             'Referer': url(),
         }
-    
+
     def data(publickeytoken, viewstate, eventvalidation, eventtarget, value):
         return {
             'StylesheetManager_TSSM': '',
@@ -283,19 +283,19 @@ structure and different data. For example, see
 from [`craigsgenerator`](https://pypi.python.org/pypi/craigsgenerator)
 
     import os
-    
+
     import nose.tools as n
     import lxml.html
-    
+
     import craigsgenerator.parse as parse
-    
+
     def check_next_search_url(fn, domain, url):
         with open(os.path.join('craigsgenerator','test','fixtures',fn)) as fp:
             html = lxml.html.fromstring(fp.read())
         html.make_links_absolute(url)
         observed = parse.next_search_url('https', domain, 'sub', html)
         n.assert_equal(observed, url)
-    
+
     def test_next_search_url():
         testcases = [
             ('austin-sub.html', 'austin.craigslist.org', 'https://austin.craigslist.org/sub/index100.html'),
@@ -311,15 +311,15 @@ simple functions for your real functions. Let's look at
 from [`craigsgenerator`](https://pypi.python.org/pypi/craigsgenerator).
 
     import nose.tools as n
-    
+
     from craigsgenerator.craigsgenerator import craigsgenerator
-    
+
     def test_not_superthreaded():
         cg = craigsgenerator(sites = ['foo'], sections = ['bar'], listings = lambda *args, **kwargs: ['baz'], superthreaded = False)
         n.assert_equal(next(cg), 'baz')
         with n.assert_raises(StopIteration):
             next(cg)
-    
+
     def test_superthreaded():
         cg = craigsgenerator(sites = ['foo'], sections = ['bar'], listings = lambda *args, **kwargs: ['baz'], superthreaded = True)
         n.assert_equal(next(cg), 'baz')
@@ -338,7 +338,7 @@ here's a function that writes to stdout and stderr.
     def main(stdout, stderr, dataset):
         client = pymongo.MongoClient()
         db = client[today.isoformat()]
-    
+
         try:
             tomongo(db, dataset)
         except Exception as e:
@@ -370,3 +370,48 @@ information about the dataset into the database. The test for
             # ...
         ]
         n.assert_list_equal(documents, expected_documents)
+
+## Why not other things
+I've done things lots of other ways and have settled on this one. Why?
+
+### Other languages
+Python has some nice things going for it, but the choice of language is
+rather arbitrary. Look for these things in whatever language you use.
+
+* An HTTP library
+* An HTML parser with a decent query language (XPath or CSS, for example)
+* A way of saving HTTP responses
+* Libraries for whatever data store you are using, especially CSV
+
+I'm always nervous about Python's impurity and dynamic typing; I see myself
+switching to Haskell reasonably soon.
+
+### Frameworks
+I dislike **mechanize** because it combines downloading and parsing.
+These two things are wildly different and thus don't need to be connected;
+separating them makes lots of things easier. In particular, you have to
+do really weird things in mechanize if the standard parser doesn't do
+exactly what you want.
+
+I looked at **Scrapy** and was intrigued at first. I actually
+wrote something similar a few years ago, but I suppose there
+was a reason I stopped working on it. Scrapy adds frameworky
+layers that I didn't feel like thinking about, and it involves
+writing the `class` keyword, which I'm usually not in the mood
+to do. And I already knew how my stuff worked.
+
+### Real browsers
+I fall back on something like
+[Selenium](https://seleniumhq.org/) or
+[PhantomJS](http://phantomjs.org/)
+when a website is more complicated than I feel like figuring out.
+These introduce all kinds of state and complexity, though, so
+I'd rather not use them.
+
+## Other resources
+
+* [Websites to data tables, in concept](/dada/web-sites-to-data-tables)
+* [How to install Selenium](/dada/selenium)
+* [PDFs](/dada/parsing-pdfs/) and [more PDFs](/dada/data-wranglers-2014-04/)
+* [Binary files](/dada/downloading-binary-files-is-not-magic/)
+* Should I write an XPath guide?
