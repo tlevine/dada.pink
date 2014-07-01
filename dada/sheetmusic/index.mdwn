@@ -68,7 +68,15 @@ a third interval in a particular key. Here are some other functions.
 * `dominant7_arpeggio(<note>)`
 
 For example, if I type "=ionian_scale('C4')", I'll get an Ionian scale
-starting at middle C. (Demonstrate this live if that seems like a good idea.)
+starting at middle C.
+
+> Live demonstrations
+> ==========================
+> * General functionality
+>   * Synthesis functions
+>   * Sheetmusic export
+> * Clementine
+> * Cheese
 
 Who knew you could make music in spreadsheets? People often don't realize
 how general their tools can be.
@@ -172,12 +180,14 @@ went up across the board. One of the bowls (I don't remember which.)
 is a bit spicier, because school years corresponding to pepper and
 cilantro had relatively high grades that year.
 
+As I see it, food is just another way of plotting data.
+
 <!--
 p = ggplot(iris) + aes(x = Sepal.Width, y = Sepal.Length, color = Species) + geom_point(size = 5)                   
 -->
 ![](iris-plot.png)
 
-As I see it, food is just another way of plotting data. The people
+The people
 in this room are probably more used to representing data with a plot like this.
 This plot
 might look very fancy, but we can decompose it into a bunch of simple
