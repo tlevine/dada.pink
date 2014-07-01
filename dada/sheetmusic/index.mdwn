@@ -118,6 +118,8 @@ We started out by writing a music video in R.
 
 [![FMS Symphony](fms.png)](http://fms.csvsoundsystem.com)
 
+Also on [YouTube](http://www.youtube.com/watch?v=j1PAuOXJ5uU)
+
 One benefit of this approach is that it lets us make music from empirical data.
 Here's a music video about the finances of the United States government.
 
