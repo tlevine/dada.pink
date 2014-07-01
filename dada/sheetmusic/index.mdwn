@@ -20,8 +20,6 @@ rows correspond to observations/records,
 
 and columns to variables/attributes collected about each observation/record.
 
-[![Tom holding a letterpress print of a CSV file](/dada/print-formaldehyde/csv-print.jpg)](/dada/print-formaldehyde)
-
 We can use spreadsheets to represent data tables, and we can use
 data tables to represent musical scores.
 
@@ -29,50 +27,40 @@ data tables to represent musical scores.
 
 In this figure we see music represented in two forms.
 
-<!--
-(spreadsheet versus ordinary sheet music slide, with column/staff highlighted)
-
-Each column in the spreadsheet corresponds to a staff in the sheet music,
--->
-
 ![spreadsheet versus ordinary sheet music slide, with row/beat highlighted](sheetmusic-side-by-side-highlighted-rowbeat.png)
 
-Each row in the spreadsheet corresponds to a beat,
-
-![](sheetmusic-function-call.png)
-
-and different notes are in different columns.
-Here is how my music synthesizer, SheetMusic, does the conversion
-between spreadsheets and ordinary sheet music.
-
-<!--
-(spreadsheet versus ordinary sheet music slide, with styles for dynamics)
-
-We can use color to represent dynamics (how loud or soft the sound is).
--->
+Each row in the table corresponds to a beat in the music.
+That is, the two regions with red boxes around them correspond
+to the same data. Different notes come from different columns.
 
 ![spreadsheet versus ordinary sheet music slide, with borders for bars](sheetmusic-side-by-side-highlighted-borderbar.png)
 
 Music is often divided into measures. In sheet music, this is typically
 represented with bars, and we can do the same in spreadsheets.
 
+![](sheetmusic-function-call.png)
+
+And that sheetmusic you saw was actually generated inside the
+Sheetmusic software.
+
 > I like tables.
 > ==============
 
-The point here is that lots of things can be represented as data tables.
-Spreadsheets are a good way for working with data tables, so we can use
-spreadsheets to work with music.
+I just showed you how we can think of music as a representation
+of the data in spreadsheets.
 
 ![synthesizer functions](synthesizer-functions.png)
 
-But spreadsheets are also code, so we can use them to make music!
+But spreadsheets are also code, so
+let's also think about musical functions as spreadsheet functions.
+
 For example, sheetmusic provides a "third_interval" function for making
 a third interval in a particular key. Here are some other functions.
 
-* `ionian_scale(<note>)`
-* `chord_progression(<range of notes specifying the chord>, <base note>)`
-* `dominant7_chord(<note>)`
-* `dominant7_arpeggio(<note>)`
+> * `ionian_scale(<note>)`
+> * `chord_progression(<range of notes specifying the chord>, <base note>)`
+> * `dominant7_chord(<note>)`
+> * `dominant7_arpeggio(<note>)`
 
 For example, if I type "=ionian_scale('C4')", I'll get an Ionian scale
 starting at middle C.
