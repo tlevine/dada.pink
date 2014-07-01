@@ -75,10 +75,11 @@ how general their tools can be.
 
 > Some data analysis tools
 >
-> **Spreadsheet**: Gnumeric, Excel, LibreOffice Calc
-> **R**: ddr
-> **Python (pandas)**: ddpy, numpy
-> **Relational databases: PostgreSQL, SQL Server, MySQL, SQLite
+> <dl>
+> <dt>Spreadsheets</dt><dd>Gnumeric, Excel, LibreOffice Calc</dd>
+> <dt>Data frames, linear algebra</dt><dd>R, Matlab, pandas, numpy, Julia</dd>
+> <dt>Relational databases</dt><dd>PostgreSQL, SQL Server, MySQL, SQLite</dd>
+> </dl>
 
 In particular, people think of certain software, like spreadsheets,
 as specialized data analysis software. People do use these programs
@@ -92,10 +93,12 @@ for several data analysis programs.
 
 > Music synthesizers for data analysis programs
 >
-> **Spreadsheet** (Gnumeric): sheetmusic
-> **R**: ddr
-> **Python (pandas)**: ddpy
-> Next stop: **PostgreSQL**?
+> <dl>
+> <dt>**Gnumeric** Spreadsheet</dt><dd>sheetmusic</dd>
+> <dt>**R**</dt><dd>ddr</dd>
+> <dt>**Pandas** (Python)</dt><dd>ddpy</dd>
+> <dt>Next stop</dt><dd>**PostgreSQL**?</dd>
+> </dl>
 
 [![](fms-r-1.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
 
