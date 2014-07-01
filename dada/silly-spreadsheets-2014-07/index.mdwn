@@ -628,7 +628,7 @@ Tons of people are releasing lots of data. That's too many fun data,
 and I couldn't decide which ones to look at, so I decided to just look
 at all of them. It turns out that this is hard.
 
-> Common ways of making it easier to understand disparate datasets
+> Attempts at understanding all these datasets
 > =================================================================
 > * Write data dictionaries, &c.
 > * Agree on standards
