@@ -14,11 +14,14 @@ Here's a data table.
 ![](data-table-2.png)
 
 In a [tidy data table](http://www.datakind.org/blog/whats-in-a-table/),
-rows correspond to observations/records,
+rows correspond to things.
+(You might also call them "observations" or "records".)
+For example, each row in this table is a country.
 
 ![](data-table-3.png)
 
-and columns to variables/attributes collected about each observation/record.
+Columns correspond to attributes about each thing.
+You might also call them "variables", "fields", "properties", or "dimensions".
 
 We can use spreadsheets to represent data tables, and we can use
 data tables to represent musical scores.
