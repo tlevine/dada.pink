@@ -329,12 +329,10 @@ are codified in the various guidelines that I mentioned before. The guidelines
 I reference are all written in English, and none are written in code. I started
 coming up with software approaches for assessing compliance with these guidelines.
 
-<!-- updatedness -->
-
 ![](/dada/zombie-links/figure/p_link_types.png)
 
 One common guideline is that data should be on the internet. It turns out that
-a lot of data were once on the internet but have synce disappeared.
+a lot of data were once on the internet but have since disappeared.
 This plot shows us what proportion of datasets from each of many data catalog
 sites are dead links. There are nuances in the mortality of datasets, but let's
 just say that the cyan and purple are portions of the bars are dead datasets
@@ -357,8 +355,14 @@ of the contents of the spreadsheets. People just haven't looked at these
 spreadsheets in mass, so even the simplest of studies are informative.
 But I eventually arrived at something that I thought was kind of interesting.
 
-> Searching for spreadsheets is hard
-> ====================================
+> (Almost) Nobody knows what's in her spreadsheets
+> =================================================
+
+Nobody knows what's in her spreadsheets,
+so it's hard to search for spreadsheets.
+
+> It's hard to search for spreadsheets
+> =================================================
 
 I noticed that it's very hard to find spreadsheets that are relevant
 to a particular analysis unless you already know that the spreadsheet exists.
@@ -368,6 +372,7 @@ are indexed.
 
 ![](search-delft.png)
 
+Someone might publish a bunch of spreadsheets on a fancy website.
 You can use the search bars on these various websites, but they usually do a
 very naive keyword search. Also, these sites tend to be quite slow.
 
@@ -399,7 +404,7 @@ data into something more relevent to the people who want the data
 
 [![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
 
-And that's why I made OpenPrism. (It's like Prism, but open!!!)
+So I made this site that I call OpenPrism. (It's like Prism, but open!!!)
 This is a disgustingly simple site that
 forwards your search query to 100 other sites that house spreadsheets.
 
