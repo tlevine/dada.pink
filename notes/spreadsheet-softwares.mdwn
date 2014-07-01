@@ -75,3 +75,4 @@ I think these are the most promising.
 * jQuery.sheet
 * spreadjs
 * EtherCalc/SocialCalc
+* Handsontable (from that presentation by those bachelor students I saw at Delft)
