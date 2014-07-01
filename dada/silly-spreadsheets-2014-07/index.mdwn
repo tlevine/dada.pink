@@ -597,8 +597,13 @@ This says that columns 10, 11, and 12 in `2000_Construction_Permits.csv` overlap
 a lot with column 10 of `RingPost_Master_List_-Feb12_2013.csv`.
 
     $ head -n5 2000_Construction_Permits.csv
-
-Columns 10, 11, and 12 are called....
+    Case Number,Address,Assessor ID,Case Status,Category,Building Uses and Work Scopes,Permit Types, Total Project Value , Total Subpermit Value ,Applied,Approved,Issued,CO Date,Completion Date,New Res Unit,Existing Res Unit,Affordable Hsg Unit,New SF,Remodel SF,Narrative Description,Primary First Name,Primary Last Name,Primary Company,Contractor First Name,Contractor Last Name,Contractor Company,Owner1 First Name,Owner1 Last Name,Owner1 Company,Owner2 First Name,Owner2 Last Name,Owner2 Company
+    PMT2000-00001,1343 WILDWOOD CT,0066684,REV,Residential,"Single Family Detached Dwelling, Existing",Mechanical, $899.00 , $899.00 ,1/7/2000,1/7/2000,12/17/2099,,,,1,,,,GAS LOG INSERT,,THE GAS CONNECTION,THE GAS CONNECTION,,THE GAS CONNECTION,THE GAS CONNECTION,ALEXANDER,BROWN,,,KATHY VOGELEY,
+    PMT2000-00002,263 PEARL ST    8,0101764,N&V,Residential,"Townhomes, Existing",Mechanical," $1,250.00 "," $1,250.00 ",1/7/2000,1/7/2000,12/17/2099,,,,1,,,,GAS LOGS IN FIREPLACE AND GAS STOVE IN KITCHEN,,NORM'S PLUMBING AND HEATING,NORM'S PLUMBING AND HEATING,,NORM'S PLUMBING AND HEATING,NORM'S PLUMBING AND HEATING,ROBERT,JUSTIS,,LESLIE,N,
+    PMT2000-00003,3000 WALNUT ST,0065954,CLS,NonResidential,"Commercial/Retail, Existing",Electrical, $600.00 , $600.00 ,1/7/2000,1/7/2000,12/17/2099,,,,,,,,ELECTRICAL WIRING FOR 2 ELECTRIC SIGNS,,"AAA ELECTRIC COMPANY, INC.","AAA ELECTRIC COMPANY, INC.",,"AAA ELECTRIC COMPANY, INC.","AAA ELECTRIC COMPANY, INC.",TERRENCE,OCONNOR,,,MIDAS,
+    PMT2000-00004,2515 BROADWAY,0003260,N&V,Residential,"Single Family Detached Dwelling, Existing",Mechanical," $1,950.00 "," $1,950.00 ",1/7/2000,1/7/2000,12/17/2099,,,,1,,,,INSTALL 65000 BTU SPACE HEATER IN LIVING ROOM,,CONTROL SERVICE CENTER INC,CONTROL SERVICE CENTER INC,,CONTROL SERVICE CENTER INC,CONTROL SERVICE CENTER INC,HOSPITAL,COMMUNITY,,,MOCK PROPERTY MANAGEMENT,
+    
+Columns 10, 11, and 12 are called "CO Date", "Completion Date", "New Res Unit".
 
     $ head -n5 RingPost_Master_List_-Feb12_2013.csv
     Post_ID,Mid_block_ID,Street_1,Street_2,Street_3,Side,Adjacent_to,latitude,longitude,Core,Notes
@@ -607,10 +612,12 @@ Columns 10, 11, and 12 are called....
     3,1,Laurier Ave E,Henderson Ave,Nelson St,South,238 Laurier Ave E,45.425902,-75.681247,New,
     4,2,Laurier Ave E,Cumberland St,Waller St,North,75 Laurier Ave E,45.42408,-75.686239,New,
 
-Column 10 of `RingPost_Master_List_-Feb12_2013.csv` is called "Core" and has a lot of "New" values.
+Column 10 of `RingPost_Master_List_-Feb12_2013.csv` is called "Core".
 
 You get a list of a bunch of statistics about the joins.
-I still have to figure out how to sort them meaningfully.
+
+The result in this case is a bit underwhelming: The overlap is on
+empty strings (""). I could change that.
 
 ## Review
 Tons of people are releasing lots of data. That's too many fun data,
