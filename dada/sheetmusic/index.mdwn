@@ -23,8 +23,7 @@ For example, each row in this table is a country.
 Columns correspond to attributes about each thing.
 You might also call them "variables", "fields", "properties", or "dimensions".
 
-We can use spreadsheets to represent data tables, and we can use
-data tables to represent musical scores.
+We can use data tables to represent musical scores.
 
 ![spreadsheet versus ordinary sheet music](sheetmusic-side-by-side.png)
 
@@ -59,7 +58,6 @@ of the data in a spreadsheet.
 But spreadsheets are also code, so
 let's also think about musical functions as spreadsheet functions.
 
-Here are some of Sheetmusic's functions.
 For example, sheetmusic provides a "third_interval" function for making
 a third interval in a particular key. Here are some other functions.
 
@@ -89,7 +87,6 @@ buggy and that the plugin system leaves much to be desired.
 ...
 
 As you see, spreadsheets are a reasonable way of representing music.
-People often don't realize how general their tools can be.
 Let's talk about some other data analysis tools.
 
 > Some data analysis tools
@@ -107,7 +104,7 @@ as if they couldn't do anything else.
 These tools are often used for data analysis,
 but they really are generalized application programming languages.
 
-[![A picture of csvsoundsystem]()](http://csvsoundsystem.com)
+<!-- [![A picture of csvsoundsystem]()](http://csvsoundsystem.com) -->
 
 My colleagues at csv soundsystem and I have written music synthesizers
 for several data analysis programs.
@@ -178,6 +175,7 @@ Here we generate a minor scale in midi with ddpy.
 
 [![](fms-r-3.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
 
+As I keep saying,
 I think about everything as data tables, so I also think about music as
 data tables, to Luis's dismay.
 
@@ -241,7 +239,7 @@ components.
 
     ggplot(iris) +
       aes(x = Sepal.Width, y = Sepal.Length, color = Species) +
-      geom_point(size = 5)                   
+      geom_point(size = 5)
 
 Here's the code that produced that plot.
 
@@ -265,8 +263,8 @@ library to produce data-driven taco recipes with ggplot2.
 
 In case you fell asleep, let me remind you of everything I just said.
 
-> Data tables
-> --------------
+> 1. Data tables are a thing.
+> ------------------------------
 > * Data collection: world -> tables.
 > * Data analysis: tables -> world
 
@@ -278,18 +276,18 @@ I like data tables.
 When people have trouble understanding data in general, I think it's because
 they don't understand these conversion steps.
 
-> Data analysis tools are often full programming languages
-> ----------------------------------------------------------
+> 2. Data analysis tools are not just data analysis tools
+> -------------------------------------------------------------
 
 Spreadsheets, SAS, and R are all real programming languages.
 We can do a lot more
 with these tools than we sometimes realize.
 
-> Plots don't need to be graphical!
-> ---------------------------------
+> 3. Plots don't need to be graphical!
+> -----------------------------------
 > * Music (sound)
 > * Food (vision, sound, taste, smell, touch)
-> * Go crazy! Ant colonies, roller coasters, and playgrounds could all be plots.
+> * Go crazy! Ant colonies, subways, and playgrounds could all be plots.
 
 Like making non-graphical plots!
 I've shown how you can
