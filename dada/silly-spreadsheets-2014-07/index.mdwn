@@ -133,9 +133,8 @@ In practice, I find that people learn what's in a spreadsheet through word
 of mouth, without looking directly at the spreadsheet. I know what's in the
 various datasets published by the United States Census, but I've never used
 any of them myself. I know what's in New York City's tax parcel boundaries
-dataset (PLUTO) because lots of people have been
-[talking](http://spatialityblog.com/2013/04/04/a-modest-proposal-for-nyc-tax-parcel-data/)
-[about](http://www.codeforamerica.org/blog/2013/07/25/epic-win-for-nycs-open-data-community-pluto-is-free/)
+dataset (PLUTO) because lots of people have
+been [talking](http://spatialityblog.com/2013/04/04/a-modest-proposal-for-nyc-tax-parcel-data/) [about](http://www.codeforamerica.org/blog/2013/07/25/epic-win-for-nycs-open-data-community-pluto-is-free/)
 it, but I haven't looked at it myself.
 And I know that several cities release data about the use of bike-share programs
 because people get excited every time this happens, but again, I haven't looked
@@ -161,7 +160,7 @@ publishes a particular dataset, these are the people you want to ask.
 
 Unfortunately, these people don't have time to serve as everyone's personal
 search engine, and there isn't an easy way for them to convey all of this
-knowledge to others. Moreover, they only know about the data they've worked
+knowledge to others. And they each only know about the data they've worked
 on in their respective governments; they don't know much about other governments.
 
 > Tools for figuring out what all these spreadsheets are about
