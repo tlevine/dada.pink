@@ -28,46 +28,51 @@ data tables to represent musical scores.
 
 ![spreadsheet versus ordinary sheet music](sheetmusic-side-by-side.png)
 
-In this figure we see music represented in two forms.
+In this figure we see music represented in two forms:
+as a data table and as conventional sheet music.
 
 ![spreadsheet versus ordinary sheet music slide, with row/beat highlighted](sheetmusic-side-by-side-highlighted-rowbeat.png)
 
 Each row in the table corresponds to a beat in the music.
 That is, the two regions with red boxes around them correspond
 to the same data. Different notes come from different columns.
+G2 is G2, G3 is G3, B5 is B5, and the lyrics aren't in the sheet music.
 
 ![spreadsheet versus ordinary sheet music slide, with borders for bars](sheetmusic-side-by-side-highlighted-borderbar.png)
 
 Music is often divided into measures. In sheet music, this is typically
-represented with bars, and we can do the same in spreadsheets.
+represented with bars. That's also how I do it in my spreadsheet.
 
 ![](sheetmusic-function-call.png)
 
-And that sheetmusic you saw was actually generated inside the
-Sheetmusic software.
+And that sheet music you saw was actually generated inside the spreadsheet.
 
 > I like tables.
 > ==============
 
+As I said before, I like tables.
 I just showed you how we can think of music as a representation
-of the data in spreadsheets.
+of the data in a spreadsheet.
 
 ![synthesizer functions](synthesizer-functions.png)
 
 But spreadsheets are also code, so
 let's also think about musical functions as spreadsheet functions.
 
+Here are some of Sheetmusic's functions.
 For example, sheetmusic provides a "third_interval" function for making
 a third interval in a particular key. Here are some other functions.
 
 > * `ionian_scale(<note>)`
-> * `chord_progression(<range of notes specifying the chord>, <base note>)`
+> * `chord_progression(<the progression>, <base note>)`
 > * `dominant7_chord(<note>)`
 > * `dominant7_arpeggio(<note>)`
 
 For example, if I type "=ionian_scale('C4')", I'll get an Ionian scale
 starting at middle C.
 
+> <br/>
+> <br/>
 > Live demonstrations
 > ==========================
 > <br/>
@@ -76,6 +81,10 @@ starting at middle C.
 
 That will, of course, make more sense when I show it to you.
 I'm going to walk you through some cheesy pop music I wrote last week.
+
+Sheetmusic is implemented as a bunch of custom functions for
+the Gnumeric spreadsheet. You'll notice that Gnumeric is quite
+buggy and that the plugin system leaves much to be desired.
 
 ...
 
@@ -170,10 +179,10 @@ Here we generate a minor scale in midi with ddpy.
 [![](fms-r-3.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
 
 I think about everything as data tables, so I also think about music as
-data tables. So if you want to make music and you understand data tables,
-you might like our software.
+data tables, to Luis's dismay.
 
-That's nice in itself, but it also got me thinking more broadly about
+That's nice,
+but it also got me thinking more broadly about
 how we think about data analysis.
 
 > What isn't data analysis?
@@ -187,19 +196,19 @@ accessible.
 
 ![abstract data](iris.png)
 
-Numbers are abstract, theoretical things that don't have to be
-related to the world. Given how strange numbers are, all of this
-data stuff can seem very magical. In contrast, most people can
+Numbers are abstract, theoretical, unnatural things, and a lot
+of people have trouble with them. In contrast, most people can
 grasp the concept of guacamole quite well.
 
 ![concrete guacamole](data-guacamole.jpg)
 
-Guacamole is a tasty but otherwise quite straightforward thing
+Guacamole is a tasty snack
 that you can see and touch and taste and smell.
 
-When I say that data things are "magical" to people, I mean that
+Many
 people don't recognize that we can convert between these abstract
-numbers and this real world. A big step in understanding this data
+numbers and this real world.
+I think that big part of understanding all this data
 stuff is understanding how we make these conversions.
 
 It turns out that the guacamole you see here is actually data-driven;
@@ -211,15 +220,16 @@ went up across the board. One of the bowls (I don't remember which.)
 is a bit spicier, because school years corresponding to pepper and
 cilantro had relatively high grades that year.
 
-As I see it, food is just another way of plotting data.
+I just see food as another way of plotting data.
 
 <!--
 p = ggplot(iris) + aes(x = Sepal.Width, y = Sepal.Length, color = Species) + geom_point(size = 5)                   
 -->
 ![](iris-plot.png)
 
+Food plots are no more complicated than graphical plots.
 The people
-in this room are probably more used to representing data with a plot like this.
+in this room are probably used to representing data with a plot like this.
 This plot
 might look very fancy, but we can decompose it into a bunch of simple
 components.
@@ -229,10 +239,16 @@ components.
 * The distance from the right is how wide the iris's petal is.
 * The color of the dot is the species of iris.
 
+    ggplot(iris) +
+      aes(x = Sepal.Width, y = Sepal.Length, color = Species) +
+      geom_point(size = 5)                   
+
+Here's the code that produced that plot.
+
 To use the language of the Grammar of Graphics, we have abstract data
 and concrete elements, and we define aesthetics that provide mappings
 between the abstract data and the concrete elements.
-And there's no reason that these elements have to be graphical!
+There's **no** reason that these elements have to be graphical.
 
     library(geomtaco)
     ggplot(iris) +
@@ -240,13 +256,9 @@ And there's no reason that these elements have to be graphical!
       geom_taco()
 
 To convert
-data into music or food, we just need to come up with parametrized primitive
+data into music or food, we just need to come up with parametrized
 musical or gastronomical elements. In this line of code, we use the geom\_taco
 library to produce data-driven taco recipes with ggplot2.
-
-When we produce data-driven music or food,
-we are simply using a different plotting device to map abstract data
-onto real things that we can perceive.
 
 > Summary
 > ========
@@ -258,16 +270,19 @@ In case you fell asleep, let me remind you of everything I just said.
 > * Data collection: world -> tables.
 > * Data analysis: tables -> world
 
+I like data tables.
+
 * We can represent lots of things as tidy data tables.
 * We convert abstract data tables into concrete things in order to make sense of them.
-* When people have trouble understanding data in general, I think it's because
-    they don't understand these conversion steps.
+
+When people have trouble understanding data in general, I think it's because
+they don't understand these conversion steps.
 
 > Data analysis tools are often full programming languages
 > ----------------------------------------------------------
 
-Data analysis software, like spreadsheets, SAS, R, and so on,
-is often a full programming language. Thus, we can do a lot more
+Spreadsheets, SAS, and R are all real programming languages.
+We can do a lot more
 with these tools than we sometimes realize.
 
 > Plots don't need to be graphical!
@@ -277,7 +292,5 @@ with these tools than we sometimes realize.
 > * Go crazy! Ant colonies, roller coasters, and playgrounds could all be plots.
 
 Like making non-graphical plots!
-
-In data analysis, we plot tables as real-world concepts that people can
-understand. These plots don't need to be graphical! I've shown how you can
+I've shown how you can
 use music and food as plotting devices, and that's just the beginning.
