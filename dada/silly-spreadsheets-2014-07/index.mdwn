@@ -696,7 +696,7 @@ We have designed search engines to look for things arranged in paragraphs
 and sections and pages and hyperlinks; we haven't designed search engines for
 things with tables and rows and columns and join keys.
 
-> Relevance to you
+> Relevance
 > =================
 
 I doubt you're going to use any of the tools I've been talking about,
@@ -721,4 +721,4 @@ just accept that they won't, and figure out a way around it.
 > ## 3. Brute force can help you understand your data
 
 Computers are cheap. If you're wondering something about your spreadsheets,
-open them **all** up and find out!
+open **all** of them up and find out!
