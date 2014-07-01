@@ -138,7 +138,8 @@ In R, this is the `data.frame`, which is composed of vectors.
     import pandas
     from ddpy import to_midi
 
-    df = pandas.DataFrame({'minor':[50, 52, 53, 55, 57, 58, 60, 62]})
+    data = {'minor':[50, 52, 53, 55, 57, 58, 60, 62]}
+    df = pandas.DataFrame(data)
     to_midi(df, 'minor_scale.mid')
 
 In pandas (Python), this is the `DataFrame`.
@@ -208,7 +209,9 @@ between the abstract data and the concrete elements.
 And there's no reason that these elements have to be graphical!
 
     library(geomtaco)
-    ggplot(iris) + aes(meat = Species, salsa = Sepal.Length) + geom_taco()
+    ggplot(iris) +
+      aes(meat = Species, salsa = Sepal.Length) +
+      geom_taco()
 
 To convert
 data into music or food, we just need to come up with parametrized primitive
@@ -221,17 +224,34 @@ onto real things that we can perceive.
 
 > Summary
 > ========
-> 
-> * Convert the world to tidy data tables.
-> * Convert tidy data tables back to the world.
-> * These conversions are less magical than we make them seem.
-> * Data analysis software does a lot more than that.
-> * So we make music from spreadsheets.
 
 In case you fell asleep, let me remind you of everything I just said.
 
+> Data tables
+> --------------
+> * Data collection: world -> tables.
+> * Data analysis: tables -> world
+
 * We can represent lots of things as tidy data tables.
-* We convert abstract data tables into concrete things.
-* None of this stuff is magic, and anyone can understand it if we just explain it.
-* We can blur the boundary between data analysis software and everything else.
-* And thus we make music from spreadsheets.
+* We convert abstract data tables into concrete things in order to make sense of them.
+* When people have trouble understanding data in general, I think it's because
+    they don't understand these conversion steps.
+
+> Data analysis tools are often full programming languages
+> ----------------------------------------------------------
+
+Data analysis software, like spreadsheets, SAS, R, and so on,
+is often a full programming language. Thus, we can do a lot more
+with these tools than we sometimes realize.
+
+> Plots don't need to be graphical!
+> ---------------------------------
+> * Music (sound)
+> * Food (vision, sound, taste, smell, touch)
+> * Go crazy! Ant colonies, roller coasters, and playgrounds could all be plots.
+
+Like making non-graphical plots!
+
+In data analysis, we plot tables as real-world concepts that people can
+understand. These plots don't need to be graphical! I've shown how you can
+use music and food as plotting devices, and that's just the beginning.
