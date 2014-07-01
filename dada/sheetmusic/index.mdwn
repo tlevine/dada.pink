@@ -94,7 +94,7 @@ as specialized data analysis software. People do use these programs
 for data analysis, but they really are generalized application
 programming languages.
 
-![A picture of csvsoundsystem]()
+[![A picture of csvsoundsystem]()](http://csvsoundsystem.com)
 
 My colleagues at csv soundsystem and I have written music synthesizers
 for several data analysis programs.
@@ -116,7 +116,8 @@ We started out by writing a music video in R.
 
 One benefit of this approach is that it lets us make music from empirical data.
 Here's a music video about the finances of the United States government.
-(Explain what's in the video.)
+
+(Play the video, and explain what's in it.)
 
 The basic paradigm is to represent musical scores in data structures that
 are designed for storing data tables.
@@ -133,6 +134,9 @@ are designed for storing data tables.
     play(chicks)
 
 In R, this is the `data.frame`, which is composed of vectors.
+
+    import pandas
+    from ddpy import to_midi
 
     df = pandas.DataFrame({'minor':[50, 52, 53, 55, 57, 58, 60, 62]})
     to_midi(df, 'minor_scale.mid')
