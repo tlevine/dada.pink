@@ -72,21 +72,25 @@ starting at middle C.
 
 > Live demonstrations
 > ==========================
-> * General functionality
->   * Synthesis functions
->   * Sheetmusic export
-> * Clementine
-> * Cheese
+> <br/>
+> <br/>
+> <br/>
+
+That will, of course, make more sense when I show it to you.
+
+* General functionality (synthesis functions and sheetmusic export)
+* Clementine
+* Cheese
 
 Who knew you could make music in spreadsheets? People often don't realize
 how general their tools can be.
 
 > Some data analysis tools
->
+> ----------------------------
 > <dl>
-> <dt>Spreadsheets</dt><dd>Gnumeric, Excel, LibreOffice Calc</dd>
-> <dt>Data frames, linear algebra</dt><dd>R, Matlab, pandas, numpy, Julia</dd>
-> <dt>Relational databases</dt><dd>PostgreSQL, SQL Server, MySQL, SQLite</dd>
+> <dt><strong>Spreadsheets</strong></dt><dd>Gnumeric, Excel, LibreOffice Calc</dd>
+> <dt><strong>Data frames, linear algebra</strong></dt><dd>R, Matlab, pandas, numpy, Julia</dd>
+> <dt><strong>Relational databases</strong></dt><dd>PostgreSQL, SQL Server, MySQL, SQLite</dd>
 > </dl>
 
 In particular, people think of certain software, like spreadsheets,
@@ -102,10 +106,10 @@ for several data analysis programs.
 > Music synthesizers for data analysis programs
 >
 > <dl>
-> <dt>**Gnumeric** Spreadsheet</dt><dd>sheetmusic</dd>
-> <dt>**R**</dt><dd>ddr</dd>
-> <dt>**Pandas** (Python)</dt><dd>ddpy</dd>
-> <dt>Next stop</dt><dd>**PostgreSQL**?</dd>
+> <dt><strong>Gnumeric</strong> Spreadsheet</dt><dd>sheetmusic</dd>
+> <dt><strong>R</strong></dt><dd>ddr</dd>
+> <dt><strong>Pandas</strong> (Python)</dt><dd>ddpy</dd>
+> <dt>Next stop</dt><dd><strong>PostgreSQL</strong>?</dd>
 > </dl>
 
 [![](fms-r-1.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
