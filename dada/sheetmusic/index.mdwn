@@ -72,13 +72,13 @@ starting at middle C.
 > <br/>
 
 That will, of course, make more sense when I show it to you.
+I'm going to walk you through some cheesy pop music I wrote last week.
 
-* General functionality (synthesis functions and sheetmusic export)
-* Clementine
-* Cheese
+...
 
-Who knew you could make music in spreadsheets? People often don't realize
-how general their tools can be.
+As you see, spreadsheets are a reasonable way of representing music.
+People often don't realize how general their tools can be.
+Let's talk about some other data analysis tools.
 
 > Some data analysis tools
 > ----------------------------
@@ -86,12 +86,14 @@ how general their tools can be.
 > <dt><strong>Spreadsheets</strong></dt><dd>Gnumeric, Excel, LibreOffice Calc</dd>
 > <dt><strong>Data frames, linear algebra</strong></dt><dd>R, Matlab, pandas, numpy, Julia</dd>
 > <dt><strong>Relational databases</strong></dt><dd>PostgreSQL, SQL Server, MySQL, SQLite</dd>
+> <dt><strong>Dunno how to categorize</strong></dt><dd>SPSS, SAS, Stata, Minitab, ...</dd>
 > </dl>
 
-In particular, people think of certain software, like spreadsheets,
-as specialized data analysis software. People do use these programs
-for data analysis, but they really are generalized application
-programming languages.
+People usually think of these tools as specialized data analysis software,
+as if they couldn't do anything else.
+
+These tools are often used for data analysis,
+but they really are generalized application programming languages.
 
 [![A picture of csvsoundsystem]()](http://csvsoundsystem.com)
 
@@ -101,24 +103,40 @@ for several data analysis programs.
 > Music synthesizers for data analysis programs
 >
 > <dl>
-> <dt><strong>Gnumeric</strong> Spreadsheet</dt><dd>sheetmusic</dd>
+> <dt><strong>Gnumeric</strong></dt><dd>sheetmusic</dd>
 > <dt><strong>R</strong></dt><dd>ddr</dd>
-> <dt><strong>Pandas</strong> (Python)</dt><dd>ddpy</dd>
+> <dt><strong>Pandas</strong></dt><dd>ddpy</dd>
 > <dt>Next stop</dt><dd><strong>PostgreSQL</strong>?</dd>
 > </dl>
 
-[![](fms-r-1.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
+I just showed you sheetmusic, which is for Gnumeric.
+We alse have one for R called data-driven rhythms (ddr),
+and one for pandas called ddpy.
 
-We started out by writing a music video in R.
+We started writing these tools to assist in our production
+of data-driven music videos.
+
+Our first music video was the FMS Symphony.
 
 [![FMS Symphony](fms.png)](http://fms.csvsoundsystem.com)
 
-Also on [YouTube](http://www.youtube.com/watch?v=j1PAuOXJ5uU)
+(It's also on [YouTube](http://www.youtube.com/watch?v=j1PAuOXJ5uU).)
 
-One benefit of this approach is that it lets us make music from empirical data.
-Here's a music video about the finances of the United States government.
+It's about the finances of the United States government.
+There are two high instruments. The more noticable one is the
+interest rate on United States Treasury bonds. The less noticable
+one is the distance to the debt ceiling (the amount of debt that
+the United States is allowed to have). The flourishes are related
+to the change in the balance of the treasury, based on these
+files that we download from the Treasury website every day (click).
 
-(Play the video, and explain what's in it.)
+My favorite part is the financial crisis (click).
+
+Okay, enough of that, you can watch the rest of it later.
+
+[![](fms-r-1.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
+
+The fun part is that we wrote it in R.
 
 The basic paradigm is to represent musical scores in data structures that
 are designed for storing data tables.
@@ -126,7 +144,6 @@ are designed for storing data tables.
     library(ddr)
     ddr_init()
 
-    # Let's use ChickWeight - Iris is so played out...
     chicks <- arpeggidata(sqrt(ChickWeight$weight),
                           blip,
                           scale="Emajor",
@@ -135,6 +152,7 @@ are designed for storing data tables.
     play(chicks)
 
 In R, this is the `data.frame`, which is composed of vectors.
+Here we map the weight of chicks to an E major scale in ddr.
 
     import pandas
     from ddpy import to_midi
@@ -144,12 +162,16 @@ In R, this is the `data.frame`, which is composed of vectors.
     to_midi(df, 'minor_scale.mid')
 
 In pandas (Python), this is the `DataFrame`.
+Here we generate a minor scale in midi with ddpy.
 
 [![](fms-r-3.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
 
-I like to represent music as data tables because I'm very used to thinking
-about data tables, but it turns out that other nice things happen when we
-use data analysis software to make music.
+I think about everything as data tables, so I also think about music as
+data tables. So if you want to make music and you understand data tables,
+you might like our software.
+
+That's nice in itself, but it also got me thinking more broadly about
+how we think about data analysis.
 
 > What isn't data analysis?
 > ============================
