@@ -1,4 +1,17 @@
+[[!meta title="Tom does silly things with lots of spreadshets
+
 *These are materials for [my talk at SEMS](http://spreadsheetlab.org/2014/04/10/sems-accepted-papers-published/). Blockquotes, code blocks, and images will be slides projected for everyone to see, and everything else is things that I'll say.*
+
+> Tom does silly things with lots of spreadsheets.
+> =================================================
+
+I forgot what the title of this presentation was exactly,
+but I remember that I wasn't quite happy about it.
+This presentation is really about silly things that I
+do with lots of spreadsheets.
+
+> "Open data"!?
+> ==============
 
 For the past few years, I've been hearing a lot about "open data".
 I was apparently even an expert in open data even though I didn't
