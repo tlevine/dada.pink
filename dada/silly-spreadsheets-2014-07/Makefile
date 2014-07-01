@@ -4,4 +4,5 @@ spreadsheet.svg:
 
 slides.html:
 	echo '<style>img, blockquote, pre { width: 75%; margin-bottom: 50%; font-size: 3em; }</style>' > slides.html
-	grep -v '^[a-zA-Z(<*-]' index.mdwn | markdown >> slides.html
+	sed 's/^\([a-zA-Z(<*-]\|\[\[\).*/\n<br\/>/' index.mdwn | markdown >> slides.html
+
