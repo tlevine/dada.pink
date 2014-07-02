@@ -127,6 +127,9 @@ OpenData Lombardia does it too!
 
 ![](lombardia-grafico.png)
 
+On any dataset, you click a button to get a table or another button to
+get graphs, like magic! Well not really.
+
 These graphs are nice, but we still have the same problem as before:
 Even if we have the most perfect graphs about each separate spreadsheet,
 we won't have time to look at of the millions of spreadsheets; before
