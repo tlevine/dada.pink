@@ -2,12 +2,9 @@
 spreadsheet.svg:
 	wget http://openclipart.org/download/people/Anonymous/spreadsheet.svg
 
-slides.mdwn:
-	echo '<style>img, blockquote, pre { width: 75%; margin-bottom: 50%; font-size: 3em; }</style>' > slides.mdwn
-	sed 's/^\([a-zA-Z(<*-]\|\[\[\).*/\n<br\/>/' index.mdwn >> slides.mdwn
-
 slides.html:
-	markdown slides.mdwn > slides.html
+	echo '<style>img, blockquote, pre { width: 75%; margin-bottom: 50%; font-size: 3em; }</style>' > slides.html
+	sed 's/^\([a-zA-Z(<*-]\|\[\[\).*/\n<br\/>/' index.mdwn | markdown >> slides.html
 
 
 nicole.jpg:
