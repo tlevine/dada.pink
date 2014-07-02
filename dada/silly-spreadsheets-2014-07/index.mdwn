@@ -34,7 +34,7 @@ in these datasets.
 
 [![Tom holding a letterpress print of a CSV file](/dada/print-formaldehyde/csv-print.jpg)](/dada/print-formaldehyde)
 
-As I hear the word used, a "dataset" seems to be
+As far as I can tell, a "dataset" is a
 "file with lots of numbers in it",
 maybe in CSV format or maybe in Microsoft Word format.
 
@@ -56,22 +56,22 @@ Some people think it would take a bit less long if we have good spreadsheets.
 
 Many "open data" guidelines provide direction as to how a person
 or organization with lots of datasets might allow other people
-to use them. At a basic level, many guidelines suggest that data
-be available on the internet and under a free license; at the other
-end of the spectrum, guidelines suggest that data be in standard
-formats accompanied with assorted metadata.
+to use them. For example, it's a good idea to have your data on the
+internet in some form. Even better, it should have a free license,
+certain metadata, a standard format, and so on.
 
-These guidelines put
-responsibility on the publishers of data to do certain things when
-they publish data. This can be a lot of work, so it's unreasonable
+These guidelines put a lot of
+responsibility on the publishers of data.
+This can be a lot of work, so it's unreasonable
 for us to expect this to happen for anything other than the most
 important of datasets.
 
 > Standard Schemas
 > =================
-> * RSS, Atom, &c.
+> * RSS
+> * Atom
 > * [GeoJson](http://geojson.org/)
-> * LIVES ([Yelp](http://www.yelp.com/healthscores), [Code for America](http://foodinspectiondata.us/))
+> * &c.
 
 Many groups have developed standard schemas for particular sorts
 of data. And when I say "schema", I loosly mean "a definition of
@@ -95,14 +95,19 @@ and rows mean and what values are allowed in the cells.
 
 ![slide about different organizations](standards.png)
 
-As you probably know from experience,
-a standard schema is helpful when different organizations have similar datasets.
-For example, this can work if multiple bloggers are publishing blog
-posts or if multiple cities are publishing restaurant inspection results.
-It still puts a burden on the publishers of data, though, and
+A standard schema is nice when different organizations have similar datasets,
+like when multiple bloggers are publishing blog posts.
+But it still puts a burden on the publishers of data, and
 things only become standardized if everyone somehow adopts the "standard".
 
-So what else can we do to make it easier to look at lots of spreadsheets?
+I've talked about a few ways of figuring out what's in spreadsheets
+
+1. Reading the whole spreadsheet
+2. Documenting spreadsheets so it's easier to read them
+3. Standardizing formats so it's even easier to read them
+
+Let's talk about one more thing that people do to figure out what's in their
+spreadsheets.
 
 > Graphs and stuff
 > =================
@@ -127,6 +132,17 @@ Even if we have the most perfect graphs about each separate spreadsheet,
 we won't have time to look at of the millions of spreadsheets; before
 it's worth looking at these graphs, we have to choose a small group of
 spreadsheets to make graphs about.
+
+> Looking at lots of spreadsheets
+> ----------------------------------
+> 1. Reading the whole spreadsheet
+> 2. Documenting spreadsheets so it's easier to read them
+> 3. Standardizing formats so it's even easier to read them
+> 4. Graphs and stuff
+
+I've told you now about four ways that people try to figure out
+what's in all of their spreadsheets. I don't think any of them
+works very well.
 
 > Word of mouth
 > ================
