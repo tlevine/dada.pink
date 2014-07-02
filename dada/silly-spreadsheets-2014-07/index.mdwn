@@ -19,7 +19,7 @@ really know what it was. So I started going to various repositories
 of open data, downloading all of the data, and looking at what they
 contained.
 
-![Plot of dataset counts by site](/dada/socrata-summary/figure/big_portals_datasets.png)
+![Plot of dataset counts by site](../socrata-summary/figure/big_portals_datasets.png)
 
 With hardly any effort, I had amassed tens of thousands of datasets.
 Here we have a plot of the number of datasets on each of the different repositories I was looking at.
@@ -32,7 +32,7 @@ so I started making tools to understand what was in them.
 Before I talk about these tools, let me explain why nobody knows what's
 in these datasets.
 
-[![Tom holding a letterpress print of a CSV file](/dada/print-formaldehyde/csv-print.jpg)](/dada/print-formaldehyde)
+[![Tom holding a letterpress print of a CSV file](../print-formaldehyde/csv-print.jpg)](../print-formaldehyde)
 
 As far as I can tell, a "dataset" is a
 "file with lots of numbers in it",
@@ -89,7 +89,7 @@ The "participantId" column defines the person, and the "task", "privacy",
 and "cleanliness" columns define the scenario; these four columns thus
 act as a unique index on the table. The other columns are about their
 responses to the questions. I'll save the full discussion for a talk
-about the [viscious hovering cycle](/dada/hovering-cycle); the point here
+about the [viscious hovering cycle](../hovering-cycle); the point here
 is that a schema is roughly a definition of what the different columns
 and rows mean and what values are allowed in the cells.
 
@@ -207,7 +207,7 @@ be searching through these data in a **data-driven** way.
 
 > I heard you like spreadsheets
 > ----------------------------------
-> ![](/dada/dataset-as-datapoint/spreadsheet-spreadsheet.png)
+> ![](../dataset-as-datapoint/spreadsheet-spreadsheet.png)
 
 I started downloading
 lots of datasets and running crude statistics across them.
@@ -216,7 +216,7 @@ I wound up with a spreadsheet where each row was a spreadsheet.
 (A small note: When I first started doing this, I was only looking at catalog
 sites that used the Socrata Open Data Portal software.)
 
-![Plot of dataset counts by site](/dada/socrata-summary/figure/big_portals_datasets.png)
+![Plot of dataset counts by site](../socrata-summary/figure/big_portals_datasets.png)
 
 Many organizations report this count of datasets that they publish, and this number
 turns out to be nearly useless.
@@ -257,7 +257,7 @@ pivot/reshape the subsets), I can easily expand one spreadsheet into over 9000.
 So maybe we should look at other things too.
 How many times people have downloaded these datasets?
 
-![Plot of dataset counts and download counts by site](/dada/socrata-summary/figure/big_portals_density_text.png)
+![Plot of dataset counts and download counts by site](../socrata-summary/figure/big_portals_density_text.png)
 
 Here, the x axis is the same as the previous plot but the y axis is the total
 downloads by site.
@@ -297,7 +297,7 @@ In Socrata catalogs as of last summer,
 
 Now let's look at something different: The formats of these datasets.
 
-![](/dada/socrata-formats/figure/deduplicated.png)
+![](../socrata-formats/figure/deduplicated.png)
 
 These "datasets" are mostly available in comma-separated values (CSV) format.
 More precisely, you can get them in a lot of formats and CSV is just the first
@@ -305,24 +305,24 @@ of them in alphabetical order.
 
 You can actually learn a lot from just looking at file formats.
 
-![](/dada/socrata-formats/figure/sf.png)
+![](../socrata-formats/figure/sf.png)
 
 Here are the file formats for just the data catalog for the San Francisco government.
 
-![](/dada/socrata-formats/figure/sf-changes.png)
+![](../socrata-formats/figure/sf-changes.png)
 
 If we look over time, we can see bursts of CSV upload.
 Here, the x-axis is time and the y-axis is number of datasets uploaded that month.
 The color indicates whether the dataset is in CSV format.
 
-![](/dada/socrata-formats/figure/sf-shapefile.png)
+![](../socrata-formats/figure/sf-shapefile.png)
 
 If we change the graph slightly, we see bursts of shapefile upload.
 My guess is that someone was going around trying to get departments
 to upload their data and hit departments with lots of spreadsheets
 and shapefiles at those respective spikes.
 
-![](/dada/socrata-formats/figure/deduplicated.png)
+![](../socrata-formats/figure/deduplicated.png)
 
 I'm just showing you this file format thing to give you a feel for how very
 crude inspection of these datasets can yield interesting information.
@@ -335,7 +335,7 @@ I said earlier that people like making graphs. They like making graphs so much
 that people like Socrata put it in their data catalog software, so you can
 make graphs of data inside your browser and save them.
 
-![](/dada/socrata-users/figure/n.views.png)
+![](../socrata-users/figure/n.views.png)
 
 People with special privileges can make private graphs, but most people can
 only make public ones; if you save
@@ -366,7 +366,7 @@ are codified in the various guidelines that I mentioned before. The guidelines
 I reference are all written in English, and none are written in code. I started
 coming up with software approaches for assessing compliance with these guidelines.
 
-![](/dada/zombie-links/figure/p_link_types.png)
+![](../zombie-links/figure/p_link_types.png)
 
 One common guideline is that data should be on the internet. It turns out that
 a lot of data were once on the internet but have since disappeared.
@@ -375,7 +375,7 @@ sites are dead links. There are nuances in the mortality of datasets, but let's
 just say that the cyan and purple are portions of the bars are dead datasets
 and everything else is live datasets.
 
-![](/dada/zombie-links/figure/p_prop_links.png)
+![](../zombie-links/figure/p_prop_links.png)
 
 It turns out that data catalog software relates to this. (What do you know!?)
 In the CKAN software, people are encouraged to link to data stored on other
@@ -415,7 +415,7 @@ Someone might publish a bunch of spreadsheets on a fancy website.
 You can use the search bars on these various websites, but they usually do a
 very naive keyword search. Also, these sites tend to be quite slow.
 
-![](/dada/dataset-as-datapoint/spreadsheet-spreadsheet.png)
+![](../dataset-as-datapoint/spreadsheet-spreadsheet.png)
 
 Having assembled a spreadsheet about my spreadsheets, I was quite able to
 search through them. Even though I only had metadata in this spreadsheet,
@@ -429,7 +429,7 @@ For example, I might want a dataset with lots of date columns.
 So I collected data about the column types in these various tables and ran
 queries like this on my spreadsheet.
 
-![](/dada/data-about-open-data-talk-december-2-2013/unsilo.jpg)
+![](../data-about-open-data-talk-december-2-2013/unsilo.jpg)
 
 Here's another issue with using website-specific search bars.
 When I'm looking for spreadsheets, the publishing organization is unlikely
@@ -441,7 +441,7 @@ In my view, we can have one set of tools/people that focus on making
 data available in a crude form and another set for assembling these crude
 data into something more relevent to the people who want the data
 
-[![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
+[![](../openprism/taco.png)](http://openprism.thomaslevine.com)
 
 So I made this site that I call OpenPrism. (It's like Prism, but open!!!)
 This is a disgustingly simple site that
@@ -688,7 +688,7 @@ My only trick is to do stupid things many times.
 I've been downloading lots of spreadsheets and doing
 crude, silly things on each of them.
 
-![](/dada/zombie-links/figure/p_prop_links.png)
+![](../zombie-links/figure/p_prop_links.png)
 
 I started out by looking at very simple things like how big they are.
 I also tried to quantify other people's ideas of how good datasets are,
@@ -707,14 +707,14 @@ I eventually started thinking about how to show other people what's
 in all of these spreadsheets. I noticed that it's pretty hard to search
 for spreadsheets.
 
-![](/dada/data-about-open-data-talk-december-2-2013/unsilo.jpg)
+![](../data-about-open-data-talk-december-2-2013/unsilo.jpg)
 
 The first issue is that you need to type your search into multiple search
 bars. Dedicated search engines like DuckDuckGo don't index all of the
 spreadsheets, so you're stuck using site-specific searches, and these only
 search within their specific sites.
 
-[![](/dada/openprism/taco.png)](http://openprism.thomaslevine.com)
+[![](../openprism/taco.png)](http://openprism.thomaslevine.com)
 
 I wrote OpenPrism to deal with this; you type your search into one search
 bar, and it's as if you typed it in to all of the data catalogs I know about
