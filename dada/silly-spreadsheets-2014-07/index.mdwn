@@ -624,6 +624,9 @@ thing called "pluplusch" that emits a list of CSV files.
 
     pluplusch --urls | , --index -
 
+A side note, these "datasets" that pluplusch emits are mostly CSV files, but
+it might be worth looking at pluplusch if you want a corpus for spreadsheet research.
+
 Then you search for a CSV file.
 
     , --verbose http://www-static.bouldercolorado.gov/docs/opendata/2000_Construction_Permits.csv
