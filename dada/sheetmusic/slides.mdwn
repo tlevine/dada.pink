@@ -1,0 +1,164 @@
+<style>img, blockquote, pre { width: 75%; margin-bottom: 50%; font-size: 3em; }</style>
+
+> Sheetmusic
+> ==============
+
+
+![](data-table-1.png)
+
+
+![](data-table-2.png)
+
+
+![](data-table-3.png)
+
+
+
+![spreadsheet versus ordinary sheet music](sheetmusic-side-by-side.png)
+
+
+![spreadsheet versus ordinary sheet music slide, with row/beat highlighted](sheetmusic-side-by-side-highlighted-rowbeat.png)
+
+
+![spreadsheet versus ordinary sheet music slide, with borders for bars](sheetmusic-side-by-side-highlighted-borderbar.png)
+
+
+![](sheetmusic-function-call.png)
+
+
+> I like tables.
+> ==============
+
+
+![synthesizer functions](synthesizer-functions.png)
+
+
+
+> * `ionian_scale(<note>)`
+> * `chord_progression(<the progression>, <base note>)`
+> * `dominant7_chord(<note>)`
+> * `dominant7_arpeggio(<note>)`
+
+
+> <br/>
+> <br/>
+> Live demonstrations
+> ==========================
+> <br/>
+> <br/>
+> <br/>
+
+
+
+...
+
+
+> Some data analysis tools
+> ----------------------------
+> <dl>
+> <dt><strong>Spreadsheets</strong></dt><dd>Gnumeric, Excel, LibreOffice Calc</dd>
+> <dt><strong>Data frames, linear algebra</strong></dt><dd>R, Matlab, pandas, numpy, Julia</dd>
+> <dt><strong>Relational databases</strong></dt><dd>PostgreSQL, SQL Server, MySQL, SQLite</dd>
+> <dt><strong>Dunno how to categorize</strong></dt><dd>SPSS, SAS, Stata, Minitab, ...</dd>
+> </dl>
+
+
+
+
+
+> Music synthesizers for data analysis programs
+>
+> <dl>
+> <dt><strong>Gnumeric</strong></dt><dd>sheetmusic</dd>
+> <dt><strong>R</strong></dt><dd>ddr</dd>
+> <dt><strong>Pandas</strong></dt><dd>ddpy</dd>
+> <dt>Next stop</dt><dd><strong>PostgreSQL</strong>?</dd>
+> </dl>
+
+
+
+
+[![FMS Symphony](fms.png)](http://fms.csvsoundsystem.com)
+
+
+
+
+
+[![](fms-r-1.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
+
+
+
+    library(ddr)
+    ddr_init()
+
+    chicks <- arpeggidata(sqrt(ChickWeight$weight),
+                          blip,
+                          scale="Emajor",
+                          bpm=200,
+                          count=1/32)
+    play(chicks)
+
+
+    import pandas
+    from ddpy import to_midi
+
+    data = {'minor':[50, 52, 53, 55, 57, 58, 60, 62]}
+    df = pandas.DataFrame(data)
+    to_midi(df, 'minor_scale.mid')
+
+
+[![](fms-r-3.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
+
+
+
+> What isn't data analysis?
+> ============================
+
+
+![abstract data](iris.png)
+
+
+![concrete guacamole](data-guacamole.jpg)
+
+
+
+
+![](iris-plot.png)
+
+
+
+
+    ggplot(iris) +
+      aes(x = Sepal.Width, y = Sepal.Length, color = Species) +
+      geom_point(size = 5)
+
+
+
+    library(geomtaco)
+    ggplot(iris) +
+      aes(meat = Species, salsa = Sepal.Length) +
+      geom_taco()
+
+
+> Summary
+> ========
+
+
+> 1. Data tables are a thing.
+> ------------------------------
+> * Data collection: world -> tables.
+> * Data analysis: tables -> world
+
+
+
+
+> 2. Data analysis tools are not just data analysis tools
+> -------------------------------------------------------------
+
+
+> 3. Plots don't need to be graphical!
+> -----------------------------------
+> * Music (sound)
+> * Food (vision, sound, taste, smell, touch)
+> * Go crazy! Ant colonies, subways, and playgrounds could all be plots.
+
