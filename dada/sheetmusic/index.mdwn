@@ -292,3 +292,8 @@ with these tools than we sometimes realize.
 Like making non-graphical plots!
 I've shown how you can
 use music and food as plotting devices, and that's just the beginning.
+
+## See also
+
+* [Erich Neuwirth](https://en.wikipedia.org/wiki/Erich_Neuwirth)
+* [Datenschau 008 Musik](http://www.kuechenstud.io/datenschau/podcast/ds008/)
