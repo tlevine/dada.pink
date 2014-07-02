@@ -383,20 +383,22 @@ servers, and in the Socrata software, people are encouraged to upload data
 to Socrata servers. It is thus pretty hard to have dead datasets on the
 Socrata software.
 
-> How is this interesting!?
-> ===========================
+> This shouldn't be interesting
+> ==============================
 
-I continue to be shocked that people find any of this stuff interesting.
+The stuff I've been doing is really basic,
+so it kind of scares me that people find any of it interesting.
 For the various statistics above, I haven't been doing any notable inspection
-of the contents of the spreadsheets. People just haven't looked at these
-spreadsheets in mass, so even the simplest of studies are informative.
-But I eventually arrived at something that I thought was kind of interesting.
+of the contents of the spreadsheets.
 
-> (Almost) Nobody knows what's in her spreadsheets
+> (Almost) Nobody knows what's in her data
 > =================================================
 
-Nobody knows what's in her spreadsheets,
-so it's hard to search for spreadsheets.
+Nobody knows what's in her data,
+so even the simplest of studies are informative.
+
+Having been convinced that people have no idea what's in their spreadsheets,
+I...
 
 > It's hard to search for spreadsheets
 > =================================================
