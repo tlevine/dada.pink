@@ -34,8 +34,9 @@ in these datasets.
 
 [![Tom holding a letterpress print of a CSV file](/dada/print-formaldehyde/csv-print.jpg)](/dada/print-formaldehyde)
 
-And keep in mind that "dataset" is usually a fancy
-word for "spreadsheet", often in CSV format.
+As I hear the word used, a "dataset" seems to be
+"file with lots of numbers in it",
+maybe in CSV format or maybe in Microsoft Word format.
 
 ![A spreadsheet](bus-spreadsheet.png)
 
@@ -43,7 +44,7 @@ How do we figure out what's in a bunch of spreadsheets today?
 We could manually look at every cell in every spreadsheet,
 but this would take a long time.
 
-It might take a bit less long if we have good spreadsheets.
+Some people think it would take a bit less long if we have good spreadsheets.
 
 > Open data guidelines
 > ======================
@@ -78,7 +79,8 @@ what the columns should be and what the rows mean".
 
 ![](hovering-schema.png)
 
-For example, I'll tell you a bit about the schema of this spreadsheet.
+For example, I'll invent right now a schema for data about research
+about how people use toilets.
 I asked a bunch of people how they use toilets in different scenarios,
 and some of the results are in this spreadsheet. I asked each person
 about twelve different scenarios. Each row in the spreadsheet corresponds
@@ -94,7 +96,7 @@ and rows mean and what values are allowed in the cells.
 ![slide about different organizations](standards.png)
 
 As you probably know from experience,
-this is helpful when different organizations have similar datasets.
+a standard schema is helpful when different organizations have similar datasets.
 For example, this can work if multiple bloggers are publishing blog
 posts or if multiple cities are publishing restaurant inspection results.
 It still puts a burden on the publishers of data, though, and
@@ -140,17 +142,16 @@ And I know that several cities release data about the use of bike-share programs
 because people get excited every time this happens, but again, I haven't looked
 at any of it myself.
 
-[![Nicole Neditch](https://pbs.twimg.com/profile_images/3109685140/4d01018916293ef57c2233df71855a87_bigger.jpeg)](https://twitter.com/nneditch)
-[![Noel Hidalgo](http://farm2.static.flickr.com/1047/799125271_97a7d5fab2.jpg)](http://noneck.org/)
-[![Jack Madans](https://pbs.twimg.com/profile_images/1851379517/TweeterPic.jpg)](http://www.codeforamerica.org/blog/author/jmadans/)
+[![Nicole Neditch](nicole.jpg)](https://twitter.com/nneditch)
+[![Noel Hidalgo](noel.jpg)](http://noneck.org/)
 
 The people I meet who know the most about what's in these large collections
 of disparate open data spreadsheets are the people in charge of putting them
 on the internet in a form that people can use them. Surprisingly to me,
 these often aren't the ones who are looking very analytically at the spreadsheets.
 
-[![Chris Metcalf](http://chrismetcalf.net/)](http://chrismetcalf.net/images/xsleep_deprived.png.pagespeed.ic.MohADXKdwI.jpg)
-[![Tim Wisniewski](http://timwis.com/images/backgrounds/me.jpg)](http://timwis.com/)
+[![Chris Metcalf](chris.jpg)](http://chrismetcalf.net/)
+[![Tim Wisniewski](tim.jpg)](http://timwis.com/)
 
 People like Nicole, Noel, Jack, Chris, and Tim
 have worked with various organizations (mostly governments) to publish
@@ -163,13 +164,15 @@ search engine, and there isn't an easy way for them to convey all of this
 knowledge to others. And they each only know about the data they've worked
 on in their respective governments; they don't know much about other governments.
 
-> Tools for figuring out what all these spreadsheets are about
+> What's in all these data
 > =============================================================
 
-Sorry for taking such a long detour on why I want these tools. Now that you
-see why I want to make these tools, I can tell you what I've been doing.
+I've told you why nobody knows what's in her data.
+Now I'm going to tell you what's in everybody's data.
+Well not really.
 
-> "Data-driven data"
+> I like recursion
+> ==================
 
 Considering that we're talking about open **data**, I figured that we should
 be searching through these data in a **data-driven** way. I started downloading
