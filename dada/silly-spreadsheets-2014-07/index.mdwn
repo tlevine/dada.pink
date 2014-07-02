@@ -184,7 +184,13 @@ Well not really.
 > ==================
 
 Considering that we're talking about open **data**, I figured that we should
-be searching through these data in a **data-driven** way. I started downloading
+be searching through these data in a **data-driven** way.
+
+> I heard you like spreadsheets
+> ----------------------------------
+> ![](/dada/dataset-as-datapoint/spreadsheet-spreadsheet.png)
+
+I started downloading
 lots of datasets and running crude statistics across them.
 
 (A small note: When I first started doing this, I was only looking at catalog
