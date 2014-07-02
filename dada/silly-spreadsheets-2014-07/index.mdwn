@@ -153,11 +153,19 @@ these often aren't the ones who are looking very analytically at the spreadsheet
 [![Chris Metcalf](chris.jpg)](http://chrismetcalf.net/)
 [![Tim Wisniewski](tim.jpg)](http://timwis.com/)
 
-People like Nicole, Noel, Jack, Chris, and Tim
+People like Nicole, Noel, Chris, and Tim
 have worked with various organizations (mostly governments) to publish
 their data, and they know a lot the many datasets being published by the
 organizations they respectively work. If you want to know whether a city
 publishes a particular dataset, these are the people you want to ask.
+
+[![](top-ten-elevator-offenders.png)](http://www.nyc.gov/html/dob/html/safety/top10_elev_offenders.shtml)
+
+Let me tell you just one story. A friend and I came across New York City's
+"Top Ten Elevator Offenders" dataset and couldn't stop laughing, mainly
+because of the title. We mentioned it to Noel, and he told us about all of
+the wonderful politics through which only the top ten, rather than all,
+of the elevator offenders were published.
 
 Unfortunately, these people don't have time to serve as everyone's personal
 search engine, and there isn't an easy way for them to convey all of this
