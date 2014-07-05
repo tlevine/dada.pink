@@ -1,6 +1,9 @@
 body {
-  color: #666;
+  color: white;
+  background-color: #111;
 }
+html, body, .page { margin: 0; padding: 0; border-style: none; }
+.pagefooter, .pageheader {background-color: grey;}
 
 a {
   text-decoration: none;
@@ -9,12 +12,6 @@ a {
 
 a:hover {
   text-decoration: underline;
-}
-
-hr {
-  border-style: none;
-  background-color: #fe57a1;
-  height: 1px;
 }
 
 #content img {
@@ -32,6 +29,7 @@ hr {
 h1, h2, h3, h4, h5, h6 {
   font: bold 100% sans-serif;
   page-break-after: avoid;
+  color: #fe57a1;
 }
 h2 { font-size: 2em; }
 h3 { font-size: 1.5em; }
