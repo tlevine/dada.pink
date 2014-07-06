@@ -35,6 +35,7 @@ h2 {
   height: 120px;
 }
 #content {
+  color: #999;
   float: left;
   width: 180px;
   margin-left: 10px;
