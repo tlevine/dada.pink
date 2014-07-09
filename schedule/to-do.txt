@@ -32,3 +32,4 @@ DAILY:20140518:20140519 When I go home, redo the backup now that I've mounted th
 20140612 Remind Julia to show me how to do payments stuff
 20140617 Submit bank payment requests https://strequest.worldbank.org/
 20140617 Download things that errored in my mover log
+20140727 Report with Ontodia is due.
