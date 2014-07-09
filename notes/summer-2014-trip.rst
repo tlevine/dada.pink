@@ -29,7 +29,7 @@ Somewhere
 Boston
     20 July to ???
 
-I have a flight from Manchester to Boston on 20 July,
+I have a flight from Manchester to Boston on 20 August,
 so I might go to the Lake District or something.
 
 Further scheduling is in the `schedule </schedule>`_.
