@@ -1,0 +1,22 @@
+Kesselberg
+
+You know how it's really fun to be around people who are really
+nerdy about some thing that you totally don't understand? That's
+what EuSpRIG was like; everyone there **loves** spreadsheets.
+A bunch (most?) teach spreadsheet development in some capacity,
+a bunch develop or audit rather complex spreadsheets regularly
+for their work. (These bunches overlap, of course.) And the
+people who don't fall into either of the above bunches research
+how people use spreadsheets. In the bar after the conference,
+I learned about everyone's favorite spreadsheet shortcuts.
+Also, Delft is pretty. :)
+
+
+Relearn
+
+* Bits and sound: Notes on combining arbitrary image and sound
+* I mostly wrote sheetmusic as a joke, but now people want
+    to use it !? People at Relearn imported their ASCII PNM
+    image files as space-delimited values and then wrote
+    spreadsheets to convert the images into music.
+* Plotter plots and polar coordinates
