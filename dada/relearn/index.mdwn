@@ -32,8 +32,18 @@ same series of pixels is viewed as a solid color. The file above sounds
 like a series of beeps, and the changes in visual color aren't really
 noticable when the file is played as audio.
 
-### 
+### Merging image and sound
+Having noticed the above, I realized that it wouldn't be hard to make
+a single file that acts both as arbitrary PPM and arbitrary wave.
+I [combined](http://small.dada.pink/netwaves/join.py) the
+[fms symphony](http://fms.csvsoundsystem.com) song with a picture of
+[Augustin d'Hippone](https://fr.wikipedia.org/wiki/Augustin_d%E2%80%99Hippone).
 
+![Augustin d'Hippone](http://small.dada.pink/netwaves/augustin.jpg)
+
+I converted the song to 8-bit 8000hz wave and treated it as
+
+The result sounds rather close
 ### Writing image files
 
 ### Spreadsheets
