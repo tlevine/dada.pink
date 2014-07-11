@@ -24,7 +24,17 @@ and sounds like this (as malformed wave).
 
 XXX
 
+Sound is expressed as oscillations in value, whereas perceived color
+is expressed the average value in a particular region of the image.
+A series of pixels of the same value is heard as silence, and the
+same series of pixels is viewed as a solid color. The file above sounds
+like a series of beeps, and the changes in visual color aren't really
+noticable when the file is played as audio.
 
+### 
 
+### Writing image files
+
+### Spreadsheets
 
 ## (Un)perfect circle
