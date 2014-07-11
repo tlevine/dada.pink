@@ -16,11 +16,12 @@ pixel of the image.
 ### Color versus oscillation
 I ran [this](http://small.dada.pink/netwaves/drums.py) to
 produce a [file](http://small.dada.pink/netwaves/drums.ppm)
-that looks like this (as ppm)
+that looks like this when interpreted as ppm
 
 XXX
 
-and sounds like this (as malformed wave).
+and sounds like this when interpreted as an 8-bit wave file
+played at 8000 hz.
 
 XXX
 
