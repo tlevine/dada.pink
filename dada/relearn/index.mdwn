@@ -1,0 +1,30 @@
+## Bits and Sound
+
+### File formats
+We can think of sound as series of air pressures; a wave (WAV) file
+is sort of like a series of numerirc air pressure values.
+
+We can think of image as a grid of lights; a netbpm (PPM, for example)
+file is pretty much just a cartesian grid of colored pixels, where
+each pixel's color is specified as a triplet of red, green, and blue values.
+
+In an eight-bit wave file, each byte is the air pressure value for
+a frame of audio. In a binary PPM file, each byte is the intensity
+value for a particular color (red, green or blue) within a particular
+pixel of the image.
+
+### Color versus oscillation
+I ran [this](http://small.dada.pink/netwaves/drums.py) to
+produce a [file](http://small.dada.pink/netwaves/drums.ppm)
+that looks like this (as ppm)
+
+XXX
+
+and sounds like this (as malformed wave).
+
+XXX
+
+
+
+
+## (Un)perfect circle
