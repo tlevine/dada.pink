@@ -14,11 +14,9 @@ DAILY:20140404:20140406 Haskell Hackathon in New York http://www.haskell.org/pip
 DAILY:20140710:20140725 Hacks/Hackers Berlin is having something in here.
 20140714 csv conf in Berlin I think
 DAILY:20140715:20140718 OKFestival in Berlin http://2014.okfestival.org/
-DAILY:20140721:20140727 EuroPython
 DAILY:20140728:20140802 YRS Festival of Code, University of Plymouth
 DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russia (17-25th of August 2014) - http://ses.ikso.net/2014/ru/
 DAILY:20141001:20141030 Software Freedom Kosova is somewhere in here.
-DAILY:20140725:20140727 PyData Berlin http://pydata.org/berlin2014/cfp/
 20140327 9:00 AM to 4:00 PM (EDT) https://www.eventbrite.com/event/10753292387 Energy Education Data Jam, Johns Hopkins University - Washington DC Center, 1717 Massachusetts Avenue Northwest
 20140331 6:30 PM to 8:30 PM, http://www.meetup.com/DataKind-NYC/events/169590012/, Pivotal Labs, 625 Avenue of Americas, 2nd Floor
 DAILY:20140404:20140412 Philly Tech Week (http://2014.phillytechweek.com/events)
@@ -130,3 +128,4 @@ WED:20140618:20140702 Phone call with Betsy & al. 4 pm ET, 3 pm CT, 12 pm UTC
 20140721 Call with Joel at some point
 20140714 Meeting with Joel in my evening, tell him time
 20140714 Arrange some sort of hang-out with Annabel and Felienne and Pernilla, CSV & al.
+20140725 2 pm ET Sierra Club VLAC (641) 715-3300 790338#
