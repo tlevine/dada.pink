@@ -33,3 +33,5 @@ DAILY:20140518:20140519 When I go home, redo the backup now that I've mounted th
 20140617 Submit bank payment requests https://strequest.worldbank.org/
 20140617 Download things that errored in my mover log
 20140727 Report with Ontodia is due.
+20140713 Run the detector for Ontodia, and tidy up the report for INT.
+20140713 Push many commits from my laptop
