@@ -1,0 +1,5 @@
+Convert kramdown classes.
+
+    sed -i 's/^!\[\(.*\)\](\(.*\)){:\.wide}/<img src="\2" alt="\1" class="wide" \/>/' */index.*
+
+
