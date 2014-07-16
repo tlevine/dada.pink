@@ -1,5 +1,7 @@
-Convert kramdown classes.
+Convert kramdown classes
 
     sed -i 's/^!\[\(.*\)\](\(.*\)){:\.wide}/<img src="\2" alt="\1" class="wide" \/>/' */index.*
 
+when they're inside links
 
+    sed -i 's/\[!\[\(.*\)\](\(.*\)){:\.wide}\](\(.*\))/<a href="\3"><img src="\2" alt="\1" class="wide" \/><\/a>/' */index.*
