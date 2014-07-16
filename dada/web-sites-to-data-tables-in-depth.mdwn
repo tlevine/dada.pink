@@ -372,6 +372,91 @@ information about the dataset into the database. The test for
         ]
         n.assert_list_equal(documents, expected_documents)
 
+## Command-line interface
+Write some sort of command-line interface. I tend to write an
+`argparse.ArgumentParser` and then to add file to the `scripts`
+argument in `setup.py`. Here's the parser I defined in
+[`main.py`](http://small.dada.pink/wbcontractawards/wbcontractawards/main.py)
+of [wbcontractawards](https://pypi.python.org/pypi/wbcontractawards).
+
+    parser = argparse.ArgumentParser('Get data about contracts for projects funded by the World Bank.')
+    parser.add_argument(dest = 'unit', metavar = '[unit]', choices = ['bids', 'contracts'])
+
+And here's the function that wraps up everything as a command-line interface.
+
+    def cli():
+        emit(sys.stdout, parser.parse_args().unit)
+
+[`bin/wbcontractawards`](http://small.dada.pink/wbcontractawards/bin/wbcontractawards)
+just calls that function.
+
+    #!/usr/bin/env python3
+    import wbcontractawards.main
+    wbcontractawards.main.cli()
+
+And here's the corresponding
+[`setup.py`](http://small.dada.pink/wbcontractawards/setup.py).
+
+    from distutils.core import setup
+    
+    setup(name='wbcontractawards',
+          author='Thomas Levine',
+          author_email='_@thomaslevine.com',
+          description='Get information about World Bank contract awards',
+          url='https://github.com/tlevine/wbcontractawards',
+          packages=['wbcontractawards'],
+          install_requires = ['lxml','picklecache','requests'],
+          tests_require = ['nose'],
+          scripts = ['bin/wbcontractawards'],
+          version='0.0.4',
+          license='AGPL',
+    )
+
+Note the `scripts` field.
+
+## Python packages
+Package your stuff as standard packages of some sort, and put them on a
+repository that you don't have to worry about. I tend to write Python
+packages and to put them on PyPI. This way, I don't have to remember were
+I put things or how they work; I just look the up on PyPI.
+
+Here's an easy way to make a Python package.
+
+    # Make a new directory for your package.
+    # Inside that directory, make another directory of the same name.
+    # Inside that directory, make a directory called "test".
+    mkdir -p mypackage/mypackage/test
+
+    # Also make a "bin" directory for your scripts.
+    mkdir -p mypackage/bin
+
+    # Create __init__.py files in package directories.
+    touch mypackage/mypackage/__init__.py
+
+    # In the outer directory, copy a setup.py file from one of my packages
+    cp ~/picklecache/setup.py mypackage/setup.py
+
+    # Write your computer code in the inner directory.
+    vim mypackage/mypackage/download.py
+
+    # Write your tests in the test directory.
+    vim mypackage/mypackage/test/test_download.py
+
+Before you have installed the package, you can check that the executable
+works like so.
+
+    cd mypackage # outer directory
+    PYTHONPATH=. ./bin/the-executable
+
+Then try installing the package
+
+    cd mypackage # outer directory
+    pip install .
+
+Once everything seems to be working, upload it to PyPI.
+
+    python setup.py register sdist upload
+
 ## Why not other things
 I've done things lots of other ways and have settled on this one. Why?
 
