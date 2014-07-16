@@ -81,7 +81,7 @@ datasets. For example, here I filter the list of
 [Public Works Volunteer Opportunities](https://data.oaklandnet.com/Environmental/Public-Works-Volunteer-Opportunities/sduu-bfki)
 to include only opportunities on July 29.
 
-![Filtering on date July 29](filter.png){:.wide}
+<img src="filter.png" alt="Filtering on date July 29" class="wide" />
 
 [Here](https://data.oaklandnet.com/Environmental/Volunteer-Opportunities-on-July-29/vyhb-nqtw)'s the resulting filtered view.
 
@@ -105,7 +105,7 @@ but we don't need to know about them for now.
 ### Tables
 {:#term-table}
 
-![A table family, containing a dataset and several filtered views, charts and maps](family.jpg){:.wide}
+<img src="family.jpg" alt="A table family, containing a dataset and several filtered views, charts and maps" class="wide" />
 <!-- Icons from https://explore.data.gov/stylesheets/images/icons/type_icons_30.png?1 -->
 
 There is also a concept of a **table**, and
@@ -281,9 +281,9 @@ most of the hits/downloads came from the source dataset.
 If they are far apart, most
 hits/downloads came from filtered views, charts and maps.
 
-![Hits by dataset family](hits.png){:.wide}
+<img src="hits.png" alt="Hits by dataset family" class="wide" />
 
-![Downloads by dataset family](downloads.png){:.wide}
+<img src="downloads.png" alt="Downloads by dataset family" class="wide" />
 
 This information might tell us something about
 how people like to use the data. Perhaps people working with the World Bank

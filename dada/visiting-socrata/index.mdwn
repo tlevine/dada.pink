@@ -13,7 +13,7 @@ They've been doing this for about 19 months and have only missed two weeks!
 
 Of secondary importance was my discovery of a glowing ampersand.
 
-![Tom standing in front of a glowing red ampersand in a park](ampersand.jpg){:.wide}
+<img src="ampersand.jpg" alt="Tom standing in front of a glowing red ampersand in a park" class="wide" />
 
 ([I like ampersands](http://thomaslevine.com/!/ampersands/).)
 

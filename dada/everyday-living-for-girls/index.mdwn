@@ -102,13 +102,13 @@ Here's the reference, in $$Bib\TeX$$, so you can find the book.
 ## Yet-to-be-transcribed
 Here are some other awesome pages for which I have pictures but no transcription.
 
-![What I cost per year](pictures/IMG_4342.JPG){:.wide}
-![What I cost per year, unfolded](pictures/IMG_4343.JPG){:.wide}
-![Adequate dinners](pictures/IMG_4347.JPG){:.wide}
-![Employment](pictures/IMG_4348.JPG){:.wide}
-![Wise use of leisure](pictures/IMG_4351.JPG){:.wide}
-![Good citizens provide parks where the natural beauty of the out-of-doors is preserved for permanent enjoyment.](pictures/IMG_4352.JPG){:.wide}
-![Body odors and cleanliness](pictures/IMG_4353.JPG){:.wide}
-![Care of the hair](pictures/IMG_4354.JPG){:.wide}
-![When packing a lunch](pictures/IMG_4356.JPG){:.wide}
-![High school boys and girls may prefer to buy their milk at school.](pictures/IMG_4357.JPG){:.wide}
+<img src="pictures/IMG_4342.JPG" alt="What I cost per year" class="wide" />
+<img src="pictures/IMG_4343.JPG" alt="What I cost per year, unfolded" class="wide" />
+<img src="pictures/IMG_4347.JPG" alt="Adequate dinners" class="wide" />
+<img src="pictures/IMG_4348.JPG" alt="Employment" class="wide" />
+<img src="pictures/IMG_4351.JPG" alt="Wise use of leisure" class="wide" />
+<img src="pictures/IMG_4352.JPG" alt="Good citizens provide parks where the natural beauty of the out-of-doors is preserved for permanent enjoyment." class="wide" />
+<img src="pictures/IMG_4353.JPG" alt="Body odors and cleanliness" class="wide" />
+<img src="pictures/IMG_4354.JPG" alt="Care of the hair" class="wide" />
+<img src="pictures/IMG_4356.JPG" alt="When packing a lunch" class="wide" />
+<img src="pictures/IMG_4357.JPG" alt="High school boys and girls may prefer to buy their milk at school." class="wide" />

@@ -174,7 +174,7 @@ each dot is a data [table](/!/socrata-genealogies#term-table)
 inside of a data portal,
 and the dots are colored based on whether the data were ever updated.
 
-![](figure/summary.png){:.wide}
+<img src="figure/summary.png" alt="" class="wide" />
 
 
 This plot shows us that older datasets are more likely to have been
@@ -182,7 +182,7 @@ updated. It also subtly points out that different data portals have
 different amounts of datasets and that they have grown at different
 rates over time. Let's plot that more clearly.
 
-![](figure/dataset_counts_over_time.png){:.wide}
+<img src="figure/dataset_counts_over_time.png" alt="" class="wide" />
 
 
 Data portals grow over time, often in sudden bursts. Two notes about
@@ -195,7 +195,7 @@ that plot:
 
 Let's also relate the update dates to the publication dates.
 
-![](figure/up_to_date.png){:.wide}
+<img src="figure/up_to_date.png" alt="" class="wide" />
 
 
 It looks like most data were "updated" only within an hour of their
@@ -287,7 +287,7 @@ I also had to decide whether to use `rowsUpdatedAt` or `viewLastModified`
 as the date of update. I don't really know what either of these means, so
 let's just try both.
 
-![](figure/robustness.png){:.wide}
+<img src="figure/robustness.png" alt="" class="wide" />
 
 
 The main thing I notice is that the value of this statistic
@@ -304,7 +304,7 @@ lines (few datasets) jumping up and down very suddenly, like for
 a large impact on the value of our updatedness measure (the height of the line).
 This is not interesting, and the plot below should explain why.
 
-![](figure/small_samples.png){:.wide}
+<img src="figure/small_samples.png" alt="" class="wide" />
 
 
 In these two plots, we're only looking at `data.cms.gov`. The first
@@ -334,7 +334,7 @@ in `rowsUpdatedAt` that is more than one day greater than the value
 in `publicationDate`.
 
 
-![](figure/any_update.png){:.wide}
+<img src="figure/any_update.png" alt="" class="wide" />
 
 
 Keep my [definition of "update"](#term-update) in mind;
@@ -351,7 +351,7 @@ contained within only 29
 portals, out of the 58
 that I looked at. Here are the updates over time by portal.
 
-![](figure/updates_over_time_by_portal.png){:.wide}
+<img src="figure/updates_over_time_by_portal.png" alt="" class="wide" />
 
 
 A few datasets are still updated today (indicated by the tiny bumps
@@ -369,7 +369,7 @@ of the plot were published and updated a long time ago. Datasets towards
 the top-right were published and updated recently. Datasets towards the
 bottom-right were published a long time ago and updated recently.
 
-![](figure/publish_v_update.png){:.wide}
+<img src="figure/publish_v_update.png" alt="" class="wide" />
 
 
 I didn't really look into why there were so many updates a long
@@ -387,19 +387,19 @@ I selected the datasets that were uploaded before 2013 and have
 been updated during 2013; they are represented the ones contained
 by the rectangle in the plot below.
 
-![](figure/publish_v_update_2013.png){:.wide}
+<img src="figure/publish_v_update_2013.png" alt="" class="wide" />
 
 
 There are, in fact, only 13 such datasets,
 and they're in 8 portals.
 
-![](figure/updates_2013_hist.png){:.wide}
+<img src="figure/updates_2013_hist.png" alt="" class="wide" />
 
 
 Here they are by url.
 
 
-![](figure/updates_2013_url.png){:.wide}
+<img src="figure/updates_2013_url.png" alt="" class="wide" />
 
 
 I was wondering whether anything was special about these. Maybe
@@ -407,7 +407,7 @@ they have a lot of records or get downloaded a lot? For both of
 these statistics, I'm using the total across all [views](/!/socrata-genealogies#term-view) in the
 [table/family](/!/socrata-genealogies#term-table), not just the value for that particular view.
 
-![](figure/updates_2013_specialness.png){:.wide}
+<img src="figure/updates_2013_specialness.png" alt="" class="wide" />
 
 
 I didn't find anything special about these, but I didn't look very hard.
@@ -440,7 +440,7 @@ It turns out that data that have been updated tend to get more downloads than
 data that data that haven't. (This again uses the family/table totals rather
 that the values for the particular views.)
 
-![](figure/update_download.png){:.wide}
+<img src="figure/update_download.png" alt="" class="wide" />
 
 
 To give you some more concrete numbers, the median download count was
@@ -454,7 +454,7 @@ There is a similar relationship with number of records.
 It turns out that data that have been updated tend to contain more records than
 data that data that haven't.
 
-![](figure/update_nrow.png){:.wide}
+<img src="figure/update_nrow.png" alt="" class="wide" />
 
 
 The median record count was
@@ -516,7 +516,7 @@ be updated, the data portal software could make us aware of which datasets
 need updating. Aside from comparing datasets to datasets, we could compare
 other groupings, like departments.
 
-![](mockups/dataset.jpg){:.wide}
+<img src="mockups/dataset.jpg" alt="" class="wide" />
 
 Rather than just presenting a bunch of raw statistics as in the previous
 sketch, we could aggregate these so that you can look at just one thing
@@ -524,7 +524,7 @@ to get a quick idea of whether a dataset or group of datasets is in good
 shape. For example, we could have icons for the general health of a dataset:
 Sad face for bad, smily face for good, and big smiley face for awesome.
 
-![](mockups/datasets.jpg){:.wide}
+<img src="mockups/datasets.jpg" alt="" class="wide" />
 
 We could present much more detail about the updates to a dataset.
 Rather than simply saying the date at which it was last updated, we could
@@ -533,14 +533,14 @@ of the dataset. (Actually, it's super important to have access to old
 versions, but I won't get into that now.) Perhaps you could put multiple
 datasets or groups of datasets on this timeline and compare them.
 
-![A sketch of a timeline of dataset updates](mockups/timeline.jpg){:.wide}
+<img src="mockups/timeline.jpg" alt="A sketch of a timeline of dataset updates" class="wide" />
 
 Also, we can present specific action items. I don't know exactly what
 these would be, but they might include datasets that are out-of-date
 and datasets that will soon be out-of-date. Imagine the following table
 being presented in some administration page in a data catalog.
 
-![](mockups/notifications.jpg){:.wide}
+<img src="mockups/notifications.jpg" alt="" class="wide" />
 
 ## You get what you measure
 I thought this article was going to be about which datasets are more up-to-date,

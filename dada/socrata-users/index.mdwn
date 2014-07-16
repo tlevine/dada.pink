@@ -49,7 +49,7 @@ Some of these JSON files are duplicates (because of
 so there are only about 50,000 unique views.
 (And the other 30,000 are exact duplicates, so deduplicating was easy.)
 
-![Diagram indicating that each view has one owner and one table author](user-model.jpg){:.wide}
+<img src="user-model.jpg" alt="Diagram indicating that each view has one owner and one table author" class="wide" />
 
 Among the many fields in each JSON file are
 fields are two fields related to the people who interacted with that view.
@@ -126,13 +126,13 @@ The user data frame schema looks like this.
 ### Missing data
 Not everyone had all of the fields.
 
-![plot of chunk missingness](figure/missingness.png){:.wide}
+<img src="figure/missingness.png" alt="plot of chunk missingness" class="wide" />
 
 In particular, hardly anyone had flags, a profile image, rights or disabled privileges.
 
 ### How many views do people have?
 
-![plot of chunk n.views](figure/n.views.png){:.wide}
+<img src="figure/n.views.png" alt="plot of chunk n.views" class="wide" />
 
 Most users (7790 to be exact) have exactly one view.
 Actually, there are probably even more with no views, but I don't have the
@@ -148,7 +148,7 @@ uploaded dataset, before any view filtering. A table can have many views,
 and a view has only one table.) In this plot, I colored administrators and
 publishers red.
 
-![plot of chunk n_tables](figure/n_tables.png){:.wide}
+<img src="figure/n_tables.png" alt="plot of chunk n_tables" class="wide" />
 
 That point off to the right is again the Data.gov Program Management Office.
 
@@ -159,7 +159,7 @@ creates a new view but no new table. Thus, the difference between number of
 tables and number of views tells us how many derived views people have made.
 I think.
 
-![plot of chunk n_derived](figure/n_derived.png){:.wide}
+<img src="figure/n_derived.png" alt="plot of chunk n_derived" class="wide" />
 
 It also turns out that 65 users have more tables than views. This appears to be
 mostly publishers. Maybe this is something about how the import API works that I
@@ -211,7 +211,7 @@ if and only if they work for data publishers. To investigate that,
 let's look at the number of views that each person owns by the different
 roles of user.
 
-![plot of chunk views_by_role](figure/views_by_role.png){:.wide}
+<img src="figure/views_by_role.png" alt="plot of chunk views_by_role" class="wide" />
 
 It looks like publishers and administrators make more views. Big surprise.
 Moreover, few people have roles, and people with roles tend to have more data
@@ -220,7 +220,7 @@ are data publishers. To test that a bit more precisely, let's compare that to
 my other suspected indicator of data-publisher-ness: Whether people have more
 tables than views. Here's a plot of that.
 
-![plot of chunk roleName_plot](figure/roleName_plot.png){:.wide}
+<img src="figure/roleName_plot.png" alt="plot of chunk roleName_plot" class="wide" />
 
 If we want to get all statistical about it, we can run
 Fisher's Exact test.
@@ -427,11 +427,11 @@ I looked at a few specific Socrata users who are doing interesting things,
 but let's look a bit more broadly. The histogram below shows how many views
 users have created. Here, I'm including people without profile pictures.
 
-![plot of chunk citizen_views1](figure/citizen_views1.png){:.wide}
+<img src="figure/citizen_views1.png" alt="plot of chunk citizen_views1" class="wide" />
 
 Here it is again, but leaving out the top ten users to make it easier to see.
 
-![plot of chunk citizen_views2](figure/citizen_views2.png){:.wide}
+<img src="figure/citizen_views2.png" alt="plot of chunk citizen_views2" class="wide" />
 
 As you might expect, most people make only one view.
 In fact, there are probably even more users with no views.

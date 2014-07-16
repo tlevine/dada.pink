@@ -92,11 +92,11 @@ but that would be a lot of work. Other ideas
 
 [Version control commits](http://yihui.name/en/2009/10/50000-revisions-committed-to-r/)
 
-![R commits](../data-about-open-data-talk-december-2-2013/r-commits.gif){:.wide}
+<img src="../data-about-open-data-talk-december-2-2013/r-commits.gif" alt="R commits" class="wide" />
 
 [Tweets](https://hackpad.com/Measuring-Socioeconomic-Indicators-in-Arabic-Tweets-IZ5ByP2LvIt)
 
-![Bar plot of Tweet times](../data-about-open-data-talk-december-2-2013/tweet-times.jpg){:.wide}
+<img src="../data-about-open-data-talk-december-2-2013/tweet-times.jpg" alt="Bar plot of Tweet times" class="wide" />
 
 If the person is me, we can use shell history activity.
 
@@ -254,7 +254,7 @@ A statistic is a single number that describes a bunch of numbers.
 
 I create statistics about each dataset.
 
-![](/!/dataset-as-datapoint/dataset-features.jpg){:.wide}
+<img src="/!/dataset-as-datapoint/dataset-features.jpg" alt="" class="wide" />
 
 ### Putting them in a spreadsheet
 Combining the metadata and the new dataset statistics, I create
@@ -309,7 +309,7 @@ inquiry. For example, if I want to know where in Austin to build a house,
 I don't necessarily just data from the City of Austin; I might want data from
 other cities, from the county, or from the state.
 
-![Diagram about siloed open data portals and some layer to un-silo them](../data-about-open-data-talk-december-2-2013/unsilo.jpg){:.wide}
+<img src="../data-about-open-data-talk-december-2-2013/unsilo.jpg" alt="Diagram about siloed open data portals and some layer to un-silo them" class="wide" />
 
 I made a [rather simple site](http://openprism.thomaslevine.com) to demonstrate this idea.
 
@@ -336,11 +336,11 @@ You can see my alternative search approaches as ways of guessing metadata.
 I [looked at](http://thomaslevine.com/!/open-data-licensing/)
 the licenses that different datasets have.
 
-![Licenses across all portals](/!/open-data-licensing/p2.png){:.wide}
+<img src="/!/open-data-licensing/p2.png" alt="Licenses across all portals" class="wide" />
 
 Most data catalogs either have a license on everything or a license on nothing.)
 
-![Bar graph of proportion of datasets](/!/open-data-licensing/p1.png){:.wide}
+<img src="/!/open-data-licensing/p1.png" alt="Bar graph of proportion of datasets" class="wide" />
 
 [Licensing is important because it reduces uncertainty.](http://opendatacommons.org/faq/)
 
@@ -353,20 +353,20 @@ Socrata has some date fields in the metadata, so I could look at the update beha
 
 First, hardly any datasets ever get updated.
 
-![Hardly any datasets get updated](/!/data-updatedness/figure/any_update.png){:.wide}
+<img src="/!/data-updatedness/figure/any_update.png" alt="Hardly any datasets get updated" class="wide" />
 
 Second, the ones that have been updated were mostly updated two years ago.
 There might have been some bulk Socrata migration at the beginning of September 2011.
 
-![Bulk migration?](/!/data-updatedness/figure/publish_v_update.png){:.wide}
+<img src="/!/data-updatedness/figure/publish_v_update.png" alt="Bulk migration?" class="wide" />
 
 Here are the datasets that got published before 2013 and got updated during 2013.
 
-![Old data still kept up-to-date](/!/data-updatedness/figure/publish_v_update_2013.png){:.wide}
+<img src="/!/data-updatedness/figure/publish_v_update_2013.png" alt="Old data still kept up-to-date" class="wide" />
 
 It's only 13 datasets.
 
-![Those 13 datasets, by portal](/!/data-updatedness/figure/updates_2013_url.png){:.wide}
+<img src="/!/data-updatedness/figure/updates_2013_url.png" alt="Those 13 datasets, by portal" class="wide" />
 
 Data are probably being updated thorugh other means,
 
@@ -398,7 +398,7 @@ Basically, people don’t use these charting tools all that much.
 The Socrata metadata indicate the users that updated the data.
 Most of the users in the dataset (7790 to be exact) had made exactly one view.
 
-![](/!/socrata-users/figure/n.views.png){:.wide}
+<img src="/!/socrata-users/figure/n.views.png" alt="" class="wide" />
 
 Actually, there are probably even more with no views, but I don't have the
 data on them. Also, about four-fifths of Socrata's data is private, (Several
@@ -436,7 +436,7 @@ not worry about including data visualization things in the catalog.
 Links can go [dead](/404.html). I looked at dataset liveliness for Socrata
 and CKAN.
 
-![](http://thomaslevine.com/!/zombie-links/figure/p_prop_links.png){:.wide}
+<img src="http://thomaslevine.com/!/zombie-links/figure/p_prop_links.png" alt="" class="wide" />
 
 In Socrata, datasets tend to be stored in the Socrata application and strongly
 associated with the entity on the data portal. All of these internally stored
@@ -451,9 +451,9 @@ This difference totally makes sense if you look at the processes for
 
 We can also see what sorts of problems are arising.
 
-![](/!/zombie-links/figure/p_no_redirects.png){:.wide}
+<img src="/!/zombie-links/figure/p_no_redirects.png" alt="" class="wide" />
 
-![](/!/zombie-links/figure/storage.png){:.wide}
+<img src="/!/zombie-links/figure/storage.png" alt="" class="wide" />
 
 Read more [here](http://thomaslevine.com/!/zombie-links/#new-results)
 

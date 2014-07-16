@@ -521,7 +521,7 @@ The datasets are also color-coded based on whether the companies are included
 in the Preview set.
 
 
-![Preview companies are questionnaire responses](figure/preview_v_candidates.png){:.wide}
+<img src="figure/preview_v_candidates.png" alt="Preview companies are questionnaire responses" class="wide" />
 
 Note that the entire left bar is blue and the entire right bar is red;
 this means that all of the survey companies are in the preview set and

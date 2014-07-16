@@ -2,15 +2,15 @@
 
 I like ampersands.
 
-![Pink clay ampersand](clay.jpg){:.wide}
+<img src="clay.jpg" alt="Pink clay ampersand" class="wide" />
 
-![Ampersand made of blue pen caps](pen-caps.jpg){:.wide}
+<img src="pen-caps.jpg" alt="Ampersand made of blue pen caps" class="wide" />
 
-![Ampersand made of salt](salt.jpg){:.wide}
+<img src="salt.jpg" alt="Ampersand made of salt" class="wide" />
 
-![Me on a boat wearing an ampersand shirt](shirt.jpg){:.wide}
+<img src="shirt.jpg" alt="Me on a boat wearing an ampersand shirt" class="wide" />
 
-![Ampersand in red watercolor](watercolor.jpg){:.wide}
+<img src="watercolor.jpg" alt="Ampersand in red watercolor" class="wide" />
 
 <!-- https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-frc3/4583_91474306301_6167684_n.jpg?dl=1 -->
-![Me at Bubble Battle with an ampersand on my bubble hat](bubble-battle.jpg){:.wide}
+<img src="bubble-battle.jpg" alt="Me at Bubble Battle with an ampersand on my bubble hat" class="wide" />

@@ -39,7 +39,7 @@ I collected data about dead links from CKAN and
 [Socrata](http://www.socrata.com/open-data-portal/) catalogs;
 it went a bit like this.
 
-![Diagram of the data collection process](data-collection.png){:.wide}
+<img src="data-collection.png" alt="Diagram of the data collection process" class="wide" />
 
 The next few sections explain this a bit more.
 
@@ -128,7 +128,7 @@ That's a big difference.
 Rather than looking at just whether there are any externally stored datasets at all,
 let's now look at what proportion of the datasets are stored externally.
 
-![Non-links, live links, and dead links across data catalog](figure/software_all_types.png){:.wide}
+<img src="figure/software_all_types.png" alt="Non-links, live links, and dead links across data catalog" class="wide" />
 
 Whether a dataset is stored internally or externally is related to whether it
 stays alive. This is a plot of what proportion of datasets on Socrata are stored
@@ -141,7 +141,7 @@ Socrata data catalogs with more externally stored data tend to have more dead li
 
 The above plot was for just Socrata; let's see what happens when we add CKAN.
 
-![CKAN catalogs have more externally stored datasets and more dead datasets](figure/prop_links.png){:.wide}
+<img src="figure/prop_links.png" alt="CKAN catalogs have more externally stored datasets and more dead datasets" class="wide" />
 
 CKAN catalogs tend to have more externally stored data. When we add CKAN, the
 association between externally stored data and dead links continues.
@@ -150,7 +150,7 @@ association between externally stored data and dead links continues.
 Here's another way of seeing the above relationship. Let's look at only the externally
 stored datasets, and check what proportion of those are alive.
 
-![Of only the external links, what proportion of datasets are alive?](figure/software_only_links.png){:.wide}
+<img src="figure/software_only_links.png" alt="Of only the external links, what proportion of datasets are alive?" class="wide" />
 
 *Catalogs with no external links appear as empty bars.* This is ambiguous,
 because empty bars could also mean that there are external links but they're
@@ -175,24 +175,24 @@ their respective web interfaces.
 In CKAN, this is the screen you get when you are specifying the data file
 for your dataset.
 
-!["1. Create dataset" page](ckan-1.png){:.wide}
+<img src="ckan-1.png" alt=""1. Create dataset" page" class="wide" />
 
 The first screen says nothing about how to enter the data, but the second one does.
 
-!["2. Additional Data" page](ckan-2.png){:.wide}
+<img src="ckan-2.png" alt=""2. Additional Data" page" class="wide" />
 
 You enter the URL of a file or an API,
 
-![Filling in the "Resource" field with a "Link to an API"](ckan-3.png){:.wide}
+<img src="ckan-3.png" alt="Filling in the "Resource" field with a "Link to an API"" class="wide" />
 
 or you upload a file.
 
-![The "File Upload" file picker window](ckan-4.png){:.wide}
+<img src="ckan-4.png" alt="The "File Upload" file picker window" class="wide" />
 
 After you upload the file, the box gets populated with the URL to which that
 has been uploaded. (This URL is inside the CKAN FileStore.)
 
-![Filling in the "Resource" field with a "Upload a file"](ckan-5.png){:.wide}
+<img src="ckan-5.png" alt="Filling in the "Resource" field with a "Upload a file"" class="wide" />
 
 The first two cases lead to external storage, and
 the third case leads to internal storage.
@@ -217,7 +217,7 @@ While externally stored data exist on Socrata, I didn't find any way of creating
 such a dataset with the Socrata website. Here's what creating a new dataset on 
 Socrata looks like.
 
-!["How would you like to create your new Dataset?" page, with three options: "Design from Scratch", "Import a Data File" and "Upload a Non-Data File"](socrata-start.png){:.wide}
+<img src="socrata-start.png" alt=""How would you like to create your new Dataset?" page, with three options: "Design from Scratch", "Import a Data File" and "Upload a Non-Data File"" class="wide" />
 
 If you choose to "Design from Scratch", you wind up entering the data through
 the table interface in Socrata; after you click through a few screens, you get
@@ -227,25 +227,25 @@ an editor like this.
 
 If you choose to "Import a Data File", you see this.
 
-!["Where is the file located" page, with two options: "On my computer" and "On the internet"](socrata-1.png){:.wide}
+<img src="socrata-1.png" alt=""Where is the file located" page, with two options: "On my computer" and "On the internet"" class="wide" />
 
 Because I was looking for a place to add externally stored data, I clicked on
 "On the Internet". I entered a file into this box, and the file got downloaded
 to Socrata.
 
-!["Please indicate where your data file lives.", with a text input box containing the URL "http://chainsaw.thomaslevine.com/aurora.csv"](socrata-2.png){:.wide}
+<img src="socrata-2.png" alt=""Please indicate where your data file lives.", with a text input box containing the URL "http://chainsaw.thomaslevine.com/aurora.csv"" class="wide" />
 
 Then I got this schema editor,
 
-![Display of column names and types for the uploaded dataset, with buttons for editing the information](socrata-3.png){:.wide}
+<img src="socrata-3.png" alt="Display of column names and types for the uploaded dataset, with buttons for editing the information" class="wide" />
 
 and the data got imported to the internal storage.
 
-![The same spreadsheet-like editor as above, but with the aurora.csv data](socrata-5.png){:.wide}
+<img src="socrata-5.png" alt="The same spreadsheet-like editor as above, but with the aurora.csv data" class="wide" />
 
 The non-data file approach also leads to internal storage.
 
-!["Please choose a file to upload" page that looks nearly identical to the "Where is the file located" page](socrata-non-data.png){:.wide}
+<img src="socrata-non-data.png" alt=""Please choose a file to upload" page that looks nearly identical to the "Where is the file located" page" class="wide" />
 
 I don't even see any documentation as to how to do this
 [with the API](http://dev.socrata.com/publishers/importing).

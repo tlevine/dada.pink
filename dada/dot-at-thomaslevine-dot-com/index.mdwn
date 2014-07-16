@@ -27,17 +27,17 @@ but some don't like it.
 
 It works in [Mailman](http://www.gnu.org/software/mailman/).
 
-!["A confirmation message has been sent..." message](mailman.png){:.wide}
+<img src="mailman.png" alt=""A confirmation message has been sent..." message" class="wide" />
 
 When I try to change my email address in
 [Facebook](https://facebook.com/perluette),
 it says I "must provide a valid email."
 
-!["You must provide a valid email." error message](facebook.png){:.wide}
+<img src="facebook.png" alt=""You must provide a valid email." error message" class="wide" />
 
 It works on [Twitter](https://twitter.com/thomaslevine).
 
-!["A confirmation email was sent" success message](twitter.png){:.wide}
+<img src="twitter.png" alt=""A confirmation email was sent" success message" class="wide" />
 
 [Pinterest](https://pinterest.com/perluette) says it's "not a valid email format".
 
@@ -56,11 +56,11 @@ But the [Arch User Repository](https://aur.archlinux.org) doesn't.
 
 [data.gov.uk](https://data.gov.uk) allows my address.
 
-!["You will now receive an email..." message](data-uk.png){:.wide}
+<img src="data-uk.png" alt=""You will now receive an email..." message" class="wide" />
 
 I couldn't test [data.gov](https://data.gov).
 
-!["Due to the lapse in federal government funding, this website is not available"](data-us.png){:.wide}
+<img src="data-us.png" alt=""Due to the lapse in federal government funding, this website is not available"" class="wide" />
 
 It's not just websites that are getting it wrong; some mail servers don't
 recognize it!

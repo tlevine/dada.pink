@@ -107,7 +107,7 @@ a table where and columns are records and rows are variables. Or you could
 make a table that includes a few rows that are statistics about the other rows.
 I get confused when they I have tables like this.
 
-![Tom gets confused when data aren't tidy](untidy.jpg){:.wide}
+<img src="untidy.jpg" alt="Tom gets confused when data aren't tidy" class="wide" />
 
 There's actually a name for this sort of data table; it's called *untidy*
 data, and the first thing that I do when analyzing such a data table is

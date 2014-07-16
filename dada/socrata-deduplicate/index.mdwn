@@ -18,7 +18,7 @@ I finally fixed that, so now I have more accurate statistics on portals.
 
 Quick preview:
 
-![Histogram of dataset counts by portal](histogram.png){:.wide}
+<img src="histogram.png" alt="Histogram of dataset counts by portal" class="wide" />
 
 (I'll explain later.)
 
@@ -79,11 +79,11 @@ I plotted two graphs again to get a feel for how this changes things.
 ### Dataset counts by portal
 First, here's the graph of dataset counts from the new data.
 
-![Histogram of dataset counts by portal](histogram.png){:.wide}
+<img src="histogram.png" alt="Histogram of dataset counts by portal" class="wide" />
 
 My [first version](/!/socrata-summary/#sizes), also below, includes both types of deplication.
 
-![Old histogram](/!/socrata-summary/figure/big_portals_datasets.png){:.wide}
+<img src="/!/socrata-summary/figure/big_portals_datasets.png" alt="Old histogram" class="wide" />
 
 The [version that uses `data.json`](/!/socrata-formats/#how-many-datasets), also below,
 doesn't have the derived-view duplication, but it does have the federation duplication.
@@ -93,7 +93,7 @@ doesn't have the derived-view duplication, but it does have the federation dupli
 ### Dataset creation dates
 I also plotted dataset creation dates over time.
 
-![Dataset creation over time](dates.png){:.wide}
+<img src="dates.png" alt="Dataset creation over time" class="wide" />
 
 I hadn't made a plot quite like this before, but the issue of duplication
 has turned up in other plots about dataset creation dates, like in the

@@ -93,20 +93,20 @@ Data from the federal said "Census". And liquor license data said either
 In the plot below, I map out the different kinds of datasets, whether
 they are PDF files and whether they have public domain licenses.
 
-![plot of chunk kinds_counts](figure/kinds_counts.png){:.wide}
+<img src="figure/kinds_counts.png" alt="plot of chunk kinds_counts" class="wide" />
 
 
 Here's the same plot but with proportions instead of counts. This makes
 the small bars more apparent.
 
-![plot of chunk kinds_prop](figure/kinds_prop.png){:.wide}
+<img src="figure/kinds_prop.png" alt="plot of chunk kinds_prop" class="wide" />
 
 
 I didn't manage to get it much more precise than this, but I did find that
 the uncategorized datasets containing the word "Missouri" tended not to
 have a license.
 
-![plot of chunk says_missouri](figure/says_missouri.png){:.wide}
+<img src="figure/says_missouri.png" alt="plot of chunk says_missouri" class="wide" />
 
 ## The merits of explicitly stating that a dataset is in the public domain
 A few years ago, a few open government advocates came up with
@@ -138,7 +138,7 @@ copyright won't apply. This might be okay for parts of the traffic survey
 files. Here's part of a page from
 [this traffic survey](https://data.mo.gov/Traffic/OAKVOLKER-5-HR-2009-A-TMC/6gz3-267n?).
 
-![A data table](OAKVOLKER-5-HR-2009-A-TMC-table.png){:.wide}
+<img src="OAKVOLKER-5-HR-2009-A-TMC-table.png" alt="A data table" class="wide" />
 
 The page above just has a table of numbers. This might count as facts, so
 it is possible that it would not be original enough for copyright to apply.

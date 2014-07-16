@@ -45,7 +45,7 @@ with licenses, by portal. Portals on the right of the graph
 specified licenses for most of their datasets, and portals on
 the left specified licenses for few of their datasets.
 
-![Do portals indicate the licenses of their datasets?](p1.png){:.wide}
+<img src="p1.png" alt="Do portals indicate the licenses of their datasets?" class="wide" />
 
 I was actually slightly surprised that people had set licenses
 at all.
@@ -54,7 +54,7 @@ at all.
 Then I looked at what these licenses (after I reduced them to
 a few standard names) were.
 
-![Data license use across 100 portals](p2.png){:.wide}
+<img src="p2.png" alt="Data license use across 100 portals" class="wide" />
 
 As we saw in the previous plot, most datasets don't specify a
 license. They might be specified elsewhere.

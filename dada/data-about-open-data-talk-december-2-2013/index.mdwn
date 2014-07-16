@@ -87,11 +87,11 @@ but that would be a lot of work. Other ideas
 
 [Version control commits](http://yihui.name/en/2009/10/50000-revisions-committed-to-r/)
 
-![R commits](r-commits.gif){:.wide}
+<img src="r-commits.gif" alt="R commits" class="wide" />
 
 [Tweets](https://hackpad.com/Measuring-Socioeconomic-Indicators-in-Arabic-Tweets-IZ5ByP2LvIt)
 
-![Bar plot of Tweet times](tweet-times.jpg){:.wide}
+<img src="tweet-times.jpg" alt="Bar plot of Tweet times" class="wide" />
 
 If the person is me, we can use shell history activity.
 
@@ -285,7 +285,7 @@ Most of the users in the dataset (7790 to be exact) had made exactly one view.
 Actually, there are probably even more with no views, but I don't have the
 data on them.
 
-![](/!/socrata-users/figure/n.views.png){:.wide}
+<img src="/!/socrata-users/figure/n.views.png" alt="" class="wide" />
 
 Similarly, the users who have owned and authored the most tables tend to work
 for either Socrata or clients of Socrata.
@@ -323,7 +323,7 @@ two broad categories of issues related to this.
 
 Let's talk about the second one.
 
-![Diagram about siloed open data portals and some layer to un-silo them](unsilo.jpg){:.wide}
+<img src="unsilo.jpg" alt="Diagram about siloed open data portals and some layer to un-silo them" class="wide" />
 
 I made a [rather simple site](http://openprism.thomaslevine.com) to demonstrate this idea.
 
@@ -345,7 +345,7 @@ but we'll make do
 #### What I found
 What are the file formats?
 
-![Bar plot of file formats by portal](/!/socrata-formats/figure/all-formats.png){:.wide}
+<img src="/!/socrata-formats/figure/all-formats.png" alt="Bar plot of file formats by portal" class="wide" />
 
 It turns out that file formats tell you quite a bit about the type of data too.
 Take a look at [Missouri](/!/missouri-data-licensing/)
@@ -363,11 +363,11 @@ these software.
 And then I [looked at](http://thomaslevine.com/!/open-data-licensing/)
 the licenses that different datasets have.
 
-![Licenses across all portals](/!/open-data-licensing/p2.png){:.wide}
+<img src="/!/open-data-licensing/p2.png" alt="Licenses across all portals" class="wide" />
 
 Most data catalogs either have a license on everything or a license on nothing.)
 
-![Bar graph of proportion of datasets](/!/open-data-licensing/p1.png){:.wide}
+<img src="/!/open-data-licensing/p1.png" alt="Bar graph of proportion of datasets" class="wide" />
 
 As I said before, [Missouri](/!/missouri-data-licensing/) is interesting.
 Also, they get this licensing right.
@@ -392,20 +392,20 @@ I could check whether datasets were being updated.
 #### What I found
 First, hardly any datasets ever get updated.
 
-![Hardly any datasets get updated](/!/data-updatedness/figure/any_update.png){:.wide}
+<img src="/!/data-updatedness/figure/any_update.png" alt="Hardly any datasets get updated" class="wide" />
 
 Second, the ones that have been updated were mostly updated two years ago.
 There might have been some bulk Socrata migration at the beginning of September 2011.
 
-![Bulk migration?](/!/data-updatedness/figure/publish_v_update.png){:.wide}
+<img src="/!/data-updatedness/figure/publish_v_update.png" alt="Bulk migration?" class="wide" />
 
 Here are the datasets that got published before 2013 and got updated during 2013.
 
-![Old data still kept up-to-date](/!/data-updatedness/figure/publish_v_update_2013.png){:.wide}
+<img src="/!/data-updatedness/figure/publish_v_update_2013.png" alt="Old data still kept up-to-date" class="wide" />
 
 It's only 13 datasets.
 
-![Those 13 datasets, by portal](/!/data-updatedness/figure/updates_2013_url.png){:.wide}
+<img src="/!/data-updatedness/figure/updates_2013_url.png" alt="Those 13 datasets, by portal" class="wide" />
 
 ## Future things
 The general thing I'm doing here is just studying data about open data.

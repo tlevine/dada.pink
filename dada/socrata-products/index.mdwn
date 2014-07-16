@@ -177,7 +177,7 @@ And to count **forms**, I just looked for datasets with a `displayType` of "form
 ### Summary
 This graph is pretty cool.
 
-![Plot of number of datasets, number of APIs and presence of forms](figure/fancy.png){:.wide}
+<img src="figure/fancy.png" alt="Plot of number of datasets, number of APIs and presence of forms" class="wide" />
 
 The x-axis tells us the number of datasets on a portal, the y-axis tells us the number
 of special APIs, and the color tells us whether the portal contains any
@@ -264,7 +264,7 @@ Note my choice to show the binary variable of whether any forms were on the port
 had more than 50 publically visible forms, which is the threshold for jumping to
 the extended plan (if I'm interpreting things correctly).
 
-![Histogram of form counts](figure/forms.png){:.wide}
+<img src="figure/forms.png" alt="Histogram of form counts" class="wide" />
 
 I think that the "Has form" variable tells us whether the client has purchased
 at least the basic plan of DataCollect, and the number of forms doesn't tell us
@@ -281,7 +281,7 @@ One of them is a super-basic plan (more basic than `Soc-OD-B`)
 for Sacramento, and Sacramento doesn't appear in the present data.
 The other is for Hawaii, and that one does.
 
-![Picture of proposed purchases from Socrata by Hawaii](hawaii.png){:.wide}
+<img src="hawaii.png" alt="Picture of proposed purchases from Socrata by Hawaii" class="wide" />
 
 The plan for the Socrata Open Data Portal is called "Premium",
 which is not one of the standard names; the price list just has

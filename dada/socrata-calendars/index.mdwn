@@ -22,7 +22,7 @@ can serve non-tabular information to some degree.
 There are many ways that a particular dataset could be visualized.
 Socrata has 20 ways. Here they are.
 
-![plot of chunk display-types](figure/display-types.png){:.wide}
+<img src="figure/display-types.png" alt="plot of chunk display-types" class="wide" />
 
 There are a lot of Socrata [views](/!/socrata-genealogies#term-view) that don't
 have display types listed. I don't know what's up with that.
@@ -35,7 +35,7 @@ The calendar is
 [what it sounds like](https://data.oregon.gov/dataset/Public-Meetings-3-Month-View-/4775-yg3b?).
 Some of them are reasonably popular.
 
-![plot of chunk calendar-use](figure/calendar-use.png){:.wide}
+<img src="figure/calendar-use.png" alt="plot of chunk calendar-use" class="wide" />
 
 Let's look at some specific calendars.
 
@@ -55,7 +55,7 @@ with an RSS feed from the Socrata portal. But I don't know how the calendar on S
 It looks like some other portals are using calendars a lot too,
 but usually with several separate calendars instead of one huge one.
 
-![plot of chunk calendar-use-3](figure/calendar-use-3.png){:.wide}
+<img src="figure/calendar-use-3.png" alt="plot of chunk calendar-use-3" class="wide" />
 
 ## The cool thing about Socrata calendars
 The cool thing about Socrata calendars is that you can download them
@@ -86,7 +86,7 @@ Oregon's calendars,
 
 we find out what datasets they visualize,
 
-![plot of chunk search-2](figure/search-2.png){:.wide}
+<img src="figure/search-2.png" alt="plot of chunk search-2" class="wide" />
 
 we look up one of the tables,
 
@@ -115,12 +115,12 @@ them into one R data frame. Now I can have fun.
 Oregon has 3436 meetings.
 Oregon even has one meeting in Washington!
 
-![plot of chunk more-meetings](figure/more-meetings.png){:.wide}
+<img src="figure/more-meetings.png" alt="plot of chunk more-meetings" class="wide" />
 
 ### Day of week
 Meetings are usually in the middle of the week.
 
-![plot of chunk day-of-week](figure/day-of-week.png){:.wide}
+<img src="figure/day-of-week.png" alt="plot of chunk day-of-week" class="wide" />
 
 More precisely, most meetings start in the middle of the week, and
 you'll see later that most meetings last less than a day.
@@ -131,7 +131,7 @@ Let's clean up the dates so we can look at when meetings happen and how long the
 A bunch of the meetings have end times before their start times. Also, about a third of
 the meetings don't have end times, but I'm not going to worry about that for now.
 
-![](figure/meeting-length-1.png){:.wide}
+<img src="figure/meeting-length-1.png" alt="" class="wide" />
 
 We could take a look at them like so.
 
@@ -139,7 +139,7 @@ We could take a look at them like so.
 
 But rather than figuring out what's wrong, let's live life on the edge and just ignore them.
 
-![](figure/meeting-length-2.png){:.wide}
+<img src="figure/meeting-length-2.png" alt="" class="wide" />
 
 A meeting has already been planned for 2020!
 
@@ -178,7 +178,7 @@ a day, a week or a month. I didn't look very hard, but seven clusters seems okay
       scale_x_continuous("", breaks = c()) + scale_color_discrete("Cluster") + 
       labs(title = "Clusters of public meeting durations")
 
-![plot of chunk clusters](figure/clusters.png){:.wide}
+<img src="figure/clusters.png" alt="plot of chunk clusters" class="wide" />
 
 So the meeting durations seem clustered around these durations.
 (The paranthetical durations are the mean durations for the corresponding clusters.)

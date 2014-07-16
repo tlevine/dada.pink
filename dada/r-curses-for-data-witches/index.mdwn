@@ -42,20 +42,20 @@ Instead, you need to give barplot a vector of heights. We can make one with `tab
 
     barplot(table(wellbeing$X24..What.is.your.marital.status.))
 
-![plot of chunk barplot-1](figure/barplot-1.png){:.wide}
+<img src="figure/barplot-1.png" alt="plot of chunk barplot-1" class="wide" />
 
 
 I can't read the bar labels, so let's make the bars horizontal.
 
     barplot(table(wellbeing$X24..What.is.your.marital.status.), horiz = TRUE)
 
-![plot of chunk barplot-2](figure/barplot-2.png){:.wide}
+<img src="figure/barplot-2.png" alt="plot of chunk barplot-2" class="wide" />
 
 Oops. Now the labels are rotated the wrong way. The `las` parameter to `par` handles that.
 
     barplot(table(wellbeing$X24..What.is.your.marital.status.), horiz = TRUE, las = 1)
 
-![plot of chunk barplot-3](figure/barplot-3.png){:.wide}
+<img src="figure/barplot-3.png" alt="plot of chunk barplot-3" class="wide" />
 
 And let's adjust the margin and bar labels so the text doesn't fall off.
 
@@ -63,13 +63,13 @@ And let's adjust the margin and bar labels so the text doesn't fall off.
     par(mar = c(5, 12, 4, 2))
     barplot(table(wellbeing$X24..What.is.your.marital.status.), horiz = TRUE, las = 1)
 
-![plot of chunk barplot-4](figure/barplot-4.png){:.wide}
+<img src="figure/barplot-4.png" alt="plot of chunk barplot-4" class="wide" />
 
 I also want to sort the bars so they're easier to read.
 
     barplot(sort(table(wellbeing$X24..What.is.your.marital.status.), decreasing = TRUE), horiz = TRUE, las = 1)
 
-![plot of chunk barplot-5](figure/barplot-5.png){:.wide}
+<img src="figure/barplot-5.png" alt="plot of chunk barplot-5" class="wide" />
 
 The black border around the bars is noisy; let's remove it.
 
@@ -77,7 +77,7 @@ The black border around the bars is noisy; let's remove it.
       sort(table(wellbeing$X24..What.is.your.marital.status.), decreasing = TRUE),
       horiz = TRUE, las = 1, border = NA)
 
-![plot of chunk barplot-6](figure/barplot-6.png){:.wide}
+<img src="figure/barplot-6.png" alt="plot of chunk barplot-6" class="wide" />
 
 Now the colors don't match. We could just make the bars black,
 
@@ -85,7 +85,7 @@ Now the colors don't match. We could just make the bars black,
       sort(table(wellbeing$X24..What.is.your.marital.status.), decreasing = TRUE),
       horiz = TRUE, las = 1, border = NA, col = 1)
 
-![plot of chunk barplot-7](figure/barplot-7.png){:.wide}
+<img src="figure/barplot-7.png" alt="plot of chunk barplot-7" class="wide" />
 
 but that's a bit harsh. Instead, let's make everything grey.
 
@@ -94,7 +94,7 @@ but that's a bit harsh. Instead, let's make everything grey.
       horiz = TRUE, las = 1, border = NA,
       col = "#666666", fg = "#333333", col.axis = "#333333")
 
-![plot of chunk barplot-8](figure/barplot-8.png){:.wide}
+<img src="figure/barplot-8.png" alt="plot of chunk barplot-8" class="wide" />
 
 And add a title, of course
 
@@ -103,7 +103,7 @@ And add a title, of course
       horiz = TRUE, las = 1, border = NA, col = "#666666", fg = "#333333", col.axis = "#333333", 
       xlab = "Number of residents", main = "Marital statuses of Somerville residents")
 
-![plot of chunk barplot-9](figure/barplot-9.png){:.wide}
+<img src="figure/barplot-9.png" alt="plot of chunk barplot-9" class="wide" />
 
 Summing that up, this is approximately what I think the default barplot function should be.
 
@@ -120,26 +120,26 @@ Here is a strip chart about how people in Somerville are feeling, on a range of 
 
     stripchart(wellbeing$X1...First.of.all..how.happy.do.you.feel.right.now.., method = "jitter")
 
-![plot of chunk stripchart-1](figure/stripchart-1.png){:.wide}
+<img src="figure/stripchart-1.png" alt="plot of chunk stripchart-1" class="wide" />
 
 The observations are randomly jittered above, but we can also stack the observations.
 
     stripchart(wellbeing$X1...First.of.all..how.happy.do.you.feel.right.now.., method = "stack")
 
-![plot of chunk stripchart-2](figure/stripchart-2.png){:.wide}
+<img src="figure/stripchart-2.png" alt="plot of chunk stripchart-2" class="wide" />
 
 Let's change the scale to emphasize its limits.
 
     stripchart(wellbeing$X1...First.of.all..how.happy.do.you.feel.right.now.., method = "stack", xlim = c(1, 10))
 
-![plot of chunk stripchart-3](figure/stripchart-3.png){:.wide}
+<img src="figure/stripchart-3.png" alt="plot of chunk stripchart-3" class="wide" />
 
 The white boxes with borders are noisy; let's change them to filled boxes.
 The default point type (`pch = 1`) doesn't support a fill color (`bg`),
 so we have to switch to a different point type;
 here are the different point types, from `example(points)`.
 
-![pchShow](figure/stripchart-pch.png){:.wide}
+<img src="figure/stripchart-pch.png" alt="pchShow" class="wide" />
 
 Let's use `pch = 22`.
 
@@ -147,7 +147,7 @@ Let's use `pch = 22`.
       wellbeing$X1...First.of.all..how.happy.do.you.feel.right.now..,
       method = "stack", xlim = c(1, 10), col = NA, pch = 22, bg = 1)
 
-![plot of chunk stripchart-4](figure/stripchart-4.png){:.wide}
+<img src="figure/stripchart-4.png" alt="plot of chunk stripchart-4" class="wide" />
 
 That's just a bar plot. Let's switch back to jittering and make the
 points translucent.
@@ -156,7 +156,7 @@ points translucent.
       wellbeing$X1...First.of.all..how.happy.do.you.feel.right.now..,
       method = "jitter", xlim = c(1, 10), col = NA, pch = 22, bg = "#00000033")
 
-![plot of chunk stripchart-5](figure/stripchart-5.png){:.wide}
+<img src="figure/stripchart-5.png" alt="plot of chunk stripchart-5" class="wide" />
 
 Let's make a nicer axis.
 
@@ -167,7 +167,7 @@ Let's make a nicer axis.
       main = "How happy Somerville residents feel")
     axis(1, at = 1:10)
 
-![plot of chunk stripchart-6](figure/stripchart-6.png){:.wide}
+<img src="figure/stripchart-6.png" alt="plot of chunk stripchart-6" class="wide" />
 
 And let's not waste half of the canvas.
 
@@ -178,7 +178,7 @@ And let's not waste half of the canvas.
       main = "How happy Somerville residents feel", jitter = 0.5, ylim = c(0, 2))
     axis(1, at = 1:10)
 
-![plot of chunk stripchart-7](figure/stripchart-7.png){:.wide}
+<img src="figure/stripchart-7.png" alt="plot of chunk stripchart-7" class="wide" />
 
 ## Stacked bar plots
 Now we could also color the points by a different color depending on the
@@ -192,7 +192,7 @@ gender.
       xlab = "How happy do you feel right now, on a scale of 1 to 10?",
       main = "How happy Somerville residents feel, by gender")
 
-![plot of chunk stacked-barplot-1](figure/stacked-barplot-1.png){:.wide}
+<img src="figure/stacked-barplot-1.png" alt="plot of chunk stacked-barplot-1" class="wide" />
 
 We make the legend in a separate command.
 
@@ -206,7 +206,7 @@ We make the legend in a separate command.
       ylab = "Number of residents", main = "How happy Somerville residents feel, by gender")
     legend("topleft", legend = levels(wellbeing$X15..Gender..1..female..2..male.), col = NA, pch = 22, pt.bg = col)
 
-![plot of chunk stacked-barplot-2](figure/stacked-barplot-2.png){:.wide}
+<img src="figure/stacked-barplot-2.png" alt="plot of chunk stacked-barplot-2" class="wide" />
 
 ## par
 All of these `col`, `pch`, `bg`, `fg`, `border`, &c. commands are graphical
@@ -217,14 +217,14 @@ within a function. For example, `bg` applies to the outer canvas's background.
     par(bg = "yellow")
     plot(Total ~ id, data = pilgrams, type = "l")
 
-![plot of chunk par-1](figure/par-1.png){:.wide}
+<img src="figure/par-1.png" alt="plot of chunk par-1" class="wide" />
 
 You might use this to set fonts across all of your plots.
 
     par(family = "serif", font = 3, font.lab = 3, font.main = 2, font.sub = 3)
     plot(Total ~ id, data = pilgrams, type = "l", main = "Pilgrams")
 
-![plot of chunk par-2](figure/par-2.png){:.wide}
+<img src="figure/par-2.png" alt="plot of chunk par-2" class="wide" />
 
 I tend to find the global namespace unpleasant, so I like to wrap that
 in a function that closes the device afterwards, with `dev.off`.
@@ -249,7 +249,7 @@ in a function that closes the device afterwards, with `dev.off`.
 
     plot(Total ~ id, data = pilgrams, type = "l", bty = "l")
 
-![plot of chunk par-4](figure/par-4.png){:.wide}
+<img src="figure/par-4.png" alt="plot of chunk par-4" class="wide" />
 
 Its options are quite hilarious; here is its entry in `?par`.
 
@@ -280,7 +280,7 @@ cut anything off. Let's also put the labels and remove the axes.
     }
     plot.pilgram.base()
 
-![plot of chunk complicated-1](figure/complicated-1.png){:.wide}
+<img src="figure/complicated-1.png" alt="plot of chunk complicated-1" class="wide" />
 
 The key there is `type = 'n'`, which makes no data be plotted.
 Now we can add the lines one at a time.
@@ -293,7 +293,7 @@ Now we can add the lines one at a time.
     plot.pilgram.base()
     plot.pilgram.lines()
 
-![plot of chunk complicated-2](figure/complicated-2.png){:.wide}
+<img src="figure/complicated-2.png" alt="plot of chunk complicated-2" class="wide" />
 
 I removed the axes because the default axes are usually quite
 ugly. Now let's add prettier axes.
@@ -307,7 +307,7 @@ ugly. Now let's add prettier axes.
     plot.pilgram.lines()
     plot.pilgram.axes()
 
-![plot of chunk complicated-3](figure/complicated-3.png){:.wide}
+<img src="figure/complicated-3.png" alt="plot of chunk complicated-3" class="wide" />
 
 The tick marks go at `at`, and they are labeled with `labels`.
 
