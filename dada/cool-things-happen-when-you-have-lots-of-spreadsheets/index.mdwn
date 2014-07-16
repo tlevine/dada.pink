@@ -260,7 +260,7 @@ I create statistics about each dataset.
 Combining the metadata and the new dataset statistics, I create
 a spreadsheet of datasets, in which each record corresponds to a dataset.
 
-[![A spreadsheet of spreadsheets](/!/dataset-as-datapoint/spreadsheet-spreadsheet.png){:.wide}](/!/dataset-as-datapoint)
+<a href="/!/dataset-as-datapoint"><img src="/!/dataset-as-datapoint/spreadsheet-spreadsheet.png" alt="A spreadsheet of spreadsheets" class="wide" /></a>
 
 ## Cool things
 

@@ -278,7 +278,7 @@ many times people have tried accessing them.
 The [CKAN Quality Assurance Extension](https://github.com/okfn/ckanext-qa)
 does just this; here's one of its reports.
 
-[![A table of datasets with statistics about how dead they are](ckanext-qa.png){:.wide}](http://data.gov.uk/data/reports/qa/organisation/broken_resource_links/her-majestys-revenue-and-customs)
+<a href="http://data.gov.uk/data/reports/qa/organisation/broken_resource_links/her-majestys-revenue-and-customs"><img src="ckanext-qa.png" alt="A table of datasets with statistics about how dead they are" class="wide" /></a>
 
 ## Why measure data catalogs
 Detecting dead links is one of several things that we can easily do to

@@ -165,7 +165,7 @@ Let's first see which portals are biggest. Which has the most datasets?
     ggplot(socrata) + aes(x = portal) + geom_bar() + coord_flip() + scale_y_log10("Number of datasets", 
         breaks = 10^(0:4)) + scale_x_discrete("Data portal")
 
-[![plot of chunk big_portals_datasets](figure/big_portals_datasets.png){:.wide}](figure/big_portals_datasets.png)
+<a href="figure/big_portals_datasets.png"><img src="figure/big_portals_datasets.png" alt="plot of chunk big_portals_datasets" class="wide" /></a>
 
 Which portals get the most downloads?
 
@@ -180,7 +180,7 @@ Which portals get the most downloads?
         scale_y_log10("Number of dataset downloads", labels = comma, breaks = 10^c(2:9)) + 
         scale_x_discrete("Data portal")
 
-[![plot of chunk big_portals_downloads](figure/big_portals_downloads.png){:.wide}](figure/big_portals_downloads.png)
+<a href="figure/big_portals_downloads.png"><img src="figure/big_portals_downloads.png" alt="plot of chunk big_portals_downloads" class="wide" /></a>
 
 Do any of them have few datasets but get a lot of downloads?
 
@@ -199,7 +199,7 @@ This might be easier or harder to read.
         scale_x_log10("Number of datasets", breaks = 10^(0:4)) + scale_y_log10("Number of dataset downloads", 
         labels = comma, breaks = 10^c(2:9))
 
-[![plot of chunk big_portals_density_text](figure/big_portals_density_text.png){:.wide}](figure/big_portals_density_text.png)
+<a href="figure/big_portals_density_text.png"><img src="figure/big_portals_density_text.png" alt="plot of chunk big_portals_density_text" class="wide" /></a>
 
 What are the most popular datasets for each portal? Let's first do the one with
 the most downloads.
@@ -361,7 +361,7 @@ But that looks bad, so let's do it as points.
 
     ## Warning: Removed 542 rows containing missing values (geom_point).
 
-[![plot of chunk shapes_scatter](figure/shapes_scatter.png){:.wide}](figure/shapes_scatter.png)
+<a href="figure/shapes_scatter.png"><img src="figure/shapes_scatter.png" alt="plot of chunk shapes_scatter" class="wide" /></a>
 
 Some datasets have no rows nor columns. Here are ten of them.
 
@@ -395,17 +395,17 @@ number of rows (`nrow`) or number of cells (`ncell`).
 
     ## Warning: Removed 17 rows containing missing values (geom_point).
 
-[![plot of chunk dataset_size_by_portal](figure/dataset_size_by_portal1.png){:.wide}](figure/dataset_size_by_portal1.png) 
+<a href="figure/dataset_size_by_portal1.png"><img src="figure/dataset_size_by_portal1.png" alt="plot of chunk dataset_size_by_portal" class="wide" /></a> 
 
     print(base + aes(x = ncol))
 
-[![plot of chunk dataset_size_by_portal](figure/dataset_size_by_portal2.png){:.wide}](figure/dataset_size_by_portal2.png) 
+<a href="figure/dataset_size_by_portal2.png"><img src="figure/dataset_size_by_portal2.png" alt="plot of chunk dataset_size_by_portal" class="wide" /></a> 
 
     print(base + aes(x = nrow * ncol))
 
     ## Warning: Removed 17 rows containing missing values (geom_point).
 
-[![plot of chunk dataset_size_by_portal](figure/dataset_size_by_portal3.png){:.wide}](figure/dataset_size_by_portal3.png) 
+<a href="figure/dataset_size_by_portal3.png"><img src="figure/dataset_size_by_portal3.png" alt="plot of chunk dataset_size_by_portal" class="wide" /></a> 
 
 ### Time
 What does the growth of downloads of a dataset look like? We don't have the data

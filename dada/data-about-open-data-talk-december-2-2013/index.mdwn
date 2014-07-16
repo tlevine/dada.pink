@@ -149,11 +149,11 @@ If you want to really understand how I did all of this, pay attention to the fol
 ### Data about data
 
 #### Getting the data
-[![Diagram about downloading Socrata data](/!/socrata-summary/architecture.jpg){:.wide}](/!/socrata-summary)
+<a href="/!/socrata-summary"><img src="/!/socrata-summary/architecture.jpg" alt="Diagram about downloading Socrata data" class="wide" /></a>
 
 Now I have a spreadsheet of datasets.
 
-[![A spreadsheet of spreadsheets](/!/dataset-as-datapoint/spreadsheet-spreadsheet.png){:.wide}](/!/dataset-as-datapoint)
+<a href="/!/dataset-as-datapoint"><img src="/!/dataset-as-datapoint/spreadsheet-spreadsheet.png" alt="A spreadsheet of spreadsheets" class="wide" /></a>
 
 Here are the some of fields I get from that.
 
@@ -237,7 +237,7 @@ These refer to user accounts in Socrata.
 Internally, each new chart is represented as a "view" on the underlying
 data "table".
 
-[![A date table family in Socrata](/!/socrata-genealogies/family.jpg){:.wide}](/!/socrata-genealogies#term-table)
+<a href="/!/socrata-genealogies#term-table"><img src="/!/socrata-genealogies/family.jpg" alt="A date table family in Socrata" class="wide" /></a>
 
 Anyway, if I use just these columns,
 I now have a dataset of users. I didn't use SQL, but if I had, the
