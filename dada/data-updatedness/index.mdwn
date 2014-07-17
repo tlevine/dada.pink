@@ -7,6 +7,13 @@
 <!-- facebook_image: figure/small_samples.png -->
 <!-- other_source: https://github.com/tlevine/socrata-analysis/tree/master/words/15-dates.Rmd -->
 
+**Oops!! It turns out that I used the wrong date field from the Socrata API**
+(it took three months for anyone to notice), so this article says pretty much
+nothing about updatedness. It would take me a day to run it with the other date
+field, but I still haven't done that. I suppose this whole situation says
+something about how loose we are with terms like "API" and "data" and how blindly
+all of this open data stuff is being eaten up.
+
 [Project Open Data](http://project-open-data.github.io/principles/),
 the [Sunlight Foundation](http://sunlightfoundation.com/opendataguidelines/#real-time-updates),
 a bunch of
