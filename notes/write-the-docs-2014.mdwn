@@ -101,3 +101,6 @@ Books
 "Document" versus "legislative instrument"
 
 https://pad.okfn.org/p/writethedocs
+
+
+Writing your own style manual? Lots of people do this.
