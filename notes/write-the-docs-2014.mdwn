@@ -54,3 +54,6 @@ Programmatically look at a text to figure out what is jargon?
 Hemingway tool
 
 Readability indices
+
+Pay attention to seemingly common words, especially for translation.
+For example, people had an easier way of translating "keep" than "store".
