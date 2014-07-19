@@ -28,3 +28,15 @@ BB: Newbie programming and documentation
 
 DD: Pittsburgh community thing time-specific jargon that loses meaning
 after some time
+
+
+### Glossaries?
+Sven works with people whit h lots of jargon.
+Do people have experience?
+
+Drupal has one.
+
+How to give people a grasp of what they're doing?
+
+Words like "terminated unexpectedly" or "terminated with a segmentation fault"
+to be clear about errata
