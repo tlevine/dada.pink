@@ -11,10 +11,20 @@
 * AA
 * BB
 * Chris
-* 
+* Sven
+* CC
+* Stefan
+* Kay
+* DD
 
 Tom's thoughts: I rarely (never?) like using jargon, but I feel a lot
 of pressure to use it. Maybe there's some cultural thing among the sort
-of people who would write documentation?
+of people who would write documentation? I think people assign jargon
+labels to things when they don't understand it and want to fit it into
+an existing mental model or to pretend (to themselves) that they
+understand it.
 
 BB: Newbie programming and documentation
+
+DD: Pittsburgh community thing time-specific jargon that loses meaning
+after some time
