@@ -69,8 +69,35 @@ Keeping PDFS up to date
 
 * CSS print
 
-### Why people use jargon
+### Why people use jargon...
 
 * SEO, want to be funny and get people to share the thing
 * Use simple, bad, international English
 * Link to things when you need to use jargon
+
+
+Goal: reduce cognitive load
+
+
+
+
+
+
+bureaucratic and legal documentation is designed to be inpenitrible
+
+
+* translation into german is easy
+* translation into french is hard because of the academy
+* translate the word or include the english version?
+
+
+Books
+
+* *Blah blah blah*: examples of people in different situations talking in different ways
+* *How to Read a Book*: Tom likes this. You can design writings to be read like this.
+* *The road less traveled*, by Steven Fry
+* Simple English
+
+"Document" versus "legislative instrument"
+
+https://pad.okfn.org/p/writethedocs
