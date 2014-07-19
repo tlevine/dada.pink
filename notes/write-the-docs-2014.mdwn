@@ -68,3 +68,9 @@ For example, people had an easier way of translating "keep" than "store".
 Keeping PDFS up to date
 
 * CSS print
+
+### Why people use jargon
+
+* SEO, want to be funny and get people to share the thing
+* Use simple, bad, international English
+* Link to things when you need to use jargon
