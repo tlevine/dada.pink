@@ -31,3 +31,10 @@ Short documentation
   * Grant report is a print-out of blog post
 * Idea for Pittsburgh
   * Give all ~18 projects that are going on at once an opportunity to report in their newsletter
+
+Tools?
+
+* Wordpress up-vote interesting things
+* Tom says use whataver people already know--email
+  * Tom uses Piwik and email.
+* Wiki
