@@ -1,12 +1,13 @@
 ## For non-tech
 
+[Look here](/notes/documentation-for-not-software)
 
 ## Jargon
 
-* ??
-* ??
+* Chris
+* Milan
 * Tom
-* 
+* Doman
 
 
 Tom's thoughts: I rarely (never?) like using jargon, but I feel a lot
