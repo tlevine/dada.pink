@@ -45,3 +45,5 @@ Tools?
 What's a tool that the Pittsburgh organiation could give to all its projects?
 
 Video things
+
+[Making a website](/dada/making-your-personal-website/)
