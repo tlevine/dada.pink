@@ -63,3 +63,8 @@ For example, people had an easier way of translating "keep" than "store".
 * No real documentation---just wishy-washy marketing talk, especially with proprietary software
 * Should we explain elementary things like that a code block is a bunch of stuff
     that should be run as root because it has a `#`?
+
+
+Keeping PDFS up to date
+
+* CSS print
