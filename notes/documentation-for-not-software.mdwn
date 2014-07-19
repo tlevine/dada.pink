@@ -35,6 +35,11 @@ Short documentation
 Tools?
 
 * Wordpress up-vote interesting things
+  * Discouse
+  * Redmine
+  * Basecamp
 * Tom says use whataver people already know--email
   * Tom uses Piwik and email.
 * Wiki
+
+What's a tool that the Pittsburgh organiation could give to all its projects?
