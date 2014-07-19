@@ -1,0 +1,17 @@
+People
+
+* YRS
+* Community development organization in Pittsburgh
+* Tom
+* ??
+* Slovenian hackerspace
+
+Ideas
+
+* Track everything almost-passively while everything is going on
+  * Check-in apps
+  * Calendar
+  * &c.
+* Wait until asked to document things
+* Event planners make really detailed event manuals
+
