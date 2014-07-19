@@ -42,7 +42,7 @@ Words like "terminated unexpectedly" or "terminated with a segmentation fault"
 to be clear about errata
 
 
-### Transition
+### 2
 
 Terms like "pure" and "closure"---is that okay? Should we have invented
 other words?
@@ -57,3 +57,9 @@ Readability indices
 
 Pay attention to seemingly common words, especially for translation.
 For example, people had an easier way of translating "keep" than "store".
+
+### 3
+
+* No real documentation---just wishy-washy marketing talk, especially with proprietary software
+* Should we explain elementary things like that a code block is a bunch of stuff
+    that should be run as root because it has a `#`?
