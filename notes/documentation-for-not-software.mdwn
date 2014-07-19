@@ -22,7 +22,12 @@ Tom's views
 * 
 * Wait until people have read things to proofread
 
-Slovenian hackerspace
 
-* Write a blog post about everything
-* Grant report is a print-out of blog post
+Short documentation
+
+* Tom: Hackerspace stand-ups at the end of day to show
+* Slovenian hackerspace
+  * Write a blog post about everything
+  * Grant report is a print-out of blog post
+* Idea for Pittsburgh
+  * Give all ~18 projects that are going on at once an opportunity to report in their newsletter
