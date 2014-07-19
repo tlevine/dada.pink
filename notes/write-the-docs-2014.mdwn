@@ -40,3 +40,17 @@ How to give people a grasp of what they're doing?
 
 Words like "terminated unexpectedly" or "terminated with a segmentation fault"
 to be clear about errata
+
+
+### Transition
+
+Terms like "pure" and "closure"---is that okay? Should we have invented
+other words?
+
+
+Programmatically look at a text to figure out what is jargon?
+
+
+Hemingway tool
+
+Readability indices
