@@ -13,7 +13,6 @@ wikiname: '~'
 adminemail: _@thomaslevine.com
 # users who are wiki admins
 adminuser:
-- http://thomaslevine.com/
 - https://pypi.python.org/id/tlevine
 # users who are banned from the wiki
 banned_users: []
