@@ -14,14 +14,14 @@ Delft (probably a hostel)
     Saturday, 28 June to Saturday, 5 July for spreadsheet conferences
 Brussels (Stéphane)
     Saturday, 5 July to Sunday, 13 July for `Relearn <http://relearn.be/>`_
-Berlin (Annabel)
-    Sunday, 13 July to dunno exactly when for Open Knowledge Festival and stuff
-Plymouth (Young Rewired State)
-    Thursday, 31 July to Monday, 4 August for YRS Festival of Code (This is kind of up in the air because the whole thing is confusing me.)
-Somewhere around Dartmoor
-    Monday, 4 August to Wednesday, 6 August
-London
-    Wednesday, 6 August to ??? for Wikimania
+Berlin (Anabel)
+    Sunday, 13 July to Wednesday, 23 July for Open Knowledge Festival and stuff
+Warsaw
+    Wednesday, 23 July to dunno when for dunno what yet
+London?
+    Maybe Wednesday, 6 August to ??? for Wikimania
+Berlin?
+    Work with Anabel on an undecided thing for a few days.
 Liverpool (Francis)
     ??? to ???
 Somewhere
