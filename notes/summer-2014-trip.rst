@@ -27,7 +27,7 @@ Liverpool (Francis)
 Somewhere
     ???
 Boston
-    20 July to ???
+    20 August to ???
 
 I have a flight from Manchester to Boston on 20 August,
 so I might go to the Lake District or something.
