@@ -12,7 +12,7 @@ You'll learn that
 
 You'll see "a few examples of companies leveraging open data".
 
-![Screenshot of a website about Palantir and Mapbox](impact.png)
+[![Screenshot of a website about Palantir and Mapbox](impact.png)](https://www.data.gov/impact/)
 
 And you'll see nothing about transparency and accountability.
 
