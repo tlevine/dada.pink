@@ -2,4 +2,14 @@ Open data is all about money, and all of that transparency
 and accountability talk is bullshit.
 
 Go to [data.gov](https://www.data.gov), and click on
-"[IMPACT](https://www.data.gov/impact/)".
+"[IMPACT](https://www.data.gov/impact/)". (In case it changes,
+I made copies as [HTML](impact.html) and [PDF](impact.pdf).)
+You'll learn that
+
+> Open data is fuel for innovators. It has the potential to generate more than $3 trillion a year in additional value in sectors including finance, consumer products, health, energy and education, according to a recent study.
+
+You'll see "a few examples of companies leveraging open data".
+
+![Screenshot of a website about Palantir and Mapbox](impact.png)
+
+
