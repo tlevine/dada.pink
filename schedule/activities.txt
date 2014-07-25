@@ -11,7 +11,6 @@ DAILY:20140530:20140531 Transparency Camp
 DAILY:20140404:20140406 Haskell Hackathon in New York http://www.haskell.org/pipermail/haskell-cafe/2014-January/112362.html
 20140702 Software Engineering methods in Spreadsheets, http://spreadsheetlab.org/2013/12/19/first-workshop-on-software-engineering-methods-in-spreadsheets/
 20140703 EuSpRIG Conference, Delft, http://spreadsheetlab.org/2013/11/19/annual-eusprig-meeting-will-take-place-in-delft-july-3-and-4/
-DAILY:20140710:20140725 Hacks/Hackers Berlin is having something in here.
 20140714 csv conf in Berlin I think
 DAILY:20140715:20140718 OKFestival in Berlin http://2014.okfestival.org/
 DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russia (17-25th of August 2014) - http://ses.ikso.net/2014/ru/
