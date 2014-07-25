@@ -1,7 +1,11 @@
+[[!meta title="Open data is all about money."]]
+[[!meta description="Open data is all about money, and despite all the wishful thinking of those open data hippie weirdos."]]
+[[!tag open-data]]
+
 Open data is all about money, and despite all the wishful thinking of
 [transparency](http://opengovernmentdata.org/) and
 [accountability](http://sunlightfoundation.com/issues/)
-that you might hear from open data hippie wierdos.
+that you might hear from open data hippie weirdos.
 
 Go to [data.gov](https://www.data.gov), and click on
 "[IMPACT](https://www.data.gov/impact/)". (In case it changes,
