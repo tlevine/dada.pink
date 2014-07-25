@@ -16,7 +16,7 @@ Brussels (Stéphane)
     Saturday, 5 July to Sunday, 13 July for `Relearn <http://relearn.be/>`_
 Berlin (Anabel)
     Sunday, 13 July to Wednesday, 23 July for Open Knowledge Festival and stuff
-Warsaw
+Warsaw (Zuzia's parents)
     Wednesday, 23 July to dunno when for dunno what yet
 London?
     Maybe Wednesday, 6 August to ??? for Wikimania
