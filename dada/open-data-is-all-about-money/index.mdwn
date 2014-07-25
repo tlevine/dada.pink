@@ -1,5 +1,7 @@
-Open data is all about money, and all of that transparency
-and accountability talk is bullshit.
+Open data is all about money, and despite all the wishful thinking of
+[transparency](http://opengovernmentdata.org/) and
+[accountability](http://sunlightfoundation.com/issues/)
+that you might hear from open data hippie wierdos.
 
 Go to [data.gov](https://www.data.gov), and click on
 "[IMPACT](https://www.data.gov/impact/)". (In case it changes,
@@ -12,4 +14,7 @@ You'll see "a few examples of companies leveraging open data".
 
 ![Screenshot of a website about Palantir and Mapbox](impact.png)
 
+And you'll see nothing about transparency and accountability.
 
+Okay, maybe other governments are different, but at least in the
+United States, anything other than big money is crazy talk.
