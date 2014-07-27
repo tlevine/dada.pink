@@ -13,7 +13,6 @@ DAILY:20140404:20140406 Haskell Hackathon in New York http://www.haskell.org/pip
 20140703 EuSpRIG Conference, Delft, http://spreadsheetlab.org/2013/11/19/annual-eusprig-meeting-will-take-place-in-delft-july-3-and-4/
 20140714 csv conf in Berlin I think
 DAILY:20140715:20140718 OKFestival in Berlin http://2014.okfestival.org/
-DAILY:20140817:20140825 Maybe: Summer Esperanto Studies (SES) near Moscow, Russia (17-25th of August 2014) - http://ses.ikso.net/2014/ru/
 DAILY:20141001:20141030 Software Freedom Kosova is somewhere in here.
 20140327 9:00 AM to 4:00 PM (EDT) https://www.eventbrite.com/event/10753292387 Energy Education Data Jam, Johns Hopkins University - Washington DC Center, 1717 Massachusetts Avenue Northwest
 20140331 6:30 PM to 8:30 PM, http://www.meetup.com/DataKind-NYC/events/169590012/, Pivotal Labs, 625 Avenue of Americas, 2nd Floor
