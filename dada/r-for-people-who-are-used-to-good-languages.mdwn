@@ -1,0 +1,54 @@
+
+
+The thing about R is that it was designed by statisticians.
+
+Everything in R is a complete hack.
+
+People who use R only know how to use R.
+Shiny is the best example of this; people who use R only know how
+to use R, so when they want to write websites, they need their own
+domain-specific templating language written in R.
+(That said, there are good reasons to use Shiny too.)
+
+
+When someone says he or she knows R, it usually means that he or she
+knows how to load data from a CSV file, fit whatever model he or she
+uses in his or her work, and then make a plot.
+
+
+
+dynamically typed
+
+magic things based on types and dimensions
+
+weird things
+
+S3 classes, S4 classes
+
+dots in names rather than underscores
+
+Functions usually don't have side effects.
+(And you should try not to use side effects as that can be confusing.)
+
+Weird names
+
+* `apply`
+* `list`
+
+R is really slow, but the parts written in C and Fortran are fast, so
+it is good practice to "vectorize" your code. For example, this
+
+    vec <- 1:100
+    vec.2 <- vec + 1
+
+is much faster than iterating through `vec` and adding 1 to each element.
+
+`data` packaging
+
+`?`
+
+`sos::findFn`
+
+Function syntax `y ~ x`
+
+plotting
