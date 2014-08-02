@@ -1,1 +1,1 @@
-[[!map pages="notes/* and ! notes/*/*"]]
+Notes that aren't dada
