@@ -117,8 +117,28 @@ in [`wbcontractawards`](https://pypi.python.org/pypi/wbcontractawards).
 
 ## Storing data
 Iterate through the pages and send the results to whatever
-data store you like. I usually write <abbr>CSV</abbr> to STDOUT; here's
-the rest of the above `main.py` from 
+data store you like. Or not.
+
+### It's fine to leave everything as pickles!
+People often want to save things in a fancy database or CSV file
+or something, but you might not need to. Maybe you just want to
+download the web pages before they go away and then figure out what
+to do with them later. Or maybe you know what you're going to do
+with them later and you know that you are going to do more work on
+them in Python.
+
+If you've followed the directions above, you'll have a generator
+that emits your data as ordinary Python objects, and this can be
+way more convenient than having your data in a fancy database.
+
+### CSV
+I often write <abbr>CSV</abbr> to STDOUT, because CSV is the
+[platonic](http://csvsoundsystem.com/)
+[form](http://small.dada.pink/comma-chant/when-i-say)
+of
+[data](http://dada.pink/dada/print-formaldehyde/).
+
+As an example, here's the rest of the above `main.py` from 
 [`wbcontractawards`](https://pypi.python.org/pypi/wbcontractawards).
 
     def cli():
@@ -136,6 +156,7 @@ the rest of the above `main.py` from
                     ]
                     writer.writerow(row)
 
+### JSON lines
 In [`acpr`](https://pypi.python.org/pypi/acpr)'s
 [`main.py`](http://small.dada.pink/acpr-banque-de-france/acpr/main.py)
 I write <abbr>JSON</abbr> lines to <code>STDOUT</code>.
@@ -157,9 +178,17 @@ I write <abbr>JSON</abbr> lines to <code>STDOUT</code>.
                     result['url'] = response.url
                     sys.stdout.write(json.dumps(result) + '\n')
 
-A relational database is sometimes nice too. Here's part of
+### Relational database
+A relational database is sometimes nice too. I suggest that you use
+[`dataset`](https://dataset.readthedocs.org/) to save things to relational
+databases.
+(In case I've told you
+about [`dumptruck`](https://pypi.python.org/pypi/dumptruck), you should
+still use `dataset`; it has everything I wanted in dumptruck and more.)
+Here's part of
 [`main.py`](https://github.com/tlevine/scarsdale-property-inquiry/blob/master/scarsdale_property_inquiry/main.py#L64)
-from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-property-inquiry).
+from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-property-inquiry),
+wherein I save some data to a relational database.
 
     import os
     import functools
@@ -202,7 +231,8 @@ from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-prope
                         db['properties'].upsert(flat_row, ['property_number'])
 
 ## Sessions
-Don't use `requests.session`, or any other library's session management thing;
+Don't use `requests.session` or
+any other library's magic session management thing;
 make explicit all parameters to your <abbr>HTTP</abbr> requests. For example,
 here are some relevant parts of [`delaware`](http://pypi.python.org/pypi/delaware).
 
@@ -244,18 +274,6 @@ and then you'll call this generator from another thing that has side-effects but
 isn't that hard to test.
 
 This arrangement makes much more sense to me and allows me not to think very hard.
-
-## It's okay to leave everything as pickles
-People often want to save things in a fancy database or CSV file
-or something, but you might not need to. Maybe you just want to
-download the web pages before they go away and then figure out what
-to do with them later. Or maybe you know what you're going to do
-with them later and you know that you are going to do more work on
-them in Python.
-
-If you've followed the directions above, you'll have a generator
-that emits your data as ordinary Python objects, and this can be
-way more convenient than having your data in a fancy database.
 
 ## Tips for testing
 My tests are probably way simpler than most tests because I pretty much
@@ -317,8 +335,10 @@ from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-prope
 
 These are all pure functions that I can test without knowing anything
 about HTTP. The downloader functions are impure, and I don't even try
-testing, but they pretty much just call these functions, so I'm fine
-with that. I wrote `scarsdale-property-inquiry` before I wrote
+testing them, but they pretty much just call these functions, so I'm fine
+with that.
+
+I wrote `scarsdale-property-inquiry` before I wrote
 `picklecache`, so its downloader functions include the cache and are
 thus a bit big. But you can see them
 [here](https://github.com/tlevine/scarsdale-property-inquiry/blob/master/scarsdale_property_inquiry/params.py).
