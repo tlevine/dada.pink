@@ -18,7 +18,7 @@ I use [Firefox](https://www.mozilla.org/en-US/firefox/).
 
 Write downloader functions that return `Response`
 objects from the requests package, and decorate them
-with picklecache.cache.
+with [picklecache](https://pypi.python.org/pypi/picklecache).
 
     import os
 
@@ -117,7 +117,7 @@ in [`wbcontractawards`](https://pypi.python.org/pypi/wbcontractawards).
 
 ## Storing data
 Iterate through the pages and send the results to whatever
-data store you like. I usually write <abbr>CSV</abbr> to <code>STDOUT</code>; here's
+data store you like. I usually write <abbr>CSV</abbr> to STDOUT; here's
 the rest of the above `main.py` from 
 [`wbcontractawards`](https://pypi.python.org/pypi/wbcontractawards).
 
@@ -201,6 +201,41 @@ from [`scarsdale-property-inquiry`](https://pypi.python.org/pypi/scarsdale-prope
                     if flat_row != None and 'property_number' in flat_row:
                         db['properties'].upsert(flat_row, ['property_number'])
 
+## Sessions
+Don't use `requests.session`, or any other library's session management thing;
+make explicit all parameters to your <abbr>HTTP</abbr> requests. For example,
+here are some relevant parts of [`delaware`](http://pypi.python.org/pypi/delaware).
+
+    def headers(user_agent, cookie, referer):
+        if user_agent == None:
+            raise ValueError('User agent may not be None.')
+        h = {
+            'User-Agent': user_agent,
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Accept-Encoding': 'gzip, deflate',
+            'Connection': 'keep-alive',
+            'Content-Type': 'application/x-www-form-urlencoded',
+        }
+        if cookie != None:
+            h['Cookie'] = cookie
+            if referer != None:
+                h['Referer'] = referer
+            else:
+                raise ValueError('A cookie must be provided if a referer has been provided.')
+        elif referer != None:
+            raise ValueError('A referer must be provided if a cookie has been provided.')
+        return h
+
+    @cache(os.path.join(os.path.expanduser('~'), '.delaware', week, 'result'))
+    def _result(firm_file_number, user_agent = None, cookie = None):
+        h = headers(user_agent, cookie, referers['result'])
+        return requests.post(urls['result'], headers = h,
+            data = data['result'] % firm_file_number, allow_redirects = False)
+
+A cookie is simply a header, and you can pass it around to all of your
+functions rather than storing the session more globally.
+
 ## Functional wonderfulness
 If you follow the above directions, your parser functions will have no side-effects.
 Your downloader functions will by tiny, and their only side effects will be HTTP requests.
@@ -209,6 +244,18 @@ and then you'll call this generator from another thing that has side-effects but
 isn't that hard to test.
 
 This arrangement makes much more sense to me and allows me not to think very hard.
+
+## It's okay to leave everything as pickles
+People often want to save things in a fancy database or CSV file
+or something, but you might not need to. Maybe you just want to
+download the web pages before they go away and then figure out what
+to do with them later. Or maybe you know what you're going to do
+with them later and you know that you are going to do more work on
+them in Python.
+
+If you've followed the directions above, you'll have a generator
+that emits your data as ordinary Python objects, and this can be
+way more convenient than having your data in a fancy database.
 
 ## Tips for testing
 My tests are probably way simpler than most tests because I pretty much
@@ -481,11 +528,11 @@ separating them makes lots of things easier. In particular, you have to
 do really weird things in mechanize if the standard parser doesn't do
 exactly what you want.
 
-I'm still on the mechanize email list, however. Most of the posts to the
-list are questions about how to scrape particularly annoying websites,
-and my response is pretty much always that you should use different libraries
-in that case in order to have easier and separated control of the
-downloading and the parsing.
+Amusingly enough, I'm still on the mechanize email list. Most of the posts to the
+list are questions about how to scrape particularly annoying websites;
+my response is pretty much always that you should not use mechanize for
+websites like these and that you should separate the downloader parts of
+your program from the parsing parts.
 
 Lots of people seem to like [Scrapy](http://scrapy.org/).
 I looked at it and was intrigued at first. I actually
