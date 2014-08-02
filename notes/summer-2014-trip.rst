@@ -17,20 +17,19 @@ Brussels (Stéphane)
 Berlin (Anabel)
     Sunday, 13 July to Wednesday, 23 July for Open Knowledge Festival and stuff
 Warsaw (Zuzia's parents)
-    Wednesday, 23 July to dunno when for dunno what yet
-London?
-    Maybe Wednesday, 6 August to ??? for Wikimania
-Berlin?
-    Work with Anabel on an undecided thing for a few days.
+    Wednesday, 23 July to Tuesday, 4 August or Wednesday, 5 August
+Berlin (Anabel)
+    Work with Anabel on an undecided thing, until 15 August
+Liverpool (???)
+    15 August to 18 August
 Liverpool (Francis)
-    ??? to ???
-Somewhere
-    ???
+    18 August to 20 August
 Boston
     20 August to ???
-
-I have a flight from Manchester to Boston on 20 August,
-so I might go to the Lake District or something.
+Maybe Portland?
+    To visit the pink hat hackers
+New York
+    Because I've been out of the office for two months
 
 Further scheduling is in the `schedule </schedule>`_.
 
@@ -77,17 +76,12 @@ Things
 I want to give away `CSV files </dada/print-formaldehide>`_.
 Remind me if I forget.
 
-I'm bringing an empty `frontpack </dada/stuff/>`_ in case
-I ever want to carry more things than fit in my backpack.
-I have a feeling that I won't wind up using it at all,
-so I'll probably want to give it away to someone.
-
 There are a few items that I wouldn't mind going shopping for.
 
 * Custom ear plugs
-* A haircut, and coloring of some of my hair pink
+* <del datetime="2014-07-01" cite="http://www.kinki.nl/kinki-locations2.php?city_id=11">A haircut</del>, and coloring of some of my hair <del datetime="2014-07-01" cite="https://twitter.com/Felienne/status/484789848985706496/photo/1">pink</del>
 * A belt that doesn't dig into my skin
-* A phone with service in Europe
+* <del datetime="2014-07-27" cite="https://www.facebook.com/zuzanna.klyszejko/posts/10152363694957971?comment_id=10152374460457971&offset=0&total_comments=5">A phone with service in Europe</del>
 
 If I wind up getting ear plugs, I'm going to want to give my
 `earmuffs`_.
