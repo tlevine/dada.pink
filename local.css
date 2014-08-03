@@ -3,7 +3,7 @@ body {
   background-color: #111;
 }
 nav#pageinfo, html, body, .page { margin: 0; padding: 0; border-style: none; }
-.pagefooter .pagedate, .pageheader {background-color: grey;}
+.pageheader {background-color: grey;}
 
 a {
   text-decoration: none;
@@ -36,23 +36,4 @@ h2 { font-size: 2em; }
 h3 { font-size: 1.5em; }
 
 blockquote, pre { margin-left: 1.5em; }
-
-/* Sticky footer
-   http://mystrd.at/modern-clean-css-sticky-footer/ */
-
-html {
-    position: relative;
-    min-height: 100%;
-}
-body {
-    margin: 0 0 2em; /* bottom = footer height */
-    padding: 0;
-}
-footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 2em;
-    width: 100%;
-}
-footer .pagedate { margin-top: 0.5em; }
+footer { border-top: 2px solid #fe57a1; }
