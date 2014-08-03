@@ -3,7 +3,7 @@ body {
   background-color: #111;
 }
 nav#pageinfo, html, body, .page { margin: 0; padding: 0; border-style: none; }
-.pagefooter .pagedata, .pageheader {background-color: grey;}
+.pagefooter .pagedate, .pageheader {background-color: grey;}
 
 a {
   text-decoration: none;
@@ -46,6 +46,7 @@ html {
 }
 body {
     margin: 0 0 2em; /* bottom = footer height */
+    padding: 0;
 }
 footer {
     position: absolute;
