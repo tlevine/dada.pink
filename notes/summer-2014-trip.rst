@@ -17,9 +17,9 @@ Brussels (Stéphane)
 Berlin (Anabel)
     Sunday, 13 July to Wednesday, 23 July for Open Knowledge Festival and stuff
 Warsaw (Zuzia's parents)
-    Wednesday, 23 July to Tuesday, 4 August or Wednesday, 5 August
+    Wednesday, 23 July to Monday, 4 August
 Berlin (Anabel)
-    Work with Anabel on an undecided thing, until 15 August
+    Monday, 4 August to Friday, 15 August, to Work with Anabel on an undecided thing
 Liverpool (???)
     15 August to 18 August
 Liverpool (Francis)
