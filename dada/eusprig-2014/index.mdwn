@@ -1,1 +1,10 @@
+Also, you know how fun it is to watch people be nerdy about
+something you completely don't understand? Well maybe you
+don't find it fun, but I do. The people who go to spreadsheet
+conferences really really really love spreadsheets, and they
+talk about their favorite spreadsheet shortcuts over drinks
+in the bar.
+
+Here are some submission things
+
 [[!map pages="dada/eusprig-2014/* and ! dada/eusprig-2014/*/*"]]
