@@ -101,7 +101,6 @@ DAILY:20140423:20140425 In Ontodia's office
 20140510 6:30 pm MoMath
 DAILY:20140606:20140608 Public Laboratory Barn Raising http://publiclab.org/wiki/barnraising
 20140528 1 pm Eye of the Storm The Science of Weather, bring some lunch, Gould Plaza, NYU, 40 W 4th St
-DAILY:20140806:20140810 Wikimania, http://wikimania2014.wikimedia.org/wiki/Main_Page
 20140513 Lunch/coffee with Brian at 4 pm, meet at Bryant Park
 20140513 ~5 pm (after Brian) Call Mauricio and look at his map stuff.
 20140513 3 pm UBS, bring a cheque
@@ -129,3 +128,4 @@ WED:20140618:20140702 Phone call with Betsy & al. 4 pm ET, 3 pm CT, 12 pm UTC
 20140724 5 pm Kamil
 20140726 1 pm Magda
 20140728 Anna Maria
+20140806 1:30pm CEST Call with Frank

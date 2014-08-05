@@ -24,7 +24,6 @@ DAILY:20140705:20140711 Stéphane (Brussels, for Relearn)
 DAILY:20140712:20140723 Annabel (Berlin, for OK Festival)
 20140726 XXX (London)
 20140805 XXX (London)
-DAILY:20140806:20140810 XXX (London, for Wikimania)
 DAILY:20140811:20140815 XXX (Liverpool, for fun)
 DAILY:20140605:20140607 Public Lab Barnraising
 20140608 Scarsdale?
