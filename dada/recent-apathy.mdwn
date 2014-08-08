@@ -1,3 +1,6 @@
+[[!meta title="My recent apathy about open openness"]]
+[[!meta title="It seems that I don't get excited in the ways that people think I will."]]
+
 People Tweeted at me a lot yesterday about things that didn't
 excite me in the ways that they probably thought it would.
 
@@ -67,8 +70,9 @@ for in such endeavours.
 
 ## There isn't money in this stuff
 Is open data really [all about the money](/dada/open-data-is-all-about-money/)?
-Perhaps we just say in America, because numbers and money will be our saviour
-and you are silly if you think otherwise. Moreover, if it were all about the
+Maybe it isn't, and maybe just say it is because we know that
+numbers and money will be our saviour and that
+you are silly if you think otherwise. Moreover, if it were all about the
 money, you'd think that [it would pay](/dada/searching-data-tables-better).
 
 Fortunately, it does! As of last week you can work at
