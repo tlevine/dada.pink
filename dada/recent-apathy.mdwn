@@ -22,6 +22,16 @@ on this topic, but I still don't manage to get myself to do very much.
 I get the feeling that
 [nobody cares](/dada/searching-data-tables-better)
 very much about any of the stuff that I'm doing; they're only pretending.
+And this includes
+[all](http://codeforamerica.org/)
+[of](http://sunlightfoundation.com/)
+[those](http://data.gov/)
+[organizations](http://ckan.org/)
+[that](http://socrata.com)
+[preach](http://nucivic.com/data/)
+[open](http://www.code4sa.org/)
+[openness](http://thegovlab.org/)
+
 
 Well actually, that's not true;
 some people like that I am confirming what they already think, which
@@ -40,7 +50,7 @@ but I still don't do any of them. I don't think people care that much, I'm
 certainly not going to get paid, and I could just
 [sleep](/dada/sleeping) instead.
 
-Or I could work at
+Maybe I should instead work at
 [a tenth of minimum wage](https://twitter.com/thomaslevine/status/497272565770231808)
 to collect [data](http://usodi.org/2014/08/01/openaddresses)
 for fancy innovative businesses that are going to save the
@@ -52,10 +62,10 @@ than I do.
 
 People want to feel like they're part of something big, so people organize
 themselves into
-[entities](https://
-[that](https://
-[sound](https
-[big](http
+[things](http://www.codeforamerica.org/)
+[that](https://okfn.org)
+[sound](http://www.socrata.com/)
+[big](http://thegovlab.org/)
 People who are looking for some direction and purpose in life get sold on
 the open openness (or whatever the trendy thing is). Then they decide that
 they need to save the world with the open openness, so then they devote their
@@ -82,8 +92,6 @@ I'd rather have time to sleep.)
 
 
 
-socrata people say they're interested in helping me with thiss
-stuff, but it never happens.
 
 
 https://twitter.com/EllieAsksWhy/status/497360232356802560
