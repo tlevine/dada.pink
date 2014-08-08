@@ -89,21 +89,22 @@ for fancy innovative businesses that are going to save the
 world by making lots of money and being more important than you.
 
 ## Silly games
+I went to
+[Open Knowledge Festival](http://2014.okfestival.org/)
+for the first time last month, and I found it to be the most
+stressful thing I'd done in a while. The previous similarly
+stressful thing was
+[Transparency Camp](http://transparencycamp.org/);
+the ambiguity and pointlessness of all this openness become
+unpleasanly clear when when you get a bunch of people together
+to be open about openness.
+
 I like being around people who make me feel nice, and the people
 who care about open openness sometimes do this; that might be
 [why I do this stuff](/dada/datakind-is-kind/). But I wish I didn't
 have to care about fixing government or saving the world. And
 computers are [kind of nice](/dada/why-i-like-hackerspaces/),
 but [I don't really like talking about them](/dada/learning-data-stuff/).
-
-I went to
-[Open Knowledge Festival](http://2014.okfestival.org/)
-for the first time last month, and I found it to be the most
-stressful thing I'd done in a while. The previous similarly
-stressful thing was
-[Transparency Camp](http://transparencycamp.org/).
-All of the frustrating things I describe above are very present
-when you get a bunch of people together to be open about openness.
 
 I like the people, but playing these games is a lot of work, and
 I'd rather have time to [sleep](/dada/sleeping/).
