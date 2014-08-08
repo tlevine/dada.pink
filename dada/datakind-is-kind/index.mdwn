@@ -22,8 +22,6 @@ from her job but is financially stable.
 For a more involved definition, see the "What inspires you to use your data
 skills for good in your spare time?" section of 
 [my data hero blog post](http://datakind.org/2012/08/data-heroes-tom-levine/).
-You can also see niceness as equivalent to the concept of femininity put forth
-by [Valarie Solonas](http://womynkind.org/scum.htm).
 
 These definitions are all a bit different, but they all vaguely match what
 I mean by "nice".
