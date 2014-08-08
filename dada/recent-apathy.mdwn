@@ -1,26 +1,20 @@
-People Tweeted at me a lot yesterday about things that excite
-me in the ways that they probably thought it would.
-
-* data data
-* contest
-* ?
-* addresses?
-
+People Tweeted at me a lot yesterday about things that didn't
+excite me in the ways that they probably thought it would.
 
 ## Open data open data
 A conversation started around studying how people use websites
 that let you download spreadsheets (open data catalogs).
-[This writing](http://govfresh.com/2014/07/time-open-data-open-data/)
+[Luke's writing](http://govfresh.com/2014/07/time-open-data-open-data/)
 sort of prompted the discussion, and Luke eventually asked if anyone
 wants to
 [do something](https://twitter.com/lukefretwell/status/497379906175524864)
-around this topic of study.
+around this topic of study. I'd rather [sleep](/dada/sleeping/).
 
 It would be easy for me to look at
 [all kinds of things](/open-data/)
 on this topic, but I still don't manage to get myself to do very much.
-I get the feeling that
-[nobody cares](/dada/searching-data-tables-better)
+
+I get the feeling that nobody cares
 very much about any of the stuff that I'm doing; they're only pretending.
 And this includes
 [all](http://codeforamerica.org/)
@@ -30,13 +24,14 @@ And this includes
 [that](http://socrata.com)
 [preach](http://nucivic.com/data/)
 [open](http://www.code4sa.org/)
-[openness](http://thegovlab.org/)
-
+[openness](http://thegovlab.org/).
+Maybe it would be fine if their pretending involved helping with this stuff,
+but it doesn't.
 
 Well actually, that's not true;
 some people like that I am confirming what they already think, which
-is that this openly open openness is nebulous hype and that nobody has
-any idea what is going on.
+is that the openly open openness is
+"[fucked](https://twitter.com/lifewinning/status/489712000055144449)".
 
 ## Related projects
 I [alluded](https://twitter.com/EllieAsksWhy/status/497277750466863104)
@@ -47,18 +42,12 @@ the web server logs for these websites.
 I've in fact been sitting on [datahub.io](https://datahub.io) server logs
 for some time. I have many ideas of interesting things I could do with them,
 but I still don't do any of them. I don't think people care that much, I'm
-certainly not going to get paid, and I could just
+certainly not going to get paid for it, so I'd rather just
 [sleep](/dada/sleeping) instead.
-
-Maybe I should instead work at
-[a tenth of minimum wage](https://twitter.com/thomaslevine/status/497272565770231808)
-to collect [data](http://usodi.org/2014/08/01/openaddresses)
-for fancy innovative businesses that are going to save the
-world by making lots of money and being more important than me.
 
 ## Why do people get excited about this stuff?
 Other people seem a bit more excited about this openly open openness nonsense
-than I do.
+than I do. Here's what I think is going on.
 
 People want to feel like they're part of something big, so people organize
 themselves into
@@ -66,77 +55,43 @@ themselves into
 [that](https://okfn.org)
 [sound](http://www.socrata.com/)
 [big](http://thegovlab.org/)
+or try to win
+[fancy competitions](https://www.federalregister.gov/articles/2014/07/21/2014-17065/vizrisk-prize-competition-challenge).
+
 People who are looking for some direction and purpose in life get sold on
 the open openness (or whatever the trendy thing is). Then they decide that
 they need to save the world with the open openness, so then they devote their
-lives to one of big and impressive projects/entities. And I don't think
-that people find the purpose that they are looking for in such endeavours
+lives to one of big and impressive projects/entities. It might feel nice at
+first, but I don't think that people find the purpose that they are looking
+for in such endeavours.
 
-## Deeper reasons for getting excited about open openness
-While I doubt that this open openness helps much with the things in the
-previous section, I think that people actually do get something they want
-when they jump on the open openness bandwagon; it's just a bit more stressful
-than it needs to be because people have to play the game I describe in the
-previous section.
+## There isn't money in this stuff
+Is open data really [all about the money](/dada/open-data-is-all-about-money/)?
+Perhaps we just say in America, because numbers and money will be our saviour
+and you are silly if you think otherwise. Moreover, if it were all about the
+money, you'd think that [it would pay](/dada/searching-data-tables-better).
 
-(And don't like playing these games because that's a lot of work and
-I'd rather have time to sleep.)
+Fortunately, it does! As of last week you can work at
+[a tenth of minimum wage](https://twitter.com/thomaslevine/status/497272565770231808)
+to collect [data](http://usodi.org/2014/08/01/openaddresses)
+for fancy innovative businesses that are going to save the
+world by making lots of money and being more important than you.
 
-
-
-
-
-
-
-
-
-
-
-
-
-https://twitter.com/EllieAsksWhy/status/497360232356802560
-
-
-
-
-
-
-
-
-
-Rather than fixing things, I like to make them more hilarious.
-strata
-risley toilets
-
-
-
-
+## Silly games
+I like being around people who make me feel nice, and the people
+who care about open openness sometimes do this; that might be
+[why I do this stuff](/dada/datakind-is-kind/). But I wish I didn't
+have to care about fixing government or saving the world,
+and or [talking about computers](/dada/learning-data-stuff/).
 
 I went to
-Open Knowledge Festival
+[Open Knowledge Festival](http://2014.okfestival.org/)
 for the first time last month, and I found it to be the most
 stressful thing I'd done in a while. The previous similarly
 stressful thing was
-Transparency Camp.
-Do you see the pattern here?
-
+[Transparency Camp](http://transparencycamp.org/).
 All of the frustrating things I describe above are very present
 when you get a bunch of people together to be open about openness.
 
-
-
-I don't really care about fixing government or saving the world,
-/dada/datakind-is-kind/
-
-and I don't usually like talking about computers.
-/dada/learning-data-stuff/
-
-I like being around people who make me feel nice, and the people
-who care about open openness sometimes do this, but I don't like
-the pressure to talk about open openness.
-
-
-
-
-
-
+I like the people, but playing these games is a lot of work, and
+I'd rather have time to [sleep](/dada/sleeping/).
