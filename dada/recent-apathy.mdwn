@@ -2,7 +2,7 @@
 [[!meta title="It seems that I don't get excited in the ways that people think I will."]]
 
 People Tweeted at me a lot yesterday about things that didn't
-excite me in the ways that they probably thought it would.
+excite me in the ways that they probably had anticipated.
 
 ## Open data open data
 A conversation started around studying how people use websites
@@ -28,12 +28,14 @@ And this includes
 [preach](http://nucivic.com/data/)
 [open](http://www.code4sa.org/)
 [openness](http://thegovlab.org/).
-Maybe it would be fine if their pretending involved helping with this stuff,
+It would be less confusing if they just didn't fake interest in my stuff.
+Or maybe it would be fine if their pretending involved helping with this stuff,
 but it doesn't.
 
 Well actually, that's not true;
-some people like that I am confirming what they already think, which
-is that the openly open openness is
+some people really really like what I'm doing
+becaue it's confirming what they already think,
+which is that the openly open openness is
 "[fucked](https://twitter.com/lifewinning/status/489712000055144449)".
 
 ## Related projects
@@ -59,7 +61,8 @@ themselves into
 [sound](http://www.socrata.com/)
 [big](http://thegovlab.org/)
 or try to win
-[fancy competitions](https://www.federalregister.gov/articles/2014/07/21/2014-17065/vizrisk-prize-competition-challenge).
+[fancy](http://www.law.berkeley.edu/17363.htm)
+[competitions](https://www.federalregister.gov/articles/2014/07/21/2014-17065/vizrisk-prize-competition-challenge).
 
 People who are looking for some direction and purpose in life get sold on
 the open openness (or whatever the trendy thing is). Then they decide that
