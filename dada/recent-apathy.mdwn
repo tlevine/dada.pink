@@ -52,7 +52,8 @@ certainly not going to get paid for it, so I'd rather just
 
 ## Why do people get excited about this stuff?
 Other people seem a bit more excited about this openly open openness nonsense
-than I do. Here's what I think is going on.
+than I do. Here's what I think is going on, and it's not specific to
+open-whatever.
 
 People want to feel like they're part of something big, so people organize
 themselves into
@@ -63,10 +64,13 @@ themselves into
 or try to win
 [fancy](http://www.law.berkeley.edu/17363.htm)
 [competitions](https://www.federalregister.gov/articles/2014/07/21/2014-17065/vizrisk-prize-competition-challenge).
+Or maybe they move to San Francisco and start companies
+(which might just be [websites and business cards](http://www.whitbygroup.com/))
+that are going to invent some other "technology" that isn't about open openness.
 
 People who are looking for some direction and purpose in life get sold on
-the open openness (or whatever the trendy thing is). Then they decide that
-they need to save the world with the open openness, so then they devote their
+some sexy work. Then they decide that they need to save the world with the
+open openness or whatever the work is, so then they devote their
 lives to one of big and impressive projects/entities. It might feel nice at
 first, but I don't think that people find the purpose that they are looking
 for in such endeavours.
