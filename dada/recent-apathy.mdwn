@@ -88,8 +88,9 @@ world by making lots of money and being more important than you.
 I like being around people who make me feel nice, and the people
 who care about open openness sometimes do this; that might be
 [why I do this stuff](/dada/datakind-is-kind/). But I wish I didn't
-have to care about fixing government or saving the world,
-and or [talking about computers](/dada/learning-data-stuff/).
+have to care about fixing government or saving the world. And
+computers are [kind of nice](/dada/why-i-like-hackerspaces/),
+but [I don't really like talking about them](/dada/learning-data-stuff/).
 
 I went to
 [Open Knowledge Festival](http://2014.okfestival.org/)

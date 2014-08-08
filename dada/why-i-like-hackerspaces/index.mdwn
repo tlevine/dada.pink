@@ -44,7 +44,10 @@ them apart and seeing what breaks.
 People seem to think I'm good at computer stuff. I suppose I am,
 but the deeper thing is that I don't see fancy things as magical and
 I feel like I'm allowed to understand how they work.
+This gets to deeper values like democracy and fairness and representation
+and consideration of different perspectives. Treat others as equal,
+and encourage them to be just as equal as you are.
 
 ## Hackerspaces
-This attitude tends to be relatively absent from hackerspaces,
-and that's why I like them so much.
+In hackerspaces, people aren't trying to be the smart people who are going to
+save the masses; they just want to hang out and be people.
