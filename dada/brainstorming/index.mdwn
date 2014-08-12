@@ -51,6 +51,14 @@ about how corrupt the world is and how
 exposes the corruption, I asked why people take part in corruption.
 
 ## Figure out what was appealing about prior good ideas
+Perhaps you are trying to come up with a logo for your awesome new thing.
+People start coming up with ideas. People seem to like using broccili,
+ping-pong tables, trees, and algae as logos. But they don't like carrots, 
+air hockey tables, rocks, or moldy bread.
+
+All of the things in the first group are green; is that why we like them?
+Once you've noticed this, you can focus your thinking on green things and/or
+think about why you like green things.
 
 ## Six thinking hats
 I should add something to this page about [Six Thinking Hats](http://en.wikipedia.org/wiki/Six_Thinking_Hats).
