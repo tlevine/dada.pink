@@ -11,6 +11,7 @@ and the value of obtaining citizenship. There are many companies like it.
 Unfortunately, the sources for their claims as to the costs of citizenship
 are usually not cited.
 
+## Belgium
 I looked around on Belgian government websites and came up with several things.
 
 * https://dofi.ibz.be/sites/dvzoe/FR/Guidedesprocedures/Pages/Le_travailleur_independant.aspx
@@ -25,5 +26,17 @@ And I looked around a bit more and found a bit more.
 * http://euforus.blogspot.de/2010/01/six-steps-and-five-years-to-belgian.html
 
 I get the feeling that the whole system is grossly complicated and
-that nobody understands it and that money allows you to hire people
-to figure it out for you.
+that nobody understands it; people probably pay lots of money for
+other people to figure it out for them.
+
+## Hungary
+http://www.akk.hu/object.E2A89FF4-D355-4173-9252-C8F50FD17F04.ivy
+
+## Portugal
+You can obtain Portugese
+`Golden Residence Permit <http://www.sef.pt/documentos/56/ARIEN2.pdf>`_
+by spending about about three
+American university tuitions on a property in Portugal.
+I presume that you can invest in an apartment building and live
+in it and rent it out and use that to pay for all of your other
+expenses.
