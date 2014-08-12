@@ -70,13 +70,15 @@ If someone complains about how
 are doing something stupid, I might ask why people would do such a thing,
 or why people would believe such nonsense.
 
-When people start companies, I always ask why.
-
 When I saw a
 [talk](http://2014.okfestival.org/okfestival-keynote-spotlight-patrick-alley/)
 about how corrupt the world is and how
 [Global Witness](http://globalwitness.org/)
 exposes the corruption, I asked why people take part in corruption.
+
+For important things, people often don't know. Or they do kind of know,
+but there's a deep reason that people are hiding from themselves. This
+makes the question harder to answer and makes the answer more interesting.
 
 ## Figure out what was appealing about prior good ideas
 If you can explain why you like things that you have already thought of,
