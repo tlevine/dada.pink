@@ -33,6 +33,9 @@ I get the feeling that the whole system is grossly complicated and
 that nobody understands it; people probably pay lots of money for
 other people to figure it out for them.
 
+Or you could figure it out yourself. It'll be a bit of work,
+it's probably not *that* hard.
+
 Hungary
 -----------
 Hmm. http://www.akk.hu/object.E2A89FF4-D355-4173-9252-C8F50FD17F04.ivy
