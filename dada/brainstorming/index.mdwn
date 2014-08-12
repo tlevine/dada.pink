@@ -1,7 +1,35 @@
 [[!meta title="Brainstorming"]]
 <!-- created_at: 2013-06-09 -->
 
-How do I come up with ideas that seem new?
+Lots of people think that creativity is some innate trait that
+can't be learned. It isn't; people seem to think I'm very creative,
+and my approach to creativity is rather mechanical, rote,
+formulaic, and other synonymous adjectives. Here are a few things
+I do to come up with ideas that seem new.
+
+## Ways of thinking
+I take inspiration from a book that I'll try not to name because
+I feel like it is overly hyped. The book reads like a self-help book,
+and the [website](http://www.debonogroup.com/six_thinking_hats.php)
+is hilariously business-like, so maybe you shouldn't take
+this too seriously. This book presents six modes of thinking.
+
+> Six distinct directions are identified and assigned a color. The six directions are:
+
+> * Managing (Blue) - what is the subject? what are we thinking about? what is the goal?
+> * Information (White) - considering purely what information is available, what are the facts?
+> * Emotions (Red) - intuitive or instinctive gut reactions or statements of emotional feeling (but not any justification)
+> * Discernment (Black) - logic applied to identifying reasons to be cautious and conservative
+> * Optimistic response (Yellow) - logic applied to identifying benefits, seeking harmony
+> * Creativity (Green) - statements of provocation and investigation, seeing where a thought goes
+
+> Coloured hats are used as metaphors for each direction. Switching to a direction is symbolized by the act of putting on a coloured hat, either literally or metaphorically. These metaphors allow for a more complete and elaborate segregation of the thinking directions. The six thinking hats indicate problems and solutions about an idea the thinker may come up with.
+
+*(from the [Wikipedia article](http://en.wikipedia.org/wiki/Six_Thinking_Hats))*
+
+I vaguely keep these modes of thinking in mind, and
+I try to balance conversations by adopting
+modes that are underrepresented in the conversation.
 
 ## Questions
 I have various mental lists of ways of asking more questions, but I only seem
@@ -51,14 +79,13 @@ about how corrupt the world is and how
 exposes the corruption, I asked why people take part in corruption.
 
 ## Figure out what was appealing about prior good ideas
+If you can explain why you like things that you have already thought of,
+you can target your thinking-up of new things.
+
 Perhaps you are trying to come up with a logo for your awesome new thing.
 People start coming up with ideas. People seem to like using broccili,
 ping-pong tables, trees, and algae as logos. But they don't like carrots, 
 air hockey tables, rocks, or moldy bread.
-
 All of the things in the first group are green; is that why we like them?
 Once you've noticed this, you can focus your thinking on green things and/or
 think about why you like green things.
-
-## Six thinking hats
-I should add something to this page about [Six Thinking Hats](http://en.wikipedia.org/wiki/Six_Thinking_Hats).
