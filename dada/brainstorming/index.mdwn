@@ -1,6 +1,9 @@
-[[!meta title="Inspiration for questions"]]
+[[!meta title="Brainstorming"]]
 <!-- created_at: 2013-06-09 -->
 
+How do I come up with ideas that seem new?
+
+## Questions
 I have various mental lists of ways of asking more questions, but I only seem
 to remember them when I need them. I'm trying to write them all down here.
 
@@ -27,4 +30,27 @@ to the sentence "I like broccili".
   * "What do you mean by 'like'?"
 * Motivation ("Why do you mention that you like broccili?")
 
+## Why people do things
+I generally wonder why anybody does anything, so I often ask about that.
+This question often feels like brainstorming because nobody asks it.
+
+If someone mentions that she has a particular hobby, I might ask why she
+likes that thing.
+
+If someone complains about how
+[other](http://www.gop.com/) [people](http://www.democrats.org/)
+are doing something stupid, I might ask why people would do such a thing,
+or why people would believe such nonsense.
+
+When people start companies, I always ask why.
+
+When I saw a
+[talk](http://2014.okfestival.org/okfestival-keynote-spotlight-patrick-alley/)
+about how corrupt the world is and how
+[Global Witness](http://globalwitness.org/)
+exposes the corruption, I asked why people take part in corruption.
+
+## Figure out what was appealing about prior good ideas
+
+## Six thinking hats
 I should add something to this page about [Six Thinking Hats](http://en.wikipedia.org/wiki/Six_Thinking_Hats).
