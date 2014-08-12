@@ -34,7 +34,7 @@ that nobody understands it; people probably pay lots of money for
 other people to figure it out for them.
 
 Or you could figure it out yourself. It'll be a bit of work,
-it's probably not *that* hard.
+but it's probably not *that* hard.
 
 Hungary
 -----------
