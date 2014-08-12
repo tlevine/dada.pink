@@ -1,5 +1,3 @@
-Too weird
-~~~~~~~~~
 Looking around on the internet today, I came up with a fun idea.
 Instead of spending $200,000 or more on college in the United States,
 you could use that money to demonstrate financial ties to Belgium,
