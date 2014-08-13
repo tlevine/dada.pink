@@ -1,0 +1,2 @@
+* [Two-dimensional Context-free Grammars](ftp://cmp.felk.cvut.cz/pub/cmp/articles/prusa/Prusa-ITAT-2001.pdf), by Daniel Prusa
+* [Automatically Extracting Class Diagrams from Spreadsheets](http://link.springer.com/chapter/10.1007%2F978-3-642-14107-2_4?LI=true), by Felienne Hermans
