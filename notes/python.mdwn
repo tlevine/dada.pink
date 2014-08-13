@@ -1,0 +1,3 @@
+This is called extended iterable unpacking.
+
+    x, *xs = [1,2,3]
