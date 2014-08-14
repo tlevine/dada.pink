@@ -16,6 +16,14 @@
 
 * Something with Remedy Interactive's data
 * [Wrist cracking](https://github.com/tlevine/wrist-cracking)
+* Eye-screen distance as the primary concern in body posturing,
+    perhaps using a camera to measure eye distance and REBA for
+    the rest of the body posture
+  * [My answer to a related question](http://www.quora.com/Ergonomics/What-should-be-the-distance-between-computers-and-human-eye/answer/Thomas-Levine-2?__snids__=114332382&__nsrc__=1&__filter__=all)
+  * I previously started on a larger-than-I-want-to-do study
+      on this and other things, and
+      [this](https://gitorious.org/tlevine/casual_computing/source/42a9fe2ed6a2e54667172ef119e9a5d39f04ee24:literature_msd.tex)
+      is as far as I got.
 
 ## Software things that nobody cares about
 
