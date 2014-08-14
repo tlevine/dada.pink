@@ -1,0 +1,24 @@
+[[!meta title="Things I want to do"]]
+[[!meta description="Some things that might be more exciting than sleep"]]
+
+## Software things for other people
+
+* Music for Roman's company
+* Wetlands information system for Scott and the Gulf Restoration Network
+
+## Letterpress and computers
+
+* California case keyboard
+* More [letterpress-printed data](/dada/print-formaldehyde)
+* USB stenotype
+
+## Ergonomicsy studies
+
+* Something with Remedy Interactive's data
+* [Wrist cracking](https://github.com/tlevine/wrist-cracking)
+
+## Software things that nobody cares about
+
+* Parser for grammars that describe grids, so we can parse spreadsheets
+    more formally
+* A way to search spreadsheets that considers their tabular structure
