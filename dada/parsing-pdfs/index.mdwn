@@ -18,7 +18,7 @@ I sort of follow this decision process.
 ## Example PDFs
 I'll show a few different approaches to parsing and analyzing
 [these](https://github.com/tlevine/scott-documents) PDF files
-(also available [here](http://tlevine.the-nsa.org/big/scott-documents.tar.gz)).
+(also available [here](http://big.dada.pink/scott-documents.tar.gz)).
 Different approaches make sense depending on the question you ask.
 
 These files are public notices of applications for permits to dredge or fill
@@ -27,14 +27,15 @@ may comment on the notices before the Corps approves them; people are thus
 able to voice concerns about whether these permits would fall within the rules
 about what sorts of construction is permissible.
 
-Theses files are
+Theses files were
 [downloaded daily](https://github.com/tlevine/scott/tree/master/reader)
 from a no-longer-available version of the
 New Orleans Army Corps of Engineers website
 <!-- http://www2.mvn.usace.army.mil/ops/regulatory/publicnotices.asp?ShowLocationOrder=False -->
 and renamed according to the permit application and the date of download.
-They feed into [this program](https://github.com/tlevine/scott), which is primarily
-used by the Gulf Restoration Network in their efforts to protect the wetlands.
+They fed into [this program](https://github.com/tlevine/scott), which was primarily
+used by the Gulf Restoration Network in their efforts to protect the wetlands
+(until the Army site changed and we never updated the system).
 
 ## If I don't need the file contents
 Basic things like file size, file name and modification date might be useful
@@ -351,9 +352,10 @@ PDFs to SVG with Inkscape and, and then take the images out of the SVG in order
 to know more precisely where they are in the page's structure.
 
 ## Broader ideas
-PDF has a weird semi-proprietary binary format that can be annoying to read,
+PDF is a weird semi-proprietary binary format that can be annoying to read,
 so my first step in reading PDF files is converting them to something that is
-supported better and that I'm more used to.
+supported better and that I'm more used to. Once I'm not that, I can mostly
+ignore that the file was originally a PDF file.
 
 There are all sorts of ways of encoding data in PDF files, so it's not like
 there's a straightforward PDF-to-spreadsheet conversion. (This is just like
@@ -361,8 +363,8 @@ any other file format.) Figure out what data you want to extract from the
 files, and select your parsing strategy accordingly.
 
 And if it seems like too much work to get exactly what you want, try to come
-up with something else that is easier to extract and that will still tell you
-something similar.
+up with something else that is easier to extract but still tells you most of
+what you wanted to know.
 
 Finally, it's quite hard to convert data formats without losing information,
 so don't worry about losing information. You can always write a new parser
