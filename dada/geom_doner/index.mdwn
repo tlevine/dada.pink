@@ -1,39 +1,39 @@
-# Install 
+[[!meta title="geom_doner"]]
+[[!meta description="Because data visualization is not enough"]]
+[Data visualization needs to die](http://small.dada.pink/gastronomification-big-data-talk/hacks-hackers-berlin-2014-08/data-visualization-needs-to-die.pdf).
+We need data döner.
 
-```r
-library("devtools")
-install_github("geomdöner", "tlevine")
-```
+## Installing
+
+    library("devtools")
+    install_github("geom_doner", "tlevine")
 
 Windows users also must first install
 [Rtools](http://cran.rstudio.com/bin/windows/Rtools/).
  
-# Example
+## Plotting
 
+    library(geomdoner)
 
-```r
-library(geomdoner)
+    mpg$truck <- mpg$class
+    levels(mpg$truck) <- c(TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE)
 
-mpg$truck <- mpg$class
-levels(mpg$truck) <- c(TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE)
+    mpg$y2008 <- mpg$year == 2008 # Alternative is 1999
+    mpg$id <- row.names(mpg)
 
-mpg$y2008 <- mpg$year == 2008 # Alternative is 1999
-mpg$id <- row.names(mpg)
-
-set.seed(693)
-ggplot(mpg[sample.int(nrow(mpg), 8),]) +
-  aes(label = paste0('Make #', id, ' (', manufacturer, ' ', model, ')'),
-      border = drv,
-      knoblauch = truck,
-      scharf = grepl('auto', trans),
-      zwiebeln = y2008,
-      tomaten = TRUE, salat = TRUE,
-      x = hwy, y = cty) +
-  xlab('Highway miles per gallon') +
-  ylab('City miles per gallon') +
-  ggtitle('Milage of eight automobile makes.\n(Each döner is a make.)') +
-  geom_text() + geom_doner()
-```
+    set.seed(693)
+    ggplot(mpg[sample.int(nrow(mpg), 8),]) +
+      aes(label = paste0('Make #', id, ' (', manufacturer, ' ', model, ')'),
+          border = drv,
+          knoblauch = truck,
+          scharf = grepl('auto', trans),
+          zwiebeln = y2008,
+          tomaten = TRUE, salat = TRUE,
+          x = hwy, y = cty) +
+      xlab('Highway miles per gallon') +
+      ylab('City miles per gallon') +
+      ggtitle('Milage of eight automobile makes.\n(Each döner is a make.)') +
+      geom_text() + geom_doner()
 
 ![Visual plot of milage data](mpg.png) 
 
