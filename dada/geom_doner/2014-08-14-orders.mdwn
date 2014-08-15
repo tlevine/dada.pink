@@ -1,0 +1,23 @@
+Make #42 (dodge caravan 2wd): döner box
+* ohne knoblauch
+* ohne kräuter
+* mit scharf
+* mit zwiebeln
+* mit tomaten
+* mit salat
+
+Make #118 (hyundai tiburon): döner
+* ohne knoblauch
+* ohne kräuter
+* ohne scharf
+* mit zwiebeln
+* mit tomaten
+* mit salat
+
+Make #98 (ford mustang): döner
+* ohne knoblauch
+* ohne kräuter
+* mit scharf
+* mit zwiebeln
+* mit tomaten
+* mit salat

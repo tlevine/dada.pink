@@ -38,6 +38,7 @@ Windows users also must first install
 ![Visual plot of milage data](mpg.png) 
 
 > Make #142 (nissan altima): döner box
+>
 > * ohne knoblauch
 > * ohne kräuter
 > * ohne scharf
@@ -46,6 +47,7 @@ Windows users also must first install
 > * mit salat
 >  
 > Make #13 (audi a4 quattro): döner
+>
 > * ohne knoblauch
 > * ohne kräuter
 > * ohne scharf
@@ -54,6 +56,7 @@ Windows users also must first install
 > * mit salat
 >  
 > Make #107 (honda civic): döner box
+>
 > * ohne knoblauch
 > * ohne kräuter
 > * mit scharf
@@ -62,6 +65,7 @@ Windows users also must first install
 > * mit salat
 >  
 > Make #86 (ford f150 pickup 4wd): döner
+>
 > * mit knoblauch
 > * ohne kräuter
 > * ohne scharf
@@ -70,6 +74,7 @@ Windows users also must first install
 > * mit salat
 >  
 > Make #42 (dodge caravan 2wd): döner box
+>
 > * ohne knoblauch
 > * ohne kräuter
 > * mit scharf
@@ -78,6 +83,7 @@ Windows users also must first install
 > * mit salat
 >  
 > Make #98 (ford mustang): döner
+>
 > * ohne knoblauch
 > * ohne kräuter
 > * mit scharf
@@ -86,6 +92,7 @@ Windows users also must first install
 > * mit salat
 >  
 > Make #175 (toyota 4runner 4wd): döner
+>
 > * mit knoblauch
 > * ohne kräuter
 > * mit scharf
@@ -94,6 +101,7 @@ Windows users also must first install
 > * mit salat
 >  
 > Make #118 (hyundai tiburon): döner box
+>
 > * ohne knoblauch
 > * ohne kräuter
 > * ohne scharf
@@ -101,4 +109,6 @@ Windows users also must first install
 > * mit tomaten
 > * mit salat
 
-![A döner plot](geom_doner.jpg)
+<img alt="A döner plot" src="geom_doner.jpg" class="wide" />
+
+(This plot only has [three](2014-08-14-ordes.mdwn) of the eight data points.)
