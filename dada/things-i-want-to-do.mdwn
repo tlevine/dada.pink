@@ -30,3 +30,19 @@
 * Parser for grammars that describe grids, so we can parse spreadsheets
     more formally
 * A way to search spreadsheets that considers their tabular structure
+
+## Learn about earlier peoples
+I generally wonder why people do things. And I think I want to know
+what to do with myself. Maybe I can learn a bit about this from history.
+
+Francis says that we're just like the Romans. And like the Romans,
+we have a republic that will turn into a dictatorship. I want to know
+what daily life was like for different people in Rome and what to do
+to cope with the rise of a dictatorship.
+
+The International Museum of Slavery reminds me to think about this
+topic that I never really studied much. People are stolen and made
+to work for other peoples with little compensation. Slavery continues
+now, just under a different name. So I want to learn about how the
+slave trade worked and what sort of people took part and why and how
+to cope with it.

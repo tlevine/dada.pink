@@ -1,0 +1,47 @@
+[[!meta title="Commas"]]
+[[!meta description="CSV is the people's data format, the common language that will unite us and bring world peace."]]
+
+Some friends and I started making music based on "data" (dunno exactly
+what I mean by that), and then it spiraled out of control. Also,
+I recognized that everybody in this computer bubble is pretending
+to know what she's doing and that she thus won't call you out when
+you're lying. That led to hilarious incidents like this.
+
+<video src="http://mediaservice.mirror-image.com/videos/7c2ae7a293147/assets/7938403/file.mp4" />
+
+([Slides](http://cdn.oreillystatic.com/en/assets/1/event/105/Music%20Videos%20and%20Gastronomification%20for%20Big%20Data%20Analysis%20Presentation.pdf))
+
+The part about how we're a consulting firm with lots of employees
+and big clients is all made up, but you might be surprised by how
+much is true; here are the
+[slides](http://small.dada.pink/gastronomification-big-data-talk/eusprig-2014/sheetmusic.pdf)
+from a similar talk that I gave at the 2014 meeting of the
+[European Spreadsheet Risk Interest Group](http://eusprig.org)
+and the stuff in there is all true.
+
+As of this writing, the most recent development in the area of
+data gastronomification is that
+[döner plot](/dada/geom_doner/) from after the
+[August meeting](http://www.meetup.com/Hacks-Hackers-Berlin/events/199099472/)
+of [Hacks/Hackers Berlin](https://www.meetup.com/Hacks-Hackers-Berlin/).
+
+<img alt="döner plot" src="/dada/geom_doner/geom_doner.jpg" class="wide" />
+
+Aside from performing
+[data music](http://fms.csvsoundsystem.com/),
+[aforementioned friends](http://csvsoundsystem.com)
+and I are very into commas.
+
+![Comma graffiti](http://small.dada.pink/tom-pictures/csv-grafitti/wall2.jpg)
+
+You see,
+[csv is the platonic form of data](https://twitter.com/nypl_labs/status/420298290283184128).
+I occasionally
+[get very emotional](http://www.dnainfo.com/new-york/20130429/greenpoint/data-driven-band-csv-soundsystem-makes-music-from-spreadsheets)
+about CSV files.
+
+We also want to open a cooperative data store with locally sourced
+data tables and [artisinal data analysis](/dada/print-formaldehyde/).
+We'll spread sheets over these tables, which we'll stock from
+a data warehouse, and we'll use random number books to run
+artisinal simulations.
