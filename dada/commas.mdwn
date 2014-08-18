@@ -7,7 +7,7 @@ I recognized that everybody in this computer bubble is pretending
 to know what she's doing and that she thus won't call you out when
 you're lying. That led to hilarious incidents like this.
 
-<video src="http://mediaservice.mirror-image.com/videos/7c2ae7a293147/assets/7938403/file.mp4" />
+<video src="http://big.dada.pink/strata-2014.mp4" class="wide" />
 
 ([Slides](http://cdn.oreillystatic.com/en/assets/1/event/105/Music%20Videos%20and%20Gastronomification%20for%20Big%20Data%20Analysis%20Presentation.pdf))
 
