@@ -1,0 +1,125 @@
+I've been working on getting information from Delaware,
+which might involve getting around rate limits based on
+IP addresses. Well I've actually already written a
+[system that completely works](https://pypi.python.org/pypi/delaware),
+but I haven't run it yet because I'm scared of Delaware.
+Here I explain how the computer stuff works and why I'm
+scared of Delaware.
+
+## How I would get the data
+I have written a program that makes lots of requests to the
+website to gather the data. Once someone installs the program,
+he doesn't really need to pay attention to it.
+
+The program is designed such that many different people at
+different IP addresses can run the program and coordinate their
+downloading. This way, no single IP address needs to make very
+many downloads. The only purpose for this design is to get around
+limits per IP address, in case such limits exist.
+
+This program might be better thought of as two programs:
+A "worker" and a "manager". The "worker" runs in the background
+on many different computers and receives instructions from the
+manager program that is running on my server. The manager tells
+each particular worker exactly which parts of the website to
+download; the manager coordinates all of the workers such that
+they download different parts of the database and stay within
+their per-IP-address limits.
+
+If there are no per-IP-address limits, I can just disable
+the rate limiting and run the whole thing from one IP address.
+If I discover that these limits do exist, I'll need more
+IP addresses; in such a case, I would ask a bunch of people to
+install and run my program. I think I would need the program
+to be running on about 1,000 different computers to have a
+good result. (The exact figure would depend on the rate limits.)
+
+## Why Delaware might pursue legal charges
+I have written a program that makes lots of requests to the
+website to gather the data. Other people have done this before,
+but they have run into the following issues.
+
+* The website blocks their IP addresses.
+* Delaware sends threatening letters to them.
+
+On the other hand, there's no obvious indication on the website
+that Delaware would mind if I got all of the data. In particular,
+
+* There is
+  [no robots.txt file](https://delecorp.delaware.gov/robots.txt)
+  to indicate which pages should and should not be accessed
+  automatically.
+* The website doesn't mention conditions that one must agree
+  to in order to use the website.
+* Web requests can contain a "user agent" field to indicate
+  what program is downloading the data. Some websites block
+  requests from user agents that don't look like web browsers,
+  and the Delaware site isn't doing that.
+
+More detail on user agents: For web browsers, they usually
+look something like this.
+
+    Mozilla/5.0 (compatible; MSIE 9.0; Win3.11; N; Trident/4.0)
+
+I set the user agent to this.
+
+    https://pypi.python.org/pypi/delaware
+
+That's a webpage that has documentation about the whole system
+and has my contact infromation. I did not get blocked even though
+I was using this user agent.
+
+## Some specific numbers
+The way I've written the program, I need to download 16 million
+files in order to get the full database. This ordinarily shouldn't
+take very long, but it will if the website limits how much a
+particular IP address can download.
+
+I have heard two figures as to how many files a particular
+IP address may download: (1) A few hundred, and (2) 3,000.
+I don't know what the timeframe is, like whether it's 3,000
+per hour, 3,000 per day, or 3,000 ever. I haven't hit any
+limits myself.
+
+I asked Delaware what limits there are on accessing the data,
+and they
+[said](limits.txt)
+that there are none.
+
+Given the scale of the downloading, Delaware might claim that
+this is some sort of attack. They might claim that I have a
+"botnet" under my control, which would make me sound evil.
+
+They might also claim that I am performing a distributed
+denial of service attack. This claim would be unreasonable
+as well because I wouldn't download things quickly enough to
+take down their site, but they could say this anyway.
+
+## Delaware's potential interest in keeping the data private
+There are many ways to get company registration data from
+Delaware. I am using the General Information Name Search,
+which provides minimal information and doesn't cost money.
+
+If I want to get more information, I can buy information on
+a specific company for
+[$10 or $20](https://delecorp.delaware.gov/tin/FAQ.jsp),
+depending on the information.
+
+Alternatively, I can buy a subscription to a service that gives
+me all of the data online. In addition to giving me the full
+information about each company, these services sound like they'll
+be much more convenient because they wouldn't require me to make
+separate purchases for separate companies.
+http://corp.delaware.gov/directwebvend.shtml
+
+And there are some
+[other](http://www.corp.delaware.gov/remoteagts.shtml)
+[forms](http://www.corp.delaware.gov/faqs.shtml)
+of access that I don't fully undersand.
+
+I'm not really sure how this all works, and Delaware's answer to my
+question about this wasn't helpful. But if it does work this way,
+I suspect that various vendors purchase subscriptions on the data
+from Delaware and then sell the data to companies. If this is the
+case, Delaware might be reluctant to release the data because these
+companies might not want to buy the data anymore.
