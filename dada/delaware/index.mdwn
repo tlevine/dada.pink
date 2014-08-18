@@ -83,7 +83,7 @@ limits myself.
 
 I asked Delaware what limits there are on accessing the data,
 and they
-[said](limits.txt)
+[said](delaware-questions)
 that there are none.
 
 Given the scale of the downloading, Delaware might claim that
@@ -105,20 +105,20 @@ a specific company for
 [$10 or $20](https://delecorp.delaware.gov/tin/FAQ.jsp),
 depending on the information.
 
-Alternatively, I can buy a subscription to a service that gives
-me all of the data online. In addition to giving me the full
-information about each company, these services sound like they'll
-be much more convenient because they wouldn't require me to make
-separate purchases for separate companies.
-http://corp.delaware.gov/directwebvend.shtml
+Alternatively, I can buy a subscription to
+[one of these services](http://corp.delaware.gov/directwebvend.shtml)
+that gives me all of the data online. It sounds like these services
+would also be much more convenient because they wouldn't require me
+to make separate purchases for separate companies.
 
 And there are some
 [other](http://www.corp.delaware.gov/remoteagts.shtml)
 [forms](http://www.corp.delaware.gov/faqs.shtml)
 of access that I don't fully undersand.
 
-I'm not really sure how this all works, and Delaware's answer to my
-question about this wasn't helpful. But if it does work this way,
+I'm not really sure how this all works, and Delaware's
+[answer to my question](delaware-questions)
+about this wasn't helpful. But if it does work this way,
 I suspect that various vendors purchase subscriptions on the data
 from Delaware and then sell the data to companies. If this is the
 case, Delaware might be reluctant to release the data because these
