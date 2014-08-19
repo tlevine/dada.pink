@@ -64,6 +64,7 @@ add_plugins:
 - txt
 - typography
 - autoindex
+- cutpaste
 # plugins to disable
 disable_plugins:
 - relativedate
