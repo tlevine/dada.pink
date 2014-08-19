@@ -1,12 +1,10 @@
 [[!meta title="About Thomas Levine"]]
 
-![A picture of Tom](/img/govlab-experiment.jpg)
+![A picture of Tom](/img/tram-thomas.jpg)
 
 <!-- http://www.nga.gov/exhibitions/2006/dada/cities/index.shtm -->
 
 Thomas Levine likes to sleep, and he's usually curious about why people do anything else.
-He has recently been playing [music](/sensing-data), teaching data things,
-and doing [silly things](/open-data) with lots of spreadsheets.
 His favorite color is [pink](/img/me-420.png).
 
 ## History
