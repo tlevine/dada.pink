@@ -64,6 +64,7 @@ add_plugins:
 - typography
 - autoindex
 - cutpaste
+- localstyle
 # plugins to disable
 disable_plugins:
 - relativedate
@@ -319,8 +320,7 @@ po_link_to: default
 ######################################################################
 # web plugins
 #   (404, attachment, comments, editdiff, edittemplate, google, goto,
-#    mirrorlist, remove, rename, repolist, search, theme, userlist,
-#    websetup, wmd)
+#    mirrorlist, rename, repolist, search, theme, userlist, websetup, wmd)
 ######################################################################
 
 # attachment plugin
