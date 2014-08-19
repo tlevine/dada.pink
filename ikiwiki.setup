@@ -45,7 +45,6 @@ add_plugins:
 - branchable
 - recentchangesdiff
 - attachment
-- remove
 - rename
 - edittemplate
 - favicon
@@ -70,6 +69,7 @@ disable_plugins:
 - relativedate
 - rawhtml
 - prettydate
+- remove
 # additional directory to search for template files
 templatedir: /usr/share/ikiwiki/templates
 # base wiki source location
