@@ -1,3 +1,0 @@
-[[!meta redir="dada/schemas-and-formats"]]
-
-I moved things around, so you are getting redirected.

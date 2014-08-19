@@ -1,3 +1,0 @@
-[[!meta redir="dada/htmltable2matrix"]]
-
-I moved things around, so you are getting redirected.

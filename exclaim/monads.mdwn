@@ -1,3 +1,0 @@
-[[!meta redir="dada/monads"]]
-
-I moved things around, so you are getting redirected.
