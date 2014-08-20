@@ -25,3 +25,8 @@ a few more words.
 It could have just said "Port region ends here
 (imaginary line from such act from 18whenever)."
 Or maybe this was normal speak back then?
+
+## Port blocking
+How fun! The `_FreeWifi` network in Manchester airport
+asks you fill out a form before you use the internet,
+but it doesn't block the SSH or IMAP ports.
