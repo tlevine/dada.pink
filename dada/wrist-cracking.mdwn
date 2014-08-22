@@ -11,34 +11,43 @@ different things. I notice several people doing the same sort
 of thing, but I haven't studied anyone else's wrists as closely
 as I've studied mine.
 
-I start the motion with a pronated, slightly extended, and
-laterally (Is this ulnar or radial?) deviated wrist. Next,
+I usually start with *rotations* of the hand, wherein I flex/extend,
+pronate/supinate and deviate my wrists in order to trace a circle
+with my fingertips.
+
+<!-- XXX Clip of video with rotation -->
+
+I stop rotating when my hand is  pronated, slightly extended, and
+ulnar deviated wrist. Next,
 I extend the hand further and lessen the lateral deviation.
 Finally, I lessen the extension of the hand and medially
-(ulnar or radial) deviate the hand.
+radially deviate the hand.
 
-XXX video of the initial thing
+<!-- XXX Clip of video with the part that makes the sound -->
 
 I tend to repeat this whole process a few times, separated
-by full *rotation* movements of the hand, wherein I flex/extend,
-pronate/supinate and deviate my wrists in order to trace a
-circle with my fingertips.
-
-XXX video of rotation
+by full rotation movements.
 
 If the muscles are very tense, I can produce the sound with very
 little movement. And if the muscles are very relaxed, I need more
 movement to produce the sound. I sometimes flex or extend my thumb
 or flex my fingers, especially if the musles are more relaxed.
 
-XXX video with thumb
+<!-- XXX Clip of video with thumb -->
 
 I think that the muscles need to be very tense for this phenomenon
 to occur, and the extra movement and thumb positioning provides the
 extra tension.
 
+Here's a video. I didn't remember which was the ulna and which was
+the radius, so I referred to ulnar deviation as "lateral" deviation
+and radial deviation as "medial" deviation. (This is accurate if the
+hand is pronated, which it pretty much always is in the video.)
+
+<video src="http://big.dada.pink/wrist-cracking/wrist-cracking.webm" class="wide" />
+
 It appears that not everyone can make this motion, even when given
-these directions.
+these directions. So you might not be able to do it yourself.
 
 ## Hypothesis as to why it feels good
 What happens, I think, is that the finger extensors and finger flexors
@@ -56,7 +65,8 @@ my homework at my computer. It was either during the night or the
 next day that I noticed that my wrists cracked.
 
 If I look around on old hard drives, I might be able to figure out
-the exact date that this happened.
+the exact date that this happened and the specific homework that
+I was working on and maybe even the undo history!
 
 ## Other literature on the topic
 Ever since my wrists started cracking, I've asked and looked for
