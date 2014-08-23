@@ -21,6 +21,11 @@ has a bunch of tips as to how to make them go.
 Weights of things
 
 Camera
+    Probably less than 250 grams
+RFduino
+    A few grams
+Bic lighter
+    0.3 pounds
 
 ALl that Public Lab has is this http://publiclab.org/notes/mathew/5-29-2012/solar-hot-air-balloons
 
