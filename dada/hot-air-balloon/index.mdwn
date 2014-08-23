@@ -5,3 +5,15 @@ What material?
 [Dacron](https://en.wikipedia.org/wiki/Polyethylene_terephthalate)?
 It looks like I can buy both of these from a normal fabric store.
 
+Maybe [RFduino](http://www.rfduino.com/) for communications?
+
+
+I could put it on a string so I don't need a parachute valve and so
+that it's easier to control.
+
+* https://www.youtube.com/watch?v=nQJjZsFflQY
+* http://www.rei.com/learn/expert-advice/backpacking-stove.htmlGo
+
+A Bic lighter burns for half an hour, and
+[this forum thread](http://www.bladeforums.com/forums/showthread.php/190047-Burn-time-of-a-mini-Bic-lighter)
+has a bunch of tips as to how to make them go.
