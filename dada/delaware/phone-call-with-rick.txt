@@ -1,0 +1,94 @@
+The sample is the thing you can buy for $20.
+
+Direct Web Access gives you the same stuff for a better price and a seamless interface; the other states feed something similar, and the vendors provide everything in one interface, in one common look and feel.
+
+The $10 thing is the "Status", like "Good Standing".
+
+
+Stock information section:
+
+STOCK INFORMATION:
+Amend: 002
+Start: 11-01-2010
+Time: 16:23 
+
+
+Amendment 002 filed on that time and that  so many shares of this stok at this value
+
+Seq Description Cls Ser Authorized Par Value
+1 COMMON 5,000,000,000 .010000
+2 PREFERRED 2,000,000,000 .010000 
+
+
+and the most recent filings
+
+* change of agent
+* 
+
+
+only five filings because a limitation of the system when it was created 20 years ago
+
+
+tax information, what they were assessed, what they paid
+
+
+
+vendor gets charged $10 for each time the data are accessed (rather than $20)
+
+every time the information 
+
+real-time, meaning right away stored in a database
+
+
+To be a Direct Web Access vendor, you need to be a commercial registered agent
+and have demonstrated one year of being an on-line registered agent
+http://corp.delaware.gov/agents/agts.shtml
+
+They have direct online access. They can upload information for approval.
+
+80% of filings get filed through a registered agent company, rather than directly
+through the division. A lot have the online access and do the database entry and
+then submit for approval. And they scan the image of the document.
+
+
+There's really only two parent companies offering a subscription to
+Direct Web Access; there used to be more, but they've been consolidated
+
+CT CSC
+CT Corporation
+Corporation Service Company
+two-thirds of legal entities are represented by them
+
+
+By contract, registered agents have access to the database solely for the purposes
+of serving their clients. They are prohibited from using it in bulk. There's a fee
+to be an online registered agent, and there are special technologies, so there's a
+big upfront cost. There isn't a fee for purposes of being a registered agent, but
+there is a fee for conveying information to a third party (the $10 and $20 fees).
+
+Their imaging system has the document images, and those have other fees ($10 for the first page, $2 for each additional page).
+
+All those fees are in the statute. 
+
+* Title 8 Section 391 (fees)
+* Title 6 Chapters 15 (partnerships), 17 (limited partnerships), 18 (LLCs)
+  * doesn't remember the subsection
+* Title 12 Chapter 38 (statuatory trusts)
+* Title 29 Chapter 23 Section 2318 (Direct Online Access)
+
+General Assembly comes up with the fees and has theh authority to raise revenu.
+They used to provide no free information over the internet
+
+Third-party access goes back to early nineties.
+
+in 2003 or 2004 decided to provide some information for free so they wouldn't get so many phone calls
+
+The fee structure for online access was maybe 2003 or 2004 that it was constructed
+
+about 3.1 million legal entities (because it goes all the way back to 1899)
+
+about 1,050,000 active entities
+
+biggest per capita, but california, ny, florida are even bigger in raw size
+
+call him back if i have more questions
