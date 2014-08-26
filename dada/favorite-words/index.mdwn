@@ -1,8 +1,10 @@
 Words that I really like
 
-* calque and loanword
-* chainsaw
-* créee
+* [calque](https://en.wikipedia.org/wiki/Calque) and [loanword](https://en.wikipedia.org/wiki/Loanword)
+* [chainsaw](https://en.wikipedia.org/wiki/Chainsaw),
+    [tronçonneuse](https://fr.wikipedia.org/wiki/Tron%C3%A7onneuse),
+    [motorsåg](https://sv.wikipedia.org/wiki/Motors%C3%A5g), &c.
+* [créée](https://en.wiktionary.org/wiki/cr%C3%A9%C3%A9e)
 
 Connecting words that make me feel fancy
 
@@ -15,5 +17,6 @@ Words that I use a lot but don't particularly like
 
 * anyway
 * woo
+* woah
 * hmm
 * actually
