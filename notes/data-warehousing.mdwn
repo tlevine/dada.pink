@@ -1,0 +1,20 @@
+For context, you might figure that I know absolutely
+nothing about data warehousing.
+
+Example 1
+=========
+Let's say I have a bunch of text messages, a bunch of
+emails, and a contact list. The contact list contains
+all of the phone numbers and email addresses for all
+of the contacts, and it has a unique identifier for
+each contact. To keep things simple, let's assume that
+the texts and emails all had one sender and one recipient.
+
+I want to be able to see who exchanged messages at what
+times.
+
+Do I create one "message" cube that contains
+
+I can create a cube for the text messages and another
+cube for the emails, each containing the unique
+identifier field for the person who sent the message.
