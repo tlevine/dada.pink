@@ -1,6 +1,6 @@
 [[!meta title="Tom's stuff, itemized"]]
 [[!meta description="A list of the things that Tom carries around with him"]]
-[[!tag stuff]]
+[[!tag /stuff]]
 
 Everything I need to carry when I move house fits in a
 [Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)

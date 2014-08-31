@@ -1,2 +1,1 @@
-[[!meta redir="stuff"]]
-Something went wrong. Go [here](/stuff).
+[[!meta redir="/stuff"]]
