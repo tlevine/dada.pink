@@ -237,7 +237,7 @@ pingurl: []
 # lockedit plugin
 # PageSpec controlling which pages are locked
 locked_pages: dada/curriculum-vitae/cv or index or dada/statistics-with-doodles-sudoroom
-  or dada/*/slides or dada/table-words or dada/variables
+  or dada/*/slides or dada/table-words or dada/variables or local.css
 
 # moderatedcomments plugin
 # PageSpec matching users or comment locations to moderate
