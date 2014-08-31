@@ -1,3 +1,3 @@
 [[!meta redir="stuff"]]
-[[!tag blah]]
+
 Something went wrong. Go [here](/stuff).
