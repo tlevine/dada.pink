@@ -141,3 +141,4 @@ WED:20140618:20140702 Phone call with Betsy & al. 4 pm ET, 3 pm CT, 12 pm UTC
 20140903 6:30 pm Math Encounters, Museum of Math
 20140920 2 pm or 6 pm, Mp3 Experiment, Brooklyn
 20140911 6:30 pm http://www.meetup.com/postgresql-3/events/202742612/
+20140904 6:30 pm http://www.meetup.com/nycpython/events/201673202/
