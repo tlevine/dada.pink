@@ -20,6 +20,8 @@ Toys
 * [Electromyography stuff](http://www.advancertechnologies.com/p/shop_3.html)
 * Fast scanner for old papers
   * A book-scanner would be even better.
+* [ZTE Open](http://stores.ebay.com/zteauthorizedstoreus/) for
+    [Firefox OS](https://developer.mozilla.org/en-US/Firefox_OS)
 
 And other tools related to
 [things I want to do](/!/things-i-want-to-do/)
