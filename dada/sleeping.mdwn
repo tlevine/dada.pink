@@ -59,6 +59,9 @@ building that blew air out of a window. I think it was the boiler room.
 I usually wore my earmuffs to bed to deal with this, though I sometimes
 took them off eventually in order to lie on my side.
 
+The other reason to wear earmuffs or earplugs is if someone else is also
+sleeping in the same room and that person is snoring.
+
 ## Sleeping without a bed
 I always try to find a a **pillow**.
 When I'm sleeping on my back, the pillow needs
@@ -85,6 +88,17 @@ feels nice; I'd rather use a bunch of blankets, even if I'm
 in the woods. (Blankets seem to work better than jackets;
 guess they insulate better.)
 
+### Avoiding getting cold
+I only realized how much insulation mattresses provide when I started
+sleeping without them. When I'm sleeping in a bed, I normally just need
+to pile more blankets on top of me in order to be warm; I don't have to
+pile blankets under me because the mattress is already enough insulation.
+
+Floors conduct heat very well, so you'll lose more heat through the floor
+than you will through the air, even if you're not using blankets. I normally
+just put blankets under me to deal with this, but you could also use a
+hammock, sleeping pad, or probably a table with a long tablecloth.
+
 ### If it gets cold
 If I don't have many blankets, it might get cold at night.
 Here's how I deal with that.
@@ -103,14 +117,6 @@ of the earth has gone the longest since receiving sun. If you wake
 up near this part of the night, you just need to last a bit longer.
 When I don't have a real bed, I often wake up near this time of night.
 
-conduction
-
-bed position
-
-blanket between floor
-
-sleep surfaces
-
 ### Postures
 Let's talk about three categories of posture and how I accomplish
 each of them, especially when I don't have a bed.
@@ -128,13 +134,15 @@ body; that is, laterally rotate my arm.
 
 
 ## When I do have a bed
+I like having my mouth above my stomach because my esophagus hurts less
+this way. (This is a normal thing for people with acid reflux.)
 
-* King size blanket, regardless of what size of bed it is
+I like large blankets, like king size, regardless of what size of bed I'm
+using. This way, I don't have to worry about the blanket slipping out of
+just-the-right position, and I can cozily wrap myself in an enormous blanket.
 
-* Mouth above stomach
-
-I have wool blankets because they're small and easier to carry.
-Otherwise, I don't have major preferences about blankets
+I have wool blankets because they're small and easier to [carry](/stuff).
+Otherwise, I don't have major preferences about blankets.
 
 ## Broader sleepiness
 When I say the word "sleep", I often mean things that might
