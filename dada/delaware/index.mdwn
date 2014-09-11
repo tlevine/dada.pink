@@ -123,3 +123,7 @@ I suspect that various vendors purchase subscriptions on the data
 from Delaware and then sell the data to companies. If this is the
 case, Delaware might be reluctant to release the data because these
 companies might not want to buy the data anymore.
+
+## Thoughts from people
+
+* Does the parallel versus series downloading matter?
