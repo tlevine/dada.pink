@@ -1,8 +1,15 @@
+People make different languages ofr different reasons...
+Here's how you should think about R.
+
+1. The thing about R is that it was designed by statisticians.
+2. Everything in R is a complete hack.
+3. People who use R only know how to use R.
+
+I don't really know whether the above statements are true,
+but R makes a lot of sense when you assume that they are.
 
 
-The thing about R is that it was designed by statisticians.
 
-Everything in R is a complete hack.
 
 People who use R only know how to use R.
 Shiny is the best example of this; people who use R only know how
