@@ -11,8 +11,8 @@ but R makes a lot of sense when you assume that they are.
 
 ## What it means when people say they "know R"
 When someone says he or she knows R, it usually means that he or she knows
-how to open a data file, fit a model, and make a plot. For example, he or she
-might know how to do this.
+how to open a data file, fit whatever model he or she uses in his or her
+work, and make a plot. For example, he or she might know how to do this.
 
     ChickWeight <- read.csv('ChickWeight.csv')
     plot(ChickWeight)
@@ -25,39 +25,89 @@ import the particular data format that they work with, how to make the plots
 that their peers like to see, how to fit the models that their field likes to
 talk about, and how to do some sort of model diagnosis.
 
+## Basics of the language
+
+* types
+dynamically typed
+
+* magic things based on types and dimensions
+* dots in names rather than underscores
+* Functions usually don't have side effects.
+
+### Primitive data structures
+R's most primitive data structures (or at least the most primitive ones that
+I know about and would ever use) are very high-level.
+
+A lot of times we work with numbers and text.
+
+    > str(8)
+    num 8
+    > str('A string')
+    chr "A string"
+
+(`str` is the command for inspecting the structure of something. In other
+languages, you might instead call this sort of command `type`.)
+
+Sometimes we want to have several numbers inside of a container. We might
+use a vector for this.
+
+    a.vector <- c(8, 7, 6)
+
+Vectors are kind of like the things you might call "arrays", but there's a
+lot more to them. For example, you can assign string keys for each of the
+values.
+
+    names(a.vector) <- c('Apple', 'Orange', 'Watermelon')
+
+Now, we can query this vector with both numeric and character indices.
+
+    > a.vector
+     Apple     Orange Watermelon 
+         8          7          6
+    > a.vector[1]
+    Apple 
+        8 
+    > a.vector['Apple']
+    Apple 
+        8 
+
+So an array is kind of like a mapping type as well. In fact, most R structures
+are the same in this respect; they usually support both numerical and character
+indexing.
+
+### Cool language features
 
 
-People who use R only know how to use R.
+## R things have weird names.
+
+
+## R has connections to everything because people who use R only know how to use R.
 Shiny is the best example of this; people who use R only know how
 to use R, so when they want to write websites, they need their own
 domain-specific templating language written in R.
 (That said, there are good reasons to use Shiny too.)
 
-
-When someone says he or she knows R, it usually means that he or she
-knows how to load data from a CSV file, fit whatever model he or she
-uses in his or her work, and then make a plot.
+## Weird things
 
 
 
-dynamically typed
 
-magic things based on types and dimensions
+
+
+
+
 
 weird things
 
 S3 classes, S4 classes
 
-dots in names rather than underscores
-
-Functions usually don't have side effects.
-(And you should try not to use side effects as that can be confusing.)
 
 Weird names
 
 * `apply`
 * `list`
 
+(And you should try not to use side effects as that can be confusing.)
 R is really slow, but the parts written in C and Fortran are fast, so
 it is good practice to "vectorize" your code. For example, this
 
