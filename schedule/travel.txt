@@ -1,17 +1,1 @@
-# See http://wiki.thomaslevine.com/schedule/
-TR Travel
-20140329 5:00 pm Megabus from Philadelphia to New York 7-7043-032914-M23-1700-PHI-NEW
-20140331 11:10 pm Megabus from New York to Philadelphia 9-1958-033114-M23-2310-NEW-PHI
-20140402 9:15 am Megabus from Philadelphia to Washington 6-1760-040214-M31-0915-PHI-WAS
-20140403 10:00 pm Megabus from Washington to Philadelphia 7-1519-040314-M31-2200-WAS-PHI
-20140415 1:35 pm Megabus from Philadelphia to New York 23/24-1288-041514-M23-1335-PHI-NEW
-20140421 1:00 pm Bolt Bus from New York to Washington A18-1046111-14
-20140616 21:35 from New York to Copenhagen DY7012 5AAJAS
-20140619 2:50 pm from CPH to TXL, AB8091
-20140619 5:05 pm from TXL to STR, AB6537
-20140727 9:34 from London Paddington to Plymouth, coach C, seat 36, confirmation number 5BH5BCXR
-20140529 5 am Megabus from New York, NY, 34th St b/t 11th Ave and 12th Ave, 22-2263-052914-M21R-0500-NEW-WAS
-20140605 7 pm van to Barnraising, 430 37th street, between 9th and 10th avenues
-20140820 1:25 pm Manchester, United Kingdom - Manchester Airport, terminal 1 to Reykjavik (FI441)
-20140820 5:25 pm Reykjavik, Iceland - Keflavik International to Boston, USA - Logan International, terminal E (FI633)
-20140929 21:35 flight from JFK terminal 1
+[[!meta redir="http://small.dada.pink/travel"]]

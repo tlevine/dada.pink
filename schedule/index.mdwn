@@ -1,11 +1,11 @@
 My calendar is spread across a few pal files.
 
-* [Activities with durations](activities)
-* [Sleeping arrangements](sleeping)
-* [Things to do any time](to-do)
-* [Birthdays](birthdays)
-* [Travel arrangements](travel)
-* [Postponed](postponed) (These don't show up when I run `pal`.)
+* [Activities with durations](http://small.dada.pink/activities)
+* [Sleeping arrangements](http://small.dada.pink/sleeping)
+* [Things to do any time](http://small.dada.pink/to-do)
+* [Birthdays](http://small.dada.pink/birthdays)
+* [Travel arrangements](http://small.dada.pink/travel)
+* [Postponed](http://small.dada.pink/postponed) (These don't show up when I run `pal`.)
 
 There's also a private file, as explained in the
 [operations](/operations/) page.

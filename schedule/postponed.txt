@@ -1,6 +1,1 @@
-PP Postponed
-20140603 Get chicken vodka pizza (request penne pasta on it too and maybe ricotta) at Express Pizza on Church Ave
-20140515 Switch to pass http://www.zx2c4.com/projects/password-store/
-20140515 Look for cool git hooks.
-20140525 Redo Socrata updating but with the correct date field
-TODO Play with http://www.eia.gov/state/
+[[!meta redir="http://small.dada.pink/postponed"]]
