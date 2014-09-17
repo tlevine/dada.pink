@@ -121,7 +121,9 @@ When I don't have a real bed, I often wake up near this time of night.
 Let's talk about three categories of posture and how I accomplish
 each of them, especially when I don't have a bed.
 
-I think I fall asleep fastest when I start out with **lying on my side**.
+#### Side
+I think I fall asleep fastest when I start out with lying on my side.
+
 To do this comfortably, I like having an appropriately sized pillow for
 my head, an even larger thing to put the higher of my arms on, and
 another thing to put the higher of my legs on. If I don't have a thing
@@ -129,9 +131,14 @@ for the arms or the legs, I think I spread out my arms or legs,
 respectively. I also sometimes let my arm fall towards the back of my
 body; that is, laterally rotate my arm.
 
-  * Semi-supine
-  * Lying on your side without your hips hurting
+If you try this without a bed, you may find that your hip hurts because
+your anterior superior iliac spine is pushing into the floor. The trick
+is to rotate your lower body (and not upper body) towards the floor such
+that the front of your hips (rather than the side of your hip) is
+touching the floor more.
 
+#### Back
+  * Semi-supine
 
 ## When I do have a bed
 I like having my mouth above my stomach because my esophagus hurts less
