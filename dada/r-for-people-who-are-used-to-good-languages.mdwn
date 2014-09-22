@@ -1,3 +1,30 @@
+The introductory R texts and courses that I see normally read a bit
+differently from introductions to other languages.
+
+Sometimes, such materials for other languages are intended for people
+who are already familiar with programming languages. They are quite
+concise, and they introduce the language by using jargon about programming
+languages and by relating the language to other programming languages.
+
+Other times, these materials are intended as an introduction to programming
+through a particular programming language. They start out with elementary
+language features, including the flow of the program, simple data structures,
+and the relationship between the program and the computer hardware.
+
+The introduction to R typically ignores that it is a programming language
+and instead focuses on statistics. Some introductions teach people who
+already know some statistics how to use R to run the statistics that they
+know. Other introductions come alongside an introduction to statistics, so
+they are introductions to statistics through R. This works well for people
+who know something about statistics and nothing about programming, but it
+can be especially confusing for people who already know something about
+programming.
+
+So I'm going to try teaching you about R like you might expect a programming
+language to be introduced, by discussing some of its properties with
+programming language terminology and by relating it to other languages.
+
+## How to think about R
 There are a lot of reasons why people make new languages, and understanding
 these reasons can help you understand the languages. Here's how you should
 think about R.
@@ -9,7 +36,7 @@ think about R.
 I don't really know whether the above statements are true,
 but R makes a lot of sense when you assume that they are.
 
-## What it means when people say they "know R"
+### What it means when people say they "know R"
 When someone says he or she knows R, it usually means that he or she knows
 how to open a data file, fit whatever model he or she uses in his or her
 work, and make a plot. For example, he or she might know how to do this.
