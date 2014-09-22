@@ -152,12 +152,6 @@ need a new domain-specific language written in R.
 * Functions usually don't have side-effects, but there's nothing to
     stop them from having side-effects.
 
-### Some notation
-
-* `1:10` is equivalent to `seq(1, 10)`
-* dots in names rather than underscores
-* Notation for indexing
-
 ### Types
 R is dynamically typed, but there's a particular weird thing that you need
 to know about. Lots of R involves matrix calculations, and R magically does
@@ -176,7 +170,7 @@ and see what happens when we add different things to it.
 So you should think of the dimensionality as a component of the type of
 a thing in R.
 
-### Primitive data structures
+### Primitive data structures are weird
 R's most primitive data structures (or at least the most primitive ones that
 I know about and would ever use) are very high-level.
 
@@ -217,6 +211,37 @@ So an array is kind of like a mapping type as well. In fact, most R structures
 are the same in this respect; they usually support both numerical and character
 indexing.
 
+### Factors
+The factor is a special version of the numeric vector. 
+
+    jelly.bean.vector <- c('blue', 'pink', 'yellow', 'pink', 'yellow', 'pink')
+    jelly.bean.factor <- factor(jelly.bean.vector)
+
+"Factor" is a statisticsy word; other languages might call this
+an enumeration. Underneath, the factor is a bunch of integers with
+"levels" that map integers to character values.
+
+    as.numeric(jelly.bean.factor)
+    # [1] 1 2 3 2 3 2
+    levels(jelly.bean.factor)
+    # [1] "blue"   "pink"   "yellow"
+
+We can change the level values.
+
+    levels(jelly.bean.factor)[1] <- 'violet'
+    jelly.bean.factor
+    # [1] violet  pink   yellow pink   yellow pink  
+    # Levels: violet pink yellow
+
+The levels have whatever order you gave them (alphabetical if you didn't
+say it explicitly), so you can do this
+
+    sort(jelly.bean.factor)
+    # [1] violet pink   pink   pink   yellow yellow
+    # Levels: violet pink yellow
+
+### Data frames
+
 ## What it means when people say they "know R"
 When someone says he or she knows R, it usually means that he or she knows
 how to open a data file, fit whatever model he or she uses in his or her
@@ -249,6 +274,17 @@ In R, we use dots instead of spaces.
     dots.instead.of.spaces <- function() {}
 
 Dots are just ordinary characters; they do not separate tokens in any way.
+
+### Some more notation
+
+* `1:10` is equivalent to `seq(1, 10)` and to `c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)`.
+* dots in names rather than underscores
+
+Indexing
+
+* Numeric and character
+* Commas
+* Starts at 1
 
 ### Vectorization
 R is really slow, but the parts written in C and Fortran are fast, so
