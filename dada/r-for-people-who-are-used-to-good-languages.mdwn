@@ -74,6 +74,9 @@ Instead of using random numbers, we could use one of the datasets.
 If you package datasets in the R way and then load the package, they show
 up when you run `data`.
 
+`plot` and `summary` are some other methods that people typically
+define for their classes.
+
 ### Everything in R is a complete hack
 Again, I don't really know if everything in R is a complete hack, but
 I don't see particularly strong evidence against that statement.
@@ -140,22 +143,6 @@ Shiny demo application.
 In other languages, people would probably write templates that look
 mostly like HTML. But people who use R only know how to use R, so they
 need a new domain-specific language written in R.
-
-### What it means when people say they "know R"
-When someone says he or she knows R, it usually means that he or she knows
-how to open a data file, fit whatever model he or she uses in his or her
-work, and make a plot. For example, he or she might know how to do this.
-
-    ChickWeight <- read.csv('ChickWeight.csv')
-    plot(ChickWeight)
-    fit <- lm(weight ~ Time + Diet, data = ChickWeight)
-    print(summary(fit))
-    plot(fit)
-
-The script will be a bit different for different people; they'll know how to
-import the particular data format that they work with, how to make the plots
-that their peers like to see, how to fit the models that their field likes to
-talk about, and how to do some sort of model diagnosis.
 
 ## Basics of the language
 
@@ -229,6 +216,22 @@ Now, we can query this vector with both numeric and character indices.
 So an array is kind of like a mapping type as well. In fact, most R structures
 are the same in this respect; they usually support both numerical and character
 indexing.
+
+## What it means when people say they "know R"
+When someone says he or she knows R, it usually means that he or she knows
+how to open a data file, fit whatever model he or she uses in his or her
+work, and make a plot. For example, he or she might know how to do this.
+
+    ChickWeight <- read.csv('ChickWeight.csv')
+    plot(ChickWeight)
+    fit <- lm(weight ~ Time + Diet, data = ChickWeight)
+    print(summary(fit))
+    plot(fit)
+
+The script will be a bit different for different people; they'll know how to
+import the particular data format that they work with, how to make the plots
+that their peers like to see, how to fit the models that their field likes to
+talk about, and how to do some sort of model diagnosis.
 
 ## Cool language features
 
