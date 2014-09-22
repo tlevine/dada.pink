@@ -26,8 +26,12 @@ programming language terminology and by relating it to other languages.
 
 ## How to think about R
 There are a lot of reasons why people make new languages, and understanding
-these reasons can help you understand the languages. Here's how you should
-think about R.
+these reasons can help you understand the languages. Before we start talking
+about the specifics of the language, we need to understand why R is so
+bizarre and why learning materials related to R might make absolutely no
+sense to you.
+
+Keep these three explosive statements about R in mind.
 
 1. The thing about R is that it was designed by statisticians.
 2. Everything in R is a complete hack.
