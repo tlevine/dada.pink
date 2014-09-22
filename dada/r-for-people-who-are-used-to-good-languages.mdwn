@@ -27,12 +27,35 @@ talk about, and how to do some sort of model diagnosis.
 
 ## Basics of the language
 
-* types
-dynamically typed
+* Interpreted
+* Largely written in C and Fortran
+* A Lisp
+* Functions usually don't have side-effects, but there's nothing to
+    stop them from having side-effects.
 
-* magic things based on types and dimensions
+### Some notation
+
+* `1:10` is equivalent to `seq(1, 10)`
 * dots in names rather than underscores
-* Functions usually don't have side effects.
+* Notation for indexing
+
+### Types
+R is dynamically typed, but there's a particular weird thing that you need
+to know about. Lots of R involves matrix calculations, and R magically does
+the right thing depending on what you pass. For example, let's start with
+this vector.
+
+    a <- 1:10
+
+and see what happens when we add different things to it.
+
+    a + 3
+    a + (10:1)
+    a + 1:2
+    a + 1:8
+
+So you should think of the dimensionality as a component of the type of
+a thing in R.
 
 ### Primitive data structures
 R's most primitive data structures (or at least the most primitive ones that
@@ -75,19 +98,23 @@ So an array is kind of like a mapping type as well. In fact, most R structures
 are the same in this respect; they usually support both numerical and character
 indexing.
 
-### Cool language features
+## Cool language features
+
+### Environments
+
+### Formula syntax
+
+## Weird things
 
 
-## R things have weird names.
+### R things have weird names.
 
 
-## R has connections to everything because people who use R only know how to use R.
+### R has connections to everything because people who use R only know how to use R.
 Shiny is the best example of this; people who use R only know how
 to use R, so when they want to write websites, they need their own
 domain-specific templating language written in R.
 (That said, there are good reasons to use Shiny too.)
-
-## Weird things
 
 
 
