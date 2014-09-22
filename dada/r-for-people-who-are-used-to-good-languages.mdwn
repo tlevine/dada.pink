@@ -40,6 +40,107 @@ Keep these three explosive statements about R in mind.
 I don't really know whether the above statements are true,
 but R makes a lot of sense when you assume that they are.
 
+### R was designed by statisticians
+I don't know whether R really was designed by statisticians, (I also don't
+quite know what I mean by "statisticians".) but it makes sense that we would
+wind up with this language if it was designed by statisticians.
+<!-- lolz frequentist language -->
+
+R's terminology is totally bizarre. Here are some examples.
+
+* The higher-order function that you would usually call `map` is instead
+    called `apply`.
+* There are `array` and `list` data structures in R, but they don't do what
+    you think they do.
+
+You can think of R as an end-user program, akin to Excel. The R interpreter
+has a bunch of things that you might not expect of an interpreter.
+
+* `help`
+* `example`
+* `data`
+
+You can write a help and an example for anything that is exported from a
+package or that comes with base R. For example, we can ask for help about
+the normal random number generator
+
+    help(rnorm)
+
+and run some example random number generations.
+
+    example(rnorm)
+
+Instead of using random numbers, we could use one of the datasets.
+If you package datasets in the R way and then load the package, they show
+up when you run `data`.
+
+### Everything in R is a complete hack
+Again, I don't really know if everything in R is a complete hack, but
+I don't see particularly strong evidence against that statement.
+
+A common statement in R is to assign a value to the result of a function. 
+As an example of this, let's look at the `rownames` function.
+
+    > rownames(Formaldehyde)
+    [1] "1" "2" "3" "4" "5" "6"
+    > rownames(Formaldehyde)[3] <- 8 # R uses arrows for assignment.
+    > rownames(Formaldehyde)
+    [1] "1" "2" "8" "4" "5" "6"
+
+This is slightly bizarre, but the thing that makes me consider it a complete
+hack is the way this is implemented. I don't really understand how it works,
+but it involves defining two functions, one called 'rownames' and another
+called 'rownames<-'.
+
+### R has connections to everything because people who use R only know how to use R.
+Shiny is the best example of this; people who use R only know how
+to use R, so when they want to write websites, they need their own
+domain-specific templating language written in R.
+(That said, there are good reasons to use Shiny too.)
+
+Here is the `ui.R` file from the
+[Telephones by region](http://shiny.rstudio.com/gallery/telephones-by-region.html)
+Shiny demo application.
+
+    library(shiny)
+
+    # Rely on the 'WorldPhones' dataset in the datasets
+    # package (which generally comes preloaded).
+    library(datasets)
+
+    # Define the overall UI
+    shinyUI(
+      
+      # Use a fluid Bootstrap layout
+      fluidPage(    
+        
+        # Give the page a title
+        titlePanel("Telephones by region"),
+        
+        # Generate a row with a sidebar
+        sidebarLayout(      
+          
+          # Define the sidebar with one input
+          sidebarPanel(
+            selectInput("region", "Region:", 
+                        choices=colnames(WorldPhones)),
+            hr(),
+            helpText("Data from AT&T (1961) The World's Telephones.")
+          ),
+          
+          # Create a spot for the barplot
+          mainPanel(
+            plotOutput("phonePlot")  
+          )
+          
+        )
+      )
+    )
+
+In other languages, people would probably write templates that look
+mostly like HTML. But people who use R only know how to use R, so they
+need a new domain-specific language written in R.
+
 ### What it means when people say they "know R"
 When someone says he or she knows R, it usually means that he or she knows
 how to open a data file, fit whatever model he or she uses in his or her
@@ -141,54 +242,6 @@ indexing.
 ### R things have weird names.
 
 
-### R has connections to everything because people who use R only know how to use R.
-Shiny is the best example of this; people who use R only know how
-to use R, so when they want to write websites, they need their own
-domain-specific templating language written in R.
-(That said, there are good reasons to use Shiny too.)
-
-Here is the `ui.R` file from the
-[Telephones by region](http://shiny.rstudio.com/gallery/telephones-by-region.html)
-Shiny demo application.
-
-    library(shiny)
-
-    # Rely on the 'WorldPhones' dataset in the datasets
-    # package (which generally comes preloaded).
-    library(datasets)
-
-    # Define the overall UI
-    shinyUI(
-      
-      # Use a fluid Bootstrap layout
-      fluidPage(    
-        
-        # Give the page a title
-        titlePanel("Telephones by region"),
-        
-        # Generate a row with a sidebar
-        sidebarLayout(      
-          
-          # Define the sidebar with one input
-          sidebarPanel(
-            selectInput("region", "Region:", 
-                        choices=colnames(WorldPhones)),
-            hr(),
-            helpText("Data from AT&T (1961) The World's Telephones.")
-          ),
-          
-          # Create a spot for the barplot
-          mainPanel(
-            plotOutput("phonePlot")  
-          )
-          
-        )
-      )
-    )
-
-In other languages, people would probably write templates that look
-mostly like HTML. But people who use R only know how to use R, so they
-need a new domain-specific language written in R.
 
 
 
@@ -197,11 +250,6 @@ weird things
 
 S3 classes, S4 classes
 
-
-Weird names
-
-* `apply`
-* `list`
 
 (And you should try not to use side effects as that can be confusing.)
 R is really slow, but the parts written in C and Fortran are fast, so
