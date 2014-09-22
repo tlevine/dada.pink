@@ -233,28 +233,24 @@ import the particular data format that they work with, how to make the plots
 that their peers like to see, how to fit the models that their field likes to
 talk about, and how to do some sort of model diagnosis.
 
-## Cool language features
-
-### Environments
-
-### Formula syntax
-
-## Weird things
+## Conventions and best practices
 
 
-### R things have weird names.
+### Dots
+Sometimes, we want to put two words in the name of a function. Since we don't
+like having spaces in function names, we might (in other languages) use
+underscores or camel case.
 
+    camelCase <- function() {}
+    underscores_instead_of_spaces <- function() {}
 
+In R, we use dots instead of spaces.
 
+    dots.instead.of.spaces <- function() {}
 
+Dots are just ordinary characters; they do not separate tokens in any way.
 
-
-weird things
-
-S3 classes, S4 classes
-
-
-(And you should try not to use side effects as that can be confusing.)
+### Vectorization
 R is really slow, but the parts written in C and Fortran are fast, so
 it is good practice to "vectorize" your code. For example, this
 
@@ -263,12 +259,18 @@ it is good practice to "vectorize" your code. For example, this
 
 is much faster than iterating through `vec` and adding 1 to each element.
 
-`data` packaging
 
-`?`
+## Cool language features
 
-`sos::findFn`
+### Environments
 
+### Formula syntax
 Function syntax `y ~ x`
 
-plotting
+### Object orientation
+There are three ways
+
+S3 classes, S4 classes...
+
+## Things nobody tells you
+`sos::findFn`
