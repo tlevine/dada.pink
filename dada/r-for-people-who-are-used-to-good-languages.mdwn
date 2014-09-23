@@ -285,6 +285,17 @@ talk about, and how to do some sort of model diagnosis.
 
 ## Conventions, best practices, and notable syntax
 
+### Arrows
+You can use equal signs for assignment, but arrows are more fun.
+
+    a <- 4
+    a <- b <- 5
+    a <- b <- 6 -> c -> d
+
+`<<-` is for global assignment.
+
+    a.function <- function() {global.variable <<- 'peanut butter'}
+    another.function <- function() {local.variable <<- 'jelly'}
 
 ### Dots
 Sometimes, we want to put two words in the name of a function. Since we don't
@@ -320,7 +331,16 @@ that there's a special operator for that
 ### Braces
 We can group a bunch of expressions with a brace.
 
-    2 == {3; 8; 2}
+    2 == {x <- 3; 8; 5 - x}
+
+The braces that typically come in a function definition aren't specific to
+function definitions.
+
+    f <- function() 'The result'
+    f() == 'The result'
+
+This is, in fact, the same as JavaScript. Unlike in Javascript, you'll
+actually need to know about this once in a while.
 
 ### Indexing
 First of all, indexing starts at 1.
@@ -361,17 +381,28 @@ Look at all the ways we can index it.
 
 ### Vectorization
 R is really slow, but the parts written in C and Fortran are fast, so
-it is good practice to "vectorize" your code. For example, this
+it is good practice to "vectorize" your code. For example, adding a
+scalar to a vector
 
     vec <- 1:100
     vec.2 <- vec + 1
 
 is much faster than iterating through `vec` and adding 1 to each element.
 
+    vec <- 1:100
+    vec.2 <- vector(length = length(vec))
+    for (i in (1:length(vec))) {
+      vec.2[i] <- vec[i]
+    }
 
 ## Cool language features
 
 ### Environments
+
+
+  env <- new.env()
+  eval(, envir=env)
+  exports <- get('exports', envir = env)
 
 ### Formula syntax
 Function syntax `y ~ x`
