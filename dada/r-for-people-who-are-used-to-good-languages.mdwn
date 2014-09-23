@@ -1,24 +1,36 @@
 The introductory R texts and courses that I see normally read a bit
 differently from introductions to other languages.
 
+> Introduction to [some language] for people who already know programming
+
 Sometimes, such materials for other languages are intended for people
 who are already familiar with programming languages. They are quite
 concise, and they introduce the language by using jargon about programming
 languages and by relating the language to other programming languages.
+
+> Introduction to programming through [some language]
 
 Other times, these materials are intended as an introduction to programming
 through a particular programming language. They start out with elementary
 language features, including the flow of the program, simple data structures,
 and the relationship between the program and the computer hardware.
 
+> Introduction to R for people who already know statistics
+
 The introduction to R typically ignores that it is a programming language
 and instead focuses on statistics. Some introductions teach people who
 already know some statistics how to use R to run the statistics that they
-know. Other introductions come alongside an introduction to statistics, so
+know.
+
+> Introduction to statistics through R
+
+Other introductions come alongside an introduction to statistics, so
 they are introductions to statistics through R. This works well for people
 who know something about statistics and nothing about programming, but it
 can be especially confusing for people who already know something about
 programming.
+
+> Introduction to R for people who already know *programming*
 
 So I'm going to try teaching you about R like you might expect a programming
 language to be introduced, by discussing some of its properties with
@@ -33,9 +45,9 @@ sense to you.
 
 Keep these three explosive statements about R in mind.
 
-1. The thing about R is that it was designed by statisticians.
-2. Everything in R is a complete hack.
-3. People who use R only know how to use R.
+> 1. The thing about R is that it was designed by statisticians.
+> 2. Everything in R is a complete hack.
+> 3. People who use R only know how to use R.
 
 I don't really know whether the above statements are true,
 but R makes a lot of sense when you assume that they are.
@@ -52,30 +64,6 @@ R's terminology is totally bizarre. Here are some examples.
     called `apply`.
 * There are `array` and `list` data structures in R, but they don't do what
     you think they do.
-
-You can think of R as an end-user program, akin to Excel. The R interpreter
-has a bunch of things that you might not expect of an interpreter.
-
-* `help`
-* `example`
-* `data`
-
-You can write a help and an example for anything that is exported from a
-package or that comes with base R. For example, we can ask for help about
-the normal random number generator
-
-    help(rnorm)
-
-and run some example random number generations.
-
-    example(rnorm)
-
-Instead of using random numbers, we could use one of the datasets.
-If you package datasets in the R way and then load the package, they show
-up when you run `data`.
-
-`plot` and `summary` are some other methods that people typically
-define for their classes.
 
 ### Everything in R is a complete hack
 Again, I don't really know if everything in R is a complete hack, but
@@ -149,8 +137,6 @@ need a new domain-specific language written in R.
 * Interpreted
 * Largely written in C and Fortran
 * A Lisp
-* Functions usually don't have side-effects, but there's nothing to
-    stop them from having side-effects.
 
 ### Types
 R is dynamically typed, but there's a particular weird thing that you need
@@ -169,6 +155,28 @@ and see what happens when we add different things to it.
 
 So you should think of the dimensionality as a component of the type of
 a thing in R.
+
+### Don't think about pointers
+In many languages, you should think of variables as pointers to some data.
+
+    // JavaScript
+    var container = {"bacon slices": 8, "eggs": 11}
+    var another_variable = container
+    another_variable["tomatoes"] = 4
+    console.log(container)
+    // { 'bacon slices': 8, eggs: 11, tomatoes: 4 }
+
+In R, you can think of pretty much variable as a separate copy of data.
+
+    container <- list(bacon.slices = 8, eggs = 11)
+    another.variable <- container
+    another.variable$tomatoes <- 4
+    container
+    # $bacon.slices
+    # [1] 8
+    #
+    # $eggs
+    # [1] 11
 
 ### Primitive data structures are weird
 R's most primitive data structures (or at least the most primitive ones that
@@ -458,6 +466,31 @@ R has a nice syntax for specifying model formulae.
 This means that we are fitting a linear regression model (`lm`) where the
 dependent variable is `Sepal.Length` and the independent variable is
 `Petal.Length`.
+
+### An end-user program
+You can think of R as an end-user program, akin to Excel. The R interpreter
+has a bunch of things that you might not expect of an interpreter.
+
+* `help`
+* `example`
+* `data`
+
+You can write a help and an example for anything that is exported from a
+package or that comes with base R. For example, we can ask for help about
+the normal random number generator
+
+    help(rnorm)
+
+and run some example random number generations.
+
+    example(rnorm)
+
+Instead of using random numbers, we could use one of the datasets.
+If you package datasets in the R way and then load the package, they show
+up when you run `data`.
+
+`plot` and `summary` are some other methods that people typically
+define for their classes.
 
 ### Object orientation
 There are three ways to make classes in R, and I don't remember all of them.
