@@ -294,6 +294,31 @@ we just provide the expression.
 I think this behavior is implemented through meta-programming, so it's kind
 of not part of the language. Except that it is part of the language.
 
+### Missing values
+Many languages have a concept of nothing, and R has this too; it's called
+`NULL`. But this is inappropriate for expressing missing data.
+
+Suppose we are surveying the hats that people wear. Among other things,
+we record the longest diameter of the hat that each person is wearing.
+
+1. What do we do if the person isn't wearing a hat?
+2. What do we do if the fire alarm goes off and we can't finish taking
+    the hat measurements?
+
+In R, the answer to the first question is `NULL`, and the answer to the
+second is `NA`.
+
+The distinction is relevant in many calculations. For example, the sum
+of nothing and eight is nothing.
+
+    sum(NULL, 8)
+    # 8
+
+If we add a missing value to eight, we don't know what the result is.
+
+    sum(NA, 8)
+    # NA
+
 ## What it means when people say they "know R"
 When someone says he or she knows R, it usually means that he or she knows
 how to open a data file, fit whatever model he or she uses in his or her
