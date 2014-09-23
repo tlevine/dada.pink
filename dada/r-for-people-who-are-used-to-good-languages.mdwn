@@ -215,7 +215,7 @@ Now, we can query this vector with both numeric and character indices.
     Apple 
         8 
 
-So an array is kind of like a mapping type as well. In fact, most R structures
+So a vector is kind of like a mapping type as well. In fact, most R structures
 are the same in this respect; they usually support both numerical and character
 indexing.
 
@@ -326,22 +326,6 @@ If we add a missing value to eight, we don't know what the result is.
 
     sum(NA, 8)
     # NA
-
-## What it means when people say they "know R"
-When someone says he or she knows R, it usually means that he or she knows
-how to open a data file, fit whatever model he or she uses in his or her
-work, and make a plot. For example, he or she might know how to do this.
-
-    ChickWeight <- read.csv('ChickWeight.csv')
-    plot(ChickWeight)
-    fit <- lm(weight ~ Time + Diet, data = ChickWeight)
-    print(summary(fit))
-    plot(fit)
-
-The script will be a bit different for different people; they'll know how to
-import the particular data format that they work with, how to make the plots
-that their peers like to see, how to fit the models that their field likes to
-talk about, and how to do some sort of model diagnosis.
 
 ## Conventions, best practices, and notable syntax
 
@@ -507,6 +491,23 @@ different places, with some-but-not-much interference.
   env <- new.env()
   eval({twelve <- 3 + 9}, envir=env)
   get('twelve', envir = env)
+
+## What it means when people say they "know R"
+When someone says he or she knows R, it doesn't mean that he or she knows
+the things I just told you; it usually means that he or she knows
+how to open a data file, fit whatever model he or she uses in his or her
+work, and make a plot. For example, he or she might know how to do this.
+
+    ChickWeight <- read.csv('ChickWeight.csv')
+    plot(ChickWeight)
+    fit <- lm(weight ~ Time + Diet, data = ChickWeight)
+    print(summary(fit))
+    plot(fit)
+
+The script will be a bit different for different people; they'll know how to
+import the particular data format that they work with, how to make the plots
+that their peers like to see, how to fit the models that their field likes to
+talk about, and how to do some sort of model diagnosis.
 
 ## Things nobody tells you
 `sos::findFn`
