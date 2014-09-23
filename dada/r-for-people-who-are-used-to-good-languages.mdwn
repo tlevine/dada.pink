@@ -493,7 +493,15 @@ You probably should use ggplot2, but I learned base R graphics before
 I learned ggplot2, and base R graphics are part of R proper, so I'm going
 to tell you about base R graphics.
 
-Base R graphics
+Base R graphics make sense if you consider that they were designed for
+pen plotters.
+
+https://twitter.com/thomaslevine/status/487219177489711104
+
+I'm not going to talk about how to use the plotting capabilities, but you
+can look at this talk on
+[Music Videos in R](http://www.livestream.com/knerd/video?clipId=pla_a5d59285-9399-47dc-aaef-2b9a77142d5e)
+if you would like to learn more about making plots with R.
 
 ### Object orientation
 There are three ways to make classes in R, and I don't remember all of them.
@@ -528,7 +536,9 @@ import the particular data format that they work with, how to make the plots
 that their peers like to see, how to fit the models that their field likes to
 talk about, and how to do some sort of model diagnosis.
 
-## Things nobody tells you
-`sos::findFn`
+## Other resources
 
-r spells for data wizards
+> * `sos::findFn`
+> * [R spells for data wizards](/!/r-spells-for-data-wizards/), by me
+> * [Advanced R](http://adv-r.had.co.nz/), by Hadley Wickham
+> * [Music Videos in R](http://www.livestream.com/knerd/video?clipId=pla_a5d59285-9399-47dc-aaef-2b9a77142d5e), by me
