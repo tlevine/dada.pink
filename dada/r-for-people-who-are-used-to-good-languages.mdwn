@@ -397,15 +397,15 @@ is much faster than iterating through `vec` and adding 1 to each element.
 
 ## Cool language features
 
-### Environments
+### Formula objects
+R has a nice syntax for specifying model formulae.
 
+    f <- Sepal.Length ~ Petal.Length
+    lm(f, data = iris)
 
-  env <- new.env()
-  eval(, envir=env)
-  exports <- get('exports', envir = env)
-
-### Formula syntax
-Function syntax `y ~ x`
+This means that we are fitting a linear regression model (`lm`) where the
+dependent variable is `Sepal.Length` and the independent variable is
+`Petal.Length`.
 
 ### Object orientation
 There are three ways to make classes in R, and I don't remember all of them.
@@ -414,6 +414,14 @@ want to use them.
 
 You usually get the properties of an object with `$`, or sometimes with `@`.
 I think these are for the different ways of making classes.
+
+### Environments
+Environments are a way to get separate scopes; you can evaluate code in
+different places, with some-but-not-much interference.
+
+  env <- new.env()
+  eval({twelve <- 3 + 9}, envir=env)
+  get('twelve', envir = env)
 
 ## Things nobody tells you
 `sos::findFn`
