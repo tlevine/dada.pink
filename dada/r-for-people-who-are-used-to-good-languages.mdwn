@@ -359,9 +359,6 @@ Look at all the ways we can index it.
                         c('a','b','c'))
     a['small','high','c']
 
-### 
-* `$` and `@`
-
 ### Vectorization
 R is really slow, but the parts written in C and Fortran are fast, so
 it is good practice to "vectorize" your code. For example, this
@@ -380,9 +377,14 @@ is much faster than iterating through `vec` and adding 1 to each element.
 Function syntax `y ~ x`
 
 ### Object orientation
-There are three ways
+There are three ways to make classes in R, and I don't remember all of them.
+You probably won't use them very often, and I have to look them up when I
+want to use them.
 
-S3 classes, S4 classes...
+You usually get the properties of an object with `$`, or sometimes with `@`.
+I think these are for the different ways of making classes.
 
 ## Things nobody tells you
 `sos::findFn`
+
+r spells for data wizards
