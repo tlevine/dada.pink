@@ -241,7 +241,34 @@ say it explicitly), so you can do this
     # Levels: violet pink yellow
 
 ### Data frames
+The data frame is like a list of vectors. (Remember, "list" means something
+strange in R.)
 
+    xy <- data.frame(x = 1:9, y = 1:3)
+
+We can select the vectors with `$`
+
+    xy$x
+
+or with normal indexing
+
+    xy[,1]
+    xy[,'x']
+
+The presence of that comma matters. If we include the comma, we select
+a vector, and if we exclude it, we select a data frame with one column.
+
+    xy[1]
+    xy['x']
+
+The part before the comma is for selecting rows.
+
+    xy[4:8,1:2]
+
+And we can also select rows with characters.
+
+    row.names(xy)[3] <- 'third row'
+    xy['third row',]
 
 ### Counter-intuitive execution order
 In other dynamic languages, the arguments of a function are evaluated before
