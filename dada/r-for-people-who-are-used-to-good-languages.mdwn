@@ -1,3 +1,5 @@
+[[!meta title="R for people who already know something about programming"]]
+
 The introductory R texts and courses that I see normally read a bit
 differently from introductions to other languages.
 
@@ -60,10 +62,14 @@ wind up with this language if it was designed by statisticians.
 
 R's terminology is totally bizarre. Here are some examples.
 
-* The higher-order function that you would usually call `map` is instead
-    called `apply`.
-* There are `array` and `list` data structures in R, but they don't do what
-    you think they do.
+> * `apply` instead of "map"
+> * `array` and `list` don't do what you think
+
+The higher-order function that you would usually call `map` is instead
+called `apply`.
+
+There are `array` and `list` data structures in R, but they don't do what
+you think they do.
 
 ### Everything in R is a complete hack
 Again, I don't really know if everything in R is a complete hack, but
@@ -134,9 +140,9 @@ need a new domain-specific language written in R.
 
 ## Basics of the language
 
-* Interpreted
-* Largely written in C and Fortran
-* A Lisp
+> * Interpreted
+> * Largely written in C and Fortran
+> * A Lisp
 
 ### Types
 R is dynamically typed, but there's a particular weird thing that you need
@@ -309,9 +315,9 @@ Many languages have a concept of nothing, and R has this too; it's called
 Suppose we are surveying the hats that people wear. Among other things,
 we record the longest diameter of the hat that each person is wearing.
 
-1. What do we do if the person isn't wearing a hat?
-2. What do we do if the fire alarm goes off and we can't finish taking
-    the hat measurements?
+> 1. What do we do if the person isn't wearing a hat?
+> 2. What do we do if the fire alarm goes off and we can't finish taking
+>     the hat measurements?
 
 In R, the answer to the first question is `NULL`, and the answer to the
 second is `NA`.
@@ -455,9 +461,9 @@ dependent variable is `Sepal.Length` and the independent variable is
 You can think of R as an end-user program, akin to Excel. The R interpreter
 has a bunch of things that you might not expect of an interpreter.
 
-* `help`
-* `example`
-* `data`
+> * `help`
+> * `example`
+> * `data`
 
 You can write a help and an example for anything that is exported from a
 package or that comes with base R. For example, we can ask for help about
@@ -475,6 +481,19 @@ up when you run `data`.
 
 `plot` and `summary` are some other methods that people typically
 define for their classes.
+
+### About plotting
+There are three types of graphics that people make in R
+
+> * Base R graphics
+> * Lattice graphics (from the lattice package)
+> * ggplot graphics (from ggplot2 or ggplot packages)
+
+You probably should use ggplot2, but I learned base R graphics before
+I learned ggplot2, and base R graphics are part of R proper, so I'm going
+to tell you about base R graphics.
+
+Base R graphics
 
 ### Object orientation
 There are three ways to make classes in R, and I don't remember all of them.
