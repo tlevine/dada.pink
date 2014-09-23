@@ -323,6 +323,10 @@ We can group a bunch of expressions with a brace.
     2 == {3; 8; 2}
 
 ### Indexing
+First of all, indexing starts at 1.
+
+    c('a','b')[1] == 'a'
+
 Consider a cube-shaped array with three cells per side.
 
     contents <- c('one', 'two', 'three',
@@ -356,9 +360,6 @@ Look at all the ways we can index it.
     a['small','high','c']
 
 ### 
-* Numeric and character
-* Commas
-* Starts at 1
 * `$` and `@`
 
 ### Vectorization
