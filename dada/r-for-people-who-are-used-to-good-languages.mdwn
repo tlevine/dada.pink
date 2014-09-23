@@ -323,6 +323,7 @@ We can group a bunch of expressions with a brace.
     2 == {3; 8; 2}
 
 ### Indexing
+Consider a cube-shaped array with three cells per side.
 
     contents <- c('one', 'two', 'three',
                   'four', 'five', 'six',
@@ -334,6 +335,25 @@ We can group a bunch of expressions with a brace.
                   'twenty-two', 'twenty-three', 'twenty-four',
                   'twenty-five', 'twenty-six', 'twenty-seven')
     a <- array(contents, dim = c(3,3,3))
+
+Look at all the ways we can index it.
+
+    a[1,1,1]
+    a[1,1,2]
+    a[,1,2]
+    a[,,2]
+    a[1,1,2]
+    a[-1,1,2]
+    a[,,-2]
+    a[,,-(2:3)]
+    a[round(runif(27))]
+    a[as.logical(round(runif(27)))]
+    a[c(FALSE,TRUE,FALSE,FALSE,FALSE)]
+    a[1:27 %% 5 == 2]
+    dimnames(a) <- list(c('small','medium','big'),
+                        c('low','middle','high'),
+                        c('a','b','c'))
+    a['small','high','c']
 
 ### 
 * Numeric and character
