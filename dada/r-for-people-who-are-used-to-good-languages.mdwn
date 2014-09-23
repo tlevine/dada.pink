@@ -283,7 +283,7 @@ import the particular data format that they work with, how to make the plots
 that their peers like to see, how to fit the models that their field likes to
 talk about, and how to do some sort of model diagnosis.
 
-## Conventions and best practices
+## Conventions, best practices, and notable syntax
 
 
 ### Dots
@@ -300,16 +300,34 @@ In R, we use dots instead of spaces.
 
 Dots are just ordinary characters; they do not separate tokens in any way.
 
-### Some more notation
+### Creating numeric vectors
+The normal way of creating vectors is to concatenate vector elements.
 
-* `1:10` is equivalent to `seq(1, 10)` and to `c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)`.
-* dots in names rather than underscores
+    c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 
-Indexing
+The creation of numeric vectors is quite common, so there is a `seq` command
+(like in many other languages).
+
+    seq(1, 10)
+
+And the creation of vectors of ascending or descending integers is so common
+that there's a special operator for that
+
+    1:10
+    10:1
+    10:1 == rev(1:10)
+
+### Braces
+We can group a bunch of expressions with a brace.
+
+    2 == {3; 8; 2}
+
+### Indexing
 
 * Numeric and character
 * Commas
 * Starts at 1
+* `$` and `@`
 
 ### Vectorization
 R is really slow, but the parts written in C and Fortran are fast, so
