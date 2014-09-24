@@ -144,196 +144,8 @@ need a new domain-specific language written in R.
 > * Largely written in C and Fortran
 > * A Lisp
 
-### Types
-R is dynamically typed, but there's a particular weird thing that you need
-to know about. Lots of R involves matrix calculations, and R magically does
-the right thing depending on what you pass. For example, let's start with
-this vector.
-
-    a <- 1:10
-
-and see what happens when we add different things to it.
-
-    a + 3
-    a + (10:1)
-    a + 1:2
-    a + 1:8
-
-So you should think of the dimensionality as a component of the type of
-a thing in R.
-
-### Don't think about pointers
-In many languages, you should think of variables as pointers to some data.
-
-    // JavaScript
-    var container = {"bacon slices": 8, "eggs": 11}
-    var another_variable = container
-    another_variable["tomatoes"] = 4
-    console.log(container)
-    // { 'bacon slices': 8, eggs: 11, tomatoes: 4 }
-
-In R, you can think of pretty much variable as a separate copy of data.
-
-    container <- list(bacon.slices = 8, eggs = 11)
-    another.variable <- container
-    another.variable$tomatoes <- 4
-    container
-    # $bacon.slices
-    # [1] 8
-    #
-    # $eggs
-    # [1] 11
-
-### Primitive data structures are weird
-R's most primitive data structures (or at least the most primitive ones that
-I know about and would ever use) are very high-level.
-
-A lot of times we work with numbers and text.
-
-    > str(8)
-    num 8
-    > str('A string')
-    chr "A string"
-
-(`str` is the command for inspecting the structure of something. In other
-languages, you might instead call this sort of command `type`.)
-
-Sometimes we want to have several numbers inside of a container. We might
-use a vector for this.
-
-    a.vector <- c(8, 7, 6)
-
-Vectors are kind of like the things you might call "arrays", but there's a
-lot more to them. For example, you can assign string keys for each of the
-values.
-
-    names(a.vector) <- c('Apple', 'Orange', 'Watermelon')
-
-Now, we can query this vector with both numeric and character indices.
-
-    > a.vector
-     Apple     Orange Watermelon 
-         8          7          6
-    > a.vector[1]
-    Apple 
-        8 
-    > a.vector['Apple']
-    Apple 
-        8 
-
-So a vector is kind of like a mapping type as well. In fact, most R structures
-are the same in this respect; they usually support both numerical and character
-indexing.
-
-### Factors
-The factor is a special version of the numeric vector. 
-
-    jelly.bean.vector <- c('blue', 'pink', 'yellow', 'pink', 'yellow', 'pink')
-    jelly.bean.factor <- factor(jelly.bean.vector)
-
-"Factor" is a statisticsy word; other languages might call this
-an enumeration. Underneath, the factor is a bunch of integers with
-"levels" that map integers to character values.
-
-    as.numeric(jelly.bean.factor)
-    # [1] 1 2 3 2 3 2
-    levels(jelly.bean.factor)
-    # [1] "blue"   "pink"   "yellow"
-
-We can change the level values.
-
-    levels(jelly.bean.factor)[1] <- 'violet'
-    jelly.bean.factor
-    # [1] violet  pink   yellow pink   yellow pink  
-    # Levels: violet pink yellow
-
-The levels have whatever order you gave them (alphabetical if you didn't
-say it explicitly), so you can do this
-
-    sort(jelly.bean.factor)
-    # [1] violet pink   pink   pink   yellow yellow
-    # Levels: violet pink yellow
-
-### Data frames
-The data frame is like a list of vectors. (Remember, "list" means something
-strange in R.)
-
-    xy <- data.frame(x = 1:9, y = 1:3)
-
-We can select the vectors with `$`
-
-    xy$x
-
-or with normal indexing
-
-    xy[,1]
-    xy[,'x']
-
-The presence of that comma matters. If we include the comma, we select
-a vector, and if we exclude it, we select a data frame with one column.
-
-    xy[1]
-    xy['x']
-
-The part before the comma is for selecting rows.
-
-    xy[4:8,1:2]
-
-And we can also select rows with characters.
-
-    row.names(xy)[3] <- 'third row'
-    xy['third row',]
-
-### Counter-intuitive execution order
-In other dynamic languages, the arguments of a function are evaluated before
-the function is run with those arguments. This is what happens when we take
-the absolute value of `3 - 5` in R.
-
-    abs(3 - 5)
-
-Some functions work differently. Let's consider `eval`. In JavaScript, you
-might write this.
-
-    12 == eval('var a = 4; a + 8')
-
-In R, we don't provide a string of the expression-to-be-evaluated; instead,
-we just provide the expression.
-
-    12 == eval({a <- 4; a + 8})
-    'a <- 4; a + 8' == eval('a <- 4; a + 8')
-
-(The braces are just there to group the expressions; they are not specific to
-`eval`.)
-
-I think this behavior is implemented through meta-programming, so it's kind
-of not part of the language. Except that it is part of the language.
-
-### Missing values
-Many languages have a concept of nothing, and R has this too; it's called
-`NULL`. But this is inappropriate for expressing missing data.
-
-Suppose we are surveying the hats that people wear. Among other things,
-we record the longest diameter of the hat that each person is wearing.
-
-> 1. What do we do if the person isn't wearing a hat?
-> 2. What do we do if the fire alarm goes off and we can't finish taking
->     the hat measurements?
-
-In R, the answer to the first question is `NULL`, and the answer to the
-second is `NA`.
-
-The distinction is relevant in many calculations. For example, the sum
-of nothing and eight is nothing.
-
-    sum(NULL, 8)
-    # 8
-
-If we add a missing value to eight, we don't know what the result is.
-
-    sum(NA, 8)
-    # NA
-
 ## Conventions, best practices, and notable syntax
+Let's start with some syntax.
 
 ### Arrows
 You can use equal signs for assignment, but arrows are more fun.
@@ -444,6 +256,198 @@ is much faster than iterating through `vec` and adding 1 to each element.
     for (i in (1:length(vec))) {
       vec.2[i] <- vec[i]
     }
+
+## Types
+R is dynamically typed, but there's a particular weird thing that you need
+to know about. Lots of R involves matrix calculations, and R magically does
+the right thing depending on what you pass. For example, let's start with
+this vector.
+
+    a <- 1:10
+
+and see what happens when we add different things to it.
+
+    a + 3
+    a + (10:1)
+    a + 1:2
+    a + 1:8
+
+So you should think of the dimensionality as a component of the type of
+a thing in R.
+
+## Primitive data structures are weird
+R's most primitive data structures (or at least the most primitive ones that
+I know about and would ever use) are very high-level.
+
+A lot of times we work with numbers and text.
+
+    > str(8)
+    num 8
+    > str('A string')
+    chr "A string"
+
+(`str` is the command for inspecting the structure of something. In other
+languages, you might instead call this sort of command `type`.)
+
+### Vectors
+Sometimes we want to have several numbers inside of a container. We might
+use a vector for this.
+
+    a.vector <- c(8, 7, 6)
+
+Vectors are kind of like the things you might call "arrays", but there's a
+lot more to them. For example, you can assign string keys for each of the
+values.
+
+    names(a.vector) <- c('Apple', 'Orange', 'Watermelon')
+
+Now, we can query this vector with both numeric and character indices.
+
+    > a.vector
+     Apple     Orange Watermelon 
+         8          7          6
+    > a.vector[1]
+    Apple 
+        8 
+    > a.vector['Apple']
+    Apple 
+        8 
+
+So a vector is kind of like a mapping type as well. In fact, most R structures
+are the same in this respect; they usually support both numerical and character
+indexing.
+
+### Factors
+The factor is a special version of the numeric vector. 
+
+    jelly.bean.vector <- c('blue', 'pink', 'yellow', 'pink', 'yellow', 'pink')
+    jelly.bean.factor <- factor(jelly.bean.vector)
+
+"Factor" is a statisticsy word; other languages might call this
+an enumeration. Underneath, the factor is a bunch of integers with
+"levels" that map integers to character values.
+
+    as.numeric(jelly.bean.factor)
+    # [1] 1 2 3 2 3 2
+    levels(jelly.bean.factor)
+    # [1] "blue"   "pink"   "yellow"
+
+We can change the level values.
+
+    levels(jelly.bean.factor)[1] <- 'violet'
+    jelly.bean.factor
+    # [1] violet  pink   yellow pink   yellow pink  
+    # Levels: violet pink yellow
+
+The levels have whatever order you gave them (alphabetical if you didn't
+say it explicitly), so you can do this
+
+    sort(jelly.bean.factor)
+    # [1] violet pink   pink   pink   yellow yellow
+    # Levels: violet pink yellow
+
+### Data frames
+The data frame is like a list of vectors. (Remember, "list" means something
+strange in R.)
+
+    xy <- data.frame(x = 1:9, y = 1:3)
+
+We can select the vectors with `$`
+
+    xy$x
+
+or with normal indexing
+
+    xy[,1]
+    xy[,'x']
+
+The presence of that comma matters. If we include the comma, we select
+a vector, and if we exclude it, we select a data frame with one column.
+
+    xy[1]
+    xy['x']
+
+The part before the comma is for selecting rows.
+
+    xy[4:8,1:2]
+
+And we can also select rows with characters.
+
+    row.names(xy)[3] <- 'third row'
+    xy['third row',]
+
+## Strange things
+
+### Don't think about pointers
+In many languages, you should think of variables as pointers to some data.
+
+    // JavaScript
+    var container = {"bacon slices": 8, "eggs": 11}
+    var another_variable = container
+    another_variable["tomatoes"] = 4
+    console.log(container)
+    // { 'bacon slices': 8, eggs: 11, tomatoes: 4 }
+
+In R, you can think of pretty much variable as a separate copy of data.
+
+    container <- list(bacon.slices = 8, eggs = 11)
+    another.variable <- container
+    another.variable$tomatoes <- 4
+    container
+    # $bacon.slices
+    # [1] 8
+    #
+    # $eggs
+    # [1] 11
+
+### Counter-intuitive execution order
+In other dynamic languages, the arguments of a function are evaluated before
+the function is run with those arguments. This is what happens when we take
+the absolute value of `3 - 5` in R.
+
+    abs(3 - 5)
+
+Some functions work differently. Let's consider `eval`. In JavaScript, you
+might write this.
+
+    12 == eval('var a = 4; a + 8')
+
+In R, we don't provide a string of the expression-to-be-evaluated; instead,
+we just provide the expression.
+
+    12 == eval({a <- 4; a + 8})
+    'a <- 4; a + 8' == eval('a <- 4; a + 8')
+
+(The braces are just there to group the expressions; they are not specific to
+`eval`.)
+
+I think this behavior is implemented through meta-programming, so it's kind
+of not part of the language. Except that it is part of the language.
+
+### Missing values
+Many languages have a concept of nothing, and R has this too; it's called
+`NULL`. But this is inappropriate for expressing missing data.
+
+Suppose we are surveying the hats that people wear. Among other things,
+we record the longest diameter of the hat that each person is wearing.
+
+> 1. What do we do if the person isn't wearing a hat?
+> 2. What do we do if the fire alarm goes off and we can't finish taking
+>     the hat measurements?
+
+In R, the answer to the first question is `NULL`, and the answer to the
+second is `NA`.
+
+The distinction is relevant in many calculations. For example, the sum
+of nothing and eight is nothing.
+
+    sum(NULL, 8)
+    # 8
+
+If we add a missing value to eight, we don't know what the result is.
+
+    sum(NA, 8)
+    # NA
 
 ## Cool language features
 
