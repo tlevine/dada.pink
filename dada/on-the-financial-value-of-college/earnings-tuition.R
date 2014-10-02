@@ -25,8 +25,8 @@ college <- data.frame(
 
 not.college <- data.frame(
   investment = 'Stock market',
-  stock.market.return = c(1.050, 1.065, 1.080),
-  label.x = c(1.55e5, 1.4e5, 0.8e5),
+  stock.market.return = c(1.050, 1.065),
+  label.x = c(1.55e5, 1.4e5),
   earnings.intercept = 0
 )
 not.college$earnings.slope <- not.college$stock.market.return ^ years.invested

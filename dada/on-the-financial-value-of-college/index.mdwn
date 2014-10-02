@@ -165,27 +165,52 @@ I could spend the money on college and expect a higher salary,
 or I could save the money and not work at all.
 Either way, I was already set for life.
 
-### A note on social classes
-Of course, if I didn't go to college,
+Life is more complex, of course. I didn't go to college,
 I'd probably still earn more in a job than many other people would because
 of various prejudices against people without money and in favor of people
-with money, like me. But let's put that aside for now
+with money.
 
-### Why college might be a good investment
+## Why college might be a good investment
 College might be a good investment if either you either pay very little for
 it and it gets you into a high-paying industry. In this case, it is interesting
 to consider some related investments.
 
+### A scenario
 Let's be more precise about what I mean by "very little" and "high-paying".
-Let's figure that college might be a good investment if you pay $50,000 for it
-and then work in engineering. (It's hard to tell what the exact
-cut-offs are based on our graph because the graph doesn't consider what you
-make from normal work if you don't go to college.)
+Suppose you pay $50,000 for college, get a degree in engineering, and then
+work in engineering.
 
+If you didn't go to college, your $50,000 might turn a bit under $1 million
+(based on our graph), and this would be added to all your other earnings,
+which total about $580,000 (on median). Let's figure that this is $1.5 million.
+
+Our graph suggests that you will make about $2 million in your life if you
+go to college instead, which is about $500,000 more.
+
+### Work-related investments
 If you choose to go into a high-paying industry, your investment is your
 broader preparation for work in that industry. College tuition is a substantial
 part of that, but there's more; you have to decide to be in such an industry,
 and you probably have to work rather much (both in college and after).
+
+### School-related investments
+If you go to a public school, you probably have to work extra hard throughout
+your life (mostly during your 20s though) to convince people that you are worth
+hiring. This extra work is another substantial investment.
+
+If you manage to pay only $50,000 at a private school, it's probably by
+convincing someone else to pay the other $150,000 for you; you might call this
+a "scholarship". Applying for scholarships is a large investment because it
+is a lot of work. Also, the exact scholarship that you get might limit the
+sorts of schooling and work that you can do; this exchange of reduced options
+in hope of more pay is another sort of investment.
+
+## Conclusion
+It seems to me that college is a good financial investment only in very
+special situations. To get into such a situation, you probably need to plan
+things quite well and make several other specific investments, as it seems
+that my friend did.
+
 
 <!--
 ## Quantitative research as religious texts
