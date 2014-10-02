@@ -20,20 +20,20 @@ college <- data.frame(
   earnings.intercept = unname(lifetime.earnings),
   earnings.slope = 0,
   full.investment = paste0('College median\n(',
-                           sub('\\.', ' ', names(lifetime.earnings)), ')')
+                           gsub('\\.', ' ', names(lifetime.earnings)), ')')
 )
 
 not.college <- data.frame(
   investment = 'Stock market',
   stock.market.return = c(1.050, 1.065, 1.080),
-  label.x = c(1.6e5, 1.4e5, 1e5),
+  label.x = c(1.55e5, 1.4e5, 0.8e5),
   earnings.intercept = 0
 )
 not.college$earnings.slope <- not.college$stock.market.return ^ years.invested
 not.college$full.investment <- paste0(
   'Stock market\n(',
   round(100 * (not.college$stock.market.return - 1), 1),
-  '% annual return)')
+  '% annually after inflation)')
 not.college$stock.market.return <- NULL
 
 alternatives <- rbind(college, not.college)
@@ -45,9 +45,9 @@ p.base <- ggplot(alternatives) +
         panel.grid.minor = element_blank(),
         panel.grid.major = element_blank()) +
   scale_x_continuous('Cost of college (today dollars)',
-                     limits = c(5e4, 2e5), labels = dollar) +
+                     limits = c(0, 2e5), labels = dollar) +
   scale_y_continuous('Earnings (today dollars)',
-                     limits = c(5e5, 4e6), labels = dollar)
+                     limits = c(0, 4e6), labels = dollar)
 
 p.predictions <- p.base +
   geom_abline(aes(intercept = earnings.intercept,

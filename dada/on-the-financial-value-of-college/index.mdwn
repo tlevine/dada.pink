@@ -138,7 +138,8 @@ Now let's put that pink dot on top of the first plot I drew.
      src="tom-comparison.png"
      class="wide" />
 
-It looks like my situation was quite typical. I spent $100,000 on college,
+It looks like my situation was quite typical.
+I spent about $100,000 on college,
 and Adam and Michael found $102,000 to be the average expense.
 Multidisciplinary science majors earn on median
 [$1.19 million](http://www.hamiltonproject.org/files/downloads_and_links/FINAL_MajorDecisions-Appendix_Table_2.pdf) over a lifetime,
@@ -148,16 +149,50 @@ Recall that this calculation assumes that I make **no money** if I don't go
 to college. That is, it does not consider that people with high school degrees
 and no college degree make $580,000 on median.
 In my situation, instead of going to college and then working, I could have
-invested $100,000 in the stock market and **retired**.
+invested $100,000 in the stock market, [retired](/!/sleeping),
+and still earned as much money through my investment as a typical college
+graduate earns in total.
 
 ### Usual disclaimers
 All of [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf)'s cautions still apply, of course.
 
+## Another way of thinking about this
+It might seem strange that I could make more money by not working and not going
+to college than many people would make by working and not going to college.
+
+The difference is that I started with $100,000 and they didn't.
+I could spend the money on college and expect a higher salary,
+or I could save the money and not work at all.
+Either way, I was already set for life.
+
+### A note on social classes
+Of course, if I didn't go to college,
+I'd probably still earn more in a job than many other people would because
+of various prejudices against people without money and in favor of people
+with money, like me. But let's put that aside for now
+
+### Why college might be a good investment
+College might be a good investment if either you either pay very little for
+it and it gets you into a high-paying industry. In this case, it is interesting
+to consider some related investments.
+
+Let's be more precise about what I mean by "very little" and "high-paying".
+Let's figure that college might be a good investment if you pay $50,000 for it
+and then work in engineering. (It's hard to tell what the exact
+cut-offs are based on our graph because the graph doesn't consider what you
+make from normal work if you don't go to college.)
+
+make sense to consider something else to be the investment.
+
+If you choose to go into a high-paying industry, your investment is your
+broader preparation for work in that industry, and college is a substantial
+part of that.
+
+<!--
 ## Quantitative research as religious texts
 Brad and Melissa's article provides some interesting insights into the
 how much money people make, but it does not address the "proof that college
 is worth it" that might have attracted the readers of online newspapers.
-
 
 The friend just graduated from college. She mentioned that she didn't have
 any financial support for college and that she is now earning more in her
@@ -168,3 +203,4 @@ college might have been worth it in pure money terms in her case.
 
 This is part of a pattern that I see rather often: The biggest advocates for
 a thing are usually the people who are hoping that they made the right choice.
+-->
