@@ -1,6 +1,7 @@
 [[!meta title="Two meanings of "variable""]]
 [[!meta redir="http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/"]]
 [[!tag datakind]]
+[[!tag learn]]
 <!-- created_at: 2013-12-22 -->
 
 ## Introduction

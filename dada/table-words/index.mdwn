@@ -1,5 +1,6 @@
 [[!meta title="What's in a table?"]]
 [[!meta redir="http://www.datakind.org/blog/whats-in-a-table/"]]
+[[!tag learn]]
 [[!tag datakind]]
 
 <style>
