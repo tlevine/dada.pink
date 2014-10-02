@@ -99,6 +99,10 @@ Figure out how much you are earning, guess how much you are going to earn,
 and/or look up in Brad and Melissa's paper how much your major is expected
 to earn.
 
+### An example
+Let's use me as an example, because I'm curious about what I'll find.
+Multidisciplinary Science
+
 ### Usual disclaimers
 All of [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf)'s cautions still apply, of course.
 
