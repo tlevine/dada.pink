@@ -63,7 +63,7 @@ make you collect the empirical data.
 
 ### Two investment choices
 Because they adjusted for inflation, we can think of Brad and Melissa's
-lifetime earnings data can be thought of as a lump sum of money that you
+lifetime earnings figures as lump sums of money that you
 recieve when you stop working. Because you probably spent all of your
 college money within a few years (rather than across a lifetime), let's
 think of that as money that you invest when you are 20 and get some
@@ -243,6 +243,11 @@ Making money is hard because everyone else is trying to too; that's how
 capitalism works. I'm now seeing an investing in college to carry the same
 sorts of difficulties as those associated with renting out real estate,
 starting small businesses, and investing in the stock market.
+
+## Appendix
+[Here](earnings-tuition.R)'s the code for drawing the plots.
+
+<pre>[[!inline pages="dada/curriculum-vitae/press" raw="yes"]]</pre>
 
 <!--
 ## Quantitative research as religious texts
