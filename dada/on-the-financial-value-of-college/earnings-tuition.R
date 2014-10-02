@@ -10,7 +10,7 @@ stock.market.return <- 1.068 # from Greenstone & Looney, 2011
 
 lifetime.earnings <- c(
   engineering = 2e6,
-  all.majors = 1.16e6,
+  all.majors = 1.19e6,
   early.childhood.education = 8e5
 )
 
@@ -63,22 +63,22 @@ p.predictions <- p.base +
 p.tom.expenses <- p.base + geom_vline(xintercept = 1e5) +
   ggtitle("Tom spent $100,000 on college.")
 
-p.tom.predictions <- p.base + geom_hline(yintercept = 1.15e6) +
-  ggtitle('Since Tom has a major in a multidisciplinary science,\nwe predict that he will earn $1.15 million in his life.')
+p.tom.predictions <- p.base + geom_hline(yintercept = 1.19e6) +
+  ggtitle('Since Tom has a major in a multidisciplinary science,\nwe predict that he will earn $1.19 million in his life.')
 
 p.tom.both <- p.base +
                 geom_vline(xintercept = 1e5) +
                 geom_hline(yintercept = 1.15e6) +
-                aes(x = 1e5, y = 1.15e6) +
+                aes(x = 1e5, y = 1.19e6) +
                 geom_point(color = '#fe57a1', size = 20) +
                 geom_text(color = 'white', label = 'Tom') +
                 ggtitle("Tom's college expenses and predicted earnings.")
 
 p.tom.comparison <- p.predictions +
-  aes(x = 1e5, y = 1.15e6) +
+  aes(x = 1e5, y = 1.19e6) +
   geom_point(color = '#fe57a1', size = 20) +
   geom_text(color = 'white', label = 'Tom') +
-  ggtitle("How Tom compares to everyone else")
+  ggtitle("How Tom's investment compares to alternatives")
 
 ppplot <- function(plot, filename) ggsave(filename = filename,
                                           plot = plot,

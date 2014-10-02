@@ -134,9 +134,15 @@ their intersection.
 
 Now let's put that pink dot on top of the first plot I drew.
 
-<img alt="How Tom compares to everyone else"
+<img alt="How Tom's investment compares to alternatives"
      src="tom-comparison.png"
      class="wide" />
+
+It looks like my situation was quite typical. I spent $100,000 on college,
+and Adam and Michael found $102,000 to be the average expense.
+Multidisciplinary science majors earn on median
+[$1.19 million](http://www.hamiltonproject.org/files/downloads_and_links/FINAL_MajorDecisions-Appendix_Table_2.pdf) over a lifetime,
+and this is also the median across all majors.
 
 ### Usual disclaimers
 All of [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf)'s cautions still apply, of course.
