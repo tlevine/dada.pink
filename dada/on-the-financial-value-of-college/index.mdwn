@@ -10,10 +10,6 @@ and that article discusses an article by
 and [Melissa S. Kearney](http://www.hamiltonproject.org/about_us/our_people/melissa_s._kearney/)
 called "[Major Decisions: What Graduates Earn Over Their Lifetimes](http://www.hamiltonproject.org/papers/major_decisions_what_graduates_earn_over_their_lifetimes/)".
 
-The friend just graduated from college. She mentioned that she didn't have
-any financial support from her parents for college and that she is now earning
-more in her entry-level job than her parents ever made.
-
 ## Financial value of college
 Brad and Melissa's article doesn't discuss whether going to college is likely
 to make people money in the long run, so I'm going to discuss that here in
@@ -82,10 +78,10 @@ it includes your housing and food and whatnot.) when you are 20 and then
 cash in your investment when you are 65. You may choose between two
 purchases: college or the stock market. Which one should you choose?
 
-I've made the plot below to help you with that.
+I have drawn the plot below to help you with that.
 
 <img alt="Predicted return on college and stock market investments"
-     src="projected-earnings.png"
+     src="general-predictions.png"
      class="wide" />
 
 
@@ -206,15 +202,15 @@ sorts of schooling and work that you can do; this exchange of reduced options
 in hope of more pay is another sort of investment.
 
 ## Conclusion
+I think that college can be a good financial investment if you put yourself
+in a very special situation, like my friend apparently did. She chose a
+field that makes bank and clearly found some way to pay very little for
+college. She must have planned very well and generally worked very hard.
+
 Making money is hard because everyone else is trying to too; that's how
 capitalism works. I'm now seeing an investing in college to carry the same
 sorts of difficulties as those associated with renting out real estate,
 starting small businesses, and investing in the stock market.
-
-I think that college can be a good financial investment if you work hard
-to put yourself in a very special situation. Like my friend seems to have
-done, you'll need to plan things very well, choose a field that makes bank,
-find a way to pay very little for college. And generally work very hard.
 
 <!--
 ## Quantitative research as religious texts
