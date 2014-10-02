@@ -1,0 +1,48 @@
+[[!meta title="Bare domain redirect server"]]
+[[!tag toys]]
+
+<!-- created_at: 2012-06-18 -->
+In June 2012, I finished switching most of my sites to S3. Compared to what
+I had before, this made things so simple and easy; I had a script that mounted
+my S3 buckets in ~/s3 with s3fs. When I copied my websites to that directory,
+they would get uploaded to S3 with the appropriate headers. Then I could just
+set bucket policies and CNAME records and all was well. And then I came up with
+the following approach for setting bare domain redirects!
+
+It happens that I've since changed how I do things; now I host most small
+things on a server from the [numb server association](http://the-nsa.org/).
+I upload things with git or rsync and customize my domain settings with Nginx.
+And it might change again by the time you read this! Anyway, let's talk about
+the bare domain redirect server that I don't use anymore.
+
+## What I really wanted
+I sort of wanted [mod_rewrite as a service](https://twitter.com/thomaslevine/status/214749416635105281),
+but I couldn't find that, so I looked for a cheap VPS. I found a bunch of
+them through [lowendbox](http://www.lowendbox.com). I settled on the cheapest
+plan I could find. Here are the specs.
+
+    KVM1 Budget KVM VPS
+    1 Core / 128MB RAM / 6GB HD
+    Bandwidth: 256GB
+    SAS2 10K RAID storage
+
+I installed Debian and set up a little script that lets me do this.
+
+    ssh rewrite.thomaslevine.com 'add_rewrite thomaslevine.com'
+
+I just need to point the `thomaslevine.com` A record to `rewrite`'s
+IP address, run the above command, and host `www.thomaslevine.com`
+somewhere else.
+
+Well that's what I had originally, but even that was too annoying,
+so I made a little website that did it all. Read more about that
+version [here](https://github.com/tlevine/redirect.thomaslevine.com).
+
+## Low-end VPS plans
+This VPS is absurdly powerful, so I was pondering doing some other things on
+the same box too. But it's so cheap (€11.25 per year) that it's sort of not
+worth trying to use it to its full extend.
+
+I might get a couple of these more for git and piwik, respectively.
+Also, if you find yourself needing bare domain redirects, tell me, and I'll
+be happy to set them up for you.
