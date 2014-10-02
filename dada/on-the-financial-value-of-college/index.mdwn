@@ -65,7 +65,35 @@ on tuition. Let's consider both earnings and tuition. In order to be so
 detailed and still finish this in time to have lunch, however, I'm going to
 make you collect the empirical data.
 
+### Two investment choices
+Because they adjusted for inflation, we can think of Brad and Melissa's
+lifetime earnings data can be thought of as a lump sum of money that you
+recieve when you stop working. Because you probably spent all of your
+college money within a few years (rather than across a lifetime), let's
+think of that as money that you invest when you are 20 and get some
+yearly return on.
 
+Let's assume that you make absolutely no money if you don't go to college.
+You probably would make some money, but this makes the math easier.
+
+Imagine that you are concerned only about money and that you have decided
+to invest a certain amount of money (Call it "college tuition", even though
+it includes your housing and food and whatnot.) when you are 20 and then
+cash in your investment when you are 65. You may choose between two
+purchases: college or the stock market. Which one should you choose?
+
+
+### Adding your data
+Brad and Melissa converted earnings figures into
+[2014 dollars](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-TechnicalAppendix2.pdf).
+If you are going to college or went to college recently, you can consider that
+the value of the dollars you spent on college is approximately the same as it
+would have been in 2014. If not, adjust the tuition for that.
+
+Look up how much you spent or are spending and how much your major is expected
+to earn.
+
+All of [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf)'s cautions still apply, of course.
 
 ## Quantitative research as religious texts
 Brad and Melissa's article provides some interesting insights into the
