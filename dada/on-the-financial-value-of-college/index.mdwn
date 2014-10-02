@@ -46,10 +46,25 @@ Brad and Melissa briefly considered tuition costs.
 > the case that median net lifetime earnings in every major would exceed those
 > of the median high school graduate. 
 
-[Another Hamilton Project article](http://www.hamiltonproject.org/papers/where_is_the_best_place_to_invest_102000_--_in_stocks_bonds_or_a_colle/)
+[Another Hamilton Project article](http://www.hamiltonproject.org/files/downloads_and_links/06_college_value.pdf),
+by [Adam Looney](http://www.hamiltonproject.org/about_us/our_people/adam_looney/)
+and [Michael Greenstone](http://www.hamiltonproject.org/about_us/our_people/michael_greenstone/)
 estimated the average cost of a college degree to be $102,000.
 
-## Let's consider tuition costs a bit more
+Adam and Michael spend longer considering whether a college degree makes money
+and concluded that it does. More precisely, it is a better investment than the
+stock market, corporate bonds, gold, &c. Adam and Michael's analysis uses
+averages rather than medians, so their numbers are higher for everything. Also,
+they don't consider the details of lifetime earnings. (Presumably, that is part
+of why Brad and Melissa did their study.)
+
+## Relating tuition and earnings in more detail
+Brad and Melissa have much detail on earnings and little detail on tuition.
+Oppositely, Adam and Michael have little detail on earnings and much detail
+on tuition. Let's consider both earnings and tuition. In order to be so
+detailed and still finish this in time to have lunch, however, I'm going to
+make you collect the empirical data.
+
 
 
 ## Quantitative research as religious texts
