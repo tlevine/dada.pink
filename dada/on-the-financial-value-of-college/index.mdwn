@@ -84,6 +84,23 @@ I have drawn the plot below to help you with that.
      src="general-predictions.png"
      class="wide" />
 
+The *x* axis is the amount of money that you invest; you invest it either
+in college or the stock market. The *y* axis is the amount of money that
+you expect to get back from the investment.
+
+The two slanted lines are for if you invest in the stock market.
+There are two lines because I made two different guesses as to how well
+you'll do. The lines are slanted because you'll make more money
+if you start with more money.
+
+The three horizontal lines are for if you go to college. The three lines
+correspond to two different college majors (early childhood education and
+engineering) and to the median-earning college major. The lines are
+flat because Brad and Melissa's paper does not relate college expenses to
+lifetime earnings; their paper says that people who go to college make
+more money, but it does not say that people who spend more money on college
+make more money.
+
 ### Calculating your costs
 Brad and Melissa converted earnings figures into
 [2014 dollars](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-TechnicalAppendix2.pdf).
