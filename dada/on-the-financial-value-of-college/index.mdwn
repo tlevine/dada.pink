@@ -83,16 +83,23 @@ cash in your investment when you are 65. You may choose between two
 purchases: college or the stock market. Which one should you choose?
 
 
-### Adding your data
+### Calculating your costs
 Brad and Melissa converted earnings figures into
 [2014 dollars](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-TechnicalAppendix2.pdf).
 If you are going to college or went to college recently, you can consider that
 the value of the dollars you spent on college is approximately the same as it
-would have been in 2014. If not, adjust the tuition for that.
+would have been in 2014. If not, adjust the tuition for that. (Multiply your actual tuition cost by 1.02, *n* times, where *n* is the difference between 2014 and the year you paid the money)
 
-Look up how much you spent or are spending and how much your major is expected
+If you took out loans, estimate the total interest that you will pay. If you
+expect that it will take more than like five years to pay back all the loans,
+adjust for inflation. (Divide each loan payment by 1.02 *n* times, where n is the number of years between when you received the money and when you paid back the money.)
+
+### Your earnings
+Figure out how much you are earning, guess how much you are going to earn,
+and/or look up in Brad and Melissa's paper how much your major is expected
 to earn.
 
+### Usual disclaimers
 All of [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf)'s cautions still apply, of course.
 
 ## Quantitative research as religious texts
