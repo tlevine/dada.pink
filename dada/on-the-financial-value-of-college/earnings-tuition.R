@@ -1,7 +1,6 @@
 library(ggplot2)
 library(reshape2)
 library(scales)
-library(ggthemes)
 
 # tuition <- c(europe = 5e4,
 #              us.public = 8e4,
@@ -41,7 +40,8 @@ alternatives <- rbind(college, not.college)
 p <- ggplot(alternatives) +
   scale_color_manual(values = c('grey60', 'grey20'),
                      name = 'Investment type') +
-  theme_tufte(ticks = FALSE) +
+  theme_minimal() +
+  theme(title = element_text(face = 'bold')) +
   scale_x_continuous('Cost of college (today dollars)',
                      limits = c(5e4, 2e5), labels = dollar) +
   scale_y_continuous('Earnings (today dollars)',
@@ -58,4 +58,16 @@ p <- ggplot(alternatives) +
                 label = full.investment))
 
 p.tom <- p +
-  geom_point(x = 1e5, y = 1.15e6, color = '#fe57a1', size = 5)
+  aes(x = 1e5, y = 1.15e6) +
+  geom_point(color = '#fe57a1', size = 20) +
+  geom_text(color = 'white', label = 'Tom')
+
+ppplot <- function(plot, filename) ggsave(filename = filename,
+                                          plot = plot,
+                                          width = 8, height = 6,
+                                          units = 'in', dpi = 200)
+ppplot(p + ggtitle('Predicted return on college and stock market investments'),
+       'projected-earnings.png')
+ppplot(p.tom +
+         ggtitle("Tom's college expenses and his predicted lifetime earnings"),
+       'tom.png')
