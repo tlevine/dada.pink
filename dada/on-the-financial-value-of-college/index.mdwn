@@ -82,6 +82,13 @@ it includes your housing and food and whatnot.) when you are 20 and then
 cash in your investment when you are 65. You may choose between two
 purchases: college or the stock market. Which one should you choose?
 
+I've made the plot below to help you with that.
+
+<img alt="Predicted return on college and stock market investments"
+     src="projected-earnings.png"
+     class="wide" />
+
+
 
 ### Calculating your costs
 Brad and Melissa converted earnings figures into
@@ -104,7 +111,32 @@ to earn.
 
 ### An example
 Let's use me as an example, because I'm curious about what I'll find.
-Multidisciplinary Science
+
+I spent $100,000 on college.
+
+<img alt="Tom spent $100,000 on college."
+     src="tom-expenses.png"
+     class="wide" />
+
+I didn't see "ergonomics" in Brad and Melissa's paper, and the only "design"
+is "graphic design", so let's say that I'm "multidisciplinary science".
+
+<img alt="We predict that Tom will earn $1.15 million through his life."
+     src="tom-predictions.png"
+     class="wide" />
+
+I just drew lines for my expenses and predict earnings; this point is
+their intersection.
+
+<img alt="Tom's college expenses and his predicted lifetime earnings"
+     src="tom-both.png"
+     class="wide" />
+
+Now let's put that pink dot on top of the first plot I drew.
+
+<img alt="How Tom compares to everyone else"
+     src="tom-comparison.png"
+     class="wide" />
 
 ### Usual disclaimers
 All of [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf)'s cautions still apply, of course.

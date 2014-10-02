@@ -37,7 +37,7 @@ not.college$full.investment <- paste0(
 not.college$stock.market.return <- NULL
 
 alternatives <- rbind(college, not.college)
-p <- ggplot(alternatives) +
+p.base <- ggplot(alternatives) +
   scale_color_manual(values = c('grey60', 'grey20'),
                      name = 'Investment type') +
   theme_minimal() +
@@ -45,7 +45,9 @@ p <- ggplot(alternatives) +
   scale_x_continuous('Cost of college (today dollars)',
                      limits = c(5e4, 2e5), labels = dollar) +
   scale_y_continuous('Earnings (today dollars)',
-                     limits = c(5e5, 4e6), labels = dollar) +
+                     limits = c(5e5, 4e6), labels = dollar)
+
+p.predictions <- p.base +
   geom_abline(aes(intercept = earnings.intercept,
                   slope = earnings.slope,
                   color = investment,
@@ -55,19 +57,35 @@ p <- ggplot(alternatives) +
                 color = investment,
                 vjust = -.2 - (earnings.slope / 12),
                 lineheight = .8,
-                label = full.investment))
+                label = full.investment)) +
+  ggtitle('Predicted return on college and stock market investments')
 
-p.tom <- p +
+p.tom.expenses <- p.base + geom_vline(xintercept = 1e5) +
+  ggtitle("Tom spent $100,000 on college.")
+
+p.tom.predictions <- p.base + geom_hline(yintercept = 1.15e6) +
+  ggtitle('Since Tom has a major in a multidisciplinary science,\nwe predict that he will earn $1.15 million in his life.')
+
+p.tom.both <- p.base +
+                geom_vline(xintercept = 1e5) +
+                geom_hline(yintercept = 1.15e6) +
+                aes(x = 1e5, y = 1.15e6) +
+                geom_point(color = '#fe57a1', size = 20) +
+                geom_text(color = 'white', label = 'Tom') +
+                ggtitle("Tom's college expenses and predicted earnings.")
+
+p.tom.comparison <- p.predictions +
   aes(x = 1e5, y = 1.15e6) +
   geom_point(color = '#fe57a1', size = 20) +
-  geom_text(color = 'white', label = 'Tom')
+  geom_text(color = 'white', label = 'Tom') +
+  ggtitle("How Tom compares to everyone else")
 
 ppplot <- function(plot, filename) ggsave(filename = filename,
                                           plot = plot,
                                           width = 8, height = 6,
                                           units = 'in', dpi = 200)
-ppplot(p + ggtitle('Predicted return on college and stock market investments'),
-       'projected-earnings.png')
-ppplot(p.tom +
-         ggtitle("Tom's college expenses and his predicted lifetime earnings"),
-       'tom.png')
+ppplot(p.predictions, 'general-predictions.png')
+ppplot(p.tom.expenses, 'tom-expenses.png')
+ppplot(p.tom.predictions, 'tom-predictions.png')
+ppplot(p.tom.both, 'tom-both.png')
+ppplot(p.tom.comparison, 'tom-comparison.png')
