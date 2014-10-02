@@ -2,7 +2,7 @@ library(ggplot2)
 library(reshape2)
 library(scales)
 
-years.invested <- 65 - 20 # the nominal working life
+years.invested <- 65 - 20 # People supposedly retire at 65.
 stock.market.return <- 1.068 # from Greenstone & Looney, 2011
 
 lifetime.earnings <- c(
