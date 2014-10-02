@@ -2,8 +2,9 @@
 [[!meta description="Quantitative research as religious text"]]
 
 ## Hype about the merits of college
-A friend sent me an newspaper article called
-"[Want proof college is worth it? Look at this list of the highest-paying majors](http://www.washingtonpost.com/news/storyline/wp/2014/09/29/want-proof-college-is-worth-it-look-at-this-list-of-the-highest-paying-majors/)",
+A friend sent me an newspaper article by
+[Jeff Guo](http://www.washingtonpost.com/people/jeff-guo)
+called "[Want proof college is worth it? Look at this list of the highest-paying majors](http://www.washingtonpost.com/news/storyline/wp/2014/09/29/want-proof-college-is-worth-it-look-at-this-list-of-the-highest-paying-majors/)",
 and that article discusses an article by 
 [Brad Hershbein](http://www.hamiltonproject.org/about_us/our_people/brad_hershbein/)
 and [Melissa S. Kearney](http://www.hamiltonproject.org/about_us/our_people/melissa_s._kearney/)
@@ -18,16 +19,37 @@ Brad and Melissa's article doesn't discuss whether going to college is likely
 to make people money in the long run, so I'm going to discuss that here in
 relation to their findings.
 
-The article discusses how much money people earn across their lifetimes and
+Brad and Melissa discuss how much money people earn across their lifetimes and
 how it relates to the major they had in college.
+
+> Over the entire working life, the typical college graduate will earn $1.19
+> million in today’s dollars [2].  This is more than twice as much as the
+> lifetime earnings of a typical high school graduate ($580,000), and $335,000
+> more than that of a typical associate degree graduate. Figure 2 shows median
+> lifetime earnings for select majors, including those with the highest
+> earnings, those with the lowest earnings, and those that are among the most
+> common. As can be seen in the figure, lifetime earnings vary widely across
+> majors. Over the entire career, the highest-earning majors will earn about
+> two-and-a-half times what the lowest-earning majors will earn, a range from
+> over $2 million for some engineering majors to about $800,000 for early
+> childhood education. 
+
+Jeff summarizes this as follows.
 
 > The researchers estimate that even when college costs are taken into
 > account, the median early childhood education major still makes 10 percent
 > to 15 percent more than the median American with just a high school degree.
 
-("Proof" is a rather strong word that I like to reserve for artificial settings
-like math, but let's ignore that part of the title.)
+Brad and Melissa briefly considered tuition costs.
 
+> Even if [$102,000] were subtracted from career earnings, it would still be
+> the case that median net lifetime earnings in every major would exceed those
+> of the median high school graduate. 
+
+[Another Hamilton Project article](http://www.hamiltonproject.org/papers/where_is_the_best_place_to_invest_102000_--_in_stocks_bonds_or_a_colle/)
+estimated the average cost of a college degree to be $102,000.
+
+## Let's consider tuition costs a bit more
 
 
 ## Quantitative research as religious texts
