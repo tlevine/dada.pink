@@ -84,8 +84,6 @@ I have drawn the plot below to help you with that.
      src="general-predictions.png"
      class="wide" />
 
-
-
 ### Calculating your costs
 Brad and Melissa converted earnings figures into
 [2014 dollars](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-TechnicalAppendix2.pdf).
@@ -161,10 +159,27 @@ I could spend the money on college and expect a higher salary,
 or I could save the money and not work at all.
 Either way, I was already set for life.
 
+### Other things
 Life is more complex, of course. I didn't go to college,
 I'd probably still earn more in a job than many other people would because
 of various prejudices against people without money and in favor of people
 with money.
+
+### Apparent contradictions
+This may seem to contradict the findings of the papers I reference; here's
+why that happens.
+
+Brad and Melissa's paper doesn't consider what you would do with the money
+that you saved by not going to college, while I assume that you are going to
+invest it in the stock market.
+
+Michael and Adam's paper considers that you could invest in the stock market,
+but it uses different figures for the lifetime earnings. It looks complicated,
+and I don't really know what's going on. If you are curious, you can read more
+about the figures in
+[this article](http://www.econ.ku.dk/okojacob/MAKRO-E05/article-education.pdf).
+My hunch is that their use of an average rather than a median will explain the
+difference, but, again, I don't really know what's going on.
 
 ## Why college might be a good investment
 College might be a good investment if either you either pay very little for
