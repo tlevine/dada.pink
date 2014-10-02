@@ -256,7 +256,7 @@ starting small businesses, and investing in the stock market.
 ## Appendix
 [Here](earnings-tuition.r)'s the code for drawing the plots.
 
-<pre>[[!inline pages="earnings-tuition.r" raw="yes"]]</pre>
+<pre>[[!inline pages="dada/earnings-tuition.r" raw="yes"]]</pre>
 
 <!--
 ## Quantitative research as religious texts
