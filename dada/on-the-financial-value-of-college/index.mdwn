@@ -1,18 +1,22 @@
 [[!meta title="On the financial value of college"]]
 [[!meta description="Quantitative research as religious text"]]
 
+## Hype about the merits of college
 A friend sent me an newspaper article called
 "[Want proof college is worth it? Look at this list of the highest-paying majors](http://www.washingtonpost.com/news/storyline/wp/2014/09/29/want-proof-college-is-worth-it-look-at-this-list-of-the-highest-paying-majors/)",
 and that article discusses an article by 
 [Brad Hershbein](http://www.hamiltonproject.org/about_us/our_people/brad_hershbein/)
-[Melissa S. Kearney](http://www.hamiltonproject.org/about_us/our_people/melissa_s._kearney/)
+and [Melissa S. Kearney](http://www.hamiltonproject.org/about_us/our_people/melissa_s._kearney/)
 called "[Major Decisions: What Graduates Earn Over Their Lifetimes](http://www.hamiltonproject.org/papers/major_decisions_what_graduates_earn_over_their_lifetimes/)".
 
 The friend just graduated from college. She mentioned that she didn't have
 any financial support from her parents for college and that she is now earning
 more in her entry-level job than her parents ever made.
 
-
+## Financial value of college
+Brad and Melissa's article doesn't discuss whether going to college is likely
+to make people money in the long run, so I'm going to discuss that here in
+relation to their findings.
 
 The article discusses how much money people earn across their lifetimes and
 how it relates to the major they had in college.
@@ -26,10 +30,18 @@ like math, but let's ignore that part of the title.)
 
 
 
-## An interesting pattern
+## Quantitative research as religious texts
+Brad and Melissa's article provides some interesting insights into the
+how much money people make, but it does not address the "proof that college
+is worth it" that might have attracted the readers of online newspapers.
+
+
 The friend just graduated from college. She mentioned that she didn't have
 any financial support for college and that she is now earning more in her
 entry-level job than her parents ever made.
+
+I imagine that she managed to find some financial support from somewhere, so
+college might have been worth it in pure money terms in her case.
 
 This is part of a pattern that I see rather often: The biggest advocates for
 a thing are usually the people who are hoping that they made the right choice.
