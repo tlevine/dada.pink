@@ -1,6 +1,28 @@
-A friend sent
-[this](http://www.washingtonpost.com/news/storyline/wp/2014/09/29/want-proof-college-is-worth-it-look-at-this-list-of-the-highest-paying-majors/)
-to me.
+[[!meta title="On the financial value of college"]]
+[[!meta description="Quantitative research as religious text"]]
+
+A friend sent me an newspaper article called
+"[Want proof college is worth it? Look at this list of the highest-paying majors](http://www.washingtonpost.com/news/storyline/wp/2014/09/29/want-proof-college-is-worth-it-look-at-this-list-of-the-highest-paying-majors/)",
+and that article discusses an article by 
+[Brad Hershbein](http://www.hamiltonproject.org/about_us/our_people/brad_hershbein/)
+[Melissa S. Kearney](http://www.hamiltonproject.org/about_us/our_people/melissa_s._kearney/)
+called "[Major Decisions: What Graduates Earn Over Their Lifetimes](http://www.hamiltonproject.org/papers/major_decisions_what_graduates_earn_over_their_lifetimes/)".
+
+The friend just graduated from college. She mentioned that she didn't have
+any financial support from her parents for college and that she is now earning
+more in her entry-level job than her parents ever made.
+
+
+
+The article discusses how much money people earn across their lifetimes and
+how it relates to the major they had in college.
+
+> The researchers estimate that even when college costs are taken into
+> account, the median early childhood education major still makes 10 percent
+> to 15 percent more than the median American with just a high school degree.
+
+("Proof" is a rather strong word that I like to reserve for artificial settings
+like math, but let's ignore that part of the title.)
 
 
 
