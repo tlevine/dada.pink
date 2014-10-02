@@ -178,7 +178,7 @@ to consider some related investments.
 ### A scenario
 Let's be more precise about what I mean by "very little" and "high-paying".
 Suppose you pay $50,000 for college, get a degree in engineering, and then
-work in engineering.
+work in engineering. (It happens that my friend's degree is in engineering.)
 
 If you didn't go to college, your $50,000 might turn a bit under $1 million
 (based on our graph), and this would be added to all your other earnings,
@@ -206,11 +206,15 @@ sorts of schooling and work that you can do; this exchange of reduced options
 in hope of more pay is another sort of investment.
 
 ## Conclusion
-It seems to me that college is a good financial investment only in very
-special situations. To get into such a situation, you probably need to plan
-things quite well and make several other specific investments, as it seems
-that my friend did.
+Making money is hard because everyone else is trying to too; that's how
+capitalism works. I'm now seeing an investing in college to carry the same
+sorts of difficulties as those associated with renting out real estate,
+starting small businesses, and investing in the stock market.
 
+I think that college can be a good financial investment if you work hard
+to put yourself in a very special situation. Like my friend seems to have
+done, you'll need to plan things very well, choose a field that makes bank,
+find a way to pay very little for college. And generally work very hard.
 
 <!--
 ## Quantitative research as religious texts
