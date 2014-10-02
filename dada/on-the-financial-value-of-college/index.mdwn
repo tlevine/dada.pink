@@ -182,11 +182,10 @@ and then work in engineering. (It's hard to tell what the exact
 cut-offs are based on our graph because the graph doesn't consider what you
 make from normal work if you don't go to college.)
 
-make sense to consider something else to be the investment.
-
 If you choose to go into a high-paying industry, your investment is your
-broader preparation for work in that industry, and college is a substantial
-part of that.
+broader preparation for work in that industry. College tuition is a substantial
+part of that, but there's more; you have to decide to be in such an industry,
+and you probably have to work rather much (both in college and after).
 
 <!--
 ## Quantitative research as religious texts
