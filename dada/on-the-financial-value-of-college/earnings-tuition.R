@@ -1,11 +1,11 @@
 library(ggplot2)
 library(reshape2)
 library(scales)
+library(ggthemes)
 
 # tuition <- c(europe = 5e4,
 #              us.public = 8e4,
 #              us.private = 2e5)
-tuition <- c(0, 2e5)
 years.invested <- 65 - 20 # the nominal working life
 stock.market.return <- 1.068 # from Greenstone & Looney, 2011
 
@@ -16,34 +16,46 @@ lifetime.earnings <- c(
 )
 
 college <- data.frame(
-  tuition = rep(tuition, length(lifetime.earnings)),
-  Investment = 'College',
-  full.investment = paste0('Lifetime earnings (median ',
-                           sub('\\.', ' ', names(lifetime.earnings)), ')'),
-  earnings = unname(lifetime.earnings)
+  investment = 'College',
+  label.x = 1.8e5,
+  earnings.intercept = unname(lifetime.earnings),
+  earnings.slope = 0,
+  full.investment = paste0('College median\n(',
+                           sub('\\.', ' ', names(lifetime.earnings)), ')')
 )
 
 not.college <- data.frame(
-  tuition = rep(tuition, each = 3),
-  Investment = 'Stock market'
+  investment = 'Stock market',
+  stock.market.return = c(1.050, 1.065, 1.080),
+  label.x = c(1.6e5, 1.4e5, 1e5),
+  earnings.intercept = 0
 )
-not.college$stock.market.return <- c(1.050, 1.065, 1.080)
-not.college$earnings <- not.college$tuition *
-                        not.college$stock.market.return ^
-                        years.invested
+not.college$earnings.slope <- not.college$stock.market.return ^ years.invested
 not.college$full.investment <- paste0(
-  'Stock market (',
+  'Stock market\n(',
   round(100 * (not.college$stock.market.return - 1), 1),
   '% annual return)')
 not.college$stock.market.return <- NULL
 
 alternatives <- rbind(college, not.college)
 p <- ggplot(alternatives) +
-  aes(x = tuition, y = earnings, group = full.investment,
-      linetype = Investment) +
-  scale_x_continuous('Cost of college (today dollars)', labels = dollar) +
-  scale_y_continuous('Earnings (today dollars)', labels = dollar) +
-  geom_line()
+  scale_color_manual(values = c('grey60', 'grey20'),
+                     name = 'Investment type') +
+  theme_tufte(ticks = FALSE) +
+  scale_x_continuous('Cost of college (today dollars)',
+                     limits = c(5e4, 2e5), labels = dollar) +
+  scale_y_continuous('Earnings (today dollars)',
+                     limits = c(5e5, 4e6), labels = dollar) +
+  geom_abline(aes(intercept = earnings.intercept,
+                  slope = earnings.slope,
+                  color = investment,
+                  group = full.investment)) +
+  geom_text(aes(x = label.x,
+                y = earnings.intercept + earnings.slope * label.x,
+                color = investment,
+                vjust = -.2 - (earnings.slope / 12),
+                lineheight = .8,
+                label = full.investment))
 
 p.tom <- p +
   geom_point(x = 1e5, y = 1.15e6, color = '#fe57a1', size = 5)

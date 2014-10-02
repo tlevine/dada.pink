@@ -94,6 +94,9 @@ If you took out loans, estimate the total interest that you will pay. If you
 expect that it will take more than like five years to pay back all the loans,
 adjust for inflation. (Divide each loan payment by 1.02 *n* times, where n is the number of years between when you received the money and when you paid back the money.)
 
+You can decide whether to consider just your college tuition or the sum of
+your tuition, housing, food, &c.
+
 ### Your earnings
 Figure out how much you are earning, guess how much you are going to earn,
 and/or look up in Brad and Melissa's paper how much your major is expected
