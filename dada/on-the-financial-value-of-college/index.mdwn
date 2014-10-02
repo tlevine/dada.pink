@@ -1,7 +1,6 @@
 [[!meta title="On the financial value of college"]]
-[[!meta description="Quantitative research as religious text"]]
+[[!meta description=""]]
 
-## Hype about the merits of college
 A friend sent me an newspaper article by
 [Jeff Guo](http://www.washingtonpost.com/people/jeff-guo)
 called "[Want proof college is worth it? Look at this list of the highest-paying majors](http://www.washingtonpost.com/news/storyline/wp/2014/09/29/want-proof-college-is-worth-it-look-at-this-list-of-the-highest-paying-majors/)",
@@ -9,11 +8,16 @@ and that article discusses an article by
 [Brad Hershbein](http://www.hamiltonproject.org/about_us/our_people/brad_hershbein/)
 and [Melissa S. Kearney](http://www.hamiltonproject.org/about_us/our_people/melissa_s._kearney/)
 called "[Major Decisions: What Graduates Earn Over Their Lifetimes](http://www.hamiltonproject.org/papers/major_decisions_what_graduates_earn_over_their_lifetimes/)".
+While the first of these articles makes so much hype about how going to college
+is a good idea financially, the second article isn't really about that. (It
+only looks at how much money people make.)
+So I wanted to take a look at whether going to college is a good idea in
+financial terms.
 
-## Financial value of college
-Brad and Melissa's article doesn't discuss whether going to college is likely
-to make people money in the long run, so I'm going to discuss that here in
-relation to their findings.
+## Assessments of the financial value of college from these articles
+Brad and Melissa's article doesn't discuss whether
+people who go to college are likely to make more money in the long run,
+but they do say some things that are related.
 
 Brad and Melissa discuss how much money people earn across their lifetimes and
 how it relates to the major they had in college.
@@ -36,21 +40,25 @@ Jeff summarizes this as follows.
 > account, the median early childhood education major still makes 10 percent
 > to 15 percent more than the median American with just a high school degree.
 
+That is, people who went to college make more money. But does it make up
+for tuition?
 Brad and Melissa briefly considered tuition costs.
 
 > Even if [$102,000] were subtracted from career earnings, it would still be
 > the case that median net lifetime earnings in every major would exceed those
 > of the median high school graduate. 
 
-[Another Hamilton Project article](http://www.hamiltonproject.org/files/downloads_and_links/06_college_value.pdf),
+They use this $102,000 figure because
+[another Hamilton Project article](http://www.hamiltonproject.org/files/downloads_and_links/06_college_value.pdf),
 by [Adam Looney](http://www.hamiltonproject.org/about_us/our_people/adam_looney/)
 and [Michael Greenstone](http://www.hamiltonproject.org/about_us/our_people/michael_greenstone/)
 estimated the average cost of a college degree to be $102,000.
+By adjusting in this manner, Brad and Melissa account for inflation but not
+for the other investments that you could make with your tuition money.
 
 Adam and Michael spend longer considering whether a college degree makes money
-and concluded that it does. More precisely, it is a better investment than the
-stock market, corporate bonds, gold, &c. Adam and Michael's analysis uses
-averages rather than medians, so their numbers are higher for everything. Also,
+and concluded that it does. More precisely, they conclude that it is a better
+investment than the stock market, corporate bonds, gold, &c. On the other hand,
 they don't consider the details of lifetime earnings. (Presumably, that is part
 of why Brad and Melissa did their study.)
 
@@ -164,8 +172,9 @@ invested $100,000 in the stock market, [retired](/!/sleeping),
 and still earned as much money through my investment as a typical college
 graduate earns in total.
 
-### Usual disclaimers
-All of [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf)'s cautions still apply, of course.
+### The usual problems with simplifying things
+This simplification of the world carries all of the usual cautions,
+as [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf)'s explain.
 
 ## Another way of thinking about this
 It might seem strange that I could make more money by not working and not going
@@ -251,16 +260,9 @@ starting small businesses, and investing in the stock market.
 
 <!--
 ## Quantitative research as religious texts
-Brad and Melissa's article provides some interesting insights into the
-how much money people make, but it does not address the "proof that college
-is worth it" that might have attracted the readers of online newspapers.
-
 The friend just graduated from college. She mentioned that she didn't have
 any financial support for college and that she is now earning more in her
 entry-level job than her parents ever made.
-
-I imagine that she managed to find some financial support from somewhere, so
-college might have been worth it in pure money terms in her case.
 
 This is part of a pattern that I see rather often: The biggest advocates for
 a thing are usually the people who are hoping that they made the right choice.
