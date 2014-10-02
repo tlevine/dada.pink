@@ -41,7 +41,9 @@ p.base <- ggplot(alternatives) +
   scale_color_manual(values = c('grey60', 'grey20'),
                      name = 'Investment type') +
   theme_minimal() +
-  theme(title = element_text(face = 'bold')) +
+  theme(title = element_text(face = 'bold'),
+        panel.grid.minor = element_blank(),
+        panel.grid.major = element_blank()) +
   scale_x_continuous('Cost of college (today dollars)',
                      limits = c(5e4, 2e5), labels = dollar) +
   scale_y_continuous('Earnings (today dollars)',

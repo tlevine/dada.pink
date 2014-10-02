@@ -144,6 +144,12 @@ Multidisciplinary science majors earn on median
 [$1.19 million](http://www.hamiltonproject.org/files/downloads_and_links/FINAL_MajorDecisions-Appendix_Table_2.pdf) over a lifetime,
 and this is also the median across all majors.
 
+Recall that this calculation assumes that I make **no money** if I don't go
+to college. That is, it does not consider that people with high school degrees
+and no college degree make $580,000 on median.
+In my situation, instead of going to college and then working, I could have
+invested $100,000 in the stock market and **retired**.
+
 ### Usual disclaimers
 All of [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf)'s cautions still apply, of course.
 
