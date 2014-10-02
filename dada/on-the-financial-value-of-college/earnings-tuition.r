@@ -2,9 +2,6 @@ library(ggplot2)
 library(reshape2)
 library(scales)
 
-# tuition <- c(europe = 5e4,
-#              us.public = 8e4,
-#              us.private = 2e5)
 years.invested <- 65 - 20 # the nominal working life
 stock.market.return <- 1.068 # from Greenstone & Looney, 2011
 
