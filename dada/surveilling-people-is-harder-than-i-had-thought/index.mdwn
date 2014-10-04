@@ -23,9 +23,57 @@ Some of them have free trials, so I tried those, but I didn't manage
 to install any. I got hope when I saw [Saiku](http://meteorite.bi/saiku/)
 because it is free software, but I didn't manage to install it either.
 
-So I eventually gave up and wrote my own thing. I call it
+### Doeund
+After spending two weeks trying to use off-the-shelf tools,
+I eventually gave up and wrote my own thing. I call it
 [doeund](http://small.dada.pink/dadawarehouse/doeund/)
 (because I name things by
 [banging on the keyboard](/dada/dada/)).
 
-Using one of these off-the-shelf products
+Depending on how you measure time, I probably spent more time trying to get
+the off-the-shelf tools working than I did writing doeund or writing the
+importers for different data sources. But I think it was
+worth it because studying the other tools gave me some understanding of what
+data warehousing is about.
+
+Anyway, here is how I use doeund.
+
+I define my data model with specialized declarative SQLAlchemy classes.
+Every table is either a `Fact` or a `Dimension`, and the only difference
+is that facts are tables that I care about and dimensions are things that
+I want to pretend are parts of fact tables. More precisely, doeund creates
+a corresponding cube for each fact table but not for each dimension table.
+
+What do I mean by a "cube"? Unfortunately, it is not really a cube because
+I didn't want to make something that could run OLAP queries. Instead, it is
+just a SQL view that applies lots of joins to denormalize the fact table.
+(I specify a join with either of a foreign key constraints or a call to the
+`add_join` method of a table.)
+
+Hmm. Since these "cubes" isn't really a cubes, I think I'm going to start
+calling them "cuboids".
+
+There's also an `add_union` method. I use this for combining multiple tables
+into one. For example, I use this to find all of the different names for one
+person, as I get those names from many different sources and then convert them
+to the same schema.
+
+### Advantages and disadvantages of doeund
+The cool part of all of this is that I feel like I'm specifying three things
+at once. I write SQLAlchemy subclasses and wind up with the following things.
+
+1. Schema of the core database, with all of the tables and constraints
+2. Python classes that map to the database schema
+3. Cuboid SQL view that makes it easier to query
+
+While this is exactly what **I** want, it doesn't have all of the awesome
+that I had hoped for. In particular, here are some things that could get
+annoying.
+
+* Everything must be in a single relational database.
+* You query it just like you would normally query that relational database;
+    it doesn't have use OLAP queries.
+* 
+
+I could add support for these things, of course, but I want to get on with
+analyzing the stuff that I have just spent weeks putting together.
