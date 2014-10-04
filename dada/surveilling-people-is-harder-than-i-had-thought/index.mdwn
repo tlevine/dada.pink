@@ -90,9 +90,58 @@ cases. Also, much of the logic depends on a gigantic global variable called
 the "database". And, most annoyingly, almost all of the data that I'm sending
 through it are private, so it is hard for me to distribute example data.
 
-## On to surveillance
+## Surveillance that didn't work
 Once I got this working well enough to be worth looking at what was in my
 database, I found that surveilling people wasn't as easy as I had expected.
+Well, it's more that there was a particular thing that I thought should be
+really easy and wasn't.
+
+### What I wanted to figure out
+I have a hunch that people I know look at my website a lot more than I
+realize. Here are some reasons for my hunch.
+
+1. I can tell from various logs that people are looking at my website.
+    (I'll say more on this in the next section.)
+2. Recently, people whom I have just met act like they already know me,
+    and I had been confused as to why. I think it's because they already
+    *do* know me, because they have been reading my website.
+3. People sometimes tell me that they've been reading my website, but
+    they are normally shy about saying so.
+
+I am always quite flattered when I learn that people read my website, but
+they rarely tell me. Secondarily, I don't have a great feel for which parts
+people like and why people like them.
+
+I wanted to figure out which people were responsible for which visits to
+pages to my website.
+
+### Data sources
+I have emails and logs of web visits, and I thought I could connect these
+to each other.
+
+First of all, people sometimes send me emails. I think you know how that
+works.
+
+Also, people sometimes look at my website. If they are running Javascript
+and haven't asked to be blocked, my instance of [Piwik](http://piwik.org)
+records a bunch of things about them. It also stores a cookie in the
+person's browser so that it can tell when the same person went to the site
+twice.
+
+### Matching email addresses with web visits
+I figured that I could use the dates and times of emails and web visits
+to associate email addresses (and, in turn, people) with web visitors.
+
+For example, consider than I may have recived two emails from the same
+email address, one in the evening of September 2 and one in the morning
+of September 24. Consider further that my website may have received visits
+from a particular IP address or from a person with the same cookie on
+at both of those times as well. Do these web visits and emails belong
+to the same person?
+
+A small detail: A separate part of the dada warehouse associates email
+addresses with real people, so this can work even if they sent me emails
+from different email addresses.
 
 
 
