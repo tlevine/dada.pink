@@ -166,7 +166,32 @@ I have a few explanations for this.
     Piwik tracking.
 4. My logs are bad.
 
-### URLs in emails
+### Connecting visitor cookies with IP addresses
+Perhaps I need to branch out beyond the exact visitor cookie and IP address.
+Maybe I can figure out which 
+
+When someone visits the website from a particular IP address, I figure that
+both the visitor cookie and the IP address have something to do with the
+person. If I see the same visitor cookie with a different IP address or a
+different visitor cookie from the same IP address, I can figure that there's
+some connection.
+
+If it's the same visitor cookie from different IP addresses, it might be that
+the person is using his or her computer in a different place. The different
+places might be home, office, cell phone, coffee shop, &c.
+
+If it's a different visitor cookie from the same IP address, it might be
+a different computer belonging to the same person or a different computer
+belonging to a different person. In the latter case, it might be a roommate,
+colleague, or fellow-hipster-in-a-coffee-shop.
+
+This might sound very cool in theory, but
+it seems that I'm the only person who looks at my website enough for this
+to be helpful. Thus, the linking of different IP addresses with different
+visitor cookies isn't making my surveillance of *other* people any easier.
+That said, I'm learning a lot of interesting stuff about myself.
+
+### Topics of emails of visited web pages
 Perhaps we could go by the content of the emails. I might have referenced
 a page on my website in an email, or someone else might have referenced a
 page on my website in an email. Rather than relying on people visiting the
