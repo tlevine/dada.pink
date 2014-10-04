@@ -89,3 +89,24 @@ I'm sending lots of data through it and am not in the mood to test all edge
 cases. Also, much of the logic depends on a gigantic global variable called
 the "database". And, most annoyingly, almost all of the data that I'm sending
 through it are private, so it is hard for me to distribute example data.
+
+## On to surveillance
+Once I got this working well enough to be worth looking at what was in my
+database, I found that surveilling people wasn't as easy as I had expected.
+
+
+
+
+
+## Surveillance that did work
+I neglected to discuss any of the things interesting/scary things that I
+*did* discover by looking at the data. You see, the difficulty of surveilling
+people was starting to frustrate me, so I decided to take a break from
+programming and to write English about it instead. And I focused on all of
+the frustrating things.
+
+I skipped over all of the things that I *did* find, so surveillance might
+still be much easier than *you* had expected. Also, there's a lot that I'm
+learning about myself from these data, and that also means that you could
+surveil me quite easily if you controlled enough of the computers that house
+my data.
