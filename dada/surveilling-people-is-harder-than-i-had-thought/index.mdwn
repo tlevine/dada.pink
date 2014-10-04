@@ -1,0 +1,31 @@
+[[!meta title="Surveilling people is harder than I had though"]]
+[[!tag dadawarehouse]]
+
+I've been collecting lots of data for the past ten years or so,
+and I've recently been connecting those data in my
+[dada warehouse](http://small.dada.pink/dadawarehouse/README).
+I think I'll manage to do some of the things that I want to do
+with it, but it is becoming clear that many of these things are
+harder than I had hoped.
+
+## Using an off-the-shelf data warehouse product
+I originally thought I was going to do this with
+[cubes](http://cubes.databrewery.org/), but then I couldn't get cubes
+to work on even the examples that the documentation references.
+Fortunately, it is free software, so I read through the code and
+changed a few things and generally tried to understand how to use it,
+but I eventually gave up.
+
+Then I figured that I could use some other data warehouse thingies.
+It turns out that that is even harder! First of all, you usually have
+to figure out how to buy them, and that turns out to be *really* hard.
+Some of them have free trials, so I tried those, but I didn't manage
+to install any. I got hope when I saw [Saiku](http://meteorite.bi/saiku/)
+because it is free software, but I didn't manage to install it either.
+
+So I eventually gave up and wrote my own thing. I call it
+[doeund](http://small.dada.pink/dadawarehouse/doeund/)
+(because I name things by
+[banging on the keyboard](/dada/dada/)).
+
+Using one of these off-the-shelf products
