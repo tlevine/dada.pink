@@ -66,14 +66,26 @@ at once. I write SQLAlchemy subclasses and wind up with the following things.
 2. Python classes that map to the database schema
 3. Cuboid SQL view that makes it easier to query
 
-While this is exactly what **I** want, it doesn't have all of the awesome
-that I had hoped for. In particular, here are some things that could get
-annoying.
+While this is *almost* exactly what *I* want, it doesn't have all of the
+awesome that I had hoped for. In particular, I really wanted to have a bubbly
+graphical interface that would magically know which graphs are reasonable to
+draw. But I don't have that, so I'm just going to query the database from R
+and [make plots with ggplot2](/!/learn-plotting).
+
+Here are some other things that could get annoying.
 
 * Everything must be in a single relational database.
 * You query it just like you would normally query that relational database;
     it doesn't have use OLAP queries.
-* 
+* There would be some extra work if I wanted to write part of the system in
+    language other than Python.
 
 I could add support for these things, of course, but I want to get on with
 analyzing the stuff that I have just spent weeks putting together.
+
+And there's one more note that might apply to all software of this sort.
+I'm finding it rather hard to test doeund and my whole dada warehouse.
+I'm sending lots of data through it and am not in the mood to test all edge
+cases. Also, much of the logic depends on a gigantic global variable called
+the "database". And, most annoyingly, almost all of the data that I'm sending
+through it are private, so it is hard for me to distribute example data.
