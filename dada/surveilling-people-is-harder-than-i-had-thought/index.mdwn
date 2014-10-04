@@ -143,9 +143,45 @@ A small detail: A separate part of the dada warehouse associates email
 addresses with real people, so this can work even if they sent me emails
 from different email addresses.
 
+### Lots of web visitors look at the same page over and over
 
 
 
+
+Do people actually browse like this? Like, does it mean that my article
+is so amazing that people refer back to it? Or is it a bot? Or are my
+logs bad?
+
+### When I did manage to match visitors with people
+There were situations where I did manage to match visitors to people
+and where I knew that these people had looked at the website different
+times. But when I looked in the Piwik data, I saw that their visitor
+cookie and IP address were each associated with only one visit!
+I have a few explanations for this.
+
+1. They switch browsers or computers, so the visitor cookies don't help.
+2. Their IP addresses changed. This is especially likely if they were reading
+    from their phones or if they were using proxies.
+3. They know what they're doing and have done something to disable the
+    Piwik tracking.
+4. My logs are bad.
+
+### URLs in emails
+Perhaps we could go by the content of the emails. I might have referenced
+a page on my website in an email, or someone else might have referenced a
+page on my website in an email. Rather than relying on people visiting the
+site twice and sending me an email twice, perhaps we could make the connection
+in one email based on the content of the email? Well that's hard too.
+
+You see, if I sent mentioned something on my website to someone, I have
+probably mentioned it to a few people, so it's hard to say who is reading it.
+Alternatively, if someone mentioned something on my website to me, it's
+probably something that's *actually* worth reading, so even more people
+are probably reading the link, and it is even harder to figure out who is who.
+
+Perhaps I could get somewhere if I modeled the connenctions as probabilities.
+But that's more work, and the point was just that I had expected this to be
+really easy.
 
 ## Surveillance that did work
 I neglected to discuss any of the things interesting/scary things that I
