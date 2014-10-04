@@ -1,5 +1,5 @@
-Why do wrists crack?
-===
+Why do people crack their wrists?
+=================================
 **Note well**: I am using documentation-driven development; I am writing in the
 past tense, but not all of these things have happened yet.
 
