@@ -17,7 +17,6 @@ GPA 3.5<br>
 Hunter R. Rawlings III Presidential Research Scholar
 
 ## Awards
-* DataKind [Data Hero](http://www.datakind.org/featuredvolunteers/thomas-levine/)
 * National Science Graduate Research Fellowship Program honorable mention
 
 ## Consulting work
@@ -30,30 +29,42 @@ consultant, helping organizations take advantage of data. My services include
 * Presenting data for normal people (through websites, visuals, [music, and food](/sensing-data))
 * Training around data science tools and concepts
 
+### Data for investing
 For [Vy Capital](http://vycapital.com/), a venture capital firm,
-I am developing large-scale data
-acquisition systems to drive investment decisions. (2014--present)
+I developing large-scale data acquisition systems to drive
+investment decisions (2014).
 
-I am integrating my spreadsheet search tools into
-the [Pediacities](http://nyc.pediacities.com/) data encyclopedia
-for [Ontodia](http://www.ontodia.com/). (2014--present)
+### Fraud detection
+I built a system for detecting suspicious behaviors in procurement
+processes for the Integrity Vice Presidency of the
+[World Bank]() (2014).
 
-I am advising [Enigma](http://enigma.io/), a data provider,
-on data architecture and on
-methods for linking and searching thousands of datasets. (2014--present)
+### Searching across spreadsheets
+I studied patterns in the publishing of disparate spreadsheets and developed
+some tools to assist in searching across many different spreadsheets (2013--2014).
+[This video](https://www.youtube.com/watch?v=i10Fj0bZIis) summarizes my
+conclusions decently.
 
-As part of [csv soundsystem](http://csvsoundsystem.com),
-I did engineering and product management on [treasury.io](http://treasury.io). (2013)
+Relatedly, but separately, I developed specialized data search tools for
+[Ontodia](http://www.ontodia.com/)'s
+[Pediacities](http://nyc.pediacities.com/) data encyclopedia (2014).
 
+### Software engineering
 I did early data engineering on the [DataPad](http://datapad.io)
 data analysis product. (2013)
 
+I worked with [ScraperWiki](https://scraperwiki.com) to
+designed and build specialized data processing systems.
+I also taught courses on the cleaning and analysis of data. (2012)
+
+### Data management
 I developed and continue to maintain a system for gathering and refining data
 to assist the environmental advocacy efforts of the
 [Gulf Restoration Network](https://healthygulf.org/). (2012--present)
 
-I developed the curriculum for [Zipfian Academy](http://zipfianacademy.com)
-and taught the first class of students. (2013)
+### Data collection
+As part of [csv soundsystem](http://csvsoundsystem.com),
+I did engineering and product management on [treasury.io](http://treasury.io). (2013)
 
 I collected data about the locations of finance institutions to assist the
 [Microfinance Information Exchange](http://mixmarket.org) with
@@ -61,9 +72,9 @@ I collected data about the locations of finance institutions to assist the
 <!-- They use these data to understand who has access to financial products
 in order that people make more informed investment decisions regarding microfinance. -->
 
-I worked with [ScraperWiki](https://scraperwiki.com) to
-designed and build specialized data processing systems.
-I also taught courses on the cleaning and analysis of data. (2012)
+### Teaching
+I developed the curriculum for [Zipfian Academy](http://zipfianacademy.com)
+and taught the first class of students. (2013)
 
 ## Invited talks
 * August 31, 2012. Web Scraping. [Hacks/Hackers Buenos Aires Media Party 2012](http://www.mediaparty.info/).
@@ -122,6 +133,7 @@ Here are some audiences for which I've given it.
 * News Hack Day SF
 * ScraperWiki Data Camp New York
 * ScraperWiki Data Camp DC
+* Hacks/Hackers DC
 
 ## Invited and reviewed articles
 * csv soundsystem (2013). [Introducing treasury.io](https://source.opennews.org/en-US/articles/introducing-treasuryio/). OpenNews Source Blog.
@@ -177,3 +189,9 @@ I've written quite a lot of software. Here are some free software projects that 
 
 * Tal Gluck and Thomas Levine (2011). Desk Height and Other Ergonomic Delights. Mann Library, Cornell University.
 * Thomas Levine (2013). OpenPrism. [PRISM Break-up](http://prismbreakup.org/#/exhibition). Eyebeam.
+
+## Professional service
+I have reviewed submissions to
+
+* csv conf
+* Ergonomics
