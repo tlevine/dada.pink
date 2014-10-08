@@ -1,0 +1,24 @@
+[[!meta title="My to-do list"]]
+[[!meta description="How I keep track of things to do"]]
+
+Rather than keeping track of all of the things you want to do,
+I remove things from my to-do list before my do them; this way,
+I don't have to do them!
+
+## Deconstructing
+Well I still do some of the things, but only if they're short
+and easy. Or I break bigger things into smaller things, remove
+most of the smaller things, and then do one or two of the
+smaller things. And then I sleep.
+
+## Software
+I store these things-to-do in a
+[file](http://small.dada.pink/schedule/to-do.pal)
+in a [git](http://git-scm.com) repository,
+and I edit the file with
+[pal](http://palcal.sourceforge.net/).
+When I don't want to do things, I delete them! Or I move them
+to the
+"[postponed](http://small.dada.pink/schedule/postponed.pal)"
+file if I feel attached to them. Either way, they're saved in
+the git history, so I can always find them if I really want.
