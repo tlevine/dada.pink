@@ -126,9 +126,9 @@ I also taught short courses on the cleaning and analysis of data. (2012)
 * April 3, 2014. Advanced web scraping. Hacks/Hackers DC.
 * July 3, 2014. Sheetmusic: Making music from spreadsheets.
     [European Spreadsheet Risks Interest Group 15th Annual Conference](http://www.eusprig.org/annual-conference.htm).
-* August 2014. Data visualization needs to die. Hacks/Hackers Berlin.
-* September 23, 2014. R for people who already know something about programming. Data Rave.
-* October 2014 (tentative). Title to be determined. Free Software Kosovo.
+* August 14, 2014. Data visualization needs to die. [Hacks/Hackers Berlin](http://www.meetup.com/Hacks-Hackers-Berlin/events/199099472/). ([slides](http://small.dada.pink/gastronomification-big-data-talk/hacks-hackers-berlin-2014-08/data-visualization-needs-to-die.pdf))
+* September 23, 2014. [R for people who already know something about programming](http://www.meetup.com/Data-Rave/events/207607242/). [Data Rave](http://www.meetup.com/). ([notes](http://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming))
+* October 2014. How I parse PDF files. [Free Software Kosovo](http://sfk.flossk.org/sfk14/).
 
 ## Short courses on web scraping
 I often give short courses on collecting data on the internet.
@@ -160,7 +160,7 @@ Here are some audiences for which I've given it.
 ## Other notable articles
 These are articles on my own website that many people have read and cited.
 
-* Thomas Levine (2014). [Web sites to data tables, in depth]()
+* Thomas Levine (2014). [Web sites to data tables, in depth](http://thomaslevine.com/!/web-sites-to-data-tables-in-depth/)
 * Thomas Levine (2013). [How I parse PDF files](http://thomaslevine.com/!/parsing-pdfs).
 * Thomas Levine (2013). [R Spells for Data wizards](http://thomaslevine.com/!/r-spells-for-data-wizards).
 * Thomas Levine (2013). [Socrata summary](http://thomaslevine.com/!/socrata-summary).
@@ -172,7 +172,7 @@ These are articles on my own website that many people have read and cited.
 ## Notable software
 I've written quite a lot of software. Here are some free software projects that a lot of people seem to use.
 
-* [OpenPrism](http://openprism.thomaslevine.com) has become the defacto standard site for searching for United States government data.
+* [OpenPrism](http://openprism.thomaslevine.com) is a popular site for searching for United States government data.
 * [DumpTruck](https://github.com/scraperwiki/dumptruck) is a light, Python-style interface to SQLite3.
 * [Urchin](https://github.com/scraperwiki/urchin) is a test framework for shell.
 * My website's [source code](https://github.com/tlevine/www.thomaslevine.com)
@@ -200,5 +200,5 @@ I've written quite a lot of software. Here are some free software projects that 
 ## Professional service
 I have reviewed submissions to
 
-* csv conf
-* Ergonomics
+* [csv conf](http://csvconf.com/)
+* [Ergonomics](http://www.tandfonline.com/loi/terg20)
