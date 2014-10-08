@@ -9,10 +9,23 @@ I don't have to do them!
 Well I still do some of the things, but only if they're short
 and easy. Or I break bigger things into smaller things, remove
 most of the smaller things, and then do one or two of the
-smaller things. And then I sleep.
+smaller things. And then I [sleep](/!/sleeping/).
 
 ## Software
-I store these things-to-do in a
+All of the fancy project management, issue tracking, to-do list,
+&c. softwares that I've used is really slow, confusing, and,
+generally, annoying. This includes
+[Asana](https://asana.com),
+[Trello](http://trello.com),
+[GitHub](https://github.com),
+[Bugs Everywhere](http://www.bugseverywhere.org/),
+[Google Calendar](https://www.google.com/calendar/).
+Moreover, they don't seem to do much for me.
+
+[Kanban boards](https://en.wikipedia.org/wiki/Kanban_board) are
+okay, but it's annoying to carry them around.
+
+So I store these things-to-do in a
 [file](http://small.dada.pink/schedule/to-do.pal)
 in a [git](http://git-scm.com) repository,
 and I edit the file with
