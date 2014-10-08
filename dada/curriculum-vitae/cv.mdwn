@@ -170,12 +170,13 @@ These are articles on my own website that many people have read and cited.
 * Thomas Levine (2011). [Unsanitary conditions in the Risley Hall bathrooms](http://thomaslevine.com/!/risley-toilets/).
 
 ## Notable software
-I've written quite a lot of software. Here are some free software projects that a lot of people seem to use.
+I've written quite a lot of software. Here are some free software projects that I have contributed to and a lot of people seem to use.
 
 * [OpenPrism](http://openprism.thomaslevine.com) is a popular site for searching for United States government data.
+* [Cubes](https://github.com/DataBrewery/cubes) is an OLAP framework.
 * [DumpTruck](https://github.com/scraperwiki/dumptruck) is a light, Python-style interface to SQLite3.
 * [Urchin](https://github.com/scraperwiki/urchin) is a test framework for shell.
-* My website's [source code](https://github.com/tlevine/www.thomaslevine.com)
+* My website's [old source code](https://github.com/tlevine/www.thomaslevine.com)
     is quite popular.
 * [special_snowflake](https://pypi.python.org/pypi/special_snowflake)
     detects unique keys in spreadsheets.
