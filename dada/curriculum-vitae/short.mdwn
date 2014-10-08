@@ -30,7 +30,7 @@ consultant, helping organizations take advantage of data. My services include
 * Training around data science tools and concepts
 
 I typically start with questions from clients, translate those questions into
-math, and obtain the empirical data that the model requires.
+mathematical models, and obtain the empirical data that the models require.
 
 ### Data for investing
 For [Vy Capital](http://vycapital.com/), a venture capital firm,
