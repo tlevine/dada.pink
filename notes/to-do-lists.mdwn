@@ -1,7 +1,7 @@
 [[!meta title="My to-do list"]]
 [[!meta description="How I keep track of things to do"]]
 
-Rather than keeping track of all of the things you want to do,
+Rather than keeping track of all of the things I want to do,
 I remove things from my to-do list before my do them; this way,
 I don't have to do them!
 
