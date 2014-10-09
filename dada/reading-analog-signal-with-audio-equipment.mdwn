@@ -1,0 +1,8 @@
+
+Which of the three XLR pins do I connect? That is, do I use the negative
+polarity wire and the positive polarity wire or the negative polarity wire
+and the shield? I determined that I should use the latter combination based
+on the possibility of [phantom power](https://en.wikipedia.org/wiki/Phantom_power);
+if I used the shield, a rather strong potential difference would exist, and
+something would probably break.
+
