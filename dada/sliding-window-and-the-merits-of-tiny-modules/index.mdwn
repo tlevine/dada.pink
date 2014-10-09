@@ -51,3 +51,7 @@ own stuff works by reading ordinary Python documentation.
 1. [sliding_window](https://pypi.python.org/pypi/sliding_window) exists.
 2. Write tiny modules.
 3. If they're Python modules, publish them to PyPI.
+
+## Slides
+For my lightning talk on this matter, see the above notes formatted
+[as slides](slides).
