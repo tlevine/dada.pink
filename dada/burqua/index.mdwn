@@ -4,7 +4,7 @@
 
 I wear a burqua to drag parties.
 
-<!-- Insert image here. -->
+![Tom wearing a burqua](tom.jpg)
 
 This is hilarious for a few relatively superficial reasons.
 
