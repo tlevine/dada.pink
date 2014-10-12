@@ -18,8 +18,9 @@ Design & Environmental Analysis (Concentration in Human Factors & Ergonomics)
 * National Science Graduate Research Fellowship Program honorable mention
 
 ## Data science consulting (May 2011 to present)
-I help organizations take advantage of data. My services include
+I help organizations take advantage of data.
 
+### Services
 * Data strategy and architecture
 * Visualization of data
 * Connecting disparate datasets of inconsistent data formats,
@@ -27,13 +28,15 @@ I help organizations take advantage of data. My services include
 * Development of end-user data analysis tools
 * Training on data science and software engineering
 
+### Technology
 I use a wide range of technologies as appropriate.
 I am *quite good* with GNU/Linux system administration,
 web development, relational databases, NoSQL databases,
 dynamic programming languages, data analysis software, &c.
 I have particularly *deep expertise* in R, Python, and Shell.
 
-Here are the larger projects.
+### Projects
+Here are the larger projects I've done.
 
 **Fraud detection**.
 [World Bank](http://worldbank.org/).
