@@ -10,26 +10,29 @@ thomaslevine.com<br/>
 <!-- +1 914 574 1328 -->
 
 ## Education
-Cornell University, Bachelor's of Science (May 2011)<br>
-Design & Environmental Analysis<br>
-Concentration in Human Factors & Ergonomics<br>
-GPA 3.5<br>
-Hunter R. Rawlings III Presidential Research Scholar
+Cornell University, Bachelor's of Science (May 2011) in Design & Environmental Analysis (Concentration in Human Factors & Ergonomics), GPA 3.5
 
 ## Awards
+* Hunter R. Rawlings III Cornell Presidential Research Scholar
 * National Science Graduate Research Fellowship Program honorable mention
 
-## Consulting work (May 2011 to present)
-helping organizations take advantage of data. My services include
+## Data science consulting (May 2011 to present)
+I help organizations take advantage of data. My services include
 
-* Data strategy, architecture
-* Converting data formats (that is, extract, transform, load)
-* Connecting disparate datasets
-* Presenting data for normal people (through websites, visuals, [music, and food](/sensing-data))
-* Training around data science tools and concepts
+* Data strategy and architecture
+* Visualization of data
+* Connecting disparate datasets of inconsistent data formats,
+    (that is, data warehousing and extract-transform-load)
+* Development of end-user data analysis tools
+* Training on data science and software engineering
 
-I typically start with questions from clients, translate those questions into
-mathematical models, and obtain the empirical data that the models require.
+I use a wide range of technologies as appropriate.
+I am *quite good* with GNU/Linux system administration,
+web development, relational databases, NoSQL databases,
+dynamic programming languages, data analysis software, &c.
+I have particularly *deep expertise* in R, Python, and Shell.
+
+Here are the larger projects.
 
 **Fraud detection**.
 [World Bank](http://worldbank.org/).
@@ -46,7 +49,7 @@ I developed specialized data search tools for Ontodia's
 **Venture capital**.
 [Vy Capital](http://vycapital.com/)
 (Menlo Park, CA, USA, all remote; February 2014 to April 2014, half-time)
-I developing large-scale data acquisition systems to drive
+I developed large-scale data acquisition systems to drive
 investment decisions.
 
 <!--
@@ -58,18 +61,18 @@ investment decisions.
 
 **Teaching**.
 [Zipfian Academy](http://zipfianacademy.com).
-(San Francisco, CA, USA, on-site; August 2013 to November 2013, three to four days per week).
-I developed the data science curriculum and taught the first class of students.
+(San Francisco, CA, USA, on-site; August 2013 to November 2013, three to four days per week)
+I designed the data science curriculum and taught the first class of students.
 
 **Microfinance investments**.
 [Microfinance Information Exchange](http://mixmarket.org).
-(Washington, DC, USA, all remote; February 2012 to May 2012, one day per week.)
+(Washington, DC, USA, all remote; February 2012 to May 2012, one day per week)
 I collected data to be used in an
 [analysis](http://www.themix.org/publications/mix-microfinance-world/2012/05/mapping-financial-sector-south-africa)
 of microfinance investment opportunities in South Africa.
 
 **Software engineering**.
 [ScraperWiki](https://scraperwiki.com).
-(Liverpool, UK, three-fourths remote; January 2012 to November 2012, four to five days per week.)
+(Liverpool, UK, three-fourths remote; January 2012 to November 2012, four to five days per week)
 I worked on a new data processing
 infrastructure and build specialized data processing systems

@@ -2,10 +2,17 @@
 
 ## Research interests
 **Sharing of datasets**.
-I studied patterns in the publishing of disparate spreadsheets and developed
+I am interested in patterns in the publishing of disparate spreadsheets and developed
 some tools to assist in searching across many different spreadsheets (2013--2014).
 [This video](https://www.youtube.com/watch?v=i10Fj0bZIis) summarizes my
 conclusions decently.
+
+**Presenting data for normal people**.
+I take interest in the how the presentation of quantitative data relateds
+to people's understanding of the data. I believe that
+[data visualization needs to die](http://small.dada.pink/gastronomification-big-data-talk/hacks-hackers-berlin-2014-08/data-visualization-needs-to-die.pdf),
+and I have been exploring multi-sensory
+media for presenting data, such as [music, and food](/sensing-data).
 
 ## Invited talks
 * August 31, 2012. Web Scraping. [Hacks/Hackers Buenos Aires Media Party 2012](http://www.mediaparty.info/).
