@@ -1,5 +1,12 @@
 [[!inline pages="dada/curriculum-vitae/short" raw="yes"]]
 
+## Research interests
+**Sharing of datasets**.
+I studied patterns in the publishing of disparate spreadsheets and developed
+some tools to assist in searching across many different spreadsheets (2013--2014).
+[This video](https://www.youtube.com/watch?v=i10Fj0bZIis) summarizes my
+conclusions decently.
+
 ## Invited talks
 * August 31, 2012. Web Scraping. [Hacks/Hackers Buenos Aires Media Party 2012](http://www.mediaparty.info/).
 * October 2, 2012. Cleaning Gritty Data to tell a story in the News Room or the Board Room.
@@ -117,6 +124,19 @@ I've written quite a lot of software. Here are some free software projects that 
 
 * Tal Gluck and Thomas Levine (2011). Desk Height and Other Ergonomic Delights. Mann Library, Cornell University.
 * Thomas Levine (2013). OpenPrism. [PRISM Break-up](http://prismbreakup.org/#/exhibition). Eyebeam.
+
+## Volunteer work and other collaborations
+**Data collection**
+(February 2013 to December 2013, two days per month)
+As part of [csv soundsystem](http://csvsoundsystem.com),
+I did engineering and product management on [treasury.io](http://treasury.io)
+
+**Wetlands**.
+(May 2012 to present, one day per month)
+I assist [Gulf Restoration Network](https://healthygulf.org/)'s
+environmental advocacy efforts by developing and maintaining an
+end-user system for gathering, refining, and integrating data on
+wetlands in Louisiana.
 
 ## Professional service
 I have reviewed submissions to

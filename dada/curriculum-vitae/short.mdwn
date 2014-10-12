@@ -19,9 +19,8 @@ Hunter R. Rawlings III Presidential Research Scholar
 ## Awards
 * National Science Graduate Research Fellowship Program honorable mention
 
-## Consulting work
-Since graduating from university (May 2011), I have worked as a data science
-consultant, helping organizations take advantage of data. My services include
+## Consulting work (May 2011 to present)
+helping organizations take advantage of data. My services include
 
 * Data strategy, architecture
 * Converting data formats (that is, extract, transform, load)
@@ -32,50 +31,45 @@ consultant, helping organizations take advantage of data. My services include
 I typically start with questions from clients, translate those questions into
 mathematical models, and obtain the empirical data that the models require.
 
-### Data for investing
-For [Vy Capital](http://vycapital.com/), a venture capital firm,
-I developing large-scale data acquisition systems to drive
-investment decisions (2014).
-
-### Fraud detection
+**Fraud detection**.
+[World Bank](http://worldbank.org/).
+(Washington, DC, USA, mostly remote; May 2014 to June 2014, half-time)
 I built a system for detecting suspicious behaviors in procurement
-processes for the Integrity Vice Presidency of the
-[World Bank](http://worldbank.org/) (2014).
+processes to be used by the Integrity Vice Presidency of the bank.
 
-### Searching across spreadsheets
-I studied patterns in the publishing of disparate spreadsheets and developed
-some tools to assist in searching across many different spreadsheets (2013--2014).
-[This video](https://www.youtube.com/watch?v=i10Fj0bZIis) summarizes my
-conclusions decently.
+**Searching spreadsheets**.
+[Ontodia](http://www.ontodia.com/).
+(New York, NY, USA, on site; May 2014 to August 2013, half-time)
+I developed specialized data search tools for Ontodia's
+[Pediacities](http://nyc.pediacities.com/) data encyclopedia.
 
-Relatedly, but separately, I developed specialized data search tools for
-[Ontodia](http://www.ontodia.com/)'s
-[Pediacities](http://nyc.pediacities.com/) data encyclopedia (2014).
+**Venture capital**.
+[Vy Capital](http://vycapital.com/)
+(Menlo Park, CA, USA, all remote; February 2014 to April 2014, half-time)
+I developing large-scale data acquisition systems to drive
+investment decisions.
 
-### Software engineering
-I worked on [DataPad](http://datapad.io)'s data analysis product (2013).
+<!--
+**Data analysis software**.
+[DataPad](http://datapad.io)
+(May 2013 to June 2013; San Francisco,
+ data analysis product
+-->
 
-I worked on [ScraperWiki](https://scraperwiki.com) data processing
-infrastructure and build specialized data processing systems (2012).
+**Teaching**.
+[Zipfian Academy](http://zipfianacademy.com).
+(San Francisco, CA, USA, on-site; August 2013 to November 2013, three to four days per week).
+I developed the data science curriculum and taught the first class of students.
 
-### Data management
-I developed and continue to maintain a system for gathering and refining data
-to assist the environmental advocacy efforts of the
-[Gulf Restoration Network](https://healthygulf.org/) (2012--present).
+**Microfinance investments**.
+[Microfinance Information Exchange](http://mixmarket.org).
+(Washington, DC, USA, all remote; February 2012 to May 2012, one day per week.)
+I collected data to be used in an
+[analysis](http://www.themix.org/publications/mix-microfinance-world/2012/05/mapping-financial-sector-south-africa)
+of microfinance investment opportunities in South Africa.
 
-### Data collection
-As part of [csv soundsystem](http://csvsoundsystem.com),
-I did engineering and product management on [treasury.io](http://treasury.io) (2013).
-
-I collected data about the locations of finance institutions to assist the
-[Microfinance Information Exchange](http://mixmarket.org) with
-[mapping the financial sector](http://www.themix.org/publications/mix-microfinance-world/2012/05/mapping-financial-sector-south-africa) (2012).
-<!-- They use these data to understand who has access to financial products
-in order that people make more informed investment decisions regarding microfinance. -->
-
-### Teaching
-I developed the curriculum for [Zipfian Academy](http://zipfianacademy.com)
-and taught the first class of students (2013).
-
-For [ScraperWiki](https://scraperwiki.com),
-I also taught short courses on the cleaning and analysis of data. (2012)
+**Software engineering**.
+[ScraperWiki](https://scraperwiki.com).
+(Liverpool, UK, three-fourths remote; January 2012 to November 2012, four to five days per week.)
+I worked on a new data processing
+infrastructure and build specialized data processing systems
