@@ -1,9 +1,9 @@
-*These are materials for [my talk at SEMS](http://spreadsheetlab.org/2014/04/10/sems-accepted-papers-published/). Blockquotes, code blocks, and images will be slides projected for everyone to see, and everything else is things that I'll say. Build the slides with `make slides.html`.*
+[[!meta title="Sheetmusic"]]
+[[!meta description="Making music from spreadsheets"]]
+[Sheetmusic](http://pypi.python.org/pypi/sheetmusic) is
+a package for composing music inside of spreadsheets.
 
-> Sheetmusic
-> ==============
-
-My colleagues and I have been making music from spreadsheets for some time.
+## Making music from data tables
 The basic idea is to think of music as data tables. So let's start by talking
 about data tables.
 
@@ -23,6 +23,7 @@ For example, each row in this table is a country.
 Columns correspond to attributes about each thing.
 You might also call them "variables", "fields", "properties", or "dimensions".
 
+## Spreadsheets as musical scores
 We can use data tables to represent musical scores.
 
 ![spreadsheet versus ordinary sheet music](sheetmusic-side-by-side.png)
@@ -46,254 +47,28 @@ represented with bars. That's also how I do it in my spreadsheet.
 
 And that sheet music you saw was actually generated inside the spreadsheet.
 
-> I like tables.
-> ==============
-
+## Spreadsheets as instruments
 As I said before, I like tables.
 I just showed you how we can think of music as a representation
 of the data in a spreadsheet.
 
 ![synthesizer functions](synthesizer-functions.png)
 
-But spreadsheets are also code, so
+But **spreadsheets are also code**, so
 let's also think about musical functions as spreadsheet functions.
 
-For example, sheetmusic provides a "third_interval" function for making
+For example, sheetmusic provides a `third_interval` function for making
 a third interval in a particular key. Here are some other functions.
 
-> * `ionian_scale(<note>)`
-> * `chord_progression(<the progression>, <base note>)`
-> * `dominant7_chord(<note>)`
-> * `dominant7_arpeggio(<note>)`
+* `ionian_scale(<note>)`
+* `chord_progression(<the progression>, <base note>)`
+* `dominant7_chord(<note>)`
+* `dominant7_arpeggio(<note>)`
 
 For example, if I type "=ionian_scale('C4')", I'll get an Ionian scale
 starting at middle C.
 
-> <br/>
-> <br/>
-> Live demonstrations
-> ==========================
-> <br/>
-> <br/>
-> <br/>
-
-That will, of course, make more sense when I show it to you.
-I'm going to walk you through some cheesy pop music I wrote last week.
-
+## Implementation
 Sheetmusic is implemented as a bunch of custom functions for
-the Gnumeric spreadsheet. You'll notice that Gnumeric is quite
-buggy and that the plugin system leaves much to be desired.
-
-...
-
-As you see, spreadsheets are a reasonable way of representing music.
-Let's talk about some other data analysis tools.
-
-> Some data analysis tools
-> ----------------------------
-> <dl>
-> <dt><strong>Spreadsheets</strong></dt><dd>Gnumeric, Excel, LibreOffice Calc</dd>
-> <dt><strong>Data frames, linear algebra</strong></dt><dd>R, Matlab, pandas, numpy, Julia</dd>
-> <dt><strong>Relational databases</strong></dt><dd>PostgreSQL, SQL Server, MySQL, SQLite</dd>
-> <dt><strong>Dunno how to categorize</strong></dt><dd>SPSS, SAS, Stata, Minitab, ...</dd>
-> </dl>
-
-People usually think of these tools as specialized data analysis software,
-as if they couldn't do anything else.
-
-These tools are often used for data analysis,
-but they really are generalized application programming languages.
-
-<!-- [![A picture of csvsoundsystem]()](http://csvsoundsystem.com) -->
-
-My colleagues at csv soundsystem and I have written music synthesizers
-for several data analysis programs.
-
-> Music synthesizers for data analysis programs
->
-> <dl>
-> <dt><strong>Gnumeric</strong></dt><dd>sheetmusic</dd>
-> <dt><strong>R</strong></dt><dd>ddr</dd>
-> <dt><strong>Pandas</strong></dt><dd>ddpy</dd>
-> <dt>Next stop</dt><dd><strong>PostgreSQL</strong>?</dd>
-> </dl>
-
-I just showed you sheetmusic, which is for Gnumeric.
-We alse have one for R called data-driven rhythms (ddr),
-and one for pandas called ddpy.
-
-We started writing these tools to assist in our production
-of data-driven music videos.
-
-Our first music video was the FMS Symphony.
-
-[![FMS Symphony](fms.png)](http://fms.csvsoundsystem.com)
-
-(It's also on [YouTube](http://www.youtube.com/watch?v=j1PAuOXJ5uU).)
-
-It's about the finances of the United States government.
-There are two high instruments. The more noticable one is the
-interest rate on United States Treasury bonds. The less noticable
-one is the distance to the debt ceiling (the amount of debt that
-the United States is allowed to have). The flourishes are related
-to the change in the balance of the treasury, based on these
-files that we download from the Treasury website every day (click).
-
-My favorite part is the financial crisis (click).
-
-Okay, enough of that, you can watch the rest of it later.
-
-[![](fms-r-1.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
-
-The fun part is that we wrote it in R.
-
-The basic paradigm is to represent musical scores in data structures that
-are designed for storing data tables.
-
-    library(ddr)
-    ddr_init()
-
-    chicks <- arpeggidata(sqrt(ChickWeight$weight),
-                          blip,
-                          scale="Emajor",
-                          bpm=200,
-                          count=1/32)
-    play(chicks)
-
-In R, this is the `data.frame`, which is composed of vectors.
-Here we map the weight of chicks to an E major scale in ddr.
-
-    import pandas
-    from ddpy import to_midi
-
-    data = {'minor':[50, 52, 53, 55, 57, 58, 60, 62]}
-    df = pandas.DataFrame(data)
-    to_midi(df, 'minor_scale.mid')
-
-In pandas (Python), this is the `DataFrame`.
-Here we generate a minor scale in midi with ddpy.
-
-[![](fms-r-3.png)](https://twitter.com/luisdaniel12/status/298941619707731968)
-
-As I keep saying,
-I think about everything as data tables, so I also think about music as
-data tables, to Luis's dismay.
-
-That's nice,
-but it also got me thinking more broadly about
-how we think about data analysis.
-
-> What isn't data analysis?
-> ============================
-
-When we start using data analysis software for other things,
-we also blur the line between data analysis and other things.
-Data analysis seems very magical to many people. When we represent
-data as familiar things like music, the analysis becomes more
-accessible.
-
-![abstract data](iris.png)
-
-Numbers are abstract, theoretical, unnatural things, and a lot
-of people have trouble with them. In contrast, most people can
-grasp the concept of guacamole quite well.
-
-![concrete guacamole](data-guacamole.jpg)
-
-Guacamole is a tasty snack
-that you can see and touch and taste and smell.
-
-It turns out that the guacamole you see here is actually data-driven;
-each bowl of guacamole represents New York City math test scores for
-a different year, and the different ingredients correspond to the
-average scores for students of different years in school. The bowl
-to the right has more guacamole because of grade inflation---scores
-went up across the board. One of the bowls (I don't remember which.)
-is a bit spicier, because school years corresponding to pepper and
-cilantro had relatively high grades that year.
-
-Many
-people don't recognize that we can convert between these abstract
-numbers and this real world.
-I think that big part of understanding all this data
-stuff is understanding how we make these conversions.
-
-<!--
-p = ggplot(iris) + aes(x = Sepal.Width, y = Sepal.Length, color = Species) + geom_point(size = 5)                   
--->
-![](iris-plot.png)
-
-I see food as another way of plotting data.
-Food plots are no more complicated than graphical plots.
-
-The people
-in this room are probably used to representing data with a plot like this.
-This plot
-might look very fancy, but we can decompose it into a bunch of simple
-components.
-
-* Each dot is an iris
-* The distance from the bottom is how long the iris's petal is.
-* The distance from the right is how wide the iris's petal is.
-* The color of the dot is the species of iris.
-
-    ggplot(iris) +
-      aes(x = Sepal.Width, y = Sepal.Length, color = Species) +
-      geom_point(size = 5)
-
-Here's the code that produced that plot.
-
-To use the language of the Grammar of Graphics, we have abstract data
-and concrete elements, and we define aesthetics that provide mappings
-between the abstract data and the concrete elements.
-There's **no** reason that these elements have to be graphical.
-
-    library(geomtaco)
-    ggplot(iris) +
-      aes(meat = Species, salsa = Sepal.Length) +
-      geom_taco()
-
-To convert
-data into music or food, we just need to come up with parametrized
-musical or gastronomical elements. In this line of code, we use the geom\_taco
-library to produce data-driven taco recipes with ggplot2.
-
-> Summary
-> ========
-
-In case you fell asleep, let me remind you of everything I just said.
-
-> 1. Data tables are a thing.
-> ------------------------------
-> * Data collection: world -> tables.
-> * Data analysis: tables -> world
-
-I like data tables.
-
-* We can represent lots of things as tidy data tables.
-* We convert abstract data tables into concrete things in order to make sense of them.
-
-When people have trouble understanding data in general, I think it's because
-they don't understand these conversion steps.
-
-> 2. Data analysis tools are not just data analysis tools
-> -------------------------------------------------------------
-
-Spreadsheets, SAS, and R are all real programming languages.
-We can do a lot more
-with these tools than we sometimes realize.
-
-> 3. Plots don't need to be graphical!
-> -----------------------------------
-> * Music (sound)
-> * Food (vision, sound, taste, smell, touch)
-> * Go crazy! Ant colonies, subways, and playgrounds could all be plots.
-
-Like making non-graphical plots!
-I've shown how you can
-use music and food as plotting devices, and that's just the beginning.
-
-## See also
-
-* [Erich Neuwirth](https://en.wikipedia.org/wiki/Erich_Neuwirth)
-* [Datenschau 008 Musik](http://www.kuechenstud.io/datenschau/podcast/ds008/)
+the Gnumeric spreadsheet.
+I don't exactly recommend doing this; Gnumeric is quite buggy and that the plugin system leaves much to be desired.
