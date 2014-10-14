@@ -1,8 +1,9 @@
 [[!tag learn]]
+[[!meta title="Netwaves"]]
+[[!meta description=""]]
+This came out of the Bits and Sound workshop at Relearn.
 
-## Bits and Sound
-
-### File formats
+## File formats
 We can think of sound as series of air pressures; a wave (WAV) file
 is sort of like a series of numerirc air pressure values.
 
@@ -15,7 +16,7 @@ a frame of audio. In a binary PPM file, each byte is the intensity
 value for a particular color (red, green or blue) within a particular
 pixel of the image.
 
-### Color versus oscillation
+## Color versus oscillation
 I ran [this](http://small.dada.pink/netwaves/drums.py) to
 produce a [file](http://small.dada.pink/netwaves/drums.ppm)
 that looks like this when interpreted as ppm
@@ -34,7 +35,7 @@ same series of pixels is viewed as a solid color. The file above sounds
 like a series of beeps, and the changes in visual color aren't really
 noticable when the file is played as audio.
 
-### Merging image and sound
+## Merging image and sound
 Having noticed the above, I realized that it wouldn't be hard to make
 a single file that acts both as arbitrary PPM and arbitrary wave.
 I [combined](http://small.dada.pink/netwaves/join.py) the
@@ -46,8 +47,3 @@ I [combined](http://small.dada.pink/netwaves/join.py) the
 I converted the song to 8-bit 8000hz wave and treated it as
 
 The result sounds rather close
-### Writing image files
-
-### Spreadsheets
-
-## (Un)perfect circle
