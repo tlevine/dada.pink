@@ -1,17 +1,22 @@
 [[!inline pages="dada/curriculum-vitae/short" raw="yes"]]
 
 ## Selected talks
-* September 23, 2014. [R for people who already know something about programming](http://www.meetup.com/Data-Rave/events/207607242/). [Data Rave](http://www.meetup.com/). ([notes](http://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming))
+* September 23, 2014.
+    [R for people who already know something about programming](http://www.meetup.com/Data-Rave/events/207607242/).
+    [Data Rave](http://www.meetup.com/).
+    <span class="webonly">([notes](http://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming))</span>
 * July 3, 2014. Sheetmusic: Making music from spreadsheets.
     [European Spreadsheet Risks Interest Group 15th Annual Conference](http://www.eusprig.org/annual-conference.htm).
-* March 20, 2014. Statistics with Doodles. [NYC Machine Learning](http://www.meetup.com/NYC-Machine-Learning/events/170546362/).
-    [slides and materials](http://thomaslevine.com/!/statistics-with-doodles-2014-03).
+* March 20, 2014. Statistics with Doodles.
+    [NYC Machine Learning](http://www.meetup.com/NYC-Machine-Learning/events/170546362/).
+    <span class="webonly">([slides and materials](http://thomaslevine.com/!/statistics-with-doodles-2014-03))</span>
 * February 12, 2014. Data music videos and data gastronomification for big data analysis.
     [Strata 2014](http://strataconf.com/strata2014/).
-    [slides](http://cdn.oreillystatic.com/en/assets/1/event/105/Music%20Videos%20and%20Gastronomification%20for%20Big%20Data%20Analysis%20Presentation.pdf)
-    and [video](http://mediaservice.mirror-image.com/videos/7c2ae7a293147/assets/7938403/file.mp4).
+    <span class="webonly">([slides](http://cdn.oreillystatic.com/en/assets/1/event/105/Music%20Videos%20and%20Gastronomification%20for%20Big%20Data%20Analysis%20Presentation.pdf)
+    and [video](http://mediaservice.mirror-image.com/videos/7c2ae7a293147/assets/7938403/file.mp4))</span>
 * April 9, 2013. Music Videos in R.
-    [New York Open Statistical Programming Meetup.](http://www.meetup.com/nyhackr/events/111193682/)
+    [New York Open Statistical Programming Meetup](http://www.meetup.com/nyhackr/events/111193682/).
+    <span class="webonly">([video](http://www.livestream.com/knerd/video?clipId=pla_a5d59285-9399-47dc-aaef-2b9a77142d5e))</span>
 
 ## Selected articles
 * Thomas Levine (2014). [Web sites to data tables, in depth](http://thomaslevine.com/!/web-sites-to-data-tables-in-depth/)
