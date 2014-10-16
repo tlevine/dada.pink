@@ -1,5 +1,5 @@
 [[!meta title="Thomas Levine"]]
-[[!meta description="Curriculum vitae"]]
+[[!meta description="Curriculum vitae (short version)"]]
 <style>
 @media print {
   .pageheader > .header { display: none; }

@@ -1,3 +1,5 @@
+[[!meta title="Thomas Levine"]]
+[[!meta description="Curriculum vitae (medium-length version)"]]
 [[!inline pages="dada/curriculum-vitae/short" raw="yes"]]
 
 ## Selected talks
