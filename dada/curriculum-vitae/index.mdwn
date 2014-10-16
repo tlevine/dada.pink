@@ -14,7 +14,9 @@ to play the real-world game. In case you would like to print this out,
 choose from the following.
 
 1. [Short version](short)
-2. [Long version](long)
+2. [Medium version](medium)
+3. [Long version](long)
+4. [Press](press)
 
 [[!inline pages="dada/curriculum-vitae/long" raw="yes"]]
 
