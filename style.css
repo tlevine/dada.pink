@@ -575,10 +575,6 @@ a:hover {
   max-height: 880px;
 }
 
-@media print {
-  .pageheader, .pagefooter { display: none; }
-  .webonly { display: none; }
-}
 .w300 { width: 300px;}
 h1, h2, h3, h4, h5, h6 {
   font: bold 100% sans-serif;
@@ -594,4 +590,9 @@ blockquote, pre { margin-left: 1.5em; }
 .pagefooter {
     border-top: 1px solid #fe57a1;
     margin-top: 2em;
+}
+@media print {
+  .pageheader, .pagefooter { display: none; }
+  .webonly { display: none; }
+  a, p, h1, h2, h3, h4, h5 { color: black; }
 }
