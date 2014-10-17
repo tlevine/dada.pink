@@ -48,7 +48,7 @@ processes to be used by the Integrity Vice Presidency of the bank.
 
 **Searching spreadsheets**.
 [Ontodia](http://www.ontodia.com/).
-(New York, NY, USA, on site; May 2014 to August 2013, half-time)
+(New York, NY, USA, on site; May 2014 to August 2014, half-time)
 I developed specialized data search tools for Ontodia's
 [Pediacities](http://nyc.pediacities.com/) data encyclopedia.
 
