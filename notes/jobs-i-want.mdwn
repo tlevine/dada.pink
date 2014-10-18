@@ -1,13 +1,15 @@
-I think most of my preferences regarding work relate to me
-wanting to [retire]().
+I think most of my particular preferences regarding work
+can be explained by a particularly strong preference for
+relaxation. I like to say that I want to retire.
 
-When I think of retirement, I'm thinking that I don't work
-or that I don't plan what I work on. (These are different
-phrasings of the same thing.)
+That is, I want not to work or not to plan what I work on;
+these are different ways of saying the same thing.
 
-Here I discuss the preferences that follow from this desire.
+Here I discuss the preferences that follow from this preference.
 
 ## Good pay
+Good pay allows me to retire sooner.
+
 In big cities in the United States, where all of my work has been,
 the lowest salary that I would consider for a full-time job is about
 $160,000. Note that I said "lowest", so I would still be on the
@@ -17,14 +19,13 @@ I would consider lower salaries in other contexts, such as the ones
 described below.
 
 ## Little work
-Because I haven't found much work that pays well enough to excite me,
-you could say that I am semi-retired right now. Even if the pay isn't
+You could say that I am semi-retired right now. Even if the pay isn't
 great, I'll take short-term or part-time work as long as the application
 process isn't very involved.
 
 ## Learning things
 I am getting frustrated with dynamic programming languages and am very
-slowly moving to Haskell. A job that would teach me a functional language
+slowly moving to Haskell; a job that would teach me a functional language
 would appeal to me.
 
 There are very few computer things that I want to learn, so the
@@ -35,12 +36,11 @@ interested in the work.
 I remarked last year that my life was kind of like that of a professor
 in a research position. The stuff that I do for fun could be described
 as things like "research" and "art", so it is possible that a job of this
-sort would appeal to me.
+sort would appeal to me. This sort of job would be like getting paid to
+retire.
 
-That said, I determined a couple years ago that it was easier to do work
-that pays and have time for fun things is than it is to find a job that
-I like doing, so I am skeptical that this is a reasonable sort of job for
-me to look for.
+That said, I find it way easier to do work that pays and then have time
+for fun things.
 
 ## Location
 I would like to be in a smaller city or town.
