@@ -1,5 +1,7 @@
 *Sitzhaltung, Sitzschaden, Sitzmöbel*, by Hanns Schoberth
     On chairs and posture and backs and stuff
+[Global Moves](http://inamerryhour.com/global-moves/), by [Caitlin McDonald](http://inamerryhour.com/)
+    On belly dancing
 `*Quiet* <http://www.thepowerofintroverts.com/>`, by Susan Cain
     On introversion
 How to read a book, by someone Mortimer and someone
