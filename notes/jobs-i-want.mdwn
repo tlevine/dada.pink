@@ -8,12 +8,28 @@ phrasings of the same thing.)
 Here I discuss the preferences that follow from this desire.
 
 ## Good pay
+In big cities in the United States, where all of my work has been,
+the lowest salary that I would consider for a full-time job is about
+$160,000. Note that I said "lowest", so I would still be on the
+fence at this salary.
+
+I would consider lower salaries in other contexts, such as the ones
+described below.
 
 ## Little work
 Because I haven't found much work that pays well enough to excite me,
 you could say that I am semi-retired right now. Even if the pay isn't
 great, I'll take short-term or part-time work as long as the application
 process isn't very involved.
+
+## Learning things
+I am getting frustrated with dynamic programming languages and am very
+slowly moving to Haskell. A job that would teach me a functional language
+would appeal to me.
+
+There are very few computer things that I want to learn, so the
+need to learn a lot about a big new thing would usually make me less
+interested in the work.
 
 ## "Research", "Art", &c.
 I remarked last year that my life was kind of like that of a professor
@@ -27,25 +43,12 @@ I like doing, so I am skeptical that this is a reasonable sort of job for
 me to look for.
 
 ## Location
+I would like to be in a smaller city or town.
 
-Hmm the money might actually be more complicated than I made it sound.
-I think my list of things came out oddly because it is based more on
-the jobs that I have had than the jobs that I haven't.
+I find all large American cities and some other large cities (London,
+for example) to be a bit louder than I like. Smaller cities are cheaper,
+and I like being able to take walks in parks or the woods.
 
-Here's the thing that prompts me to consider real jobs. I have lately
-been thinking that I want a normal job at a big, insular company in a
-place that isn't a big city. I think that I haven't come across this
-because I haven't looked, because that is a lot of work. And I suspect
-people in these companies don't look for people like me because that
-is a lot of work. But recruiters help with that.
-
-In big cities in the United States, where all of my work has been,
-I would start to consider taking a full-time job if it paid at least
-$170,000. It could be less if it has good benefits or if "full time"
-is actually full time rather than overtime.
-
-Smaller cities are appealing
-I could also go for less
-if it is in a smaller
-city. (Smaller cities are cheaper, and I can't take the noise of loud
-cities.)
+Inconveniently, I am afraid of cars (because I have read about how
+dangerous they are), and going without a car is hard in America. Still,
+many American cities and most European cities would be appropriate.
