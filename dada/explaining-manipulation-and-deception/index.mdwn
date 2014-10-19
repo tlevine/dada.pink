@@ -30,7 +30,8 @@ slightly different focus discussed above.
 ## Contents
 
 1. [Identifying manipulation and deception](identify.mdwn)
-2. [Explaining manipulation and deception](explain.mdwn): Ignoring the topic of discussion and instead asking why
+2. [Explaining manipulation and deception](explain.mdwn)
 3. [Three examples](examples.mdwn) of how I identified manipulation and deception and then explained them
-4. [Specific patterns of manipulation and deception that you can watch for]()
-5. [What do do](what-to-do.mdwn) when you think you understand someone
+4. [Specific patterns of manipulation and deception that you can watch for](patterns.mdwn)
+5. [Understanding why people act as they do](understand.mdwn)
+6. [What do do](what-to-do.mdwn) when you think you understand someone
