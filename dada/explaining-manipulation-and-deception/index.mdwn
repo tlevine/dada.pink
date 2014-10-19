@@ -26,3 +26,11 @@ I thought to write this piece after learning from Matt Linares about
 neuro-linguistic programming. I remarked that I pay attention to the
 same sorts of things (without having a name for them) but with the
 slightly different focus discussed above.
+
+## Contents
+
+1. [Identifying manipulation and deception](identify.mdwn)
+2. [Explaining manipulation and deception](explain.mdwn): Ignoring the topic of discussion and instead asking why
+3. [Three examples](examples.mdwn) of how I identified manipulation and deception and then explained them
+4. [Specific patterns of manipulation and deception that you can watch for]()
+5. [What do do](what-to-do.mdwn) when you think you understand someone
