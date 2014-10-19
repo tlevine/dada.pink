@@ -1,13 +1,7 @@
+[[!meta title="On the study of manipulation and deception"]]
+[[!meta description="How I recognize manipulation and deception and then figure out why people are being manipulative and deceptive"]]
 
-
-
-
-
-I thought to write this piece after learning from Matt Linares about
-neuro-linguistic programming. I remarked that I pay attention to the
-same sorts of things (without having a name for them) but with a
-slightly different focus.
-
+## Abstract
 Manipulation and deception are often discussed as involving two groups
 or persons: the person doing the manipulation and the person being
 manipulated. I think of these practices as being more fundamentally
@@ -15,3 +9,20 @@ about the controlling person. That is, when person A is manipulating
 person B, it is really that person A is manipulating himself or herself;
 person A's implicit goal in controlling person B is to validate person
 A's thoughts or feelings.
+
+This piece discusses how [I](/) identify manipulation and deception
+and then figure out why people are being manipulative or deceptive.
+I discuss common patterns from various scenarios.
+
+## Relevance
+This knowledge can help you to understand people (including yourself),
+to recognize mindgames, and to be direct in communication. Moreover,
+I hope that it helps you empathise with people who are being mean,
+stressful, and rude.
+
+## Why I write this
+I am usually quite interested by why anyone acts the way she or he does.
+I thought to write this piece after learning from Matt Linares about
+neuro-linguistic programming. I remarked that I pay attention to the
+same sorts of things (without having a name for them) but with the
+slightly different focus discussed above.
