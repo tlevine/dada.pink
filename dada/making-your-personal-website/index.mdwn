@@ -177,6 +177,11 @@ about making it look pretty.
 If you don't want to use it, you still might take some inspiration
 from some of the decisions I made
 
+*This section was accurate when I wrote it, but I have since switched
+to other software. As of October 19, 2014, I use the
+[Ikiwiki](http://ikiwiki.info/) service [Branchable](http://branchable.com/).)
+Switching from Nanoc to Ikiwiki/Branchable was quite easy.*
+
 #### Static website generator
 My website doesn't have anything where people log in or upload files
 or otherwise send input to the server. Thus, I can serve my website
