@@ -1,1 +1,1 @@
-[[!meta redir="\!"]]
+[[!meta redir="/!"]]
