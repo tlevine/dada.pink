@@ -1,0 +1,1 @@
+[[!map pages="__33__/ecohack3/* and ! __33__/ecohack3/*/*"]]
