@@ -1,1 +1,1 @@
-[[!meta redir="!/nyc-crime-map"]]
+[[!meta redir="http://thomaslevine.com/!/nyc-crime-map"]]

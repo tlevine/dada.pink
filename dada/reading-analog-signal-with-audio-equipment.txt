@@ -1,1 +1,1 @@
-[[!meta redir="!/reading-analog-signal-with-audio-equipment"]]
+[[!meta redir="http://thomaslevine.com/!/reading-analog-signal-with-audio-equipment"]]

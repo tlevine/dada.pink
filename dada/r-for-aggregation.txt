@@ -1,1 +1,1 @@
-[[!meta redir="!/r-for-aggregation"]]
+[[!meta redir="http://thomaslevine.com/!/r-for-aggregation"]]

@@ -1,1 +1,1 @@
-[[!meta redir="!/importxml"]]
+[[!meta redir="http://thomaslevine.com/!/importxml"]]

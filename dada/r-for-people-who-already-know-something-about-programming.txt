@@ -1,1 +1,1 @@
-[[!meta redir="!/r-for-people-who-already-know-something-about-programming"]]
+[[!meta redir="http://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming"]]

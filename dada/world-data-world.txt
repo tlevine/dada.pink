@@ -1,1 +1,1 @@
-[[!meta redir="!/world-data-world"]]
+[[!meta redir="http://thomaslevine.com/!/world-data-world"]]

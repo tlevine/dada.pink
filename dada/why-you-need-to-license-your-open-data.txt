@@ -1,1 +1,1 @@
-[[!meta redir="!/why-you-need-to-license-your-open-data"]]
+[[!meta redir="http://thomaslevine.com/!/why-you-need-to-license-your-open-data"]]

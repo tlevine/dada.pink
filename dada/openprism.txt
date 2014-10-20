@@ -1,1 +1,1 @@
-[[!meta redir="!/openprism"]]
+[[!meta redir="http://thomaslevine.com/!/openprism"]]

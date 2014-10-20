@@ -1,1 +1,1 @@
-[[!meta redir="!/infrastructure"]]
+[[!meta redir="http://thomaslevine.com/!/infrastructure"]]

@@ -1,1 +1,1 @@
-[[!meta redir="!/scp-wrapper"]]
+[[!meta redir="http://thomaslevine.com/!/scp-wrapper"]]

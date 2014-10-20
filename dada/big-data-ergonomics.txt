@@ -1,1 +1,1 @@
-[[!meta redir="!/big-data-ergonomics"]]
+[[!meta redir="http://thomaslevine.com/!/big-data-ergonomics"]]

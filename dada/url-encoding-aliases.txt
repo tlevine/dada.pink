@@ -1,1 +1,1 @@
-[[!meta redir="!/url-encoding-aliases"]]
+[[!meta redir="http://thomaslevine.com/!/url-encoding-aliases"]]

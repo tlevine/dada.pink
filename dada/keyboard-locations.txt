@@ -1,1 +1,1 @@
-[[!meta redir="!/keyboard-locations"]]
+[[!meta redir="http://thomaslevine.com/!/keyboard-locations"]]

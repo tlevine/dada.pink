@@ -1,1 +1,1 @@
-[[!meta redir="!/socrata-users"]]
+[[!meta redir="http://thomaslevine.com/!/socrata-users"]]

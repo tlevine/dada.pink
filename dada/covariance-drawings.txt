@@ -1,1 +1,1 @@
-[[!meta redir="!/covariance-drawings"]]
+[[!meta redir="http://thomaslevine.com/!/covariance-drawings"]]

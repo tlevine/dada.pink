@@ -1,1 +1,1 @@
-[[!meta redir="!/decompilers-in-css"]]
+[[!meta redir="http://thomaslevine.com/!/decompilers-in-css"]]

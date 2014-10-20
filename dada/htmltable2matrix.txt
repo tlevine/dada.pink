@@ -1,1 +1,1 @@
-[[!meta redir="!/htmltable2matrix"]]
+[[!meta redir="http://thomaslevine.com/!/htmltable2matrix"]]

@@ -1,1 +1,1 @@
-[[!meta redir="!/pagerank-for-spreadsheets"]]
+[[!meta redir="http://thomaslevine.com/!/pagerank-for-spreadsheets"]]

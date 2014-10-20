@@ -1,1 +1,1 @@
-[[!meta redir="!/mix-data-scraping"]]
+[[!meta redir="http://thomaslevine.com/!/mix-data-scraping"]]

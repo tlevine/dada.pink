@@ -1,1 +1,1 @@
-[[!meta redir="!/imapfilter"]]
+[[!meta redir="http://thomaslevine.com/!/imapfilter"]]

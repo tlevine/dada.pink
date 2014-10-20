@@ -1,1 +1,1 @@
-[[!meta redir="!/parsing-pdfs"]]
+[[!meta redir="http://thomaslevine.com/!/parsing-pdfs"]]

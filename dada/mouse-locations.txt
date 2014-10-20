@@ -1,1 +1,1 @@
-[[!meta redir="!/mouse-locations"]]
+[[!meta redir="http://thomaslevine.com/!/mouse-locations"]]

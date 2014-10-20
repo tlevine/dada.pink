@@ -1,1 +1,1 @@
-[[!meta redir="!/email-address-validation"]]
+[[!meta redir="http://thomaslevine.com/!/email-address-validation"]]

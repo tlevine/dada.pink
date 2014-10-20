@@ -1,1 +1,1 @@
-[[!meta redir="!/sliding-window-and-the-merits-of-tiny-modules"]]
+[[!meta redir="http://thomaslevine.com/!/sliding-window-and-the-merits-of-tiny-modules"]]

@@ -1,1 +1,1 @@
-[[!meta redir="!/street-sign-protocol"]]
+[[!meta redir="http://thomaslevine.com/!/street-sign-protocol"]]

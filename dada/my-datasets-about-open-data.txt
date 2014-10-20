@@ -1,1 +1,1 @@
-[[!meta redir="!/my-datasets-about-open-data"]]
+[[!meta redir="http://thomaslevine.com/!/my-datasets-about-open-data"]]

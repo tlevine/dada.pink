@@ -1,1 +1,1 @@
-[[!meta redir="!/linked-lists"]]
+[[!meta redir="http://thomaslevine.com/!/linked-lists"]]

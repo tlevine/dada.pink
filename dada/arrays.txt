@@ -1,1 +1,1 @@
-[[!meta redir="!/arrays"]]
+[[!meta redir="http://thomaslevine.com/!/arrays"]]

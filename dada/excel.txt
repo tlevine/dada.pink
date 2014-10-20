@@ -1,1 +1,1 @@
-[[!meta redir="!/excel"]]
+[[!meta redir="http://thomaslevine.com/!/excel"]]

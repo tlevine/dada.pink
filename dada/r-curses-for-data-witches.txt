@@ -1,1 +1,1 @@
-[[!meta redir="!/r-curses-for-data-witches"]]
+[[!meta redir="http://thomaslevine.com/!/r-curses-for-data-witches"]]

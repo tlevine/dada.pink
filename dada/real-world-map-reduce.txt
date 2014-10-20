@@ -1,1 +1,1 @@
-[[!meta redir="!/real-world-map-reduce"]]
+[[!meta redir="http://thomaslevine.com/!/real-world-map-reduce"]]

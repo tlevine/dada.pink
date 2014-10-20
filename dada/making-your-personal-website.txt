@@ -1,1 +1,1 @@
-[[!meta redir="!/making-your-personal-website"]]
+[[!meta redir="http://thomaslevine.com/!/making-your-personal-website"]]

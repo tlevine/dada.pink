@@ -1,1 +1,1 @@
-[[!meta redir="!/real-world-algorithms"]]
+[[!meta redir="http://thomaslevine.com/!/real-world-algorithms"]]

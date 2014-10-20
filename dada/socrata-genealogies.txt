@@ -1,1 +1,1 @@
-[[!meta redir="!/socrata-genealogies"]]
+[[!meta redir="http://thomaslevine.com/!/socrata-genealogies"]]

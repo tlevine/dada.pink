@@ -1,1 +1,1 @@
-[[!meta redir="!/socrata-calendars"]]
+[[!meta redir="http://thomaslevine.com/!/socrata-calendars"]]

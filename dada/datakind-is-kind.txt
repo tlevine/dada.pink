@@ -1,1 +1,1 @@
-[[!meta redir="!/datakind-is-kind"]]
+[[!meta redir="http://thomaslevine.com/!/datakind-is-kind"]]

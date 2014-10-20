@@ -1,1 +1,1 @@
-[[!meta redir="!/what-is-open-data"]]
+[[!meta redir="http://thomaslevine.com/!/what-is-open-data"]]

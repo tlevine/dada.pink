@@ -1,1 +1,1 @@
-[[!meta redir="!/bits"]]
+[[!meta redir="http://thomaslevine.com/!/bits"]]

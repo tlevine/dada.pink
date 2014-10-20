@@ -1,1 +1,1 @@
-[[!meta redir="!/open-data-census"]]
+[[!meta redir="http://thomaslevine.com/!/open-data-census"]]

@@ -1,1 +1,1 @@
-[[!meta redir="!/socrata-metrics-api"]]
+[[!meta redir="http://thomaslevine.com/!/socrata-metrics-api"]]

@@ -1,1 +1,1 @@
-[[!meta redir="!/open-data-plans"]]
+[[!meta redir="http://thomaslevine.com/!/open-data-plans"]]

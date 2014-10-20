@@ -1,1 +1,1 @@
-[[!meta redir="!/open-by-default"]]
+[[!meta redir="http://thomaslevine.com/!/open-by-default"]]

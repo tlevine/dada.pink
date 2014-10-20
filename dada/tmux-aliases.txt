@@ -1,1 +1,1 @@
-[[!meta redir="!/tmux-aliases"]]
+[[!meta redir="http://thomaslevine.com/!/tmux-aliases"]]

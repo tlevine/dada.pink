@@ -1,1 +1,1 @@
-[[!meta redir="!/monads"]]
+[[!meta redir="http://thomaslevine.com/!/monads"]]

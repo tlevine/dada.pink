@@ -1,1 +1,1 @@
-[[!meta redir="!/r-spells-for-data-wizards"]]
+[[!meta redir="http://thomaslevine.com/!/r-spells-for-data-wizards"]]

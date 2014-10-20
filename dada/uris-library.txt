@@ -1,1 +1,1 @@
-[[!meta redir="!/uris-library"]]
+[[!meta redir="http://thomaslevine.com/!/uris-library"]]

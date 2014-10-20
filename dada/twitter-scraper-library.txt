@@ -1,1 +1,1 @@
-[[!meta redir="!/twitter-scraper-library"]]
+[[!meta redir="http://thomaslevine.com/!/twitter-scraper-library"]]

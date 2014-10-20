@@ -1,1 +1,1 @@
-[[!meta redir="!/open-data-500-data-package"]]
+[[!meta redir="http://thomaslevine.com/!/open-data-500-data-package"]]

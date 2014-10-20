@@ -1,1 +1,1 @@
-[[!meta redir="!/selenium"]]
+[[!meta redir="http://thomaslevine.com/!/selenium"]]

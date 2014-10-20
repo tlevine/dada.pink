@@ -1,1 +1,1 @@
-[[!meta redir="!/dataset-as-datapoint"]]
+[[!meta redir="http://thomaslevine.com/!/dataset-as-datapoint"]]

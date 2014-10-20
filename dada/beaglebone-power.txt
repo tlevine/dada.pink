@@ -1,1 +1,1 @@
-[[!meta redir="!/beaglebone-power"]]
+[[!meta redir="http://thomaslevine.com/!/beaglebone-power"]]

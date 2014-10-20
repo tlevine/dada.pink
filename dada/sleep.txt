@@ -1,1 +1,1 @@
-[[!meta redir="!/sleep"]]
+[[!meta redir="http://thomaslevine.com/!/sleep"]]

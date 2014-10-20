@@ -1,1 +1,1 @@
-[[!meta redir="!/opengov-grant-search-proposal"]]
+[[!meta redir="http://thomaslevine.com/!/opengov-grant-search-proposal"]]

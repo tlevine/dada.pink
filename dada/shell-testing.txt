@@ -1,1 +1,1 @@
-[[!meta redir="!/shell-testing"]]
+[[!meta redir="http://thomaslevine.com/!/shell-testing"]]

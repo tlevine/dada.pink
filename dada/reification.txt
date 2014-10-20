@@ -1,1 +1,1 @@
-[[!meta redir="!/reification"]]
+[[!meta redir="http://thomaslevine.com/!/reification"]]

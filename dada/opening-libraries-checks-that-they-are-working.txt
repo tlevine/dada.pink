@@ -1,1 +1,1 @@
-[[!meta redir="!/opening-libraries-checks-that-they-are-working"]]
+[[!meta redir="http://thomaslevine.com/!/opening-libraries-checks-that-they-are-working"]]

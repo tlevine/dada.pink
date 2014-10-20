@@ -1,1 +1,1 @@
-[[!meta redir="!/terminal-history"]]
+[[!meta redir="http://thomaslevine.com/!/terminal-history"]]

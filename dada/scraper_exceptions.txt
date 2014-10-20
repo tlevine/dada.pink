@@ -1,1 +1,1 @@
-[[!meta redir="!/scraper_exceptions"]]
+[[!meta redir="http://thomaslevine.com/!/scraper_exceptions"]]
