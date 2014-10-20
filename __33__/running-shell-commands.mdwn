@@ -1,0 +1,29 @@
+Perhaps you are writing a program in one language and then want to
+call something that is written in another language. One way of doing
+this is to run a shell command. Here are ways of running shell commands
+in many different languages.
+
+## C#
+Here's the simple way.
+
+    string strCmdText;
+    strCmdText= "/C copy /b Image1.jpg + Archive.rar Image2.jpg";
+    System.Diagnostics.Process.Start("CMD.exe",strCmdText);
+
+Do this to hide the cmd window.
+
+    System.Diagnostics.Process process = new System.Diagnostics.Process();
+    System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
+    startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
+    startInfo.FileName = "cmd.exe";
+
+    // "/C" runs and then exits without waiting for user input.
+    startInfo.Arguments = "/C copy /b Image1.jpg + Archive.rar Image2.jpg";
+
+    process.StartInfo = startInfo;
+    process.Start();
+
+    // Wait for the process to end before continuing with the program.
+    process.WaitForExit()
+
+(I got these from [here](http://stackoverflow.com/questions/1469764/run-command-prompt-commands).)
