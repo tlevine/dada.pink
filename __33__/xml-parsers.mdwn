@@ -12,6 +12,11 @@ that you use XPath to query the object resulting from the parse of the XML.
 * Java
   * [Opinions about a few parsers](http://stackoverflow.com/questions/373833/best-xml-parser-for-java)
   * [A tutorial with two methods](http://www.java-samples.com/showtutorial.php?tutorialid=152)
+* Ruby
+  * [REXML](http://www.germane-software.com/software/rexml/)
+  * [Nokogiri](http://www.nokogiri.org/)
+* Python
+  * [lxml](http://lxml.de/)
 
 In reading the above links, you may notice references to "DOM" style parsers
 and to "SAX" or "tag soup" style parsers. The a "DOM" style parser reads the
