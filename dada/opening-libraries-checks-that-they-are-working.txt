@@ -1,0 +1,1 @@
+[[!meta redir="!/opening-libraries-checks-that-they-are-working"]]
