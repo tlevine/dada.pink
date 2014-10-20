@@ -1,0 +1,22 @@
+[[!meta title="XML Parsers in Different Languages"]]
+
+Here are some packages in different languages that you can use to parse
+XML documents. Regardless of which library you use, I usually recommend
+that you use XPath to query the object resulting from the parse of the XML.
+
+* C#:
+  * [XmlReader](http://msdn.microsoft.com/en-us/library/cc189056%28VS.95%29.aspx)
+  * [Some other possibilities](http://www.drdobbs.com/windows/parsing-xml-files-in-net-using-c/184416669)
+* PHP
+  * [simplexml](http://blog.teamtreehouse.com/how-to-parse-xml-with-php5)
+* Java
+  * [Opinions about a few parsers](http://stackoverflow.com/questions/373833/best-xml-parser-for-java)
+  * [A tutorial with two methods](http://www.java-samples.com/showtutorial.php?tutorialid=152)
+
+In reading the above links, you may notice references to "DOM" style parsers
+and to "SAX" or "tag soup" style parsers. The a "DOM" style parser reads the
+entire document at once and fully parses it, and the "SAX" or "tag soup" style
+parser reads the file one tag at a time. DOM style parsers will usually be
+simpler to use, and you are unlikely to find a SAX/soup parser that supports
+XPath. Use a SAX/soup parser only if you have to deal with particularly large
+or badly formed XML files.
