@@ -1,14 +1,14 @@
 Perhaps you are writing a program in one language and then want to
 call something that is written in another language. One way of doing
-this is to run a shell command. Here are ways of running shell commands
-in many different languages.
+this is to run a shell command. Here are ways of running the shell
+command `pdftotext my-fancy-document.pdf` in many different languages.
 
 ## C#
 Here's the simple way.
 
     string strCmdText;
-    strCmdText= "/C copy /b Image1.jpg + Archive.rar Image2.jpg";
-    System.Diagnostics.Process.Start("CMD.exe",strCmdText);
+    strCmdText = startInfo.Arguments = "/C pdftotext my-fancy-document.pdf";
+    System.Diagnostics.Process.Start("CMD.exe", strCmdText);
 
 Do this to hide the cmd window.
 
@@ -18,7 +18,7 @@ Do this to hide the cmd window.
     startInfo.FileName = "cmd.exe";
 
     // "/C" runs and then exits without waiting for user input.
-    startInfo.Arguments = "/C copy /b Image1.jpg + Archive.rar Image2.jpg";
+    startInfo.Arguments = "/C pdftotext my-fancy-document.pdf";
 
     process.StartInfo = startInfo;
     process.Start();
@@ -27,3 +27,31 @@ Do this to hide the cmd window.
     process.WaitForExit()
 
 (I got these from [here](http://stackoverflow.com/questions/1469764/run-command-prompt-commands).)
+
+## Java
+
+    ProcessBuilder pb = new ProcessBuilder('pdftotext', 'my-fancy-document.pdf');
+    Process p = pb.start();
+    p.waitFor()
+
+## Nodejs
+
+    var exec = require('child_process').exec;
+    function puts(error, stdout, stderr) {
+      // Blah blah blah
+    }
+    exec("pdftotext my-fancy-document.pdf", callback);
+
+## PHP
+
+    exec("pdftotext my-fancy-document.pdf");
+
+## Python
+
+    import subprocess
+    process = subprocess.Popen(['pdftotext', 'my-fancy-document.pdf'])
+    process.wait()
+
+## Shell
+
+    echo 'pdftotext my-fancy-document.pdf' | sh
