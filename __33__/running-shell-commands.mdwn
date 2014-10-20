@@ -3,7 +3,7 @@ call something that is written in another language. One way of doing
 this is to run a shell command. Here are ways of running the shell
 command `pdftotext my-fancy-document.pdf` in many different languages.
 
-## C#
+## C\#
 Here's the simple way.
 
     string strCmdText;
