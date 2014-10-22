@@ -1,0 +1,30 @@
+[[!meta title="(Subject) will be (gerund)"]]
+[[!meta description="Do people I know from university use this structure more than other people?"]]
+
+I get the feeling that people who went to
+[Cornell University](https://en.wikipedia.org/wiki/Cornell_University),
+or maybe just people who lived in
+[Risley](https://en.wikipedia.org/wiki/Risley_Residential_College)
+use the following grammatical structure more often than other people do.
+
+    (subject) will be (gerund)
+
+For example, we (I'm in the above group.) are more likely than others
+to construct the following sentence.
+
+> I'll be driving home at 6:00 pm.
+
+Here are some other sentences with similar meaning and different structure.
+
+* I am driving home at 6:00 pm.
+* I am going to drive home at 6:00 pm.
+* I'll drive home at 6:00 pm.
+* I shall drive home at 6:00 pm.
+* I will drive home at 6:00 pm.
+
+Is this really a thing?
+
+<!--
+More specifically, I think that this group of people is more likely than
+other groups to use the above structure to describe short events.
+-->
