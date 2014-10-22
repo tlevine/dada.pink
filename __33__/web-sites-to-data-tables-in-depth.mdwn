@@ -4,7 +4,7 @@
 [[!tag convert]]
 
 Once you've read the
-[other article on converting websites to data tables](/dada/web-sites-to-data-tables),
+[other article on converting websites to data tables](/!/web-sites-to-data-tables),
 you might want some more specifics.
 Here are some details of how I apply all of the linked theory
 when I'm using Python.
@@ -14,7 +14,7 @@ Inspect network requests, and figure out what HTTP requests to make.
 There are tons of programs you could use for this;
 I use [Firefox](https://www.mozilla.org/en-US/firefox/).
 
-[![Inspecting HTTP requests in the New York City crime map](/dada/nyc-crime-map/firefox)](http://dada.pink/dada/nyc-crime-map/)
+[![Inspecting HTTP requests in the New York City crime map](/!/nyc-crime-map/firefox)](/!/nyc-crime-map/)
 
 Write downloader functions that return `Response`
 objects from the requests package, and decorate them
@@ -136,7 +136,7 @@ I often write <abbr>CSV</abbr> to STDOUT, because CSV is the
 [platonic](http://csvsoundsystem.com/)
 [form](http://small.dada.pink/comma-chant/when-i-say)
 of
-[data](http://dada.pink/dada/print-formaldehyde/).
+[data](/!/print-formaldehyde/).
 
 As an example, here's the rest of the above `main.py` from 
 [`wbcontractawards`](https://pypi.python.org/pypi/wbcontractawards).
@@ -572,8 +572,8 @@ I'd rather not use them.
 
 ## Other resources
 
-* [Websites to data tables, in concept](/dada/web-sites-to-data-tables)
-* [How to install Selenium](/dada/selenium)
-* [PDFs](/dada/parsing-pdfs/) and [more PDFs](/dada/data-wranglers-2014-04/)
-* [Binary files](/dada/downloading-binary-files-is-not-magic/)
+* [Websites to data tables, in concept](/!/web-sites-to-data-tables)
+* [How to install Selenium](/!/selenium)
+* [PDFs](/!/parsing-pdfs/) and [more PDFs](/!/data-wranglers-2014-04/)
+* [Binary files](/!/downloading-binary-files-is-not-magic/)
 * Should I write an XPath guide?

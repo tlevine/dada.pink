@@ -9,7 +9,7 @@
 ## Letterpress and computers
 
 * California case keyboard
-* More [letterpress-printed data](/dada/print-formaldehyde)
+* More [letterpress-printed data](/!/print-formaldehyde)
 * USB stenotype
 
 ## Ergonomicsy studies

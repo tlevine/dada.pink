@@ -21,11 +21,11 @@ and the stuff in there is all true.
 
 As of this writing, the most recent development in the area of
 data gastronomification is that
-[döner plot](/dada/geom_doner/) from after the
+[döner plot](/!/geom_doner/) from after the
 [August meeting](http://www.meetup.com/Hacks-Hackers-Berlin/events/199099472/)
 of [Hacks/Hackers Berlin](https://www.meetup.com/Hacks-Hackers-Berlin/).
 
-<img alt="döner plot" src="/dada/geom_doner/geom_doner.jpg" class="wide" />
+<img alt="döner plot" src="/!/geom_doner/geom_doner.jpg" class="wide" />
 
 Aside from performing
 [data music](http://fms.csvsoundsystem.com/),
@@ -41,7 +41,7 @@ I occasionally
 about CSV files.
 
 We also want to open a cooperative data store with locally sourced
-data tables and [artisinal data analysis](/dada/print-formaldehyde/).
+data tables and [artisinal data analysis](/!/print-formaldehyde/).
 We'll spread sheets over these tables, which we'll stock from
 a data warehouse, and we'll use random number books to run
 artisinal simulations.

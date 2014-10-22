@@ -11,7 +11,7 @@ that let you download spreadsheets (open data catalogs).
 sort of prompted the discussion, and Luke eventually asked if anyone
 wants to
 [do something](https://twitter.com/lukefretwell/status/497379906175524864)
-around this topic of study. I'd rather [sleep](/dada/sleeping/).
+around this topic of study. I'd rather [sleep](/!/sleeping/).
 
 It would be easy for me to look at
 [all kinds of things](/open-data/)
@@ -48,7 +48,7 @@ I've in fact been sitting on [datahub.io](https://datahub.io) server logs
 for some time. I have many ideas of interesting things I could do with them,
 but I still don't do any of them. I don't think people care that much, I'm
 certainly not going to get paid for it, so I'd rather just
-[sleep](/dada/sleeping) instead.
+[sleep](/!/sleeping) instead.
 
 ## Why do people get excited about this stuff?
 Other people seem a bit more excited about this openly open openness nonsense
@@ -76,11 +76,11 @@ first, but I don't think that people find the purpose that they are looking
 for in such endeavours.
 
 ## There isn't money in this stuff
-Is open data really [all about the money](/dada/open-data-is-all-about-money/)?
+Is open data really [all about the money](/!/open-data-is-all-about-money/)?
 Maybe it isn't, and maybe just say it is because we know that
 numbers and money will be our saviour and that
 you are silly if you think otherwise. Moreover, if it were all about the
-money, you'd think that [it would pay](/dada/searching-data-tables-better).
+money, you'd think that [it would pay](/!/searching-data-tables-better).
 
 Fortunately, it does! As of last week you can work at
 [a tenth of minimum wage](https://twitter.com/thomaslevine/status/497272565770231808)
@@ -101,10 +101,10 @@ to be open about openness.
 
 I like being around people who make me feel nice, and the people
 who care about open openness sometimes do this; that might be
-[why I do this stuff](/dada/datakind-is-kind/). But I wish I didn't
+[why I do this stuff](/!/datakind-is-kind/). But I wish I didn't
 have to care about fixing government or saving the world. And
-computers are [kind of nice](/dada/why-i-like-hackerspaces/),
-but [I don't really like talking about them](/dada/learning-data-stuff/).
+computers are [kind of nice](/!/why-i-like-hackerspaces/),
+but [I don't really like talking about them](/!/learning-data-stuff/).
 
 I like the people, but playing these games is a lot of work, and
-I'd rather have time to [sleep](/dada/sleeping/).
+I'd rather have time to [sleep](/!/sleeping/).
