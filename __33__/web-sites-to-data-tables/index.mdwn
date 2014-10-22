@@ -8,7 +8,7 @@ writing computer programs that do that.
 
 The present article is somewhat conceptual and introductory.
 You might want to read
-[this one](/dada/web-sites-to-data-tables-in-depth/) next.
+[this one](/!/web-sites-to-data-tables-in-depth/) next.
 
 ## What I mean by "making websites into data tables"
 Much of the world's data are stored in ways that are annoying for me

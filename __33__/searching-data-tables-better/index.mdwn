@@ -3,7 +3,7 @@
 [[!tag open-data]]
 
 I previously wrote about
-[why it's hard to find datasets](/dada/searching-data-tables),
+[why it's hard to find datasets](/!/searching-data-tables),
 and now I have some more thoughts of that.
 
 ## Preface: Open data is good for business!?
@@ -73,7 +73,7 @@ these datasets.
 These "datasets" are usually spreadsheets;
 how do we figure out what's in a bunch of spreadsheets today?
 
-![A spreadsheet](/dada/pagerank-for-spreadsheets/bus-spreadsheet.png)
+![A spreadsheet](/!/pagerank-for-spreadsheets/bus-spreadsheet.png)
 
 We could manually look at every cell in every spreadsheet,
 but this would take a long time.
@@ -113,7 +113,7 @@ of data. Here are some examples.
 When I say "schema", I loosly mean "a definition of
 what the columns should be and what the rows mean".
 
-![](/dada/pagerank-for-spreadsheets/hovering-schema.png)
+![](/!/pagerank-for-spreadsheets/hovering-schema.png)
 
 For example, I'll tell you a bit about the schema of this spreadsheet.
 I asked a bunch of people how they use toilets in differenc scenarios,
@@ -124,7 +124,7 @@ The "participantId" column defines the person, and the "task", "privacy",
 and "cleanliness" columns define the scenario; these four columns thus
 act as a unique index on the table. The other columns are about their
 responses to the questions. I'll save the full discussion for a talk
-about the [viscious hovering cycle](/dada/hovering-cycle); the point here
+about the [viscious hovering cycle](/!/hovering-cycle); the point here
 is that a schema is roughly a definition of what the different columns
 and rows mean and what values are allowed in the cells.
 
@@ -141,15 +141,15 @@ repositories of spreadsheets let people make graphs.
 
 On the French national rail company data site, you can look at tables,
 
-![](/dada/pagerank-for-spreadsheets/sncf-tableau.png)
+![](/!/pagerank-for-spreadsheets/sncf-tableau.png)
 
 but you can also make graphs!
 
-![](/dada/pagerank-for-spreadsheets/sncf-analyse.png)
+![](/!/pagerank-for-spreadsheets/sncf-analyse.png)
 
 OpenData Lombardia does it too!
 
-![](/dada/pagerank-for-spreadsheets/lombardia-grafico.png)
+![](/!/pagerank-for-spreadsheets/lombardia-grafico.png)
 
 These graphs are nice, but we still have the same problem as before:
 Even if we have the most perfect graphs about each separate spreadsheet,
@@ -199,7 +199,7 @@ knowledge to others. Moreover, they only know about the data they've worked
 on in their respective governments; they don't know much about other governments.
 
 ## Why you might have trouble searching for spreadsheets
-I see [two main issues](/dada/searching-data-tables)
+I see [two main issues](/!/searching-data-tables)
 in the common means of searching through spreadsheets.
 The first issue is that the search method is quite naive; these websites are
 usually running keyword searches.
@@ -263,7 +263,7 @@ might not be a horrible idea.
 
 
 ### Dealing with website-specific searches
-![](/dada/data-about-open-data-talk-december-2-2013/unsilo.jpg)
+![](/!/data-about-open-data-talk-december-2-2013/unsilo.jpg)
 
 When I'm looking for spreadsheets, the publishing organization is unlikely
 to be my main concern. For example, if I'm interested in data about the
@@ -290,7 +290,7 @@ about what it would mean to have a search engine for spreadsheets.
 When we search for ordinary written documents, we send words into a search
 engine and get pages of words back.
 
-![](/dada/pagerank-for-spreadsheets/wordsearch.png)
+![](/!/pagerank-for-spreadsheets/wordsearch.png)
 
 What if we could search for spreadsheets
 by sending spreadsheets into a search engine and getting spreadsheets back?
@@ -298,7 +298,7 @@ The order of the results would be determined by various specialized statistics;
 just as we use PageRank to find relevant hypertext documents, we can develop
 other statistics that help us find relevant spreadsheets.
 
-![](/dada/pagerank-for-spreadsheets/commasearch.png)
+![](/!/pagerank-for-spreadsheets/commasearch.png)
 
 So now I'm looking for ways to do interesting searches on spreadsheets.
 
@@ -398,7 +398,7 @@ to run this on lots of spreadsheets.
 In [blizzard](https://pypi.python.org/pypi/blizzard), I find spreadsheets with
 the same unique indices, and then I look for overlap between those spreadsheets.
 
-![](/dada/pagerank-for-spreadsheets/network.png)
+![](/!/pagerank-for-spreadsheets/network.png)
 
 Spreadsheets with high overlap might be good to join to each other, and
 spreadsheets with low overlap might be good to union with each other.

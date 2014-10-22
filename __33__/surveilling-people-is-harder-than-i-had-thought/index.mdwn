@@ -28,7 +28,7 @@ After spending two weeks trying to use off-the-shelf tools,
 I eventually gave up and wrote my own thing. I call it
 [doeund](http://small.dada.pink/dadawarehouse/doeund/)
 (because I name things by
-[banging on the keyboard](/dada/dada/)).
+[banging on the keyboard](/!/dada/)).
 
 Depending on how you measure time, I probably spent more time trying to get
 the off-the-shelf tools working than I did writing doeund or writing the

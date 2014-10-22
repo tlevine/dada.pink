@@ -7,4 +7,4 @@ in the bar.
 
 Here are some submission things
 
-[[!map pages="dada/eusprig-2014/* and ! dada/eusprig-2014/*/*"]]
+[[!map pages="__33__/eusprig-2014/* and ! __33__/eusprig-2014/*/*"]]
