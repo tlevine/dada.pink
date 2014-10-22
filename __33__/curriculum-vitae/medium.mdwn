@@ -1,6 +1,6 @@
 [[!meta title="Thomas Levine"]]
 [[!meta description="Curriculum vitae (medium-length version)"]]
-[[!inline pages="dada/curriculum-vitae/short" raw="yes"]]
+[[!inline pages="__33__/curriculum-vitae/short" raw="yes"]]
 
 ## Selected talks
 * September 23, 2014.

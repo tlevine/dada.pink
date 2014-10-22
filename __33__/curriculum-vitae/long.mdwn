@@ -1,6 +1,6 @@
 [[!meta title="Thomas Levine"]]
 [[!meta description="Curriculum vitae (long version)"]]
-[[!inline pages="dada/curriculum-vitae/short" raw="yes"]]
+[[!inline pages="__33__/curriculum-vitae/short" raw="yes"]]
 
 ## Research interests
 **Sharing of datasets**.
