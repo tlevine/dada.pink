@@ -138,9 +138,35 @@ $25,000 per year might wind up being enough to raise a kid.
 
 Life things
 ===================
+
+Job
+-------
+I think that my preference in jobs is all about retiring. Either I want a
+job that pays a lot so I'll have enough money in four years, or I want a
+job that is very little work so I can stay in the semi-retirement that I'm
+in now. (I'd also do a job that I actually like and pays better than
+terribly, but I think those are hard enough to find that it's not worth
+looking for them.)
+
+Family
+---------
+I noted a few years ago that I enjoy home economics and ergonomics; that
+I'd be okay with having spent so long studying ergonomics if the only thing
+that came of it all was me having a nice house; and that I'd really like
+to be a housewife.
+
+I have recently been predicting that I'll want kids once I'm settled and
+married and whatnot. But it's hard to predict, and I don't want kids now,
+so that might also not happen.
+
+Interestingly enough, if I take a job in a year, work for four years, and
+then leave, I'll be at an age when people have kids. Hmm.
+
+That would be an interesting version of retirement.
+
+Relax
+-------
 Every time I do this sort of calculation, I realize that I don't need to
 worry about money as much as I do. I think it's quite safe for me to
 keep my expenses high while making money and then to lower them once I've
 saved enough money.
-
-But I also noticed some other things
