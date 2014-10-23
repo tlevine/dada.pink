@@ -31,6 +31,12 @@ a long period of time would be less stressful. Second, the structure of taxes
 in most countries encourage making less money rather than making more money.
 And finally, I generally prefer the slow approaches to things.
 
+But I don't like this approach because I don't want to count on being able
+to find work that pays this well in 20 years. I see too many people who did
+computer stuff 20 years ago and can't find work anymore. And the ones who
+can find work have to stay on top of career things, so it doesn't seem as
+much like retirement.
+
 If I save up lots of money at once
 ====================================
 How much do I need to save if I save up lots of money at once?
@@ -39,6 +45,27 @@ portfolio amounts and different spending rates. This simulates
 the performance of stock market portfolios for different 70-year
 periods and guesses whether the portfolio amount will be enough
 to retire for 70 years.
+
+
+
+
+Job things
+====================================
+I'm thinking about all this stuff right now because I have been
+thinking about getting a real job lately. I have lately been getting
+the feeling that I want a normal job in a big, insular company in
+a town that isn't especially well known. I feel like this would relax
+me a lot.
+
+* I'd stress less about money if I made more money.
+* Smaller towns are less stressful.
+* I'm curious about what it's like in these companies.
+
+Anyway, I'm thinking about this now to see how long I would want to
+work for one of those companies if I only cared about retiring. After that,
+I might keep working in such work, or I might not.
+
+
 
 
 Let's assume optimistically that I'm going to live until 94 (70 years),
