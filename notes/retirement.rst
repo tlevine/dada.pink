@@ -129,7 +129,8 @@ Housing expenses
 If I find a way to substantially reduce my housing expenses, I need a
 lot less money. The most likely way I see myself doing this is purchasing
 some form of real estate in a cheap place. I figure that this could
-reduce my housing expenses to something more like $6,000.
+reduce my housing expenses to something more like $6,000. (That includes
+the opportunity cost of the money I spend on the house.)
 
 More importantly, the marginal cost of a kid would probably be much lower
 as I would probably wind up with a bigger house or apartment than I would
