@@ -1,7 +1,10 @@
 I want to retire. What do I need to do in order for that to happen?
 
-## Long estimate
-My yearly expenses seem to be approximately as follows. (Check it.)
+My present expenses
+=========================
+My yearly expenses are approximately as follows (early 2014).
+
+.. csv-table::
 
     Thing,Yearly expense
     Places to sleep,"$13,000"
@@ -9,12 +12,34 @@ My yearly expenses seem to be approximately as follows. (Check it.)
     Computers,"$2,000"
     Everything else,"$5,000"
 
-Let's round the total to $25,000.
+Let's round the total to $25,000. 
 
-Also, my yearly income on the
-order of $64,000 to $128,000. Figuring that a third of that goes to
-taxes, I save something on the order of $25,000 to $50,000 per year.
-Thus, for every year that I work, I can retire for one or two years.
+The sleep and travel expenses will
+probably go down very soon (because I have been traveling `a lot </stuff>`
+and am getting tired of it and because I am getting tired of big cities),
+but other things might replace them. And I might need more if I have kids.
+
+If I don't save up lots of money at once
+=========================================
+At present, I work very little and still save more (after taxes) than
+I spend; in a sense, I am already retired. If I knew that I would be able
+to find one project that paid decently every year, I would be able to cover
+the aforementioned expenses with one or two months of work per year.
+
+I kind of like this approach more. First, I think that spreading work across
+a long period of time would be less stressful. Second, the structure of taxes
+in most countries encourage making less money rather than making more money.
+And finally, I generally prefer the slow approaches to things.
+
+If I save up lots of money at once
+====================================
+How much do I need to save if I save up lots of money at once?
+I ran `FIRECalc <http://firecalc.com/>` with different starting
+portfolio amounts and different spending rates. This simulates
+the performance of stock market portfolios for different 70-year
+periods and guesses whether the portfolio amount will be enough
+to retire for 70 years.
+
 
 Let's assume optimistically that I'm going to live until 94 (70 years),
 I have about $200,000 in savings, and that's about eight years of
