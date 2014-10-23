@@ -14,10 +14,16 @@ My yearly expenses are approximately as follows (early 2014).
 
 Let's round the total to $25,000. 
 
-The sleep and travel expenses will
-probably go down very soon (because I have been traveling `a lot </stuff>`_
-and am getting tired of it and because I am getting tired of big cities),
-but other things might replace them. And I might need more if I have kids.
+The sleeping expenses will probably go down soon as I am getting tired of
+big cities.
+
+Also, I have gotten `good at traveling </stuff>`_, so I expect some of the
+sleeping expenses to be replaced with travel expenses.
+
+On the other hand, other expenses will increase. I expect that my expenses
+would decrease overall if I stopped trying to make money because I would
+have more time to reduce my expenses. The most notable increase would be if
+I decided to have a kid.
 
 If I don't save up lots of money at once
 =========================================
@@ -62,12 +68,31 @@ to retire for 70 years.
     "$35,000","$800,000",:sup:`2`\ ⁄\ :sub:`3`
     "$35,000","$1,000,000",97%
 
-How much money I'd need to make
----------------------------------
 My present savings (2014) are about $200,000. Half of this is the
 money that my parents saved for my university and I didn't use,
 the other half is money that I have saved since university.
 
+Let's figure that I take a job that pays $150,000 per year. After
+taxes, this is about $100,000 per year. Let's figure further that
+I would increase my expenses a bit because I'd have to focus more
+on work and that I would save about $66,667 per year. I would have
+$400,000 after three years and $600,000 after six years. But I don't
+think I could last that long.
+
+More optimistically, if I get a job that pays a bit higher, I don't
+increase my expenses, and I am not horrible with taxes, I might save
+more like $100,000 per year. In this case, I would need two years to
+get to $400,000 and four years to get to $600,000. Two to four years
+sounds more like something I could handle.
+
+The above two estimates are for having enough money to spend about
+$25,000 per year; if I wanted to have enough money to spend $35,000
+per year, I'd need to work for up to ten years.
+
+I doubt that I would make all of the money up-front like this; I'll
+probably make some money this way when an appealing job arises and then
+go back to my present situation afterwards. I did this to see whether
+taking a real job would help much, and it seems that it would.
 
 Job things
 ====================================
