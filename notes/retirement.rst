@@ -46,7 +46,18 @@ the performance of stock market portfolios for different 70-year
 periods and guesses whether the portfolio amount will be enough
 to retire for 70 years.
 
+.. csv-table::
 
+    Spending rate,Starting money,Success rate
+    "$25,000","$400,000",:math:`\frac{1}{2}`
+
+:math:`\frac{1}{2}`
+
+How much money I'd need to make
+---------------------------------
+My present savings (2014) are about $200,000. Half of this is the
+money that my parents saved for my university and I didn't use,
+the other half is money that I have saved since university.
 
 
 Job things
@@ -64,6 +75,8 @@ me a lot.
 Anyway, I'm thinking about this now to see how long I would want to
 work for one of those companies if I only cared about retiring. After that,
 I might keep working in such work, or I might not.
+
+
 
 
 
