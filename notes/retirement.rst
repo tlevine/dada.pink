@@ -97,7 +97,7 @@ taking a real job would help much, and it seems that it would.
 
 Job things
 ====================================
-I'm thinking about all this stuff right now because I have been
+One reason I'm thinking about all this stuff right now is that I have been
 thinking about getting a real job lately. I have lately been getting
 the feeling that I want a normal job in a big, insular company in
 a town that isn't especially well known. I feel like this would relax
@@ -138,7 +138,9 @@ $25,000 per year might wind up being enough to raise a kid.
 
 Life things
 ===================
-One possibility is to keep my expenses high while making money and then
-to lower them once I've saved enough money. For example, I could maintain
-my present extravagent expenses while working, and then I could focus on
-reducing my housing expnses once I save a little money.
+Every time I do this sort of calculation, I realize that I don't need to
+worry about money as much as I do. I think it's quite safe for me to
+keep my expenses high while making money and then to lower them once I've
+saved enough money.
+
+But I also noticed some other things
