@@ -15,7 +15,7 @@ My yearly expenses are approximately as follows (early 2014).
 Let's round the total to $25,000. 
 
 The sleep and travel expenses will
-probably go down very soon (because I have been traveling `a lot </stuff>`
+probably go down very soon (because I have been traveling `a lot </stuff>`_
 and am getting tired of it and because I am getting tired of big cities),
 but other things might replace them. And I might need more if I have kids.
 
@@ -40,7 +40,7 @@ much like retirement.
 If I save up lots of money at once
 ====================================
 How much do I need to save if I save up lots of money at once?
-I ran `FIRECalc <http://firecalc.com/>` with different starting
+I ran `FIRECalc <http://firecalc.com/>`_ with different starting
 portfolio amounts and different spending rates. This simulates
 the performance of stock market portfolios for different 70-year
 periods and guesses whether the portfolio amount will be enough
@@ -49,9 +49,18 @@ to retire for 70 years.
 .. csv-table::
 
     Spending rate,Starting money,Success rate
-    "$25,000","$400,000",:math:`\frac{1}{2}`
-
-:math:`\frac{1}{2}`
+    "$15,000","$400,000",:sup:`4`\ ⁄\ :sub:`5`
+    "$15,000","$500,000",100%
+    "$20,000","$400,000",:sup:`2`\ ⁄\ :sub:`5`
+    "$20,000","$500,000",:sup:`4`\ ⁄\ :sub:`5`
+    "$20,000","$600,000",98%
+    "$25,000","$400,000",:sup:`1`\ ⁄\ :sub:`2`
+    "$25,000","$500,000",:sup:`2`\ ⁄\ :sub:`5`
+    "$25,000","$600,000",:sup:`4`\ ⁄\ :sub:`5`
+    "$25,000","$700,000",95%
+    "$35,000","$600,000",:sup:`1`\ ⁄\ :sub:`3`
+    "$35,000","$800,000",:sup:`2`\ ⁄\ :sub:`3`
+    "$35,000","$1,000,000",97%
 
 How much money I'd need to make
 ---------------------------------
