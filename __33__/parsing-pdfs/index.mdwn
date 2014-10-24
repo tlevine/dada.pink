@@ -374,3 +374,6 @@ for any other information that you want.
 I gave a talk on this at
 [Data Wranglers DC](http://www.meetup.com/Data-Wranglers-DC/events/160592492/).
 Materials are [here](https://github.com/tlevine/data-wranglers-dc-pdfs)
+
+If you are just interested in running a text search across many different PDF
+files, read [this](/!/techcamp-sarajevo-searching-lots-of-files/).
