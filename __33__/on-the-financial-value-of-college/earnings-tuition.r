@@ -3,8 +3,9 @@ library(reshape2)
 library(scales)
 
 years.invested <- 65 - 20 # People supposedly retire at 65.
+stock.market.return <- 1.07
 prop.withdrawn <- 0.15 # Withdraw 15% of the initial investment every year, ignoring inflation
-inflation <- 1.03 # 3% inflation
+inflation <- 1.025 # 3% inflation
 
 lifetime.earnings <- c(
   engineering = 2e6,
@@ -21,32 +22,18 @@ college <- data.frame(
                            gsub('\\.', ' ', names(lifetime.earnings)), ')')
 )
 
-
-# starting.money <- seq(0, 2e5, 1e4)
 earnings <- function(starting.money, stock.market.return, prop.withdrawn) {
   f <- function(money, year) {
     money * (stock.market.return - (prop.withdrawn * inflation ^ year))
   }
-  sum(Reduce(f, 1:years.invested, accumulate = TRUE, init = starting.money))
+  g <- function(money) sum(Reduce(f, 1:years.invested, accumulate = TRUE, init = money))
+  sapply(starting.money, g)
 }
 
-not.college <- data.frame(
-  investment = 'Stock market',
-  stock.market.return = c(1.065, 1.080), # not adjusted for inflation
-  label.x = c(1.4e5, 1.25e5),
-  earnings.intercept = 0
-)
-not.college$earnings.slope <- (not.college$stock.market.return - prop.withdrawn) ^ years.invested
-not.college$full.investment <- paste0(
-  'Stock market\n(',
-  round(100 * (not.college$stock.market.return - 1), 1),
-  '% annually)')
-not.college$stock.market.return <- NULL
+not.college <- data.frame(cost = seq(0, 2e5, 1e4))
+not.college$earnings <- earnings(not.college$cost, stock.market.return, prop.withdrawn)
 
-alternatives <- rbind(college, not.college)
-p.base <- ggplot(alternatives) +
-  scale_color_manual(values = c('grey60', 'grey20'),
-                     name = 'Investment type') +
+p.base <- ggplot() +
   theme_minimal() +
   theme(title = element_text(face = 'bold'),
         panel.grid.minor = element_blank(),
@@ -54,17 +41,24 @@ p.base <- ggplot(alternatives) +
   scale_x_continuous('Cost of college (today dollars)',
                      limits = c(0, 2e5), labels = dollar) +
   scale_y_continuous('Earnings (today dollars)',
-                     limits = c(0, 4e6), labels = dollar)
+                     limits = c(0, 2.5e6), labels = dollar)
 
 p.predictions <- p.base +
-  geom_abline(aes(intercept = earnings.intercept,
-                  slope = earnings.slope,
-                  color = investment,
-                  group = full.investment)) +
-  geom_text(aes(x = label.x,
-                y = earnings.intercept + earnings.slope * label.x,
-                color = investment,
-                vjust = -.2 - (earnings.slope / 12),
+  geom_line(data = not.college,
+            color = 'grey20',
+            aes(x = cost, y = earnings)) +
+  geom_hline(data = college,
+             color = 'grey60',
+             aes(yintercept = earnings.intercept,
+                 group = full.investment)) +
+  annotate('text', x = 1e5, y = 5e5, label = 'Stock market', color = 'grey20') +
+  # equivalent to 7% annual increase with an inflation adjusted (2.5%)
+  # salary starting at 15% of the cost of college
+  geom_text(data = college,
+            color = 'grey60',
+            aes(x = label.x,
+                y = earnings.intercept,
+                vjust = -.2,
                 lineheight = .8,
                 label = full.investment)) +
   ggtitle('Predicted return on college and stock market investments')
@@ -93,8 +87,8 @@ ppplot <- function(plot, filename) ggsave(filename = filename,
                                           plot = plot,
                                           width = 8, height = 6,
                                           units = 'in', dpi = 200)
-#pplot(p.predictions, 'general-predictions.png')
-#pplot(p.tom.expenses, 'tom-expenses.png')
-#pplot(p.tom.predictions, 'tom-predictions.png')
-#pplot(p.tom.both, 'tom-both.png')
-#pplot(p.tom.comparison, 'tom-comparison.png')
+ppplot(p.predictions, 'general-predictions.png')
+ppplot(p.tom.expenses, 'tom-expenses.png')
+ppplot(p.tom.predictions, 'tom-predictions.png')
+ppplot(p.tom.both, 'tom-both.png')
+ppplot(p.tom.comparison, 'tom-comparison.png')
