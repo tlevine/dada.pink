@@ -43,6 +43,10 @@ p.base <- ggplot() +
   scale_y_continuous('Earnings (today dollars)',
                      limits = c(0, 2.5e6), labels = dollar)
 
+stock.market.label <- 'Stock market,
+assuming 7% annual increase
+with an inflation-adjusted (2.5%) salary
+starting at 15% of the cost of college'
 p.predictions <- p.base +
   geom_line(data = not.college,
             color = 'grey20',
@@ -51,9 +55,7 @@ p.predictions <- p.base +
              color = 'grey60',
              aes(yintercept = earnings.intercept,
                  group = full.investment)) +
-  annotate('text', x = 1e5, y = 5e5, label = 'Stock market', color = 'grey20') +
-  # equivalent to 7% annual increase with an inflation adjusted (2.5%)
-  # salary starting at 15% of the cost of college
+  annotate('text', x = 1.2e5, y = 5e5, label = stock.market.label, color = 'grey20') +
   geom_text(data = college,
             color = 'grey60',
             aes(x = label.x,
