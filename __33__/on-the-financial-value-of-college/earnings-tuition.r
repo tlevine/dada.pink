@@ -3,7 +3,8 @@ library(reshape2)
 library(scales)
 
 years.invested <- 65 - 20 # People supposedly retire at 65.
-stock.market.return <- 1.068 # from Greenstone & Looney, 2011
+prop.withdrawn <- 0.15 # Withdraw 15% of the initial investment every year, ignoring inflation
+inflation <- 1.03 # 3% inflation
 
 lifetime.earnings <- c(
   engineering = 2e6,
@@ -20,17 +21,26 @@ college <- data.frame(
                            gsub('\\.', ' ', names(lifetime.earnings)), ')')
 )
 
+
+# starting.money <- seq(0, 2e5, 1e4)
+earnings <- function(starting.money, stock.market.return, prop.withdrawn) {
+  f <- function(money, year) {
+    money * (stock.market.return - (prop.withdrawn * inflation ^ year))
+  }
+  sum(Reduce(f, 1:years.invested, accumulate = TRUE, init = starting.money))
+}
+
 not.college <- data.frame(
   investment = 'Stock market',
-  stock.market.return = c(1.050, 1.065),
-  label.x = c(1.55e5, 1.4e5),
+  stock.market.return = c(1.065, 1.080), # not adjusted for inflation
+  label.x = c(1.4e5, 1.25e5),
   earnings.intercept = 0
 )
-not.college$earnings.slope <- not.college$stock.market.return ^ years.invested
+not.college$earnings.slope <- (not.college$stock.market.return - prop.withdrawn) ^ years.invested
 not.college$full.investment <- paste0(
   'Stock market\n(',
   round(100 * (not.college$stock.market.return - 1), 1),
-  '% annually after inflation)')
+  '% annually)')
 not.college$stock.market.return <- NULL
 
 alternatives <- rbind(college, not.college)
@@ -83,8 +93,8 @@ ppplot <- function(plot, filename) ggsave(filename = filename,
                                           plot = plot,
                                           width = 8, height = 6,
                                           units = 'in', dpi = 200)
-ppplot(p.predictions, 'general-predictions.png')
-ppplot(p.tom.expenses, 'tom-expenses.png')
-ppplot(p.tom.predictions, 'tom-predictions.png')
-ppplot(p.tom.both, 'tom-both.png')
-ppplot(p.tom.comparison, 'tom-comparison.png')
+#pplot(p.predictions, 'general-predictions.png')
+#pplot(p.tom.expenses, 'tom-expenses.png')
+#pplot(p.tom.predictions, 'tom-predictions.png')
+#pplot(p.tom.both, 'tom-both.png')
+#pplot(p.tom.comparison, 'tom-comparison.png')
