@@ -137,7 +137,7 @@ the participant was required to respond with one of these postures:
 * Stand
 * Other
 
-The 12 scenarios came from a three variables in a 2&nbsp;×&nbsp;2&nbsp;×&nbsp;3 layout.
+The 12 scenarios came from a three variables in a 2&nbsp;&times;&nbsp;2&nbsp;&times;&nbsp;3 layout.
 The variables were
 
 * Privacy level (public or private)
@@ -305,7 +305,7 @@ postures as toilets get dirtier.
 ### Do public toilets affect posture choice for reasons other than dirt?
 I checked simply whether posture was the same between the corresponding
 public and private conditions for each participant. This is six
-comparisons per participant, for each of the cleanliness&nbsp;×&nbsp;task
+comparisons per participant, for each of the cleanliness&nbsp;&times;&nbsp;task
 combinations.
 
 There were instances where posture was different, so the quick answer is
