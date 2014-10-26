@@ -291,7 +291,44 @@ of the binomial distribution. I conservatively assumed that the proportion
 was 0.5 when computing the standard error. Also conservatively, I only
 computed it for the male sub-sample (*n* = 70 rather than *n* = 173).
 
-[[!inline pages="__33__/hovering-cycle/standard-error" raw="yes"]]
+<!-- $$SE\left(p\right) = \sqrt{\frac{\hat{p}\times\left(1 - \hat{p}\right)}{n - 1}} = \sqrt{\frac{0.5^2}{69}} -->
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>SE</mi>
+  <mo>(</mo>
+  <mi>p</mi>
+  <mo>)</mo>
+  <mo>=</mo>
+  <msqrt>
+    <mfrac>
+      <mrow>
+        <mi>p&#770;</mi>
+        <mo>(</mo>
+          <mn>1</mn>
+          <mo>-</mo>
+          <mi>p&#770;</mi>
+        <mo>)</mo>
+      </mrow>
+      <mrow>
+        <mi>n</mi>
+        <mo>-</mo>
+        <mn>1</mn>
+      </mrow>
+    </mfrac>
+  </msqrt>
+  <mo>=</mo>
+  <msqrt>
+    <mfrac>
+      <mrow>
+        <msup>
+          <mn>0.5</mn>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+      <mrow>
+        <mn>69</mn>
+      </mrow>
+  </msqrt>
+</math>
 
 Then multiply it by *z* = 2 in each direction to get 12%, so we can
 be quite confident that these percentages figures are within 12% of the
