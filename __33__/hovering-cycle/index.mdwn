@@ -137,7 +137,7 @@ the participant was required to respond with one of these postures:
 * Stand
 * Other
 
-The 12 scenarios came from a three variables in a $$2\times2\times3$$ layout.
+The 12 scenarios came from a three variables in a 2&nbsp;×&nbsp;2&nbsp;×&nbsp;3 layout.
 The variables were
 
 * Privacy level (public or private)
@@ -288,12 +288,12 @@ easily-interpreted method to check that the difference was significant.
 
 I estimated a 95% confidence interval based on a normal approximation
 of the binomial distribution. I conservatively assumed that the proportion
-was $$0.5$$ when computing the standard error. Also conservatively, I only
-computed it for the male sub-sample ($$n = 70$$ rather than $$n = 173$$).
+was 0.5 when computing the standard error. Also conservatively, I only
+computed it for the male sub-sample (*n* = 70 rather than *n* = 173).
 
 $$SE\left(p\right) = \sqrt{\frac{\hat{p}\times\left(1 - \hat{p}\right)}{n - 1}} = \sqrt{\frac{0.5^2}{69}}$$
 
-Then multiply it by $$z = 2$$ in each direction to get 12%, so we can
+Then multiply it by *z* = 2 in each direction to get 12%, so we can
 be quite confident that these percentages figures are within 12% of the
 actual. Well actually, because of the confidence level I chose, we
 should expect the proportion for one of the 24 above-tabulated scenarios
@@ -305,7 +305,7 @@ postures as toilets get dirtier.
 ### Do public toilets affect posture choice for reasons other than dirt?
 I checked simply whether posture was the same between the corresponding
 public and private conditions for each participant. This is six
-comparisons per participant, for each of the cleanliness $$\times$$ task
+comparisons per participant, for each of the cleanliness&nbsp;×&nbsp;task
 combinations.
 
 There were instances where posture was different, so the quick answer is
