@@ -292,20 +292,22 @@ was 0.5 when computing the standard error. Also conservatively, I only
 computed it for the male sub-sample (*n* = 70 rather than *n* = 173).
 
 <!-- $$SE\left(p\right) = \sqrt{\frac{\hat{p}\times\left(1 - \hat{p}\right)}{n - 1}} = \sqrt{\frac{0.5^2}{69}} -->
-<math>
-  SE(p)
-  =<msqrt>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>SE</mi>
+  <mo>(</mo>
+  <mi>p</mi>
+  <mo>)</mo>
+  <mo>=</mo>
+  <msqrt>
     <mfrac>
       <mrow>
-        <apply>
-          <times/>
-          <mi>phat</mi>
+          <mi>p̂</mi>
+          <mo>x</mo>
           <apply>
             <minus/>
             <mn>1</mn>
-            <mi>phat</mi>
+            <mi>p̂</mi>
           </apply>
-        </apply>
       </mrow>
       <mrow>
         <apply>
@@ -315,7 +317,8 @@ computed it for the male sub-sample (*n* = 70 rather than *n* = 173).
       </mrow>
     </mfrac>
   </msqrt>
-  =<msqrt>
+  <mo>=</mo>
+  <msqrt>
     <mfrac>
       <mrow>
         <msup>
