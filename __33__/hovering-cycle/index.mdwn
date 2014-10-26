@@ -301,19 +301,17 @@ computed it for the male sub-sample (*n* = 70 rather than *n* = 173).
   <msqrt>
     <mfrac>
       <mrow>
-          <mi>p̂</mi>
-          <mo>x</mo>
-          <apply>
-            <minus/>
-            <mn>1</mn>
-            <mi>p̂</mi>
-          </apply>
+        <mi>p&#770;</mi>
+        <mo>(</mo>
+          <mn>1</mn>
+          <mo>-</mo>
+          <mi>p&#770;</mi>
+        <mo>)</mo>
       </mrow>
       <mrow>
-        <apply>
-          <minus/>
-          <mi>n</mi>
-          <mn>1</mn>
+        <mi>n</mi>
+        <mo>-</mo>
+        <mn>1</mn>
       </mrow>
     </mfrac>
   </msqrt>
