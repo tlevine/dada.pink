@@ -539,7 +539,6 @@ annotating the clusters as I went. Here's the first cut.
 And here are the centroids. (I didn't cluster based on sex, but I included sex
 in the table below.)
 
-----------------------------|---------|----------
 Variable/Scenario           |Cluster 1|Cluster 2
 ----------------------------| ------- | -------
 male                        | 0.71739 | 0.04938
@@ -568,7 +567,6 @@ Here it is at six clusters, grouped.
      src="figure/a-6-plot.png"
      class="wide" />
 
-----------------------------|---- | ---- | ---- |---| ---- |---
 Variable/Scenario           |Cluster 1 | Cluster 2 | Cluster 3 | Cluster 4 | Cluster 5 | Cluster 6
 ----------------------------|---- | ---- | ---- |---| ---- |---
 male                        |0.77 | 0.73 | 0.07 | 1 | 0    | 0
@@ -858,7 +856,8 @@ to import the data, then I studied everything in R, using
 and all of [Hadley](http://had.co.nz/)'s libraries.
 The paper is mostly compiled with
 [knitr](http://yihui.name/knitr/) and
-[R Markdown](http://www.rstudio.com/ide/docs/r_markdown).
+[R Markdown](http://www.rstudio.com/ide/docs/r_markdown),
+and I manually edited the resulting markdown a bit.
 
 ## Proprietary references
 
