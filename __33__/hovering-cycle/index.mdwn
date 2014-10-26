@@ -291,7 +291,43 @@ of the binomial distribution. I conservatively assumed that the proportion
 was 0.5 when computing the standard error. Also conservatively, I only
 computed it for the male sub-sample (*n* = 70 rather than *n* = 173).
 
-$$SE\left(p\right) = \sqrt{\frac{\hat{p}\times\left(1 - \hat{p}\right)}{n - 1}} = \sqrt{\frac{0.5^2}{69}}$$
+<!-- $$SE\left(p\right) = \sqrt{\frac{\hat{p}\times\left(1 - \hat{p}\right)}{n - 1}} = \sqrt{\frac{0.5^2}{69}} -->
+<math>
+  SE(p)
+  =<msqrt>
+    <mfrac>
+      <mrow>
+        <apply>
+          <times/>
+          <mi>phat</mi>
+          <apply>
+            <minus/>
+            <mn>1</mn>
+            <mi>phat</mi>
+          </apply>
+        </apply>
+      </mrow>
+      <mrow>
+        <apply>
+          <minus/>
+          <mi>n</mi>
+          <mn>1</mn>
+      </mrow>
+    </mfrac>
+  </msqrt>
+  =<msqrt>
+    <mfrac>
+      <mrow>
+        <msup>
+          <mn>0.5</mn>
+          <mn>2</mn>
+        </msup>
+      </mrow>
+      <mrow>
+        <mn>69</mn>
+      </mrow>
+  </msqrt>
+</math>
 
 Then multiply it by *z* = 2 in each direction to get 12%, so we can
 be quite confident that these percentages figures are within 12% of the
