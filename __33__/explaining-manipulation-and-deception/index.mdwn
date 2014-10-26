@@ -1,18 +1,31 @@
-[[!meta title="On the study of silly behaviors"]]
-[[!meta description="How I recognize manipulation, deception, and other silly behaviors and then figure out why people are being manipulative and deceptive"]]
+[[!meta title="How to figure out why people are lying"]]
+[[!meta description="How I recognize when people are lying to themselves and others and then figure out why people are doing that"]]
 
 ## Abstract
-Manipulation and deception are often discussed as involving two groups
-or persons: the person doing the manipulation and the person being
-manipulated. I think of these practices as being more fundamentally
-about the controlling person. That is, when person A is manipulating
-person B, it is really that person A is manipulating himself or herself;
+Some time in your life, you may have seen one person (or group) being
+manipulative, deceptive, rude, mean, angry, &c., towards another
+person (or group). Such behaviors are often discussed as involving two
+persons: the person doing the manipulation and the person being
+manipulated.
+
+I think of these practices as being more fundamentally about the
+controlling person. That is, when person A is angry at person B and
+is manipulating person B, it is really that person A is angry at
+himself or herself and that person A is manipulating himself or herself;
 person A's implicit goal in controlling person B is to validate or to
 hide person A's feelings.
 
-This piece discusses how [I](/) identify manipulation and deception
-and then figure out why people are being manipulative or deceptive.
-I discuss common patterns from various scenarios.
+This piece discusses how [I](/) identify such behaviors and then figure
+out why people are displaying them. I also discuss common patterns from
+various scenarios.
+
+## Definition
+The word "lying" isn't quite appropriate to describe these behaviors,
+so I usually use the word "silly" to describe the collection of
+manipulative, deceptive, rude, mean, angry, &c. that I'm discussing.
+More precisely, I consider a behavior to be silly when it involves
+a person who is lying to himself or herself and is upsetting another
+person in the process.
 
 ## Relevance
 This knowledge can help you to understand people (including yourself),
@@ -31,8 +44,8 @@ slightly different focus discussed above.
 
 ## Contents
 
-1. [Identifying manipulation and deception](identify)
-2. [Explaining manipulation and deception](explain)
-3. [Three examples](examples) of how I identified manipulation and deception and then explained them
-4. [Common patterns of manipulation and deception](patterns): Specific things that you can watch for
-6. [Cool things you can do](what-to-do) when you think you understand someone
+1. [Identifying silly behaviors](identify)
+2. [Explaining silly behaviors](explain)
+3. [Three examples](examples) of how I identified silly behaviors and then explained them
+4. [Common patterns of silliness](patterns): Specific things that you can watch for
+5. [Cool things you can do](what-to-do) when you think you understand someone
