@@ -3,7 +3,7 @@ library(reshape2)
 library(scales)
 
 years.invested <- 65 - 20 # People supposedly retire at 65.
-prop.withdrawn <- 0.15 # Withdraw 15% of the initial investment every year, ignoring inflation
+prop.withdrawn <- 0.1 # Withdraw 10% of the initial investment every year, ignoring inflation
 stock.market.return <- c(1.06, 1.08)
 inflation <- 1.025 # 3% inflation
 median.no.college <- 5.8e5
@@ -15,8 +15,12 @@ colors <- c(tom = '#fe57a1',
 
 earnings.slope <- function(stock.market.return, prop.withdrawn) {
   f <- function(state, year) {
+    available <- state$money * stock.market.return
     withdrawal <- prop.withdrawn * inflation ^ year
-    new.state <- list(money = state$money * (stock.market.return - withdrawal))
+    if (withdrawal > available) {
+      withdrawal <- available
+    }
+    new.state <- list(money = available - withdrawal)
     new.state$withdrawals = state$withdrawals + withdrawal
     new.state
   }
@@ -45,21 +49,20 @@ retire <- data.frame(
   investment = 'Stock market',
   label.x = 1.5e5,
   earnings.intercept = 0,
-  earnings.slope = sapply(min(stock.market.return), function(rate)
+  earnings.slope = sapply(stock.market.return, function(rate)
                           earnings.slope(rate, prop.withdrawn))
 )
-retire$label.y <- 0.9 * retire$label.x * retire$earnings.slope
-retire$full.investment <- paste0(
-  'Stocks\nwith\nwithdrawals\n(', round(100 * (min(stock.market.return) - 1)), '%)')
+retire$label.y <- 0.5 * retire$label.x * retire$earnings.slope
+retire$full.investment <- c('', 'Stocks with withdrawals (6 to 8 %)')
 
 work <- data.frame(
   investment = 'Stock market and work',
-  label.x = 3e4,
+  label.x = c(1e5, 3.5e4),
   earnings.intercept = 0,
   earnings.slope = sapply(stock.market.return, function(rate)
                           earnings.slope(rate, 0))
 )
-work$label.y <- 2 * work$label.x * work$earnings.slope
+work$label.y <- 2e6
 work$full.investment <- paste0(
   'Stocks\nwithout\nwithdrawals\n(', round(100 * (stock.market.return - 1)), '%)')
 
@@ -80,13 +83,13 @@ p.base <- ggplot(both) +
   scale_y_continuous('Earnings (today dollars)',
                      limits = c(0, 3e6), labels = dollar)
 
-stock.retire.label <- 'Stock investment with withdrawals assumes annual
-withdrawals that start at 15% the cost of college and increase
-by 2.5% per year. (This serves as a salary.)'
+stock.retire.label <- 'Stock investment with
+withdrawals means you withdraw
+money instead of working.'
 
 no.college.salary <- round(median.no.college / years.invested / 1000)
 stock.work.label <- paste0(
-'Stock investment without withdrawals assume that you work
+'Stock investment without withdrawals means that you work
 a job that pays your living expenses but does not let you
 save money. On median, you can expect a yearly salary starting
 at $', no.college.salary, ',000 and increasing with inflation.')
@@ -102,9 +105,10 @@ p.predictions <- p.base +
                 vjust = 1.2,
                 lineheight = .8,
                 label = full.investment)) +
-  annotate('text', x = 2e5, y = 1e5, label = stock.retire.label,
-           color = unname(colors['retire']), hjust = 1, vjust = 0) +
+  annotate('text', x = 9e4, y = 5.5e5, label = stock.retire.label,
+           color = unname(colors['retire']), vjust = 1, lineheight = .8) +
   annotate('text', x = 0, y = 3e6, label = stock.work.label,
+           lineheight = .8,
            color = unname(colors['work']), hjust = 0, vjust = 1) +
   ggtitle('Predicted return on college and stock market investments')
 
