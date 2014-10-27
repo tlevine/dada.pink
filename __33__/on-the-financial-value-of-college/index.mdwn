@@ -69,7 +69,7 @@ on tuition. Let's consider both earnings and tuition. In order to be so
 detailed and still finish this in time to have lunch, however, I'm going to
 make you collect the empirical data.
 
-### Two investment choices
+### Three (really two) investment choices
 Because they adjusted for inflation, we can think of Brad and Melissa's
 lifetime earnings figures as lump sums of money that you
 recieve when you stop working. Because you probably spent all of your
@@ -77,14 +77,58 @@ college money within a few years (rather than across a lifetime), let's
 think of that as money that you invest when you are 20 and get some
 yearly return on.
 
-Let's assume that you make absolutely no money if you don't go to college.
-You probably would make some money, but this makes the math easier.
+#### College and work
+One thing you might do with this money is purchase a college education
+and then work afterwards. Brad and Melissa estimated how much money you
+might earn if you do this
+
+#### Not college and retire
+Can you retire on a college tuition? Let's see.
+We'll assume that you make absolutely no money if you don't go to college.
+(You probably would make some money, but I'll talk about that later.)
+Instead of going to college, you withdraw money every year to pay for your
+living expenses.
+
+For example, let's figure that you have saved up $100,000. Instead of going
+to college, you withdraw $15,000 (15%) the first year. Because of inflation,
+you have to withdraw more each year (Let's say 2.5% more).
+
+My choice of withdrawing 15% is a very conservative estimate.
+
+First, this is a high withdrawal rate, and you will run out of money before
+you get to 65; if you withdrew something closer to 7%, you not run out of
+money and would wind up earning more money in total.
+
+Second, this might be equivalent to a higher salary than you think.
+The money you have saved has already been taxed, so a withdrawal of $15,000
+might be much better than a salary of $15,000. I don't know tax rules
+very well, however, so I'm not sure.
+
+### Not college and work
+Perhaps you don't go to college and instead start working right away.
+Like the previous option, you don't spend your money on college, but
+instead of spending the money on living expenses, you work a job to
+cover your living expenses.
+
+You work until you are 65 and earn what a typical person who hasn't
+gone to college earns: A median lifetime earnings of $580,000 within
+that period, or $13,000 per year if you work for 45 years.
+(These are present-day figures,
+so both would really increase over your life.)
+
+You decide not to touch your college savings until you retire. That is,
+you neither deposit nor withdraw any money into your savings account until
+you are 65; you spend your entire $13,000 salary on living expenses.
+
+### Which investment?
+I just proposed three (really just two) things you might do with your
+college fund. Which makes sense?
 
 Imagine that you are concerned only about money and that you have decided
 to invest a certain amount of money (Call it "college tuition", even though
-it includes your housing and food and whatnot.) when you are 20 and then
-cash in your investment when you are 65. You may choose between two
-purchases: college or the stock market. Which one should you choose?
+it includes your housing and food and whatnot.) when you are 20. You may
+choose between two purchases: college or the stock market. Which one should
+you choose?
 
 I have drawn the plot below to help you with that.
 
@@ -96,10 +140,13 @@ The *x* axis is the amount of money that you invest; you invest it either
 in college or the stock market. The *y* axis is the amount of money that
 you expect to get back from the investment.
 
-The two slanted lines are for if you invest in the stock market.
-There are two lines because I made two different guesses as to how well
-you'll do. The lines are slanted because you'll make more money
-if you start with more money.
+The three slanted lines are for if you invest in the stock market.
+The two green lines are for if you work a low-paying job too, and the
+yellow line is for if you retire right after college.
+There are two lines for the "Stock market and work" scenario because I made
+two different guesses as to how well the stock market will do, as that
+substantially affects your earnings for that scenario. The lines are slanted
+because you'll make more money if you start with more money.
 
 The three horizontal lines are for if you go to college. The three lines
 correspond to two different college majors (early childhood education and
@@ -241,6 +288,24 @@ a "scholarship". Applying for scholarships is a large investment because it
 is a lot of work. Also, the exact scholarship that you get might limit the
 sorts of schooling and work that you can do; this exchange of reduced options
 in hope of more pay is another sort of investment.
+
+## Irrelevance of these findings
+The present study lumps all different people into the same group, using
+figures from two studies that take medians and means, respectively, from
+the entire United States. My present results are just as meaningless as
+those from any other wacky economic model.
+
+Some specific things that might make my model not relevant to the real
+world follow.
+
+* Having lots of savings might make you ineligible for various welfare
+    programs.
+* The amount of money you earn might depend more on your social class
+    than on whether you went to college.
+* It might matter where you went to college.
+* The cost figure is a mean, and the earnings figure is a median.
+    I suspect that the median cost of college is in fact much lower than
+    the mean cost of college.
 
 ## Conclusion
 I think that college can be a good financial investment if you put yourself
