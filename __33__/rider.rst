@@ -1,6 +1,11 @@
 [[!meta title="Tom's rider"]]
 [[!meta description="Things you might want to know if you are hosting or considering hosting Tom"]]
 
+Tom's Rider
+==============
+Here are some things you might want to know if you are hosting or
+considering hosting me.
+
 Sleeping
 ~~~~~~~~~
 I'm quite flexible as to where I `sleep </!/sleeping>`_. For example,
@@ -33,5 +38,5 @@ wake me up, and I'll adjust pillows so I stop snoring.
 
 Things
 ~~~~~~~~
-I want to give away `CSV files </dada/print-formaldehide>`_.
+I want to give away `CSV files </!/print-formaldehyde>`_.
 Remind me if I forget.
