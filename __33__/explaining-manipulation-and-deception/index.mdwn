@@ -2,33 +2,30 @@
 [[!meta description="There's usually a simple explanation, but it can take a while to come up with it."]]
 
 ## Abstract
-When someone is mean or rude, a common response is to say the person
-did something bad, to punish or ignore the person, and then to move on.
-When this happens more than a few times, I get very frustrated with the
-world because it appears that people are mean for no reason.
+When people are being mean for apparently no reason, it is easy for me
+to get quite frustrated with the world and to distrust everything.
+Will this person who was nice yesterday suddenly turn bad? Will I suddenly
+turn bad, and will everyone hate me then? I can hide my frustration by
+saying that the person is being mean because he or she is a bad person, but
+that leads to other unpleasant things because this is never the real reason.
 
-so it's usually a pretty
-good idea to just ignore people when they're acting like this.
+It turns out that there usually is a simple explanation that doesn't require
+me to hate the person nor the world; in the present piece, I'll show you how
+I come up with this explanation.
 
-The word "lying" isn't quite appropriate to describe these behaviors,
-so I usually use the word "silly" to describe the collection of
-manipulative, deceptive, rude, mean, angry, &c. that I'm discussing.
-More precisely, I consider a behavior to be silly when it involves
-a person who is lying to himself or herself and is upsetting another
-person in the process.
-
-
-
-I am always curious as to why people are ever mean, rude, manipulative,
-deceptive, and other silly things.
-
-This piece discusses how [I](/) identify such behaviors and then figure
-out why people are displaying them. I also discuss common patterns from
-various scenarios.
-This knowledge can help you to understand people (including yourself),
+My method can help you to understand people (including yourself),
 to recognize mindgames, and to be direct in communication. Moreover,
 I hope that it helps you empathise with people who are being mean,
 stressful, and rude.
+
+## Definition
+The word "lying" isn't quite appropriate to describe these behaviors,
+so I usually use the word "silly" to describe the collection of
+manipulative, deceptive, rude, mean, angry, &c. that I'm discussing.
+
+More precisely, I consider a behavior to be silly when it involves
+a person who is lying to himself or herself and is upsetting another
+person in the process.
 
 ## Why I write this
 I am usually quite interested by why anyone acts the way she or he does.
@@ -37,7 +34,9 @@ I thought to write this piece after learning from
 [neuro-linguistic programming](https://en.wikipedia.org/wiki/Neuro-linguistic_programming).
 I remarked that I pay attention to the
 same sorts of things (without having a name for them) but with the
-slightly different focus discussed above.
+slightly different focus discussed above: Rather than avoiding being
+manipulated, I am interested in understanding why someone would do
+something so bizarre.
 
 ## Contents
 
