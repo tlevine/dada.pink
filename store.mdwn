@@ -1,5 +1,5 @@
-<a href="/dada/pie-π/"><img src="/dada/pie-π/pie-π.jpg" alt='A letter "π" made of jumbled up letters, printed in green ink on off-white paper' /></a>
-<p><a href="/dada/pie-π/">pie π</a><br/>$2,000</p>
+<a href="/!/pie-π/"><img src="/!/pie-π/pie-π.jpg" alt='A letter "π" made of jumbled up letters, printed in green ink on off-white paper' /></a>
+<p><a href="/!/pie-π/">pie π</a><br/>$2,000</p>
 
-<a href="/dada/print-formaldehyde/"><img src="/dada/print-formaldehyde/csv-print.jpg" alt="Tom holding a CSV file in a letterpress shop" /></a>
-<p><a href="/dada/print-formaldehyde/"><code>print(Formaldehyde)</code></a><br/>$800</p>
+<a href="/!/print-formaldehyde/"><img src="/!/print-formaldehyde/csv-print.jpg" alt="Tom holding a CSV file in a letterpress shop" /></a>
+<p><a href="/!/print-formaldehyde/"><code>print(Formaldehyde)</code></a><br/>$800</p>
