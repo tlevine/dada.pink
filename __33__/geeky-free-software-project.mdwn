@@ -79,3 +79,26 @@ These 30-year-old programs are still better than everything else; that's
 why people still use them!
 
 ## I share with people
+I'm in a reasonably strange situation wherein I'm not worried about what
+the government will do to me if it knows everything about me, so I feel
+comfortable with posting tons of things publically on my website. There's
+
+* [All](http://small.dada.pink) [sorts](http://big.dada.pink)
+    of files I want to save
+* [Some organized things I've written](http://thomaslevine.com)
+* [Most of my calendar](http://small.dada.pink/schedule)
+
+Two notable categories of things that aren't public are
+
+* email, because it contains passwords and other people's personal information
+* things restricted by contracts, like music I have bought
+
+It is *so* much nicer to share things publically. With the public things,
+
+* I don't need to remember passwords and the like.
+* I can find the things with an ordinary web search
+* I can send things to other people easily.
+* I don't even have to send things to people; I can tell them vaguely what
+    the thing is, and they can search for it!
+
+Check out this email that I recently sent someone.
