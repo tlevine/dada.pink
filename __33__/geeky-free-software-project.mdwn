@@ -11,6 +11,29 @@ Let's break this into three things.
 3. Cool happen I can do because I share information.
 
 ## On sharing
+When things seem like magic, it's like the modification of my
+surroundings are beyond my control and I am dependent on some outside
+something. But real magic is rather uncommon, and recognizing that
+most things aren't magic gives me [agency](/!/why-i-like-hackerspaces/).
+
+I use computers to make *my* life easier. I get computers to help me
+[stay in touch with people](http://small.dada.pink/whom-to-email),
+[study myself](http://small.dada.pink/dadawarehouse),
+[study](/open-data)
+[other](/!/wrist-cracking)
+[things](/scarsdale),
+[remember things](http://small.dada.pink/schedule).
+My [email](/!/email) setup, in particular, is very cool but presently
+not documented.
+
+If you want to learn computer and don't have a particular reason to,
+I think you should learn
+[these computer things](/!/what-programming-to-learn/).
+
+How to write things
+    emacs, vim, or text manipulation in shell
+Better than DropBox
+    basics of scp, sftp, or rsync
 
 ## People share with me
 
