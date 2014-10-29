@@ -23,17 +23,19 @@ I use computers to make *my* life easier. I get computers to help me
 [other](/!/wrist-cracking)
 [things](/scarsdale),
 [remember things](http://small.dada.pink/schedule).
-My [email](/!/email) setup, in particular, is very cool but presently
-not documented.
 
 If you want to learn computer and don't have a particular reason to,
 I think you should learn
 [these computer things](/!/what-programming-to-learn/).
 
-How to write things
-    emacs, vim, or text manipulation in shell
-Better than DropBox
-    basics of scp, sftp, or rsync
+<dl>
+<dt>How to write things</dt>
+<dd>emacs, vim, or text manipulation in shell</dd>
+<dt>Better than DropBox</dt>
+<dd>basics of scp, sftp, or rsync</dd>
+<dt>Maybe some good email programs</dt>
+<dd>mutt, pine, notmuch, mh, &c. (My [email](/!/email) setup is very cool but presently not documented.)</dd>
+</dl>
 
 ## People share with me
 
