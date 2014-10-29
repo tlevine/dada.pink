@@ -24,7 +24,24 @@ I use computers to make *my* life easier. I get computers to help me
 [things](/scarsdale),
 [remember things](http://small.dada.pink/schedule).
 
+I use the word "sharing" because I think its meaning is a bit more
+generic than any of the various open openness words, which are totally
+meaningless. Consider the following, for example.
+
+* "Open source" software is usually not copyleft.
+* People talk about GitHub as if GitHub invented collaboration.
+* "[something in open data is fucked](https://twitter.com/lifewinning/status/489712000055144449)"
+* [Open data is all about the money](/!/open-data-is-all-about-money)
+
+We only need the word "open" because the norm is "closed" in some strange
+contexts. But "closed" wasn't always the norm, and calling things "open"
+doesn't mean that the norm has changed.
+
 ## People share with me
+Nice things happen when it's easy to exchange things and information.
+When something is simple enough to figure out or is complicated but
+comes with good documentation, I can use it easily. When something follows
+a standard
 
 If you want to learn computer and don't have a particular reason to,
 I think you should learn
@@ -39,7 +56,7 @@ I think you should learn
 <dd>mutt, pine, notmuch, mh, &c. (My [email](/!/email) setup is very cool but presently not documented.)</dd>
 </dl>
 
-These 30-year-old programs are still better than anything else; that's
+These 30-year-old programs are still better than everything else; that's
 why people still use them!
 
 ## I share with people
