@@ -1,0 +1,17 @@
+[Redon](http://skikuli.com) asked me to present a "geeky open source
+(and free software culture) related project [I] have done". This request
+seemed a bit odd at first because pretty much everything I do could be
+seen as related to free software/culture. So I decided that everything is
+a huge meta-project about exploring outrageous degrees of freedom.
+
+Let's break this into three things.
+
+1. The interesting part about free software/culture is just sharing.
+2. Cool things happen because people share information with me.
+3. Cool happen I can do because I share information.
+
+## On sharing
+
+## People share with me
+
+## I share with people
