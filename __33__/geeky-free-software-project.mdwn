@@ -24,6 +24,8 @@ I use computers to make *my* life easier. I get computers to help me
 [things](/scarsdale),
 [remember things](http://small.dada.pink/schedule).
 
+## People share with me
+
 If you want to learn computer and don't have a particular reason to,
 I think you should learn
 [these computer things](/!/what-programming-to-learn/).
@@ -37,6 +39,7 @@ I think you should learn
 <dd>mutt, pine, notmuch, mh, &c. (My [email](/!/email) setup is very cool but presently not documented.)</dd>
 </dl>
 
-## People share with me
+These 30-year-old programs are still better than anything else; that's
+why people still use them!
 
 ## I share with people
