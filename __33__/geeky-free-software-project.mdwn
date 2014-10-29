@@ -101,4 +101,78 @@ It is *so* much nicer to share things publically. With the public things,
 * I don't even have to send things to people; I can tell them vaguely what
     the thing is, and they can search for it!
 
-Check out this email that I recently sent someone.
+Here are some emails that I have recently sent.
+
+    From: Thomas Levine
+    To: (Some people)
+    Subject: Buzz buzz buzz
+
+    http://big.dada.pink/strata-2014.webm
+    http://thomaslevine.com/!/buzz-buzz-buzz/
+
+The body of the email is just links. Sending URLs rather than the content that
+is at the URLs is actually far easier than sending the content. Or, if I
+couldn't send URLs, I would probably develop something like a URL for indexing
+my content privately and use that to select the content.
+
+When I answer the same question multiple times, I start writing down the
+answer so that I don't have to answer it again. That's what I did in the
+next email.
+
+    From: Thomas Levine
+    To: (Someone)
+    Subject: University fundraiser
+
+    http://thomaslevine.com/!/university-fundraiser/ 
+
+Then I'm very quick to respond when I see the question on a mailing list.
+
+    From: Thomas Levine
+    To: NICAR-L@PO.MISSOURI.EDU
+    Subject: Re: [NICAR-L] Tracking text-ish documents and the
+      changes to documents over time
+
+    I think that lots of people write the same script that you describe;
+    here's my version.
+    http://thomaslevine.com/!/wsync/
+
+    Nowadays, I save the parsed HTTP response rather than just the body
+    of the response.
+    http://thomaslevine.com/!/web-sites-to-data-tables-in-depth/
+
+    Either way, they get saved as files. These files will be quite similar,
+    so you can save space with backup software that saves incremental changes
+    in the files.
+    http://obnam.org/
+
+Also, my conversations get much more interesting when people read the
+repetitive parts first. For example, here's an email that I sent someone
+while sitting next to her.
+
+    From: Thomas Levine <_@thomaslevine.com>
+    To: (Someone else)
+    Subject: Data data
+
+    Data and learning and cetera
+    http://thomaslevine.com/!/why-i-like-hackerspaces/
+    http://thomaslevine.com/datakind/
+    http://thomaslevine.com/!/making-your-personal-website/
+    http://thomaslevine.com/!/learning-data-stuff/
+    http://thomaslevine.com/!/bits/
+    
+    There's some stuff I missed, so you might find the search box helpful.
+    http://thomaslevine.com/ikiwiki.cgi?P=algorithm
+    
+    And I'm gonna go tag a bunch of these things with "learn" right now.
+    http://thomaslevine.com/learn/
+    
+    Other things
+    http://thomaslevine.com/stuff/
+    http://small.dada.pink/whom-to-email/README
+    http://small.dada.pink/dadawarehouse/README
+    http://thomaslevine.com/!/sleeping/
+
+I didn't have to remember all of that stuff I had written, so I only
+had to talk about the parts that I hadn't written about and to listen
+to the things that the other person had to say. Much more interesting,
+and much less work!
