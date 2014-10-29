@@ -40,8 +40,27 @@ doesn't mean that the norm has changed.
 ## People share with me
 Nice things happen when it's easy to exchange things and information.
 When something is simple enough to figure out or is complicated but
-comes with good documentation, I can use it easily. When something follows
-a standard
+comes with good documentation, I can use it easily. When something is
+complicated but follows a standard, I might not even need the
+documentation because I might already know how it works.
+
+I use software that other people made all the time. I also use houses
+and buses and clothes that other people made. In either case, it's
+easiest when the things follow conventions, when the things are
+inexpensive and easy to get, and when I have permission to use the things.
+A particularly neat aspect of free software is that you can usually install
+it quite easily with a package manager.
+
+I design my computer systems to be simple and standard so that I don't
+need to remember how they work. I package my computer things in standard
+packaging ways so that I don't even have to remember how to install
+things. In fact, I don't even have to keep backups because other people
+keep backups for me! I even have a
+[program that lists what programs I've made](https://pypi.python.org/pypi/tlevine).
+
+I am very relucant to learn new things, so I only do that when I know
+that what I learn will stay useful. That is, I only spend much time learning
+computer software if it is stable, good, and free.
 
 If you want to learn computer and don't have a particular reason to,
 I think you should learn
