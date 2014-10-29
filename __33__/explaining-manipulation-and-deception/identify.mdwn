@@ -1,49 +1,76 @@
 [[!meta title="Recognizing when people are being silly"]]
 [[!meta description=""]]
 
-
-Some time in your life, you may have seen one person (or group) being
-manipulative, deceptive, rude, mean, angry, &c., towards another
-person (or group). Such behaviors are often discussed as involving two
-persons: the person doing the manipulation and the person being
-manipulated.
-
-I think of these practices as being more fundamentally about the
-controlling person. That is, when person A is angry at person B and
-is manipulating person B, it is really that person A is angry at
-himself or herself and that person A is manipulating himself or herself;
-person A's implicit goal in controlling person B is to validate or to
-hide person A's feelings.
-
-
-
+## Pay attention when something seems off
 I sometimes get an odd feelings about things, and I sometimes try to figure
-out what the feelings are and where they're coming from.
+out what the feelings are and where they're coming from. Pay attention when
+you get odd feelings, and you'll eventually start to figure out what they
+mean. 
 
+The rest of this piece is only my attempt to organize the various things I
+have learned about silliness by paying attention to these feelings, and I am
+bound to have missed something. Moreover, paying attention to your feelings
+is a good idea in general, even if you're only concerned with boring things
+like health and money.
 
+## Silly behavior is about the person being silly
+Sometimes, we see a person (or group) trying to manipulate or deceive
+another person (or group). Such behaviors are often discussed as
+involving two persons: the person doing the manipulation and the person
+being manipulated.
 
+The same goes for when a person is being especially rude or angry.
+Something triggered the rudeness or anger, but the rudeness or anger
+is really about something broader and deeper and a bit more complicated.
 
-<!-- You might say that I have developed some intuition about this stuff. -->
+When person A is angry at person B and is manipulating person B, it is
+really that person A is angry at himself or herself and that person A
+is manipulating himself or herself; person A's implicit goal in
+controlling person B is to validate or to hide person A's feelings.
 
-## Exaggerations to fit in
+## Motivation for silliness
+Silliness occurs when it is hard for people to be as they want to be or
+to do as they want to do. For example, if someone is usually especially
+[consciencious](https://en.wikipedia.org/wiki/Big_Five_personality_traits#Conscientiousness)
+and is put in a situation where things are always crazy, that person
+might start doing silly things.
 
+### Typical life motivations
+You probably have some intuition about what people want in life.
+(It might just seem like common sense.) In case you think you don't,
+you might read what these various fancy people thought.
 
+* Big five
+* Erikson
+* Kohlberg
+* ...
 
-## Forced speech
-Sometimes, 
+I think that all of these are mostly right if you interpret them
+as they were intended to be interpreted.
 
-I recall finding myself in a circle of people where one person mentioned
-that he had just quit his job and then everyone except me (literally)
-applauded very loudly. That seemed a bit odd. I think that everyone either
-had just quit his/her job or was considering quitting his/her job and was
-looking for confirmation that he/she was making a good choice.
+### Reasons why it might be hard for someone to act on these motivations
 
-## Anger
+* Culture, norms
+* Money/power
+* Prejudice
+* Friend groups
+* Sudden changes
+
+### People get angry can't get what they want
 Even if people seem to be legitimately angry, there is probably something
 more complex going on. For example, lots of people get upset when the
 government does stupid things, but people who are involved with activism
 seem to be looking for something other than change in the government.
+That is, the people who want a change in environmental policy also want
 
-* Identity
-* Friendship
+* Food
+* A place to sleep
+* Homeliness
+* Friends
+* A purpose in life
 * ...
+
+Everyone else wants these things too, but it's harder for some people to
+get these things. The people who get particularly about not having one
+of these things are usually the ones who are having a hard time getting
+the other things.
