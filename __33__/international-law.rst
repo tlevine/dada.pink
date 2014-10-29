@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/Yugoslav_Wars
 I get an impression that the whole mess has something to do with
 continued rule by outsiders. And I heard a stronger version of this
 from someone from Serbia (I think), whom I met in Bosnia two years
-ago. Perhaps that aspect isn't news to you.
+ago. Well, yeah, duh, I should have known.
 
 The more interesting part is that I keep seeing references in these
 articles to "war crimes", "crimes against humanity". Here are some
@@ -19,7 +19,7 @@ https://en.wikisource.org/wiki/Rome_Statute_of_the_International_Criminal_Court
 
 Does these laws/entities call themselves "International" because
 they need to convince themselves that they're international when
-they're really just Western Europe and maybe the United States?
+they're really just Western Europe and the United States?
 
 It's seems a bit bizarre to me that these people would establish a
 court with offices in Europe and consider itself to have some
