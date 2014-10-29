@@ -93,7 +93,8 @@ Two notable categories of things that aren't public are
 * email, because it contains passwords and other people's personal information
 * things restricted by contracts, like music I have bought
 
-It is *so* much nicer to share things publically. With the public things,
+### Practical reasons for sharing everything you can
+It is *so* much easier to store personal things publically.
 
 * I don't need to remember passwords and the like.
 * I can find the things with an ordinary web search
@@ -101,7 +102,12 @@ It is *so* much nicer to share things publically. With the public things,
 * I don't even have to send things to people; I can tell them vaguely what
     the thing is, and they can search for it!
 
-Here are some emails that I have recently sent.
+I need a *really* good reason to convince me to store something privately;
+when I put things publically, other people do the cataloging work for me!
+
+### Facilitating communication
+Simplicity of storage is only the beginning of the benefits of sharing
+information. Consider some of the emails that I have recently sent.
 
     From: Thomas Levine
     To: (Some people)
@@ -111,10 +117,14 @@ Here are some emails that I have recently sent.
     http://thomaslevine.com/!/buzz-buzz-buzz/
 
 The body of the email is just links. Sending URLs rather than the content that
-is at the URLs is actually far easier than sending the content. Or, if I
+is at the URLs is actually far easier than sending the content; I don't have
+to worry about whether I copied things properly, the files I send don't have to
+be as large, and I don't have to tell people that they're allowed to share the
+stuff I send them. If I
 couldn't send URLs, I would probably develop something like a URL for indexing
 my content privately and use that to select the content.
 
+A lot of my emails are like the email above.
 When I answer the same question multiple times, I start writing down the
 answer so that I don't have to answer it again. That's what I did in the
 next email.
@@ -127,7 +137,7 @@ next email.
 
 I had actually already written up this account of the fundraiser, but it
 was tied up inside an email with some other private things, so I separated
-the public bits and put them on my website before sending the above email.
+the public bits and put them on my website right before sending the above email.
 
 When my writings are already easy to find on the internet, I don't have to
 worry about whether they contain private information; they clearly don't
