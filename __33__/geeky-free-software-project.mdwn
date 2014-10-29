@@ -125,7 +125,18 @@ next email.
 
     http://thomaslevine.com/!/university-fundraiser/ 
 
-Then I'm very quick to respond when I see the question on a mailing list.
+I had actually already written up this account of the fundraiser, but it
+was tied up inside an email with some other private things, so I separated
+the public bits and put them on my website before sending the above email.
+
+When my writings are already easy to find on the internet, I don't have to
+worry about whether they contain private information; they clearly don't
+contain private information, as I wouldn't have put them on the internet
+if they did. This is part of why it's so easy to share the information.
+
+If I have already written down the answer to a question and the answer is
+on a public website that is easy to find, I'm very quick to respond when I
+see the question on a mailing list.
 
     From: Thomas Levine
     To: NICAR-L@PO.MISSOURI.EDU
@@ -147,7 +158,7 @@ Then I'm very quick to respond when I see the question on a mailing list.
 
 Also, my conversations get much more interesting when people read the
 repetitive parts first. For example, here's an email that I sent someone
-while sitting next to her.
+while sitting next to her and talking about teaching "data" stuff.
 
     From: Thomas Levine <_@thomaslevine.com>
     To: (Someone else)
