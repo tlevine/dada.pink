@@ -9,13 +9,25 @@ curious about why people do anything else.
 My favorite color is [pink](/img/me-420.png).
 
 ## Ergonomics
-I started playing with computers since I was about 13.
-By back and wrists started hurting a couple years later.
-Then I started studying ergonomics.
-Then my back and wrists didn't hurt as much.
-And then I went to university and got a degree in ergonomics.
+I apparently know something about
+[ergonomics](https://en.wikipedia.org/wiki/Human_factors_and_ergonomics).
+I have made assembly lines for fun since as long as I remember,
+and I noticed that it was weird only at university while I was
+making a snow fort with some other people.
+It seems also that I pay unusually much attention to why and how
+[people](http://small.dada.pink/dadawarehouse/README)
+[do](/!/hovering-cycle/)
+[things](/!/reciprocity/).
 
-## Computer toys
+<!-- (/!/why-do-people-crack-wrists/) -->
+
+My back and wrists started hurting when I was about 13. It might
+have had something to do with me playing cello and using computers
+a lot. Then I started reading and doing ergonomicsy things related to
+how backs and wrists work. And then my back and wrists didn't hurt as
+much. And then I went to university and got a degree in ergonomics.
+
+## Computer
 When I'm not sleeping, I sometimes makes things that
 [do](http://small.dada.pink/whom-to-email/README)
 [my](/!/geeky-free-software-project)
@@ -26,11 +38,6 @@ intuition in math and then repeat stupid things
 [many](/!/searching-data-tables-better/)
 [many](/open-data)
 [times](http://pypi.python.org/pypi/pluplusch).
-I'm also curious about
-[why]()
-[people](http://small.dada.pink/dadawarehouse/README)
-[do](/!/hovering-cycle)
-things.
 This might be why people started calling me a data scientist.
 
 I usually doesn't like talking about computers, or at least not in the
