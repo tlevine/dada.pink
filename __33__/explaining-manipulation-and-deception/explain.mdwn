@@ -74,8 +74,24 @@ different quirks that are indicative of particular things.
 ### Pay attention to the questions people ask
 
 ### Things that are written about someone were often written by that someone
+You can find a one-paragraph "bio" about many persons. These might appear
+in a text that the person contributed to or on the website of an organization
+that the person works/volunteers/whatever for. The person that a bio describes
+is usually also the person who wrote the bio.
 
-### Ignore the topic of discussion and instead ask why
+Some people have more of a presence on the internet. They may have personal
+websites, and they might have written the copy for websites about their
+projects and organizations.
+
+GDELT: *He* did it
+Mason: She's *big*.
+Tom: Indecisive? Does crazy stuff? Pink?
+
+Some things that I notice but haven't come up with an explanation for
+
+"made with <3" on computer sites.
+
+### Ask why people do things
 
 Everyone stops for a moment when you ask the right question.
 
