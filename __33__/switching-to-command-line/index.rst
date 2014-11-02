@@ -3,7 +3,7 @@ Graphical programs that Redon uses and some suggested CLI equivalents
 Thunderbird
     Setting up mutt and everything would be a bit of work, but maybe just a search thing, for example, could help.
 Banshee
-    mplayer
+    I use `mplayer <mplayer>`_ for music.
 LibreOffice
     Hmm really just latex or text files or maybe a markdown to pdf thing
 Transmission

@@ -1,0 +1,18 @@
+I play music and video files with
+[mplayer]().
+I usually run a command like one of the following
+
+    mplayer this-song.ogg # play a song
+    mplayer this-album/04-that-song.mp3 # play another song
+    mplayer this-album/* # play all the songs in this album
+    mplayer this-artist/*/* # play all of the songs by this artist
+
+I sometimes use the `-shuffle` flag.
+
+    mplayer -shuffle this-album/*
+
+I don't listen to music very much, and I don't usually use many
+other features of mplayer. But it supports playlists, streams,
+and so on; read more at
+
+    man mplayer
