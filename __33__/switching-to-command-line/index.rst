@@ -5,10 +5,10 @@ Thunderbird
 Banshee
     I use `mplayer <mplayer>`_ for music.
 LibreOffice
-    Hmm really just latex or text files or maybe a markdown to pdf thing
+    Depending on what he's doing, LaTeX or other text files or maybe a markdown to pdf thing
 Transmission
-    I still use the GUI for this
+    I still use the GUI for this. (And I use either Transmission or Deluge.)
 Screenshots
-    This is the easiest one! It's called `import <import>`, and it's in imagemagick.
+    This is the easiest one! It's called `import <import>`_, and it's in imagemagick.
 Calculator
-    Any interpreted language
+    Any interpreted language would be great. More `here <calculator>`_

@@ -1,0 +1,103 @@
+[[!meta title="Replacing the graphical calculator with a CLI"]]
+[[!meta description="It's kind of easy, but there are also some quirks."]]
+
+You might use a graphical calculator thingy and want to switch for a
+command-line calculator. Pretty much any language with a shell will
+work just fine, but some are more convenient than others. Here are some
+languages you might try.
+
+## Python
+Using Python as a calculator is rather straightforward, and you can easily
+install Python even on Windows. Run `python` to open the python shell, and
+then type your math.
+
+    $ python
+    Python 3.4.2 (default, Oct  8 2014, 13:44:52) 
+    [GCC 4.9.1 20140903 (prerelease)] on linux
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>> 2 + 2
+    4
+    >>> 3 * (5 + 3) / 8
+    3.0
+    >>> 2 ^ 4 # WATCH OUT FOR THIS
+    6
+    >>> 2 ** 4
+    16
+
+The main thing to watch out for is the exponentiation operator, which is
+`**`. The `^` operator means
+[binary or (xor)]().
+This has something to do with the way that the number is represented in
+the computer as [bits and bytes](); you probably don't want to use it.
+
+Some of the functions are inside the `math` module.
+
+    >>> import math
+    >>> math.log(100) # base e by default
+    4.605170185988092
+    >>> math.log(100, 10)
+    2.0
+
+You can get a list of the functions like so.
+
+    >>> dir(math)
+    ['__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', 'acos', 'acosh', 'asin', 'asinh', 'atan', 'atan2', 'atanh', 'ceil', 'copysign', 'cos', 'cosh', 'degrees', 'e', 'erf', 'erfc', 'exp', 'expm1', 'fabs', 'factorial', 'floor', 'fmod', 'frexp', 'fsum', 'gamma', 'hypot', 'isfinite', 'isinf', 'isnan', 'ldexp', 'lgamma', 'log', 'log10', 'log1p', 'log2', 'modf', 'pi', 'pow', 'radians', 'sin', 'sinh', 'sqrt', 'tan', 'tanh', 'trunc']
+
+
+## bc
+If you are running anything other than Windows, you probably already have `bc`.
+You should run it with the `-l` flag so that you get added features like
+decimals. That is, run `bc -l`, and then you can type the math.
+
+    $ bc -l
+    bc 1.06.95
+    Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006 Free Software Foundation, Inc.
+    This is free software with ABSOLUTELY NO WARRANTY.
+    For details type `warranty'. 
+    2 ^ 10
+    1024
+    3 + 5 - (3 + 4) * 2
+    -6
+    2 ^ (-4)
+    .06250000000000000000
+    3 / 2
+    1.50000000000000000000
+
+## JavaScript
+You can get JavaScript in your web browser or with something like
+[node]().
+Some of the math functions are a bit annoying, but I mention JavaScript
+because it's rather common. Type `node` and then type your math.
+
+    $ node
+    > 2  * ( 3 - 23)
+    -40
+
+Like with Python, the `^` operator is binary or (xor) and not exponentiation.
+Exponentiation is a bit inconvenient; it's called `Math.pow`.
+
+    > 2 ^ 4
+    6
+    > Math.pow(2, 4)
+    16
+
+## Haskell
+And pretty much any language will be just fine; here's Haskell.
+
+    $ ghci
+    GHCi, version 7.8.3: http://www.haskell.org/ghc/  :? for help
+    Loading package ghc-prim ... linking ... done.
+    Loading package integer-gmp ... linking ... done.
+    Loading package base ... linking ... done.
+    Prelude> 3 * (4 - 23)
+    -57
+    Prelude> 2 ^ 10
+    1024
+
+Haskell matches my expectations much better; exponentiation is `^`,
+and logarithms are easy.
+
+    Prelude> log 8
+    2.0794415416798357
+    Prelude> logBase 10 1000
+    2.9999999999999996
