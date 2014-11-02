@@ -12,3 +12,12 @@ Screenshots
     This is the easiest one! It's called `import <import>`_, and it's in imagemagick.
 Calculator
     Any interpreted language would be great. More `here <calculator>`_
+
+Arandjel
+
+Firefox, Gmail
+    ...
+Thunderbird
+    x
+LibreOffice
+    x
