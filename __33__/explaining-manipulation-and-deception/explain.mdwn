@@ -72,6 +72,17 @@ on for the person. The section on [patterns](patterns) is organized around
 different quirks that are indicative of particular things.
 
 ### Pay attention to the questions people ask
+There are a lot of possible questions that you could ask as smalltalk, so
+even smalltalk might you something. But they're also smalltalk, so they
+might just tell you that the people hang around people who make that type
+of smalltalk.
+
+"What do you do?" might mean that the person is wondering what she does.
+She might be considering changing jobs, she might identify strongly with
+her work, and she might be looking for work. This question also pops up
+when people are starting their first real jobs; when they're looking for
+work, they're wondering what they should do, and when they have just started,
+they're wondering what they should do next.
 
 ### Things that are written about someone were often written by that someone
 You can find a one-paragraph "bio" about many persons. These might appear
