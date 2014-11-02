@@ -3,10 +3,22 @@
 
 ## Motivation for silliness
 Silliness occurs when it is hard for people to be as they want to be or
-to do as they want to do. For example, if someone is usually especially
+to do as they want to do. I'm only satisfied if the desire seems to be a
+very fundamental animal/human motivation.
+
+For example, if someone is usually
 [consciencious](https://en.wikipedia.org/wiki/Big_Five_personality_traits#Conscientiousness)
-and is put in a situation where things are always crazy, that person
-might start doing silly things.
+but wants to fit in with a group that is particularly unconscienciousness,
+the person might start telling himself that he is very unconsciencious;
+furthermore he might decide that conscienciousness is bad and that everyone
+should become unconsciencious.
+
+Or, if a person is looking for a purpose in life and can't find one, she
+might try very hard to convince herself that she does have purpose; also,
+she might advise people as to how they might find purpose in life.
+
+Silliness, and grumpiness in general, are aggrevated by other
+unpleasant/stressful things, like being hungry or tired.
 
 ### Typical life motivations
 You probably have some intuition about what people want in life.
@@ -54,6 +66,10 @@ Silliness can usually be explained with the reasons above, but we still
 need to figure out exactly what the reason is. Here are some things I do
 as I am trying to figure out the specific motivation for a particular
 person's silliness.
+
+These things are general strategies for digging deeper into what's going
+on for the person. The section on [patterns](patterns) is organized around
+different quirks that are indicative of particular things.
 
 ### Pay attention to the questions people ask
 
