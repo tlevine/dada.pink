@@ -9,6 +9,6 @@ LibreOffice
 Transmission
     I still use the GUI for this
 Screenshots
-    This is the easiest one! ``import``!
+    This is the easiest one! It's called `import <import>`, and it's in imagemagick.
 Calculator
     Any interpreted language
