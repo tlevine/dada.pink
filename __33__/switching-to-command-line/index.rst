@@ -3,7 +3,8 @@ Let's write down some things that we do with graphical interfaces
 and then figure out how to do them with command line interfaces.
 And then we can write drections so that we can look up how to do
 these things when we forget (and also so other people can read them).
-
+Note: this started during Wikipedia Weekend in Tirana 2014 (http://openlabs.cc/si-te-perdorim-command-line/), where Redon became curious about how it could be using his computer only using command line. So they agreed to host a workshop and invite people that might be interested on something like this. Orven, Elio, Ilda and Greta showed up to the workshop. 
+Things also progressed when Besfort organized the same workshop in Prishtina.  
 
 Graphical programs that Redon uses and some suggested CLI equivalents
 
