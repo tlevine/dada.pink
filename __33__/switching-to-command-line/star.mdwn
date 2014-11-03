@@ -1,0 +1,16 @@
+    [tlevine@arch music]$ ls
+    Belly_Dancing_Stuff1  Médine - Boulevard Auriol (Official Clip).mp4
+    Belly_Dancing_Stuff2  Pulse of the Sphinx 2: Rhythm Drills
+    Belly_Dancing_Stuff3  Zill_Speak-Zill_Speak
+    Djoumbush
+    [tlevine@arch music]$ echo *
+    Belly_Dancing_Stuff1 Belly_Dancing_Stuff2 Belly_Dancing_Stuff3 Djoumbush Médine - Boulevard Auriol (Official Clip).mp4 Pulse of the Sphinx 2: Rhythm Drills Zill_Speak-Zill_Speak
+    [tlevine@arch music]$ echo B*
+    Belly_Dancing_Stuff1 Belly_Dancing_Stuff2 Belly_Dancing_Stuff3
+    [tlevine@arch music]$ echo D*
+    Djoumbush
+    [tlevine@arch music]$ echo *.mp4
+    Médine - Boulevard Auriol (Official Clip).mp4
+    [tlevine@arch music]$ echo B*3
+    Belly_Dancing_Stuff3
+
