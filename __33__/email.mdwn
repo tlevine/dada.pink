@@ -1,0 +1,14 @@
+Here's how I look for people's email addresses.
+
+    $ notmuch search elio
+    thread:000000000002fd3a   Thu. 20:26 [12/13] Redon Skikuli, Thomas Levine, Elio Qoshi; [_@thomaslevine.com: Re: Hi] (inbox replied signed)
+    thread:0000000000007925   2013-05-17 [1/3] Jake Porway| Thomas Levine, Craig Barowsky; Project write-up help (flagged inbox)
+    thread:00000000000075d1   2013-04-16 [1/1] Stack Exchange; Cross Validated Weekly Newsletter - Tuesday, April 16, 2013 (inbox unread)
+    thread:000000000000d9a8   2010-12-17 [1/1] Jeff Stark; nonsensenyc: 12.17 to 12.22 (inbox)
+    thread:000000000000d967   2009-10-23 [1/1] Jeff Stark; nonsensenyc: 10.23 to 10.29 (inbox)
+    $ address Elio
+    alias elio.someone Elio Someone <elio@some-domain.com> 
+    $ address Elio >> ~/.mutt/aliases/people 
+    $ 
+
+Here's how that all works.
