@@ -57,4 +57,28 @@ And then look at the help
 
     /help
 
-I think `/again` is an important command.
+Here are some commands
+
+(No command--just typing something)
+    Tweet the message that you have typed.
+`/refresh`
+    Recent tweets
+`/delete`
+
+
+An example of deleting:
+
+    c7> <eddietejeda> So sad: "Virgin Galactic’s SpaceShipTwo Crashes During Test Flight" http://nyti.ms/1tp6Hvn
+    c8> (x2) <%blejman> RT @martinvirdis: "Si una imagen vale mil palabras, un MVP vale mil reuniones" #leanstartup cc: @blejman
+    c9> <thomaslevine> Hi
+    -- checking for most recent direct messages:
+    [DM da0][vonneudeck/Tue Oct 21 11:03:23 +0000 2014] do you have a t-mobile USA sim that i could borrow for a few minutes?
+    [DM da1][vonneudeck/Tue Oct 21 12:00:01 +0000 2014] I need to unlock a US phone
+    -- notification: API rate limit is currently 15 req/15min
+    -- no version check performed (use /vcheck, or -vcheck to check on startup)
+    -- you are logged in as thomaslevine
+    /refresh
+    TTYtter> d0> <nicolastorzec> The registration for Skype's real-time speech translator is open: http://www.skype.com/en/translator-preview/
+    d1> <emorisse> OpenStack maturation, 3 reasons more than technology by @dhdeans http://red.ht/1wXKp6p
+    /delete c9
+
