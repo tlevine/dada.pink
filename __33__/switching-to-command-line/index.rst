@@ -35,3 +35,15 @@ LibreOffice
 * Sublime text
 * XAMPP
 * LibreOffice
+
+
+
+
+Notebook (Greta)
+
+LibreOffice, Correct typos
+    Instead, use any text editor
+Copy, paste
+    xclip
+Spell check
+    aspell
