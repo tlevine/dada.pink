@@ -28,3 +28,9 @@ Thunderbird
     x
 LibreOffice
     x
+
+
+* Notepad++
+* Sublime text
+* XAMPP
+* LibreOffice
