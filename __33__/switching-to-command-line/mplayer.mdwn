@@ -13,6 +13,12 @@ I sometimes use the `-shuffle` flag.
 
     mplayer -shuffle this-album/*
 
+I don't ever use the `-playlist` flag, but here's how you do it.
+
+    echo 'this-song.ogg
+    that-song.ogg' > my-playlist
+    mplayer -playlist my-playlist
+
 I don't listen to music very much, and I don't usually use many
 other features of mplayer. But it supports playlists, streams,
 and so on; read more at
