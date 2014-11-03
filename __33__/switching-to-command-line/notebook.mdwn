@@ -1,0 +1,19 @@
+
+    xclip blog-post.html
+
+Then hit the middle mouse button to paste
+
+    aspell check blog-post.html
+
+If you make any changes, it saves the old one as `blog-post.html.bak`.
+
+    aspell check -H blog-post.html
+
+From `man aspell`
+
+    --mode=<string>, -e, -H, -t, -n
+           Sets  the  filter  mode.  Mode is one of none, url, email, html,
+           tex or nroff.  The alternative shortcut  options  are  '-e'  for
+           email, '-H' for Html/Sgml, '-t' for Tex or '-n' for Nroff.
+
+
