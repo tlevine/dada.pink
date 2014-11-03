@@ -7,6 +7,8 @@ I usually run a command like one of the following
     mplayer this-album/* # play all the songs in this album
     mplayer this-artist/*/* # play all of the songs by this artist
 
+(Press "q" to close.)
+
 I sometimes use the `-shuffle` flag.
 
     mplayer -shuffle this-album/*
