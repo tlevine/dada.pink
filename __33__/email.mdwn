@@ -12,3 +12,25 @@ Here's how I look for people's email addresses.
     $ 
 
 Here's how that all works.
+
+`notmuch` is a normal program that I just installed and configured.
+I didn't actually need to run it; I just did that to show that I have
+some emails containining "elio".
+
+Here's `address`.
+
+    address() {
+      name="$1"
+      
+      # Search my emails.
+      notmuch show from:"$name" or to:"$name"|grep -vi '\(twitter\|tweet\|linkedin\)' | grep "$name"|grep -m1 '[^ ]@'|cut -d: -f2|
+        sed 's/>.*$/>/' |
+        tr , '\n'|sed -n "/$name/ s/^ *\([^<]*\)/\1\n\1/p" |
+        sed '1 s/ *$//' | sed '1 s/ /./g' | sed '1 s/\(.*\)/alias \L\1/' |
+        tr '\n' ' '
+      echo
+    }
+
+That looks through my emails for an email address with "elio" that seems
+not to be from Twitter or LinkedIn. Then it formats the address in mutt's
+alias (address book) format.
