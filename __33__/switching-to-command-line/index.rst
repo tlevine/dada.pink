@@ -47,3 +47,6 @@ Copy, paste
     xclip
 Spell check
     aspell
+
+
+Twitter (Elio): `ttytter`
