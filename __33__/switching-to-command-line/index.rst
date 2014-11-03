@@ -1,3 +1,10 @@
+Do you want to use command lines more and window/buttons less?
+Let's write down some things that we do with graphical interfaces
+and then figure out how to do them with command line interfaces.
+And then we can write drections so that we can look up how to do
+these things when we forget (and also so other people can read them).
+
+
 Graphical programs that Redon uses and some suggested CLI equivalents
 
 Thunderbird
