@@ -50,3 +50,7 @@ Spell check
 
 
 Twitter (Elio): `ttytter`
+
+
+The command line is better, but it takes a while to learn, so Tom
+uses the graphical interfaces until he learns the command line.

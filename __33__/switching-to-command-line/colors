@@ -1,0 +1,11 @@
+[tlevine@arch urchin]$ printf '\033[31m   Color 31 \n'
+   Color 31 
+[tlevine@arch urchin]$ printf '\033[32m   Color 3oeuaoeu \n'                    
+   Color 3oeuaoeu 
+[tlevine@arch urchin]$ printf '\033[32m   Col\033[35mors \n'                    
+   Colors 
+[tlevine@arch urchin]$ export PS1='\033[35m!!\033[32m!!\033[39m '
+!!!! ls
+HISTORY  cross-shell-tests  readme.md  urchin
+LICENCE  package.json       tests      website
+
