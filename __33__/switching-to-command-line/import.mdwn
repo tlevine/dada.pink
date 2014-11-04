@@ -1,0 +1,16 @@
+
+
+    $ sudo -i
+    [sudo] password for orven:
+    # history
+        1  apt-get install imagemagic
+        2  apt-get install imagemagick
+        3  history
+    # exit
+    logout
+    $ import
+    import.im6: missing an image filename `import' @ error/import.c/ImportImageCommand/1302.
+    $ import a.png
+    $ pwd
+    /home/orven
+    $ import b.png
