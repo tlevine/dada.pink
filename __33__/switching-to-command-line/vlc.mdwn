@@ -1,0 +1,19 @@
+Don uses VLC for watching movies and playing songs, and he uses mostly the basic features.
+
+But some fancier features
+
+* Slowing down video
+
+VLC has a command line thing.
+mplayer has all of the same features, too.
+
+When you run vlc from the command line, it
+opens the video window with buttons and stuff.
+
+    vlc Médine\ -\ Boulevard\ Auriol\ \(Official\ Clip\).mp4
+
+
++ and - for speed
+
+
+https://wiki.videolan.org/Command_line/
