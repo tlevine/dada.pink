@@ -555,7 +555,7 @@ body {
   background-color: #111;
 }
 nav#pageinfo, html, body, .page { margin: 0; padding: 0; border-style: none; }
-.pageheader {background-color: grey;}
+.pageheader {background-color: #444;}
 
 a {
   text-decoration: none;
