@@ -9,7 +9,6 @@ Here's how I look for people's email addresses.
     $ address Elio
     alias elio.someone Elio Someone <elio@some-domain.com> 
     $ address Elio >> ~/.mutt/aliases/people 
-    $ 
 
 Here's how that all works.
 
@@ -34,3 +33,10 @@ Here's `address`.
 That looks through my emails for an email address with "elio" that seems
 not to be from Twitter or LinkedIn. Then it formats the address in mutt's
 alias (address book) format.
+
+Notmuch also organizes things by thread; here's a common way I use notmuch.
+
+    notmuch search flossk
+    notmuch search thread:00000000000260a0
+    notmuch show thread:00000000000260a0
+
