@@ -5,6 +5,11 @@
 * ``:split`` and ``:vsplit`` and switching windows
 * Opening directories, or ``:Explore``
 
+Switching windows in splits
+
+* ``:bn``, &c. to switch files
+* control + w, then an arrow key to switch windows
+
 The tree browser thingy (because Sublime lets you look at files)
 
 * http://vim.wikia.com/wiki/Use_Vim_like_an_IDE
