@@ -267,3 +267,10 @@ a lot of things, organize them and write about them. Don't worry very
 much at first about making the website pretty; just get things started.
 And in designing your website, focus on making it easy for you to add
 content rather than on making it pleasant for other people to view.
+
+## Other resources
+I found some other nice directions on a belly dancing website.
+
+* [Belly Dancing Tech Talk ](http://www.shira.net/techtalk.htm)
+* [Starting Your Own Web Site](http://www.shira.net/web02-start.htm)
+* [Web Site Hygiene](http://www.shira.net/techtalk/web-hygiene.htm)
