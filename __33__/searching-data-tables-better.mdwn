@@ -73,7 +73,7 @@ these datasets.
 These "datasets" are usually spreadsheets;
 how do we figure out what's in a bunch of spreadsheets today?
 
-![A spreadsheet](/!/pagerank-for-spreadsheets/bus-spreadsheet.png)
+![A spreadsheet](/!/silly-spreadsheets-2014-07/bus-spreadsheet.png)
 
 We could manually look at every cell in every spreadsheet,
 but this would take a long time.
@@ -113,7 +113,7 @@ of data. Here are some examples.
 When I say "schema", I loosly mean "a definition of
 what the columns should be and what the rows mean".
 
-![](/!/pagerank-for-spreadsheets/hovering-schema.png)
+![](/!/silly-spreadsheets-2014-07/hovering-schema.png)
 
 For example, I'll tell you a bit about the schema of this spreadsheet.
 I asked a bunch of people how they use toilets in differenc scenarios,
@@ -141,15 +141,15 @@ repositories of spreadsheets let people make graphs.
 
 On the French national rail company data site, you can look at tables,
 
-![](/!/pagerank-for-spreadsheets/sncf-tableau.png)
+![](/!/silly-spreadsheets-2014-07/sncf-tableau.png)
 
 but you can also make graphs!
 
-![](/!/pagerank-for-spreadsheets/sncf-analyse.png)
+![](/!/silly-spreadsheets-2014-07/sncf-analyse.png)
 
 OpenData Lombardia does it too!
 
-![](/!/pagerank-for-spreadsheets/lombardia-grafico.png)
+![](/!/silly-spreadsheets-2014-07/lombardia-grafico.png)
 
 These graphs are nice, but we still have the same problem as before:
 Even if we have the most perfect graphs about each separate spreadsheet,
@@ -290,7 +290,7 @@ about what it would mean to have a search engine for spreadsheets.
 When we search for ordinary written documents, we send words into a search
 engine and get pages of words back.
 
-![](/!/pagerank-for-spreadsheets/wordsearch.png)
+![](/!/silly-spreadsheets-2014-07/wordsearch.png)
 
 What if we could search for spreadsheets
 by sending spreadsheets into a search engine and getting spreadsheets back?
@@ -298,7 +298,7 @@ The order of the results would be determined by various specialized statistics;
 just as we use PageRank to find relevant hypertext documents, we can develop
 other statistics that help us find relevant spreadsheets.
 
-![](/!/pagerank-for-spreadsheets/commasearch.png)
+![](/!/silly-spreadsheets-2014-07/commasearch.png)
 
 So now I'm looking for ways to do interesting searches on spreadsheets.
 
@@ -398,7 +398,7 @@ to run this on lots of spreadsheets.
 In [blizzard](https://pypi.python.org/pypi/blizzard), I find spreadsheets with
 the same unique indices, and then I look for overlap between those spreadsheets.
 
-![](/!/pagerank-for-spreadsheets/network.png)
+![](/!/silly-spreadsheets-2014-07/network.png)
 
 Spreadsheets with high overlap might be good to join to each other, and
 spreadsheets with low overlap might be good to union with each other.
