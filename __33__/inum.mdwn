@@ -1,0 +1,15 @@
+[[!meta title="International Number"]]
+[[!meta description="How to call me for cheap or free"]]
+
+Calling me on the phone from another country might ordinarily be expensive
+for you, so I have an [international number (iNum)](http://www.inum.net/).
+
+> [883510009902082](tel:883510009902082)
+
+iNums are supposed to be effectively local numbers regardless of where you
+are in the world, but many providers don't implement that properly, so you
+can use an
+[access number](http://www.inum.net/what-is-inum-2/local-access-numbers/)
+for the region you are calling me from. Here are
+[directions](http://www.inum.net/call-inum-from-your-cell-phone/)
+for saving the combined access number and iNum in your phone.
