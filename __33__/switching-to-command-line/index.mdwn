@@ -10,28 +10,28 @@ these things when we forget (and also so other people can read them).
 Origins
 -----------
 This started during
-`Wikipedia Weekend in Tirana 2014 <http://openlabs.cc/si-te-perdorim-command-line/>`_,
+[Wikipedia Weekend in Tirana 2014](http://openlabs.cc/si-te-perdorim-command-line/),
 where Redon saw Tom doing some rather ordinary things on a command line and
 became curious about what it would be like to use his computer only with only
 the command line. So they agreed to host a
-`workshop <https://www.facebook.com/events/641664715945800/>`_
+[workshop](https://www.facebook.com/events/641664715945800/)
 and invite people that might be interested on something like this.
 Orven, Elio, Ilda and Greta showed up to the workshop. 
 Tom also led a
-`similar workshop <https://www.facebook.com/flossk/posts/10152783280447834>`_
-at `Prishtina Hackerspace <http://www.prishtinahackerspace.org/>`_.
+[similar workshop](https://www.facebook.com/flossk/posts/10152783280447834)
+at [Prishtina Hackerspace](http://www.prishtinahackerspace.org/).
 And this has continued in other contexts ever since.
 
 Process
 ------------
 I asked people what graphical programs they used. People used music
-players like `Banshee <http://banshee.fm/>`_,
-word processors like `LibreOffice <https://www.libreoffice.org/>`_,
-email clients like `Thunderbird <https://www.mozilla.org/en-US/thunderbird/>`_,
+players like [Banshee](http://banshee.fm/),
+word processors like [LibreOffice](https://www.libreoffice.org/),
+email clients like [Thunderbird](https://www.mozilla.org/en-US/thunderbird/),
 and many other things.
 These are all rather huge concepts, so we're not going to find one
 command that replaces everything; that would be against the
-`Unix philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>`_.
+[Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy).
 Instead, we pick apart the details of each program and find programs
 that do each part.
 
@@ -39,24 +39,24 @@ Results
 ------------
 Here are some things that we found command-line equivalents for.
 
-* `Text editing for web development <vim>`_
-* `Taking screenshots <import>`_
-* `Playing music <mplayer>`_
-* `Word processing <notebook>`_
-* `Twitter client <twitter>`_
-* `Watching videos in VLC <video>`_
+* [Text editing for web development](vim)
+* [Taking screenshots](import)
+* [Playing music](mplayer)
+* [Word processing](notebook)
+* [Twitter client](twitter)
+* [Watching videos in VLC](video)
 
 We also wrote up some notes on basic command-line things.
 
-* `Colors <colors>`_
-* `* <star>`_
+* [Colors](colors)
+* [`*`](star)
 
 And here are some things that talked about but didn't look into very far.
 
-* If you use Wordpress a lot, check out `wb-cli <http://wp-cli.org/>`_.
+* If you use Wordpress a lot, check out [wb-cli](http://wp-cli.org/).
 * Email: I have a lot to say about it, but we didn't manage to pick
   apart the features of email clients that people really cared about.
-* Firefox: ``firefox --new-tab 'https://duckduckgo.com/html?q=aspell'``
+* Firefox: `firefox --new-tab 'https://duckduckgo.com/html?q=aspell'`
 
 Final note
 -------------
