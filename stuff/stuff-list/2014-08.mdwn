@@ -1,26 +1,17 @@
-[[!meta title="Tom's stuff, itemized"]]
-[[!meta description="A list of the things that Tom carries around with him"]]
-
-Everything I need to carry when I move house fits in a
-[Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)
-Here are those things.
+In August 2014, this is what I carred.
 
 * Computers
   * Laptop (Acer Aspire One 725-0488) and power adapter
-  * American and European power cables
   * Phone (Nexus S), many micro-USB cables, USB power adapter
-  * Another phone
+  * Electricity plug adapter for different countries
 * Clothes (including the clothes I'm wearing)
-  * Three pairs of merino wool socks
-  * Two pairs of merino wool underwear
+  * Four pairs of [Injinji](http://www.injinji.com/) Performance Series Toe Socks
+  * Four pairs of cotton underwear
   * One pair of plastic long pants
-  * One pair of jeans (long pants)
-  * Two plastic shirts (long-sleeved EMS Techwick with half-height zipper)
-  * One silk-linen-wool blend long-sleeved shirt
-  * One cotton dressy shirt
-  * Plastic windbreaker with lots of pockets
-  * Cashmere sweater
-  * Cotton leggings
+  * One pair of cotton short pants
+  * Three plastic shirts (long-sleeved EMS Techwick with half-height zipper)
+  * Water-resistant jacket
+  * Warm sweater (optional)
 * Teeth things
   * Toothbrush
   * Toothpaste (travel-size only)
@@ -28,7 +19,8 @@ Here are those things.
   * Floss for under my braces
   * Retainer
 * Footwear
-  * Boots
+  * Pink Vibram FiveFingers
+  * Boots (must be worn if I am to carry both pairs of shoes)
 * Documents
   * Passport
   * A few blank cheques
@@ -40,19 +32,15 @@ Here are those things.
   * Small paper notebook
   * Pens
   * Keys
-  * [Vapur Element](http://vapur.us/element) water bottle
 * Supplies stored in tiny cosmetic sample containers
   * [Blue Lizard](http://www.bluelizard.net/) sunscreen
+  * Shampoo
   * Laundry powder (powder so I can bring it on a plane)
-* Supplies in slightly larger containers
-  * Elumin shampoo
-  * Two things of nail polish
 * Supplies stored with no special container
   * Napkins
   * Empty plastic bags
+  * Disposible water bottle
 * An empty [Ribz Front Pack](http://www.ribzwear.com/ribz-front-pack/), small-size, for extra space in an emergency and for separating dirty laundry.
-* Various cables and EMG boards and an analog interface for my study on
-    [wrist-cracking](/!/wrist-cracking/).
 
 ## Notable non-contents
 There is no pillow nor towel; clothes can be used for these purposes.
@@ -62,6 +50,9 @@ but I would need to bring another bag to carry it.
 
 The above contents account for free space for food, but the specific foods
 are not listed.
+
+I have an Aaxa P300 projector (with HDMI cable, and power adapter) that
+I have previously found useful but have removed to keep things small.
 
 The supplies need to be refilled as I use them.
 If I'm in the same place for a while, I purchase larger containers of these things.
