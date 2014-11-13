@@ -21,16 +21,11 @@ And this has continued in other contexts ever since.
 
 Process
 ------------
-I talked to a lot of people at Wikipedia Weekend, the workshop at
-OpenLabs, and the workshop at Prishtina Hackerspace. Pretty much everyone
-needed these things.
-
-* Web browser
-* Email client
-* Word processor
-
-And most people needed other things too.
-
+I asked people what graphical programs they used. People used music
+players like `Banshee <>`_,
+word processors like `LibreOffice <>`_,
+email clients like `Thunderbird <>`_,
+and many other things.
 These are all rather huge concepts, so we're not going to find one
 command that replaces everything; that would be against the
 `Unix philosophy <>`_.
@@ -45,18 +40,19 @@ Here are some things that we found command-line equivalents for.
 * `Taking screenshots <>`_
 * `Playing music <>`_
 * `Word processing <>`_
-* `Twitter client <>`_
+* `Twitter client <twitter>`_
 
+We also wrote up some notes on basic command-line things.
 
+* `Colors <colors>`_
+* `* <star>`_
 
+And here are some things that talked about but didn't look into very far.
 
-Email client (Arianit)
-
-
-And here are some things that we didn't look into very far.
-
-* Wordpress: http://wp-cli.org/
-* Firefox ``firefox --new-tab 'https://duckduckgo.com/html?q=aspell'``
+* If you use Wordpress a lot, check out `wb-cli <http://wp-cli.org/>`_.
+* Email: I have a lot to say about it, but we didn't manage to pick
+  apart the features of email clients that people really cared about.
+* Firefox: ``firefox --new-tab 'https://duckduckgo.com/html?q=aspell'``
 
 Final note
 -------------
