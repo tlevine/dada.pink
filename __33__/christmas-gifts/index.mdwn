@@ -4,7 +4,7 @@
 
 How many gifts did my true love give to me on all twelve nights of Christmas?
 
-<video src="http://small.dada.pink/christmas/christmas.webm" class="wide" />
+<video src="http://small.dada.pink/christmas/christmas.webm" class="wide" controls />
 
 Here are some other fun views of the gift counts.
 
