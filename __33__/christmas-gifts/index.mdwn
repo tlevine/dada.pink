@@ -10,6 +10,6 @@ Here are some other fun views of the gift counts.
 
 <img alt="Gifts by type" src="gifts_by_type.png" class="wide" />
 
-<img alt="Gift quantities" src="gifts_total_sidelabels.png" />
+<img alt="Gift quantities" src="gifts_total_sidelabels.png" class="wide" />
 
 (I made this stuff [in R](http://gitorious.org/tlevine/12daysplot/).)
