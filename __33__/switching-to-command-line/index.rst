@@ -1,3 +1,6 @@
+Command-line equivalents to graphical programs
+================================================
+
 Do you want to use command lines more and window/buttons less?
 Let's write down some things that we do with graphical interfaces
 and then figure out how to do them with command line interfaces.
