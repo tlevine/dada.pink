@@ -41,13 +41,11 @@ Results
 ------------
 Here are some things that we found command-line equivalents for.
 
-* `Text editing for web development <>`_
+* `Text editing for web development <vim>`_
 * `Taking screenshots <>`_
 * `Playing music <>`_
 * `Word processing <>`_
 * `Twitter client <>`_
-
-Twitter (Elio): `ttytter`
 
 
 

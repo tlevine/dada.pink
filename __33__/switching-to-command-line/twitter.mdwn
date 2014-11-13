@@ -1,4 +1,20 @@
-Install ttytter
+Elio asked about a [Twitter](https://twitter.com) client. Do they exist?
+I searched my package manager (`pacman` because I'm using Arch Linux).
+
+    $ pacman -Ss twitter
+    extra/bitlbee 3.2.2-1
+        Brings instant messaging (XMPP, MSN, Yahoo!, AIM, ICQ, Twitter) to IRC
+    community/bti 034-1
+        Console client for Twitter and identi.ca
+    community/choqok 1.4-2
+        A Twitter/identi.ca/laconica client for KDE
+    community/perl-term-readline-ttytter 1.4-2
+        A Perl readline for the ttytter twitter client
+    community/ttytter 2.1.00-4
+        A multi-functional, command-line twitter client
+
+They do! I've used bti and ttytter before, and I preferred ttytter, so we're
+going to do that. First, install ttytter.
 
     sudo pacman -S ttytter
 
@@ -62,11 +78,13 @@ Here are some commands
 (No command--just typing something)
     Tweet the message that you have typed.
 `/refresh`
-    Recent tweets
+    View recent tweets.
 `/delete`
+    Delete a tweet you posted.
+`/replies`
+    View replies to your Tweets.
 
-
-An example of deleting:
+Here's an example of deleting.
 
     c7> <eddietejeda> So sad: "Virgin Galactic’s SpaceShipTwo Crashes During Test Flight" http://nyti.ms/1tp6Hvn
     c8> (x2) <%blejman> RT @martinvirdis: "Si una imagen vale mil palabras, un MVP vale mil reuniones" #leanstartup cc: @blejman
