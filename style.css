@@ -566,13 +566,15 @@ a:hover {
   text-decoration: underline;
 }
 
-#content img {
+#content img,
+#content video {
   max-width: 100%;
   max-height: 440px;
   background-color: white;
 }
-#content img.wide {
-  max-height: 880px;
+#content img.wide,
+#content video.wide {
+  max-width: 660px;
 }
 
 .w300 { width: 300px;}
