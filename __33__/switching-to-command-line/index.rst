@@ -3,9 +3,24 @@ Let's write down some things that we do with graphical interfaces
 and then figure out how to do them with command line interfaces.
 And then we can write directions so that we can look up how to do
 these things when we forget (and also so other people can read them).
-Note: this started during Wikipedia Weekend in Tirana 2014 (http://openlabs.cc/si-te-perdorim-command-line/), where Redon became curious about how it could be using his computer only using command line. So they agreed to host a workshop and invite people that might be interested on something like this. Orven, Elio, Ilda and Greta showed up to the workshop. 
-Things also progressed when Besfort organized the same workshop in Prishtina.  
 
+Origins
+-----------
+This started during
+`Wikipedia Weekend in Tirana 2014 <http://openlabs.cc/si-te-perdorim-command-line/>`_,
+where Redon saw Tom doing some rather ordinary things on a command line and
+became curious about what it would be like to use his computer only with only
+the command line. So they agreed to host a
+`workshop <>`_
+and invite people that might be interested on something like this.
+Orven, Elio, Ilda and Greta showed up to the workshop. 
+Tom also led a
+`similar workshop <>`_ at
+`Prishtina Hackerspace <>`_.
+And this has continued in other contexts ever since.
+
+Process
+------------
 I talked to a lot of people at Wikipedia Weekend, the workshop at
 OpenLabs, and the workshop at Prishtina Hackerspace. Pretty much everyone
 needed these things.
@@ -22,35 +37,32 @@ command that replaces everything; that would be against the
 Instead, we pick apart the details of each program and find programs
 that do each part.
 
+Results
+------------
 Here are some things that we found command-line equivalents for.
 
-* `Editor for web development <>`_
-* `Word processor <>`_
-
-
-
-
-
-
-
+* `Text editing for web development <>`_
+* `Taking screenshots <>`_
+* `Playing music <>`_
+* `Word processing <>`_
+* `Twitter client <>`_
 
 Twitter (Elio): `ttytter`
 
-
-The command line is better, but it takes a while to learn, so Tom
-uses the graphical interfaces until he learns the command line.
 
 
 
 Email client (Arianit)
 
 
+And here are some things that we didn't look into very far.
 
-Wordpress
+* Wordpress: http://wp-cli.org/
+* Firefox ``firefox --new-tab 'https://duckduckgo.com/html?q=aspell'``
 
-* http://wp-cli.org/
-* https://trepmal.com/2014/02/22/getting-started-with-wp-cli/
-
-Firefox ::
-
-    firefox --new-tab 'https://duckduckgo.com/html?q=aspell'
+Final note
+-------------
+In case all of these commands intimidate you, know that they also
+intimidate Tom!
+The command line is better, but it takes a while to learn, so Tom
+uses the graphical interfaces until he learns the command line.
