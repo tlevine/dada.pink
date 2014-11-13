@@ -11,24 +11,24 @@ This started during
 where Redon saw Tom doing some rather ordinary things on a command line and
 became curious about what it would be like to use his computer only with only
 the command line. So they agreed to host a
-`workshop <>`_
+`workshop <https://www.facebook.com/events/641664715945800/>`_
 and invite people that might be interested on something like this.
 Orven, Elio, Ilda and Greta showed up to the workshop. 
 Tom also led a
-`similar workshop <>`_ at
-`Prishtina Hackerspace <>`_.
+`similar workshop <https://www.facebook.com/flossk/posts/10152783280447834>`_
+at `Prishtina Hackerspace <http://www.prishtinahackerspace.org/>`_.
 And this has continued in other contexts ever since.
 
 Process
 ------------
 I asked people what graphical programs they used. People used music
-players like `Banshee <>`_,
-word processors like `LibreOffice <>`_,
-email clients like `Thunderbird <>`_,
+players like `Banshee <http://banshee.fm/>`_,
+word processors like `LibreOffice <https://www.libreoffice.org/>`_,
+email clients like `Thunderbird <https://www.mozilla.org/en-US/thunderbird/>`_,
 and many other things.
 These are all rather huge concepts, so we're not going to find one
 command that replaces everything; that would be against the
-`Unix philosophy <>`_.
+`Unix philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>`_.
 Instead, we pick apart the details of each program and find programs
 that do each part.
 
@@ -37,10 +37,11 @@ Results
 Here are some things that we found command-line equivalents for.
 
 * `Text editing for web development <vim>`_
-* `Taking screenshots <>`_
-* `Playing music <>`_
-* `Word processing <>`_
+* `Taking screenshots <import>`_
+* `Playing music <mplayer>`_
+* `Word processing <notebook>`_
 * `Twitter client <twitter>`_
+* `Watching videos in VLC <video>`_
 
 We also wrote up some notes on basic command-line things.
 

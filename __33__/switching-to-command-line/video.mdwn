@@ -1,6 +1,7 @@
 Don uses VLC for watching movies and playing songs, and he uses mostly the basic features.
 
-But some fancier features
+But he also uses some fancier features. In particular, he uses the feature
+for slowing down video.
 
 * Slowing down video
 
