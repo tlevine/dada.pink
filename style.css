@@ -574,8 +574,9 @@ a:hover {
 }
 #content img.wide,
 #content video.wide {
-  max-height: auto;
-  width: 660px;
+  max-height: none;
+  max-width: 880px;
+  width: 80%;
 }
 
 .w300 { width: 300px;}
