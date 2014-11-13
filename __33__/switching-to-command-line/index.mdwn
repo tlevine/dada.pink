@@ -58,6 +58,11 @@ And here are some things that talked about but didn't look into very far.
   apart the features of email clients that people really cared about.
 * Firefox: `firefox --new-tab 'https://duckduckgo.com/html?q=aspell'`
 
+Person-specific tips
+-----------------------
+Redon managed to list a bunch of things he uses.
+[Here](redon) is the list of his replacements.
+
 Final note
 -------------
 In case all of these commands intimidate you, know that they also
