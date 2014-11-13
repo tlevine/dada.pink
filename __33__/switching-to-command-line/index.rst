@@ -58,3 +58,14 @@ uses the graphical interfaces until he learns the command line.
 
 
 Email client (Arianit)
+
+
+
+Wordpress
+
+* http://wp-cli.org/
+* https://trepmal.com/2014/02/22/getting-started-with-wp-cli/
+
+Firefox ::
+
+    firefox --new-tab 'https://duckduckgo.com/html?q=aspell'
