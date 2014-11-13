@@ -6,47 +6,32 @@ these things when we forget (and also so other people can read them).
 Note: this started during Wikipedia Weekend in Tirana 2014 (http://openlabs.cc/si-te-perdorim-command-line/), where Redon became curious about how it could be using his computer only using command line. So they agreed to host a workshop and invite people that might be interested on something like this. Orven, Elio, Ilda and Greta showed up to the workshop. 
 Things also progressed when Besfort organized the same workshop in Prishtina.  
 
-Graphical programs that Redon uses and some suggested CLI equivalents
+I talked to a lot of people at Wikipedia Weekend, the workshop at
+OpenLabs, and the workshop at Prishtina Hackerspace. Pretty much everyone
+needed these things.
 
-Thunderbird
-    Setting up mutt and everything would be a bit of work, but maybe just a search thing, for example, could help.
-Banshee
-    I use `mplayer <mplayer>`_ for music.
-LibreOffice
-    Depending on what he's doing, LaTeX or other text files or maybe a markdown to pdf thing
-Transmission
-    I still use the GUI for this. (And I use either Transmission or Deluge.)
-Screenshots
-    This is the easiest one! It's called `import <import>`_, and it's in imagemagick.
-Calculator
-    Any interpreted language would be great. More `here <calculator>`_
+* Web browser
+* Email client
+* Word processor
 
-Arandjel
+And most people needed other things too.
 
-Firefox, Gmail
-    ...
-Thunderbird
-    x
-LibreOffice
-    x
+These are all rather huge concepts, so we're not going to find one
+command that replaces everything; that would be against the
+`Unix philosophy <>`_.
+Instead, we pick apart the details of each program and find programs
+that do each part.
 
+Here are some things that we found command-line equivalents for.
 
-* Notepad++
-* Sublime text
-* XAMPP
-* LibreOffice
+* `Editor for web development <>`_
+* `Word processor <>`_
 
 
 
 
-Notebook (Greta)
 
-LibreOffice, Correct typos
-    Instead, use any text editor
-Copy, paste
-    xclip
-Spell check
-    aspell
+
 
 
 Twitter (Elio): `ttytter`

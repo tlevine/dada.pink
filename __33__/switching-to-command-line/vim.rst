@@ -1,3 +1,13 @@
+Ilda uses these 
+
+* Notepad++
+* Sublime text
+* XAMPP
+* LibreOffice
+
+
+
+
 * modes
 * ``i`` for insert mode
 * ``:w``, ``:wq``, &c.
