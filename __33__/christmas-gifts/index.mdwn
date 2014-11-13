@@ -4,10 +4,12 @@
 
 How many gifts did my true love give to me on all twelve nights of Christmas?
 
-After seeing Information is Beautiful's recent information animation,
-I decided that I'd make my own.
-
 <video src="http://small.dada.pink/christmas/christmas.webm" class="wide" />
 
-I used R to [generate a PDF](http://gitorious.org/tlevine/12daysplot/blobs/master/12daysslideshow.R)
-and then did a screencast of the PDF.
+Here are some other fun views of the gift counts.
+
+<img alt="Gifts by type" src="gifts_by_type.png" class="wide" />
+
+<img alt="Gift quantities" src="gifts_total_sidelabels.png" />
+
+(I made this stuff [in R](http://gitorious.org/tlevine/12daysplot/).)
