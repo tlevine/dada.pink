@@ -1,5 +1,5 @@
-[[!meta title="Books"]]
-[[!meta description="Books Tom likes or wants to read or something"]]
+[[!meta title="Readings"]]
+[[!meta description="Books and other readings Tom likes or wants to read or something"]]
 
 My favorite books
 --------------------
@@ -25,7 +25,10 @@ Typography
     Designing with Type
 Letterpress printing
     There was probably a really good one in the library....
-
+Free software, free culture, freedom, &c.
+    Anything by Richard Stallman
+Life, &c.
+    Just for Fun
 
 Well, I don't quite know what I mean by "favorite", but I really
 like all of these books, and I think that they're the ones you
