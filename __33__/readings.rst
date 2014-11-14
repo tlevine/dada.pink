@@ -37,6 +37,8 @@ Generalized linear models
     The one that Andrew Gelman wrote
 Data structures
     Purely functional data structures
+Feelings
+    Postsecret blog and books
 
 Well, I don't quite know what I mean by "favorite", but I really
 like all of these books, and I think that they're the ones you
