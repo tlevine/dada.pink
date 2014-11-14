@@ -29,11 +29,24 @@ Free software, free culture, freedom, &c.
     Anything by Richard Stallman
 Life, &c.
     Just for Fun
+Somatics, Alexander Technique, &c.
+    Anything by Fredrick Matthias Alexander
+Anatomy
+    The Body Movable
+Generalized linear models
+    The one that Andrew Gelman wrote
+Data structures
+    Purely functional data structures
 
 Well, I don't quite know what I mean by "favorite", but I really
 like all of these books, and I think that they're the ones you
 should read if you're interested in the broader topics that I
 have grouped them in.
+
+Private library
+----------------------
+Most of the paper books that I own are in New York. I would love
+to show them to you! Email me.
 
 Interesting books from a brainstorm with Anabel
 ---------------------------------------------------
