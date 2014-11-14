@@ -1,3 +1,13 @@
+[[!meta title="Books"]]
+
+My favorite books
+--------------------
+
+Interesting books from a brainstorm with Anabel
+---------------------------------------------------
+Anabel and I somehow started talking about books, and this list came up.
+I guess they're books that one of us liked or thought the other would like.
+
 *Sitzhaltung, Sitzschaden, Sitzmöbel*, by Hanns Schoberth
     On chairs and posture and backs and stuff
 [Global Moves](http://inamerryhour.com/global-moves/), by [Caitlin McDonald](http://inamerryhour.com/)
