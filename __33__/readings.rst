@@ -26,6 +26,7 @@ Typography
 Letterpress printing
     There was probably a really good one in the library....
 
+
 Well, I don't quite know what I mean by "favorite", but I really
 like all of these books, and I think that they're the ones you
 should read if you're interested in the broader topics that I
