@@ -1,7 +1,11 @@
-[[!meta title="How to figure out why people are mean and rude and stuff"]]
+[[!meta title="How to figure out why people talk one way and act another way"]]
 [[!meta description="There's usually a simple explanation, but it can take a while to come up with it."]]
 
 ## Abstract
+Sometimes people say stuff that suggest one thing and do stuff that suggest
+another thing. This often winds up in behaviors that seem mean, rude, &c.
+It can also be very confusing.
+
 When people are being mean for apparently no reason, it is easy
 to get quite frustrated with the world and to distrust everything.
 Will this person who was nice yesterday suddenly turn bad? Will I suddenly
@@ -16,7 +20,7 @@ I come up with this explanation.
 My method can help you to understand people (including yourself),
 to recognize mindgames, and to be direct in communication. Moreover,
 I hope that it helps you empathise with people who are being mean,
-stressful, and rude.
+stressful, cold, indirect, or rude.
 
 ## Definition
 The word "lying" isn't quite appropriate to describe these behaviors,
