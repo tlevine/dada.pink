@@ -12,6 +12,11 @@ Finally,
 3. Invert the selection.
 4. Delete the selection.
 
+Ideas
+
+* http://www.imagemagick.org/discourse-server/viewtopic.php?t=23864
+
+
 In ImageMagick, this converts the background.
 
     convert brain-original.png -transparent black brain-alpha.png
