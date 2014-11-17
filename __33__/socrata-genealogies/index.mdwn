@@ -39,8 +39,7 @@ copy or a derivative of another dataset. In this post, I'll discuss
 Most of my work on this for the past week has been figuring out
 Socrata's terminology and schema. Let's define some Socrata terms.
 
-### Everything is a view
-{:#term-view}
+<h3 id="term-view">Everything is a view</h3>
 
 When you go to the home page of a Socrata portal, you can
 "Search & Browse Datasets and Views". This phrasing is sort
@@ -59,15 +58,13 @@ and [U.S. Overseas Loans and Grants (Greenbook)](https://explore.data.gov/datase
 You also get a list of "View Types". Below, I define some
 of these view types.
 
-### Datasets
-{:#term-dataset}
+<h3 id="term-dataset">Datasets</h3>
 
 Let's start with the **dataset**.
 A dataset is when you get when you upload data to Socrata in one of
 its supported tabular formats.
 
-### Filtered views
-{:#term-filtered-view}
+<h3 id="term-filtered-view">Filtered views</h3>
 
 Before I define "filtered views", I want to explain why they exist.
 Socrata helps people publish their data by providing various APIs
@@ -88,22 +85,19 @@ to include only opportunities on July 29.
 **Filtered views** are queries on a dataset. The queries are represented internally in the
 [SODA filter query language](http://dev.socrata.com/deprecated/querying-datasets).
 
-### Charts and maps
-{:#term-chart-and-map}
+<h3 id="term-chart-and-map">Charts and maps</h3>
 
 **Charts** and **maps** are also queries on a dataset.
 The difference between filtered views, charts and maps is quite subtle.
 They are all queries on datasets; they just display a different
 visualization when you view them on the Socrata website.
 
-### And more
-{:#term-other-view-types}
+<h3 id="term-other-view-types">And more</h3>
 
 There are other types of views, including views of non-tabular information,
 but we don't need to know about them for now.
 
-### Tables
-{:#term-table}
+<h3 id="term-table">Tables</h3>
 
 <img src="family.jpg" alt="A table family, containing a dataset and several filtered views, charts and maps" class="wide" />
 <!-- Icons from https://explore.data.gov/stylesheets/images/icons/type_icons_30.png?1 -->
@@ -126,8 +120,7 @@ query on the dataset (equivalent to `SELECT * FROM table_name;`). Filtered views
 charts and maps act on the table rather than on the source dataset; they're just
 like datasets, except that they include a query.
 
-### Federation
-{:#term-federation}
+<h3 id="term-federation">Federation</h3>
 
 Socrata doesn't provide a particularly obvious means for searching multiple
 data portals at once. (This was part of my motivation for downloading all of
