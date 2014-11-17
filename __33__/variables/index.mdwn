@@ -1,4 +1,4 @@
-[[!meta title="Two meanings of "variable""]]
+[[!meta title="Two meanings of 'variable'"]]
 [[!meta redir="http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/"]]
 [[!tag datakind]]
 [[!tag learn]]
@@ -10,7 +10,7 @@
 If you ever took an algebra class, you'll think that
 *x* in the following equation is a variable.
 
-$$12 = x + 7$$
+> 12 = *x* + 7
 
 ### Variable in a data table
 As I've [explained prevously](/!/table-words), when I say "variable",
@@ -55,14 +55,14 @@ lm(formula = c(79, 68, 63) ~ log(c(41678, 6390, 959)))
 lm(formula = c(79, 68, 63) ~ log10(c(41678, 6390, 959)))
 -->
 
-$$Predicted\; life\; expectancy = 32 + 4.239 \times log\left(Income\; per\; person\right)$$
+> Predicted life expectancy = 32 + 4.239 &times; log(Income per person)
 
 In this equation, life expectency and income per person
 just numbers that we take from one row of the table.
 To make that look more like what you might be used to, let's
 rewrite it like this.
 
-$$y = 32 + 4.239 \times log\left(x\right)$$
+> *y* = 32 + 4.239 &times; log(*x*)
 
 By distilling this relationship to a simple equation, we can express complex
 information as a simple summary of it is small enough to fit in our brains.
@@ -86,15 +86,15 @@ Year | Country | Life expectancy (years) | Income Per Person
 We know China's income per person *x*, so let's plug that into our
 equation to predict China's life expectency.
 
-$$y = 32 + 4.239 \times log\left(9502\right)$$
-
-$$y = 32 + 4.239 \times 9.159258$$
-
-$$y = 32 + 38.82609$$
-
-$$y = 70.82609$$
-
-$$y \approx 71 $$
+> *y* = 32 + 4.239 &times; log(9502)
+>
+> *y* = 32 + 4.239 &times; 9.159258
+>
+> *y* = 32 + 38.82609
+>
+> *y* = 70.82609
+>
+> *y* &#8776; 71
 
 We thus predict China's life expectency to be 71 years.
 The actual value is 75, so that's pretty close.
