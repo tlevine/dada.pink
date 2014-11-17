@@ -5,8 +5,12 @@ Jason wants to convert a background to alpha. Here's how he does it in GIMP.
 
 Separately, he does a zealous crop to remove background junk.
 
+Finally,
 
-
+1. Select a pixel in the a color-coded brain region.
+2. Fuzzy-select the whole region.
+3. Invert the selection.
+4. Delete the selection.
 
 In ImageMagick, this converts the background.
 
