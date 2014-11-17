@@ -1,0 +1,15 @@
+Jason wants to convert a background to alpha. Here's how he does it in GIMP.
+
+1. Fuzzy select on the background
+2. Convert selection to alpha
+
+Separately, he does a zealous crop to remove background junk.
+
+
+
+
+In ImageMagick, this converts the background.
+
+    convert brain-original.png -transparent black brain-alpha.png
+
+Zealous crop information might be [here](http://www.imagemagick.org/Usage/crop/#trim)
