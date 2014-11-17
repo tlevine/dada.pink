@@ -128,7 +128,7 @@ On the other hand, the `viewLastModified` field is quite different.
 Thus, I'm using `rowsUpdatedAt` for calculating the updatedness measure.
 
 ## What is an "update"
-I'm going to use the term *update*{:#term-update} to mean a reasonably particular
+I'm going to use the term <em id="term-update">update</em> to mean a reasonably particular
 thing that excludes some other things that you might consider an update.
 
 The Socrata data portal software has 
