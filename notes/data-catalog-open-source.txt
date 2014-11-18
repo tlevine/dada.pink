@@ -1,0 +1,5 @@
+
+I don't see much of a difference between open source and not in terms
+of data catalogs; they're still convoluted and complicated and probably
+get people somewhat dependent on their consultants or your startup or
+something like it.
