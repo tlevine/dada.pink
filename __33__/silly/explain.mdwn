@@ -1,24 +1,42 @@
 [[!meta title="Figuring out why people are being silly"]]
 [[!meta description=""]]
 
-## Motivation for silliness
-Silliness occurs when it is hard for people to be as they want to be or
-to do as they want to do. I'm only satisfied if the desire seems to be a
-very fundamental animal/human motivation.
+Being silly involves saying one thing and doing another. Why don't people
+say things that match how they act?
 
-For example, if someone is usually
-[consciencious](https://en.wikipedia.org/wiki/Big_Five_personality_traits#Conscientiousness)
-but wants to fit in with a group that is particularly unconscienciousness,
-the person might start telling himself that he is very unconsciencious;
-furthermore he might decide that conscienciousness is bad and that everyone
-should become unconsciencious.
+As I see it, this usually happens because people are hiding something from
+themselves or don't understand themselves. (These are usually the same thing.)
+In some cases, people just need a bit more time before they can articulate
+their feelings/thoughts.
 
-Or, if a person is looking for a purpose in life and can't find one, she
-might try very hard to convince herself that she does have purpose; also,
-she might advise people as to how they might find purpose in life.
+You'll read below about some general explanations for this discrepancy
+between what people say and what people do. After that, you'll learn of
+some general approaches to figuring out the explanation for a particular
+person's particular discrepancy.
 
-Silliness, and grumpiness in general, are aggrevated by other
-unpleasant/stressful things, like being hungry or tired.
+## Drill down to fundamental human motivations
+I try to explain why people behave the way they do in terms of reasonably
+fundamental animal/human motivations. This may be an obvious goal for you,
+but I find that it isn't for many people.
+
+This is especially common when people discuss career choices. What would
+possibly motivate a middle-aged person to leave his dentistry career and
+start a new path in letterpress printing? (I actually met such a person.)
+Whatever it is, it's *not* that he has a fundamental aversion to specifically
+dentistry or that he has a fundamental attraction to letterpress printing.
+
+Perhaps he had gotten good, through dentistry, at doing very precise things
+with his hands, and perhaps these abilities transferred well to letterpress
+printing. Perhaps he found himself wanting to teach things to people
+(or otherwise to make a lasting impression on the world) and found that he
+was more able to teach classes in letterpress printing than in dentistry.
+And perhaps he associated letterpress printing with good memories, such as
+a family member or friend.
+
+Of course, we don't actually know what these fundamental human motivations
+are. Thus, rather than having one list of truely fundamental human motivations,
+we have several lists that seem to work reasonably well. I describe some of
+them below.
 
 ### Typical life motivations
 You probably have some intuition about what people want in life.
@@ -33,13 +51,28 @@ you might read what these various fancy people thought.
 I think that all of these are mostly right if you interpret them
 as they were intended to be interpreted.
 
-### Reasons why it might be hard for someone to act on these motivations
+### Hygiene factors
+Silliness, and grumpiness in general, are aggrevated by other
+unpleasant/stressful things, like being hungry or tired.
 
+### Reasons why it might be hard for someone to act on these motivations
 * Culture, norms
 * Money/power
 * Prejudice
 * Friend groups
 * Sudden changes
+
+For example, if someone is usually
+[consciencious](https://en.wikipedia.org/wiki/Big_Five_personality_traits#Conscientiousness)
+but wants to fit in with a group that is particularly unconscienciousness,
+the person might start telling himself that he is very unconsciencious;
+furthermore he might decide that conscienciousness is bad and that everyone
+should become unconsciencious.
+
+Or, if a person is looking for a purpose in life and can't find one, she
+might try very hard to convince herself that she does have purpose; also,
+she might advise people as to how they might find purpose in life.
+
 
 ### People get angry can't get what they want
 Even if people seem to be legitimately angry, there is probably something
@@ -126,7 +159,7 @@ often so explanatory that it's funny.
 * heritage, like similarity to parents
 * money, student debt, poor growing up, &c.
 
-## People are all easy to read
+### People are all easy to read
 When people seem very complex and hard to read, it's usually *not*
 because they actually are any more complex than anyone else; they're
 just not confirming any of your suspicions, possibly because they
