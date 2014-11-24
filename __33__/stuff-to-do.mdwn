@@ -1,5 +1,5 @@
 [[!meta title="What should I do?"]]
-[[!meta description=""]]
+[[!meta description="What would I like doing other than sleeping?"]]
 
 I'm going to tell you some things I have noticed recently and then see if you
 have advice for me regarding what I might want to do (for work or whatever).
@@ -7,7 +7,8 @@ have advice for me regarding what I might want to do (for work or whatever).
 ## I like work that isn't much work
 I have been trying to figure out what makes me like work, and all I have come
 up with is that I want not to work. That is, I like work when it pays, isn't
-much work (part-time, easy application process, not over-time, &c).
+much work (part-time, easy application process, not over-time, &c); I usually
+say that I like to [sleep](/!/sleeping/).
 
 Saying that I like work that isn't much work simply defers the issue of what
 I like to do. I like work that gives me time to do things that I want to do,
@@ -18,35 +19,38 @@ Most of the things I like to do can be seen as indirect manifestations of my
 aversion to work and to other stressful things.
 
 For example, I blew dorm politics [out of proportion](/!/risley-toilets) for
-the hilarity; I gradually concluded that open data has nothing to do with
-transparency and everything to do about
-[big money](/!/open-data-is-all-about-money/) and
-[hype for hype's sake](/!/searching-data-tables-better);
+the hilarity; I studied a lot about [open data](/open-data) only to conclude
+that it's mostly [hype for hype's sake](/!/searching-data-tables-better)
+(and also a bit about [big money](/!/open-data-is-all-about-money/));
+I explore the [insanity of buzzwords](/!/buzz-buzz-buzz/);
 and my mission to enlighten people to
 [musical data analysis](http://fms.csvsoundsystem.com) has
-[spiraled](sheetmusic)
-[out](eusprig)
-[of](geomdoner)
-[control](brighttalk).
+[spiraled](http://pypi.python.org/pypi/sheetmusic)
+[out](http://www.corality.com/training/campus/post/august-2014/eusprig-2014-%E2%80%93-financial-modelling-observations)
+[of](/!/geom_doner/)
+[control](https://www.brighttalk.com/webcast/9059/131047).
 
 Some other things can be seen as more direct manifestations of this aversion
-to work, such as [this recent (not finished) writing](/!/silly).
+to work, such as [this recent (not finished) writing](/!/silly/).
 
-The message I see under all of this stuff is that people should do silly things
-or do nothing and definitely *not* take anything seriously.
+The general pattern I see is that I get bored and frustrated when people take
+things seriously and that I react to such things by making them hilarious.
+
+I would rather sleep than get excite about these serious things, and that
+brings us back to the original issue: What do I want to do other than nothing?
 
 ## Do I want to do something good for the world?
 Could it be that I want to do something "good" for the world?
 Well maybe, but not in the normal sense.
 
-I [seem]()
+I [seem](http://www.datakind.org/featuredvolunteers/thomas-levine/)
 to like [DataKind](http://datakind.org),
 but I'm skeptical that they're saving the world in the way that it sounds like
 they are; I mostly just like them because they make me feel
 [happy](/!/datakind-is-kind/).
 
 I care something about [open data](/open-data), but only enough that I checked
-that it was a waste of time before I decided not to do much with it.
+that it was a waste of time before I decided not to do much about it.
 
 I did quite a bit of work for an
 [environmental advocacy group](http://healthygulf.org),
@@ -54,12 +58,42 @@ and what I did was apparently quite helpful, but I think it just fuels a silly
 quarrel among various players who insist on (bureaucratically) fighting each
 other.
 
-And I compensate for all of the good I do for the world is with any of the
-[horrible things I do for money](/!/curriculum-vitae).
+More importantly, I compensate for all of the good I do for the world is with
+any of the [horrible things I do for money](/!/curriculum-vitae).
 
 If there is anything that I want to change about the world, it's that I
 want people to [sleep](/!/sleeping) more and work less. And this gets us
 back to the original issue of what I should do when I'm not sleeping.
+
+## There's something related to teaching
+I like kind of like [teaching](/learn) people stuff when it
+[isn't much work](/!/learning-data-stuff/) and when it seems worthwhile in
+a broader sense. For example, the
+[command-line workshop](/!/switching-to-command-line/) and these definitions of
+"[variable](http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/)",
+"[protocol](/!/street-sign-protocol/)", and
+"[data table](http://www.datakind.org/blog/whats-in-a-table/)" were kind of fun
+because I like to make big words sound less scary.
+
+I'm less excited about the more popular articles on
+[parsing PDF files](/!/parsing-pdfs/),
+[writing R](/!/r-spells-for-data-wizards/), and on
+[getting data out of websites](/!/web-sites-to-data-tables-in-depth/)
+because I think they encourage people to learn skills that jobs whose value is
+exaggerated.
+
+The bigger message in the definition-type articles is that the words don't mean
+that much (and that people are getting overly excited about them). And my
+concern with the latter group of articles is that people are getting overly
+excited about them. The recurring theme of this article continues: Excitement
+is too much work, and I would rather sleep instead.
+
+It is nice to show people that
+[they have the power to do things](/!/why-i-like-hackerspaces/),
+and this is the first thing I have noticed that gives me some idea of what I
+like doing.
+Unfortunately, I am reluctant to motivate people to do things when the only
+things that I want to do are things that let me do fewer things.
 
 ## So what do I do?
 It's like I have designed my life such that I don't have to do any unpleasant
