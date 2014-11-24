@@ -12,20 +12,49 @@ the person is just fundamentally bad, that leads to other unpleasant things
 because this is never the real reason.
 
 It turns out that there usually is a simple explanation that doesn't require
-me to hate the person; in the present piece, I'll show you how I come up with
-these explanations.
+me to hate the person.
+I think that the phenomenon, at its core, involves a person who is lying
+to himself or herself and is upsetting another person in the process.
 
+In the present piece, I'll show you how I come up with these explanations.
 My method can help you to understand people (including yourself),
 to recognize mindgames, and to be direct in communication. Moreover,
 I hope that it helps you empathise with people who are being mean,
-stressful, cold, indirect, or rude.
+stressful, angry, cold, manipulative, indirect, or rude.
 
-## Definition
-I usually use the word "silly" to describe the collection of
-mean, manipulative, cold, deceptive, rude, angry, &c. that I'm discussing.
+## Term
+When someone is lying to herself or himself and upsetting someone else
+in the process, I usually describe the whole thing as "silly". What a
+strange choice of words!
 
-I think that the phenomenon, at its core, involves a person who is lying
-to himself or herself and is upsetting another person in the process.
+As [Caitlin](http://inamerryhour.com/) remarked,
+
+> It's difficult
+> for me to think of the word 'silly' in a pejorative way because I don't
+> usually use it to refer to people's unconscious motivations and strategies
+> for rationalizing cognitive dissonance, which I think is what you're
+> describing.  I use the word almost exclusively to refer to irreverence or
+> eccentrically joyous behavior/speech.  The opposite of seriousness.  I
+> think irreverence is a vastly underrated quality.  Those data tacos, for
+> instance.  That's an example of the kind of silliness I'd like to see more
+> of.
+
+I also consider the data tacos and [data doner](/!/geom_doner)
+to be quite silly in the other sense. And while I don't usually want
+to be around people who are displaying all of these unpleasant behaviors,
+I usually don't see silliness in the present sense as a good thing or a
+bad thing; it's just a thing.
+
+I like explaining these unconscious motivations as silly to emphasize
+that they're not very serious; I used to feel like people must be really
+horrible if they are to be mean, &c., to me. But now I think they're just
+playing complicated games, because games are fun and we need something to
+do all day. The lengths that people will go to cover up their motivations
+are really funny!
+
+I think I took this use of the word "silly" from my friend Dasha a few
+years ago, but I only recently figured out what I meant when I used the
+word and why I like the word so much.
 
 ## Why I write this
 I am usually quite interested by why anyone acts the way she or he does.
@@ -44,4 +73,5 @@ something so bizarre.
 2. [Explaining silly behaviors](explain)
 3. [Three examples](examples) of how I identified silly behaviors and then explained them
 4. [Common patterns of silliness](patterns): Specific things that you can watch for
-5. [Cool things you can do](what-to-do) when you think you understand someone
+5. [Silliness in groups](groups)
+6. [Cool things you can do](what-to-do) when you think you understand someone
