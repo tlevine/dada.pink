@@ -27,26 +27,47 @@ and my mission to enlighten people to
 [spiraled](sheetmusic)
 [out](eusprig)
 [of](geomdoner)
-[control](brighttalk)
+[control](brighttalk).
 
 Some other things can be seen as more direct manifestations of this aversion
-to work, such as [this recent (not finished) writing](/!/silly)
+to work, such as [this recent (not finished) writing](/!/silly).
+
+The message I see under all of this stuff is that people should do silly things
+or do nothing and definitely *not* take anything seriously.
 
 ## Do I want to do something good for the world?
 Could it be that I want to do something "good" for the world?
+Well maybe, but not in the normal sense.
+
 I [seem]()
-to like [DataKind](),
-I care something about [open data](
-but I'm skeptical that it's doing much for the world; I mostly just like
-them because they make me feel [happy]().
+to like [DataKind](http://datakind.org),
+but I'm skeptical that they're saving the world in the way that it sounds like
+they are; I mostly just like them because they make me feel
+[happy](/!/datakind-is-kind/).
 
-People say I have done important stuff related to 
+I care something about [open data](/open-data), but only enough that I checked
+that it was a waste of time before I decided not to do much with it.
 
-enough money that I can retire
+I did quite a bit of work for an
+[environmental advocacy group](http://healthygulf.org),
+and what I did was apparently quite helpful, but I think it just fuels a silly
+quarrel among various players who insist on (bureaucratically) fighting each
+other.
 
-/!/curriculum-vitae
+And I compensate for all of the good I do for the world is with any of the
+[horrible things I do for money](/!/curriculum-vitae).
 
-I much prefer when work is mundane rather than a grand mission to save the world.
+If there is anything that I want to change about the world, it's that I
+want people to [sleep](/!/sleeping) more and work less. And this gets us
+back to the original issue of what I should do when I'm not sleeping.
 
-To start, I really like to [sleep](/!/sleeping) and otherwise do nothing.
+## So what do I do?
+I have enough money that I can retire, I have little enough
+[stuff](/!/stuff/) that I can move easily, and I have
+[transferred my consciousness into a computer](/!/geeky-free-software-project/)
+such that socializing is much less work.
 
+I suspect that this is much better position than most people, but I still have
+no idea of what to do. How funny!
+
+Do you have any ideas?
