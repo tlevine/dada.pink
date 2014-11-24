@@ -95,6 +95,21 @@ like doing.
 Unfortunately, I am reluctant to motivate people to do things when the only
 things that I want to do are things that let me do fewer things.
 
+## Or maybe the main thing is people
+The things that actually have interested me lately relate rather strongly
+to people. For example, computers
+[look for people I haven't emailed in a while](http://small.dada.pink/whom-to-email/README),
+[organize some of my personal data](http://small.dada.pink/dadawarehouse/README),
+[remember information about my friends](https://pypi.python.org/pypi/cbuh), and
+[conduct the repetitive parts of conversations](http://thomaslevine.com/!/geeky-free-software-project/).
+
+How convenient it would be if I could get over my desire to see friends!
+I have gotten my computers to do some of the work for me, but it's still hard
+to socialize with people because most of them aren't retired. They're doing
+serious, important, work-type things most of the time, and that leaves very
+little time for the time-consuming and unexciting things that I do for fun,
+like napping in the sun, sitting in coffee shops, and taking walks in the park.
+
 ## So what do I do?
 It's like I have designed my life such that I don't have to do any unpleasant
 work. I have enough money that I can retire, I have little enough
