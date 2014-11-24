@@ -68,10 +68,23 @@ manipulated, I am interested in understanding why someone would do
 something so bizarre.
 
 ## Contents
+I have divided the piece into a few sections. If this were a paper book,
+I would order them thusly.
 
 1. [Identifying silly behaviors](identify)
 2. [Explaining silly behaviors](explain)
 3. [Three examples](examples) of how I identified silly behaviors and then explained them
 4. [Common patterns of silliness](patterns): Specific things that you can watch for
 5. [Silliness in groups](groups)
+6. [Cool things you can do](what-to-do) when you think you understand someone
+
+Since this is a website, I can give you multiple orders! Here's another
+reasonable order. The previous order puts the theory before the examples,
+and this one puts the examples before the theory.
+
+1. [Three examples](examples) of how I identified silly behaviors and then explained them
+2. [Common patterns of silliness](patterns): Specific things that you can watch for
+3. [Silliness in groups](groups)
+4. [Identifying silly behaviors](identify)
+5. [Explaining silly behaviors](explain)
 6. [Cool things you can do](what-to-do) when you think you understand someone
