@@ -4,23 +4,20 @@
 I'm going to tell you some things I have noticed recently and then see if you
 have advice for me regarding what I might want to do (for work or whatever).
 
-## Not working
+## I like work that isn't much work
 I have been trying to figure out what makes me like work, and all I have come
 up with is that I want not to work. That is, I like work when it pays, isn't
 much work (part-time, easy application process, not over-time, &c).
 
-## Doing something good for the world?
-enough money that I can retire
-
-/!/curriculum-vitae
-
-I much prefer when work is mundane rather than a grand mission to save the world.
+Saying that I like work that isn't much work simply defers the issue of what
+I like to do. I like work that gives me time to do things that I want to do,
+but what are those things that I want to do?
 
 ## The things I like doing
-All of the things I like to do are aspects of this broader aversion to work
-and to tiring emotion.
+It seems that all of the things I like to do are aspects of this broader
+aversion to work and to tiresome emotion.
 
-For example, I really like to [sleep](/!/sleeping). And the more culturally
+And the more culturally
 accepted things that I like to do are manifestations of my frustration with
 
 indirect criticism
@@ -31,3 +28,21 @@ indirect criticism
 
 more direct
 /!/silly
+
+## Do I want to do something good for the world?
+I wonder whether I want to do something "good" for the world.
+I [seem]()
+to like [DataKind](),
+but I'm skeptical that it's doing much for the world; I mostly just like
+them because they make me feel [happy]().
+
+People say I have done important stuff related to 
+
+enough money that I can retire
+
+/!/curriculum-vitae
+
+I much prefer when work is mundane rather than a grand mission to save the world.
+
+To start, I really like to [sleep](/!/sleeping) and otherwise do nothing.
+
