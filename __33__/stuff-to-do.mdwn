@@ -14,25 +14,29 @@ I like to do. I like work that gives me time to do things that I want to do,
 but what are those things that I want to do?
 
 ## The things I like doing
-It seems that all of the things I like to do are aspects of this broader
-aversion to work and to tiresome emotion.
+Most of the things I like to do can be seen as indirect manifestations of my
+aversion to work and to other stressful things.
 
-And the more culturally
-accepted things that I like to do are manifestations of my frustration with
+For example, I blew dorm politics [out of proportion](/!/risley-toilets) for
+the hilarity; I gradually concluded that open data has nothing to do with
+transparency and everything to do about
+[big money](/!/open-data-is-all-about-money/) and
+[hype for hype's sake](/!/searching-data-tables-better);
+and my mission to enlighten people to
+[musical data analysis](http://fms.csvsoundsystem.com) has
+[spiraled](sheetmusic)
+[out](eusprig)
+[of](geomdoner)
+[control](brighttalk)
 
-indirect criticism
-
-[dorm politics](/!/risley-toilets),
-[open openness](/open-data),
-[buzzy data
-
-more direct
-/!/silly
+Some other things can be seen as more direct manifestations of this aversion
+to work, such as [this recent (not finished) writing](/!/silly)
 
 ## Do I want to do something good for the world?
-I wonder whether I want to do something "good" for the world.
+Could it be that I want to do something "good" for the world?
 I [seem]()
 to like [DataKind](),
+I care something about [open data](
 but I'm skeptical that it's doing much for the world; I mostly just like
 them because they make me feel [happy]().
 
