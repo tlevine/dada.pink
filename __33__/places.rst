@@ -28,3 +28,13 @@ Cheap
 Here are places that I should at least see.
 
 * https://en.wikipedia.org/wiki/Kennecott,_Alaska
+* Reunion
+* Southern France
+* Mauratius
+
+Courses
+
+* Landmark
+* Vipasana
+  * Dho..something
+* Rainbow family gatherings
