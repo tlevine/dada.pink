@@ -24,3 +24,7 @@ Easy to get to other places
     ?
 Cheap
     ?
+
+Here are places that I should at least see.
+
+* https://en.wikipedia.org/wiki/Kennecott,_Alaska
