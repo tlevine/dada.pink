@@ -4,15 +4,28 @@ of control in order to point tihs out.
 
 This could be an argument or a very directed/scripted/normative conversation.
 
-I approach with naive ignorance.
+People are aligned in varying degrees with the topic. Some people feel very
+strongly connected to the topic and are unlikely to change how they behave
+about it any time soon. Some people take part in it but are frustrated. And
+some people stay out of it but are annoyed that it's going on.
 
-Let's distinguish between the people who are involved in the discussion and
-those who aren't. In the argument case (like the politics within my university
-dorm or within the team in a project I worked on), the people involved in the
-discussion are the people in the two groups who are arguing; the other group
-is all the people who are aware of the politics but aren't noticably arguing.
-In the case of the normative conversation, there are the people who
+I approach with curiosity. These steps, approximately
 
- everyone else, who isn't arguing. In the non-argument
-In the former, it's like there are two arguing groups. This would be like the
-Risley mailing list or like workplace politics.
+1. Notice that something's up and get curious
+2. Become interested in the topic and begin asking questions and trying to
+    understand it
+3. Seek out discussion settings that are organized by the people who are
+    very involved in the topic and where many people are listening, especially
+    people who are less supportive of the fighting
+4. Display curiosity, and be open about your ignorance.
+  * Ask naive questions.
+  * Get confused when you're confused.
+  * Accept that you won't fully understand it; rather than trying to
+      demonstrate that you understand what they're talking about, admit that
+      you don't understand if there's something you don't understand.
+  * Ignore the polite cues that you should stop talking or switch the topic.
+      * People want to switch the topic because your words clash with their
+          mental model, not because you're being rude. 
+      * Force people to say explicitly that you need to stop talking; that
+          makes it clear that they are suppressing discussion that doesn't
+          fit.
