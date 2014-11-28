@@ -1,16 +1,16 @@
 [[!meta title="What happens when you use Socrata's Contact Dataset Owner feature"]]
 [[!meta description="Your message does go somewhere!"]]
 
-I once tried contacting the "data owner" for a dataset hosted
-on a Socrata site. I've heard of several other people trying the
-same thing. I figured that this data owner contact thingy must
-do *something*, so I was a bit puzzled that none of us had ever
-received a response. In the present article, I try to figure out
-what this data owner thing does.
+I've heard of several other people trying to contact the owners
+of datasets on government websites but never getting a response.
+I figured that this data owner contact thingy must do *something*,
+so the idea that nobody would ever get a response seemed strange.
+In the present article, I try to figure out was going on.
 
-I contacted a bunch of data
-owners in order to figure this out, and I now have a much better idea.
-In particular, I estimated the chance that you'll get a response if you
+I used Socrata's Contact Dataset Owner feature a lot,
+and I now have a much better idea as to how it works.
+In particular, I surveyed dataset owners through this feature
+in order to estimate the chance that you'll get a response if you
 submit a message through the dataset owner contact thingy.
 
 I'll start with a discussion how the feature works and how I surveyed
@@ -332,10 +332,17 @@ owner owned.
 Given how many owners I contacted, the term for the number of datasets
 (`n.datasets`) isn't large enough that we should guess that there truly is some
 difference in response rates based on the number of datasets an owner owns.
+
 Said more fancy-like, the *p*-value for the slope term (0.3919) is much
 larger than our conventional *&alpha;* of 0.05, so we do not reject the
 null hypothesis that the number of datasets an owner owns has nothing to
 do with whether the owner responds.
+
+I didn't try very hard at checking the fit statistics; it is possible that
+a logistic regression is totally unreasonable for these data.
+
+Based on this regression, responsiveness doesn't seem to relate to the
+number of datasets that an owner owns.
 
 The most compelling way I found to display the data was in this last plot.
 
@@ -350,18 +357,21 @@ anyone wound up in the middle plot (the "no" group).
 
 Now let's put those three observations together: If an owner responded,
 the owner probably responded with "yes". And the rate of response might
-be a bit higher for owners who owned few datasets.
+be a bit higher for owners who owned few datasets. Based on this plot,
+it looks like responsiveness is related to the number of datasets that
+an owner owns.
 
+#### Conclusion about sampling bias
 I don't have a very clear answer either way, but it seems sort of like
 people with more datasets respond differently from people
 with fewer datasets. Because of this, we should keep in mind that the 
 thing I'm about to tell you about the chance of response to a message
 to an owner might only apply to people with few datasets.
 
-More specifically, I am going to report figures about the chance that
-you will receive a response if you use the data owner contact feature,
-and I'm guessing that that figure would be a bit lower if the data owner
-whom you contact owns many many datasets.
+In the next section, I am going to report figures about the chance that
+you will receive a response if you use the data owner contact feature.
+Because I didn't manage to sample the owners with especially many datasets,
+the following results might not apply very well to them.
 
 ### How/whether owners respond
 Recall that there were three possible outcomes for each owner
@@ -394,10 +404,10 @@ the estimated proportion, where `x` was the sample data.
 
     svyciprop(x, d.unweighted, method = 'mean', level = 0.95)
 
-I'm pretty sure that this is equivalent to a one-sample *t*-test.
+This first method is equivalent to a one-sample *t*-test.
 
 The second of the strategies is more meaningful because it considers that
-my I weighted my sample based on the number of datasets that they owned
+my I weighted my sample based on the number of datasets that owners owned
 (because I was really interested in the datasets rather than in the owners).
 
     d.weighted <- svydesign(~1, data = sent, weight = sent$n.datasets)
@@ -481,8 +491,9 @@ They are
 * Personal Information
 * Other
 
-These all seem to be about corrections to the dataset, and there might be a
-very clear process as to how to handle all of these. You might evaluate whether
+Aside from "Other", these seem to be about corrections to the dataset.
+There might be a very clear process as to how to handle all of these;
+you might evaluate whether
 the concern is valid and then update or remove the dataset.
 The process of answering a question about a dataset might be very different.
 
