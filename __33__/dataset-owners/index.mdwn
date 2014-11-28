@@ -152,7 +152,7 @@ told me to go to. I filled in the following information
   <dt>Reason</dt><dd>"Other" (the default)</dd>
   <dt>Subject</dt><dd>"A visitor has sent you a message about your ... dataset" (the default)</dd>
   <dt>Message</dt><dd>Copy this from the output of the message-sending guide program</dd>
-  <dt>Email adtress</dd><dd>"dataowners@thomaslevine.com"</dd>
+  <dt>Email address</dd><dd>"dataowners@thomaslevine.com"</dd>
 </dl>
 
 and submitted the form.
@@ -272,7 +272,7 @@ no apparent trend. I see more red bars in the middle of the plot than on
 the top and bottom, so this association might exist. I'm not really sure though.
 
 More interestingly, we can assess the likelihood of getting a particular
-respose to your message. The likelihood of getting any response at all is
+response to your message. The likelihood of getting any response at all is
 the proportion of the colored area that is red ("yes") or green ("no").
 Most of the colored area is  blue, however, and this suggests that you
 probably won't get a response if you try to contact the owner of a particular
@@ -309,7 +309,7 @@ In this first plot, each dot is a dataset owner.
 Its horizontal position is randomly chosen,
 its vertical position corresponds to the number of datasets the owner owned,
 and its color corresponds to whether the owner responded to my contact.
-The squigly shapes in the back are violin plots, which are like smoothed
+The squiggly shapes in the back are violin plots, which are like smoothed
 versions of the points.
 
 The shapes of the two sides of the plots are sort of similar but also sort
@@ -330,7 +330,7 @@ owner owned.
     n.datasets  0.006386   0.007459   0.856   0.3919  
 
 Given how many owners I contacted, the term for the number of datasets
-(`n.datasets`) isn't large enough that we should guess that there truely is some
+(`n.datasets`) isn't large enough that we should guess that there truly is some
 difference in response rates based on the number of datasets an owner owns.
 Said more fancy-like, the *p*-value for the slope term (0.3919) is much
 larger than our conventional *&alpha;* of 0.05, so we do not reject the
