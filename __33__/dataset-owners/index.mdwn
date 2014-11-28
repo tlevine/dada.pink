@@ -3,9 +3,12 @@
 
 I once tried contacting the "data owner" for a dataset hosted
 on a Socrata site. I've heard of several other people trying the
-same thing. In none of these cases did anyone recieve a response.
+same thing. I figured that this data owner contact thingy must
+do *something*, so I was a bit puzzled that none of us had ever
+received a response. In the present article, I try to figure out
+what this data owner thing does.
 
-What exactly does this data owner thing do? I contacted a bunch of data
+I contacted a bunch of data
 owners in order to figure this out, and I now have a much better idea.
 In particular, I estimated the chance that you'll get a response if you
 submit a message through the dataset owner contact thingy.
