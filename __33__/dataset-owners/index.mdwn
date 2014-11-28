@@ -175,10 +175,7 @@ email saying that my message had been marked as spam, so I counted
 them as not having responded to my contact.
 
 ## Things I learned about Socrata Open Data Portal
-I learned a lot of things about Socrata's dataset owner contact feature.
-
-* Size limit (I suspect that it's a limit on the number of characters in a database field.)
-* Intended for copyright and privacy issues rather than clarifications on the dataset
+Socrata's dataset owner contact feature doesn't work quite as I had expected.
 
 ### Errors
 Sending the messages turned out to be more difficult than I had expected.
