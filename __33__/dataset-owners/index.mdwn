@@ -115,9 +115,9 @@ data. I kept the salt value secret, and I can reproduce the sampling based
 on the salt.
 
 ### Configuring the server for receiving responses
-I pointed the domain "dataowners.thomaslevine.com" was pointed to my
+I pointed the domain "dataowners.thomaslevine.com" to my
 virtual server at the [Numb Server Association](https://the-nsa.org).
-On this computer, an Nginx server was configured with these properties.
+On this computer, I configured an an Nginx server with these properties.
 
 * Listen only on "dataowners.thomaslevine.com".
 * Serve the same [exit page](http://small.dada.pink/dataset-owners/exit.html)
