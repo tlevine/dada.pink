@@ -1,7 +1,20 @@
+[[!meta title="What happens when you use Socrata's Contact Dataset Owner feature"]]
+[[!meta description="Your message does go somewhere!"]]
+
 I once tried contacting the "data owner" for a dataset hosted
-on a Socrata site, and I read that Flowing Data just did too.
-In neither case did we get responses. So what exactly does this
-data owner thing do?
+on a Socrata site. I've heard of several other people trying the
+same thing. In none of these cases did anyone recieve a response.
+
+What exactly does this data owner thing do? I contacted a bunch of data
+owners in order to figure this out, and I now have a much better idea.
+In particular, I estimated the chance that you'll get a response if you
+submit a message through the dataset owner contact thingy.
+
+I'll start with a discussion how the feature works and how I surveyed
+data owners. I learned a lot more about the feature as I ran the survey,
+and I'll tell you about that. I'll present the results from the survey,
+comment on some potential mechanisms that would explain the results, and
+discuss the practical relevance of these findings.
 
 ## The Contact Dataset Owner feature
 If you go to a dataset page on a Socrata Open Data Portal website,
