@@ -136,7 +136,7 @@ I wrote a little
 [thingy](http://small.dada.pink/dataset-owners/bin/messages)
 that made it easier for me to contact the owners. This program
 guided me through the whole process of contacting the owners,
-remembering all of the annoying things for me.
+and it remembered all of the annoying things for me.
 
 It checks which owners have been contacted and selects one of
 the owners that hasn't been contacted. It tells me which URL
@@ -148,10 +148,12 @@ dataset owner.
 I ran my messages program thingy and went to the URLs that it
 told me to go to. I filled in the following information
 
-* Reason: "Other" (the default)
-* Subject: "A visitor has sent you a message about your ... dataset" (the default)
-* Message: Copy this from the output of the message-sending guide program
-* Email address: "dataowners@thomaslevine.com"
+<dl>
+  <dt>Reason</dt><dd>"Other" (the default)</dd>
+  <dt>Subject</dt><dd>"A visitor has sent you a message about your ... dataset" (the default)</dd>
+  <dt>Message</dt><dd>Copy this from the output of the message-sending guide program</dd>
+  <dt>Email adtress</dd><dd>"dataowners@thomaslevine.com"</dd>
+</dl>
 
 and submitted the form.
 
