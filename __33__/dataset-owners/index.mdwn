@@ -1,0 +1,502 @@
+I once tried contacting the "data owner" for a dataset hosted
+on a Socrata site, and I read that Flowing Data just did too.
+In neither case did we get responses. So what exactly does this
+data owner thing do?
+
+## The Contact Dataset Owner feature
+If you go to a dataset page on a Socrata Open Data Portal website,
+you'll see something like this.
+
+![A Socrata dataset page](example/6jva-hr4v-1.png)
+
+There's an "About" button that opens this screen.
+
+![The "About" button](example/6jva-hr4v-2.png)
+
+Scroll to the bottom, and you'll see "Contact Dataset Owner".
+
+![The "Contact Dataset Owner" button](example/6jva-hr4v-3.png)
+
+Then you can fill out the contact form,
+
+![Filling out the form](example/6jva-hr4v-4.png)
+
+which includes a CAPTCHA.
+
+![The CAPTCHA](example/6jva-hr4v-5.png)
+
+If you submit the form and all goes well, you'll see something like this.
+
+!["The dataset owner has been notified"](example/6jva-hr4v-6.png)
+
+I have no idea about how the message is handled technically after you submit
+the form.
+
+This is the feature that I mentioned in the beginning, and that's all I knew
+about it before beginning the present study. Let's see what I learned!
+
+## Questions
+I mainly wanted to answer this.
+
+> If I contact the owner of a dataset on a Socrata website, what is the chance
+> that I will receive a response at all?
+
+Secondarily, I am curious as to whether that "owner" is the right person.
+
+> If I contact the owner of a dataset on a Socrata website, what is the chance
+> that the person will be the appropriate contact person?
+
+## Methods
+I sent emails to a sample of the data owners asking whether they
+are still appropriate contacts for their datasets. They could respond
+with "yes" or "no". They could also not respond. I checked which ones
+responded, and I came up with some figures related to the above questions.
+
+### Sampling
+I downloaded metadata on
+[all public datasets](http://thomaslevine.com/!/socrata-summary/)
+from all the Socrata websites I knew about and then looked at the
+[owners](http://thomaslevine.com/!/socrata-genealogies/) of the different
+datasets. I treated this as a population of owners of public datasets.
+I drew a sample from this population, and I tried to send questionnaires
+to every owner in the sample.
+
+My [sampling script](http://small.dada.pink/dataset-owners/bin/sample)
+is parametrized by a salt.
+
+    SALT=elephant ./sample.R
+
+This produces a file called "messages.csv" containing a record for each
+of the sampled users. Each record contained the URL of a dataset owned
+by the user and the message that I should send to the user. 
+
+### Messages
+Messages looked like this.
+
+    Dear [fullname],
+    
+    My name is Thomas Levine, and I have been studying how governments
+    publish data. I am contacting you because you are listed as the
+    "dataset owner" for the following datasets.
+    
+    https://data.somecity.gov/d/abcd-efgh
+    https://data.somecity.gov/d/ijkl-mnop
+    ...
+    
+    I would like to know whether you are the person I should contact about these datasets.
+    
+    If you are still the contact, please go to this web page.
+    http://dataowners.thomaslevine.com/astoehusahul982h3cuhose/yes
+    
+    If you are no longer the contact or never were the contact, please go to this web page.
+    http://dataowners.thomaslevine.com/astoehusahul982h3cuhose/no
+    
+    And feel free to email me if you have any questions or comments.
+    
+    Thanks
+
+The message contained a unique identifiers the user that had been chosen
+as a hash of the salt and the Socrata identifier for the owner. I did this
+so that a hypothetical troublemaker would have difficulty messing with my
+data. I kept the salt value secret, and I can reproduce the sampling based
+on the salt.
+
+### Configuring the server for receiving responses
+I pointed the domain "dataowners.thomaslevine.com" was pointed to my
+virtual server at the [Numb Server Association](https://the-nsa.org).
+On this computer, an Nginx server was configured with these properties.
+
+* Listen only on "dataowners.thomaslevine.com".
+* Serve the same [exit page](http://small.dada.pink/dataset-owners/exit.html)
+    regardless of the HTTP request.
+* Store logs to files specific to the "dataowners.thomaslevine.com"
+    server, as to not confuse it with other domains on the same website.
+
+I backed up the log files periodically and saved the final versions
+after a few weeks.
+
+### Contact procedure
+I wrote a little
+[thingy](http://small.dada.pink/dataset-owners/bin/messages)
+that made it easier for me to contact the owners. This program
+guided me through the whole process of contacting the owners,
+remembering all of the annoying things for me.
+
+It checks which owners have been contacted and selects one of
+the owners that hasn't been contacted. It tells me which URL
+to go to and gives me the text to put in the message to the
+dataset owner.
+
+<!-- An image could go here. -->
+
+I ran my messages program thingy and went to the URLs that it
+told me to go to. I filled in the following information
+
+* Reason: "Other" (the default)
+* Subject: "A visitor has sent you a message about your ... dataset" (the default)
+* Message: Copy this from the output of the message-sending guide program
+* Email address: "dataowners@thomaslevine.com"
+
+and submitted the form.
+
+I recorded in my little program any unexpected results of the form
+submission (mostly error messages).
+
+### Reading server logs
+Recall that the server logs record clicks on the "yes" or "no" links
+that I included in the messages to dataset owners.
+
+I wound up with a data table where each row was a dataset owner and
+where the two columns corresponded to the owner hash (identifier)
+and the response (yes or no).
+
+[Here](http://small.dada.pink/dataset-owners/bin/log-parser) are the
+details of how I converted the log files into a CSV file of two columns.
+
+### Reading emails
+Three people responded by email, and I combined their responses with
+the data table produced above.
+
+Oklahoma's Office of Management and Enterprise Services sent me an
+email saying that my message had been marked as spam, so I counted
+them as not having responded to my contact.
+
+## Things I learned about Socrata Open Data Portal
+I learned a lot of things about Socrata's dataset owner contact feature.
+
+* Size limit (I suspect that it's a limit on the number of characters in a database field.)
+* Intended for copyright and privacy issues rather than clarifications on the dataset
+
+### Errors
+Sending the messages turned out to be more difficult than I had expected.
+Whenever an error occurred, I recorded that the error happened and then either
+tried again or moved on. I tried again more at the beginning; by the end,
+I had gotten pretty good at predicting whether an error would go away if I
+tried again.
+
+#### Simple errors
+In some cases, the page didn't load.
+
+![Everything loads on the dataset page except for the dataset](errors/hmyf-5wkk.png)
+
+In other cases, the dataset had apparently been deleted between the time when
+I assembled my list of all datasets and when I finally sent the messages.
+
+#### Errors in sending
+Most of the errors were things that I categorized as errors in sending the message.
+
+In two cases, the CAPTCHA didn't show up.
+
+![Contact-Owner form without a CAPTCHA](errors/ezaq-2pxp-1.png)
+
+I submitted the form anyway, but I was told that I hadn't filled out
+the CAPTCHA properly (because I hadn't).
+
+![Contact-Owner form without a CAPTCHA](errors/ezaq-2pxp-1.png)
+
+In most of the other cases, the problem was less clear. I got messages like
+this one.
+
+![There was an error sending feedback for this dataset. Please retry later.](errors/twfr-p4s4.png)
+
+If I looked more closely at what was going on in the webpage, I saw things
+like this.
+
+![500 Error](errors/inspect-error-1.png)
+
+That is, the XML HTTP request received a response with a status of 500,
+indicating that something had gone wrong in the server.
+
+![HTML returned from the 500 error](errors/inspect-error-3.png)
+
+The body of the response was some HTML that says that the page is "unavailable".
+
+#### Possible reason for the majority of errors
+Errors in sending were happening a lot, and I was getting the feeling that
+long messages were more likely to produce errors. After I had finished attempting
+
+<img src="figures/undocumented-limit.png"
+     alt="Is there an undocumented limit on the length of a message?" />
+
+<img src="figures/undocumented-limit-zoomed.png"
+     alt="Previous plot zoomed in, showing an increase around 5000 characters at the rate of errors" />
+
+Here's my guess as to what is going on. The messages are compressed and then
+stored in a relational database in a VARCHAR column. This column's maximum
+length is low enough to that longer messages won't be allowed in the database.
+Recall that you are supposed to enter a "*Short* Message" into the box. Maybe
+this is why!
+
+## Results
+I'm almost at the point where I discuss what I learned from the dataset owners
+once I contacted them. I'll comment on the sampling bias that the came out of
+the errors in sending the messages, and then I'll provide my answers to the
+research questions.
+
+I'll go into much more detail in the following sections about these two
+concerns, but the following plot says almost everything that the longer
+sections below say.
+
+![](figures/how-many-datasets.png)
+
+In this plot, each data owner is represented as a bar, and each dataset is
+represented as a section of the bar; bars are longer for data owners who own
+more datasets. The color of the bar indicates whether the particular owner
+responded to my message with a
+"yes", (indicating that she was the appropriate contact person),
+responded with a "no (indicating that she was not the appropriate person),
+or did not respond.
+
+We can assess whether the response is associated with the number of datasets
+by looking at whether bars change color as we move up and down the plot.
+If response is associated with the number of datasets, we should see more
+red bars in one section of the plot than in another section of the plot.
+If response isn't associated, the colors of the bars should alternate with
+no apparent trend. I see more red bars in the middle of the plot than on
+the top and bottom, so this association might exist. I'm not really sure though.
+
+More interestingly, we can assess the likelihood of getting a particular
+respose to your message. The likelihood of getting any response at all is
+the proportion of the colored area that is red ("yes") or green ("no").
+Most of the colored area is  blue, however, and this suggests that you
+probably won't get a response if you try to contact the owner of a particular
+dataset. Furthermore, there is much more red than green, and this suggests
+that the person who responds, if you do get a response, will be an appropriate
+person for asking questions about the dataset.
+
+As I said, the above plot presents the results pretty well, but I'm going
+a bit more in depth in the following two sections.
+
+### Sampling bias introduced by the errors in sending
+As we saw above, I had much more difficulty sending messages to people with
+more datasets. As such, my sample was no longer representative
+(mathematically) of my original population. In the present section, I consider
+the implications of this sampling bias.
+
+![I managed to send a message to 124 of 255 people](figures/send-rate.png)
+
+It is possible that the owners that own the most datasets are qualitatively
+different from other owners in their manner of responding. For example, it
+could be that the accounts that own many datasets belong to departments rather
+than individual people and that they thus respond to messages in a different way.
+
+So I checked whether there was a systematic difference in the sort of response
+associated with the number of datasets that an owner owns. (And I did this only
+with the owners to which I managed to send messages, as I didn't have relevant
+data about the owners to which I didn't manage to send messages.)
+
+I'm going to look at it a few different ways.
+
+![](figures/responsiveness-and-ownership.png)
+
+In this first plot, each dot is a dataset owner.
+Its horizontal position is randomly chosen,
+its vertical position corresponds to the number of datasets the owner owned,
+and its color corresponds to whether the owner responded to my contact.
+The squigly shapes in the back are violin plots, which are like smoothed
+versions of the points.
+
+The shapes of the two sides of the plots are sort of similar but also sort
+of different. Based on the plot, I'd guess that there probably is at least
+a small difference in whether an owner responds depending on whether the
+owner has many or few datasets. But I'm not really sure, based on the plot,
+about what the difference is.
+
+We can get a fancier result with a logistic regression of whether the
+owner responded (She either did or didn't.) on the number of datasets the
+owner owned.
+
+    glm(formula = response ~ n.datasets, family = "binomial", data = sent)
+
+    Coefficients:
+                Estimate Std. Error z value Pr(>|z|)  
+    (Intercept) 0.543654   0.264629   2.054   0.0399
+    n.datasets  0.006386   0.007459   0.856   0.3919  
+
+Given how many owners I contacted, the term for the number of datasets
+(`n.datasets`) isn't large enough that we should guess that there truely is some
+difference in response rates based on the number of datasets an owner owns.
+Said more fancy-like, the *p*-value for the slope term (0.3919) is much
+larger than our conventional *&alpha;* of 0.05, so we do not reject the
+null hypothesis that the number of datasets an owner owns has nothing to
+do with whether the owner responds.
+
+The most compelling way I found to display the data was in this last plot.
+
+![Histograms of number of datasets faceted by response (yes, no or none)](figures/sampling-bias.png)
+
+Focus on the bottom plot (the "no response" group). Aside from the
+left-most bar, the bars stay at about the same height as they move
+from left (few datasets) to right (many datasets). Compare this to
+the top plot (the "yes" group); excluding the left-most bar, the bars
+to the left are much taller than the bars to the right. Also, hardly
+anyone wound up in the middle plot (the "no" group).
+
+Now let's put those three observations together: If an owner responded,
+the owner probably responded with "yes". And the rate of response might
+be a bit higher for owners who owned few datasets.
+
+I don't have a very clear answer either way, but it seems sort of like
+people with more datasets respond differently from people
+with fewer datasets. Because of this, we should keep in mind that the 
+thing I'm about to tell you about the chance of response to a message
+to an owner might only apply to people with few datasets.
+
+More specifically, I am going to report figures about the chance that
+you will receive a response if you use the data owner contact feature,
+and I'm guessing that that figure would be a bit lower if the data owner
+whom you contact owns many many datasets.
+
+### How/whether owners respond
+Recall that there were three possible outcomes for each owner
+that I successfully contacted.
+
+1. The owner did not respond. Let's abbreviate this as "no-response".
+2. The owner said that she or he was the appropriate contact person.
+    Let's abbreviate this as "yes".
+3. The owner said that she or he was *not* the appropriate contact person.
+    Let's abbreviate this as "no".
+
+In order to answer the two research questions, I imagined that I was
+going to send a message to all of the owners of all datasets on Socrata
+Open Data Portal sites (not just 124 of them), and I
+tried to predict how many would respond in a particular way.
+
+#### Statistics
+I made two estimates, in fact, for each of the two research questions
+(four estimates in total). I came up with two estimates by modeling
+the sampling strategy differently in the
+[`survey`](http://cran.r-project.org/web/packages/survey/) R package.
+
+The first of the strategies is less meaningful and more easy to explain.
+It assumes a simple random sample from an infinite population of data owners.
+
+    d.unweighted <- svydesign(~1, data = sent, weight = ~1)
+
+Then I ran the following command to come up with a confidence interval for
+the estimated proportion, where `x` was the sample data.
+
+    svyciprop(x, d.unweighted, method = 'mean', level = 0.95)
+
+I'm pretty sure that this is equivalent to a one-sample *t*-test.
+
+The second of the strategies is more meaningful because it considers that
+my I weighted my sample based on the number of datasets that they owned
+(because I was really interested in the datasets rather than in the owners).
+
+    d.weighted <- svydesign(~1, data = sent, weight = sent$n.datasets)
+
+The other difference in the second strategy; I used the "logit" method
+for computing the confidence intervals.
+
+    svyciprop(x, d.weighted, level = 0.95, method = 'logit')
+
+According to the `svydesign` documentation,
+
+> The "logit" method fits a logistic regression model and computes a
+> Wald-type interval on the log-odds scale, which is then transformed
+> to the probability scale.
+
+I don't fully know what this means; I used it because it was the default and
+because it gave a smaller confidence interval than the "mean" method above.
+
+#### How many respond at all
+This was the first research question.
+
+> If I contact a dataset owner on a Socrata website, what is the chance
+> that I will receive a response at all?
+
+For this question, I estimated the proportion of owners that would
+fall into the "yes" or "no" group, rather than the "no-response" group.
+
+![](figures/question-1.png)
+
+#### How many say yes
+This was the second research question.
+
+> If I contact a dataset owner on a Socrata website, what is the chance
+> that the person will be the appropriate contact person?
+
+For the first question, I estimated the proportion of owners that would
+fall into the "yes" or "no" group, rather than the "no-response" group.
+In this second question, I instead estimate the proportion of owners that
+fall into the "yes" group only, rather than owners who fall into either
+of the "no" or "no response" groups. This result was thus lower than the
+result for the first question.
+
+![](figures/question-2.png)
+
+## Conclusions
+I sought to estimate the chance that asking questions about datasets with
+Socrata Open Data Portal's owner contact thingy would lead to responses.
+I came up with that estimate and learned a bunch of other things along the way.
+
+### Chance of getting a response
+If I had to guess, I'd say the following.
+
+![](figures/answers.png)
+
+* There is about a one-in-three chance of getting some sort of response.
+* If you get a response, your message has probably been sent to an appropriate
+    person.
+* Different sorts of people might own different numbers of datasets, and
+    the chance that you'll get a response might be related to the number of
+    datasets that an owner owns.
+
+This figure of one response in three messages seems a bit low. Also, I had
+quite a lot of difficulty in sending the messages. Why is it so inconvenient?
+
+### Intent of the owner contact thingy
+I think that this owner contact thingy was never intended to be used to
+ask questions about a dataset and that people are using it for that purpose
+anyway.
+
+When I sent the messages to the sample of owners, I specified that the
+reason for my contact was "Other". Let's look at the other reasons that
+are available.
+
+![](example/purpose-cropped.png)
+
+They are 
+
+* Copyright Violation
+* Offensive Content
+* Spam or Junk
+* Personal Information
+* Other
+
+These all seem to be about corrections to the dataset, and there might be a
+very clear process as to how to handle all of these. You might evaluate whether
+the concern is valid and then update or remove the dataset.
+The process of answering a question about a dataset might be very different.
+
+It could be that the feature was designed for a common process of correcting
+the data and that the people who were making these corrections had different
+intuitions about how the system would work and thus wouldn't have the
+difficulties that I had seen.
+
+### Turning off the owner contact thingy
+It might also be that some institutions use this feature more than others
+and that it is hard to turn this feature off even if you
+don't plan on using it.
+
+I have this issue with most of the messaging features
+on Facebook, Twitter, LinkedIn, GitHub, and so on. The email notifications
+from these services aren't particularly helpful, so I mostly ignore them.
+(It's way more complicated than that; I might discuss it some other time,
+but not now.)
+Also, I can't simply turn off the message, pull request, &c. features, so
+people assume that I pay attention to them. I notice them every few months
+by accident and thus don't respond very quickly.
+
+## Relevance
+Are you looking for information about a dataset? On one hand, you might be
+disappointed to learn that you probably won't get a response if you use the
+dataset owner contact thingy. On the other hand, it's not like this feature
+is broken; people sometimes do respond, so it's worth a shot.
+
+I suspect that there's misunderstanding by the public as to how this feature
+should be used. If you are publishing data but do not want people to ask
+questions about it, I suggest against including a feature like this.
+If you want this feature for your own internal use, consider enabling it
+only for your own staff or at least noting that it's only for internal use.
