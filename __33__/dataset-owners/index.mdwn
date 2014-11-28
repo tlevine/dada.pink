@@ -247,7 +247,8 @@ I'll go into much more detail in the following sections about these two
 concerns, but the following plot says almost everything that the longer
 sections below say.
 
-![](figures/how-many-datasets.png)
+<img src="figures/how-many-datasets.png" class="wide"
+     alt="How many datasets each owner owned" />
 
 In this plot, each data owner is represented as a bar, and each dataset is
 represented as a section of the bar; bars are longer for data owners who own
