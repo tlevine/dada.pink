@@ -5,6 +5,14 @@ conferences really really really love spreadsheets, and they
 talk about their favorite spreadsheet shortcuts over drinks
 in the bar.
 
+My talk was on [sheetmusic](http://pypi.python.org/pypi/sheetmusic)
+and on making music from spreadsheets.
+[Eloy]() took a
+[video](https://www.youtube.com/watch?v=C22JtC035zQ),
+and Rickard
+[wrote]()
+about it.
+
 Here are some submission things
 
 [[!map pages="__33__/eusprig-2014/* and ! __33__/eusprig-2014/*/*"]]
