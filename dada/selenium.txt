@@ -1,1 +1,1 @@
-[[!meta redir="http://thomaslevine.com/!/selenium"]]
+[[!meta redir="/__33__/selenium"]]

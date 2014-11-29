@@ -1,1 +1,1 @@
-[[!meta redir="http://thomaslevine.com/!/data-science"]]
+[[!meta redir="/__33__/data-science"]]

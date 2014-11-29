@@ -1,1 +1,1 @@
-[[!meta redir="http://thomaslevine.com/!/thinking-about-types"]]
+[[!meta redir="/__33__/thinking-about-types"]]

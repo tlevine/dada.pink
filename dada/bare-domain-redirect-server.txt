@@ -1,1 +1,1 @@
-[[!meta redir="http://thomaslevine.com/!/bare-domain-redirect-server"]]
+[[!meta redir="/__33__/bare-domain-redirect-server"]]

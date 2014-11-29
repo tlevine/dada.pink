@@ -1,1 +1,1 @@
-[[!meta redir="http://thomaslevine.com/!/open-data-500-data-dictionary"]]
+[[!meta redir="/__33__/open-data-500-data-dictionary"]]

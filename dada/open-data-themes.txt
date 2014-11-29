@@ -1,1 +1,1 @@
-[[!meta redir="http://thomaslevine.com/!/open-data-themes"]]
+[[!meta redir="/__33__/open-data-themes"]]
