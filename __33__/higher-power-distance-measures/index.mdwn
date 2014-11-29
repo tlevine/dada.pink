@@ -133,10 +133,11 @@ called that the n-dimensional measure of the distribution's center.
 As the number of dimensions goes up, the measure of the center moves in the
 direction of the long tail of the distribution.
 
-## Questions
-It seems odd to me that I haven't heard of a sum of cubes.
+## What this is called?
+It had seemed odd to me that I haven't heard of a sum of cubes.
 Is there standard a name for the stuff I just explained?
 Does anyone use higher-power distance or centrality measures for real things?
-
-I'm really quite curious about all of this.
-Please tweet, email, phone, &c. me if you know anything.
+I asked this stuff on the internet and
+[received some answers](https://twitter.com/thomaslevine/status/364801819756609536).
+The stuff above is related to the
+[L<sup>p</sup> spaces](https://en.wikipedia.org/wiki/Lp_space).
