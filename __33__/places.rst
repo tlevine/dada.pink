@@ -15,6 +15,8 @@ Kind of hard to change
 
 Quiet
     I like when it's quiet. That is, building systems, automobiles, and so on should be quiet; music shouldn't be turned up very high; and people should talk quietly.
+Varied demographics, especially age
+    I get scared when everyone seems the same.
 
 Convenient things
 
