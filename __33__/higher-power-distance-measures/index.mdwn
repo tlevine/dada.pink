@@ -30,19 +30,6 @@ the line (the tick mark and the pink bar) are the same number. We could draw
 a point for each tick mark whose value is not exactly the same as the pink bar.
 Then we could count how many points we have and call that the **sum of points**.
 
-<style>
-#viz > .screen-size-warning { display: none; }
-@media screen and (max-width: 640px) {
-  #viz > * { display: none; }
-  #viz > .screen-size-warning {
-    display: block;
-    text-align: center;
-    font-weight: bold;
-    border: 2px solid;
-    padding: 0.5em;
-  }
-}
-</style>
 <div id="viz" style='width: 640px; margin-left: auto; margin-right: auto;'>
   <div class="screen-size-warning">Make this window wider (to 640 pixels)<br />to see the table.</div>
 </div>

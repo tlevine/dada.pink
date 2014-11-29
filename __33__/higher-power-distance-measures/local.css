@@ -1,0 +1,11 @@
+#viz > .screen-size-warning { display: none; }
+@media screen and (max-width: 640px) {
+  #viz > * { display: none; }
+  #viz > .screen-size-warning {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid;
+    padding: 0.5em;
+  }
+}
