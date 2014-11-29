@@ -37,7 +37,7 @@ Then we could count how many points we have and call that the **sum of points**.
   Nota bene: The line and square at the bottom right are **proportional** to but
   **not equal** to the sums of lines and squares, respectively.
 </small>
-<script src="/css/d3.min.js" charset="utf-8"></script>
+<script src="/js/d3.v3.min.js" charset="utf-8"></script>
 <script src="script.js"></script>
 
 ## Values of the other number that minimize the sums of shapes
