@@ -82,3 +82,10 @@ of microfinance investment opportunities in South Africa.
 (Liverpool, UK, three-fourths remote; January 2012 to November 2012, four to five days per week)
 I worked on a new data processing
 infrastructure and build specialized data processing systems
+
+## Languages
+
+* English (native)
+* French
+* Mandarin Chinese
+* Swedish
