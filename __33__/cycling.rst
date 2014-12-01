@@ -29,20 +29,26 @@ Easy
 * Route 395, Oregon
 * Isle of Wight, England
 * http://cycleireland.ie/
-    * http://www.killarneynationalpark.ie/
-    * http://cycleireland.ie/cooley-peninsula-cycle-loop/
-    * http://cycleireland.ie/old-head-of-kinsale-cycle-loop/
-    * https://en.wikipedia.org/wiki/Lismore,_County_Waterford
+
+  * http://www.killarneynationalpark.ie/
+  * http://cycleireland.ie/cooley-peninsula-cycle-loop/
+  * http://cycleireland.ie/old-head-of-kinsale-cycle-loop/
+  * https://en.wikipedia.org/wiki/Lismore,_County_Waterford
+
 * http://www.nzcycletrail.com
+
   * http://www.nzcycletrail.com/otago-central-rail-trail
   * http://www.nzcycletrail.com/around-mountains
   * http://www.nzcycletrail.com/rimutaka-cycle-trail
   * http://www.nzcycletrail.com/hawkes-bay-trails
   * http://www.nzcycletrail.com/hauraki-rail-trail
+
 * https://en.wikipedia.org/wiki/Blue_Ridge_Parkway
 * http://www.adventurecycling.org
+
   * http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/pacific-coast/
   * http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/florida-connector/
+
 * http://cycletrailsaustralia.com/2_trails/gibb-river-road
 * http://cycletrailsaustralia.com/2_trails/finke-road-sa-nt
 
@@ -75,9 +81,13 @@ Guided tours
 ===============
 
 * `Guided tours <http://www.adventurecycling.org/guided-tours/>`_
+
   * `For beginners <http://www.adventurecycling.org/guided-tours/best-tours-for-beginners/>`_
+
 * `Adventure Cycling Route Network <http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/>`_
+
   * `Map <http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/interactive-network-map/>`_
+
 * http://www.biketours.com/
 * http://www.bikeasia.com/
 * http://www.spiceroads.com/
