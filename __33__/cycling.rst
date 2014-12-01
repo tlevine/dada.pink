@@ -24,13 +24,18 @@ Places
 Journals
 ==================
 
+Individual journals
+
 * http://afrique-a-velo.blogspot.com/
 * http://www.bruno-lafrikavelo.com/
 * http://cyclethebalkans.blogspot.com/
 * http://www.zagafrica.fr/
 * http://petergostelow.com/thebigafricacycle/
 
-`A bunch of journals <http://www.gobicycletouring.info/>`_
+Lists of journals
+
+* http://www.gobicycletouring.info/
+* http://www.crazyguyonabike.com/doc/categories/?o=Sh&doctype=journal
 
 
 Organizations
@@ -77,3 +82,5 @@ Equipment
 
 * http://www.crazyguyonabike.com/doc/page/?page_id=8363
 * https://en.wikipedia.org/wiki/Touring_bicycle
+* http://www.crazyguyonabike.com/doc/page/?page_id=148087
+* 
