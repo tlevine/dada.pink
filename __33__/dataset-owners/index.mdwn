@@ -497,6 +497,18 @@ you might evaluate whether
 the concern is valid and then update or remove the dataset.
 The process of answering a question about a dataset might be very different.
 
+Here's a relevant comment from [Chris Metcalf](http://chrismetcalf.net/),
+who works as a Director of Developer Platform at Socrata (December 2014)
+and was one of their early employees.
+
+[![@CanalMercer And if there's an issue with a dataset, you can comment on it or email the owner via the "About" tab @technickle @socrata](if-theres-an-issue.png)](https://twitter.com/chrismetcalf/status/309824412901863424)
+
+Chris indicates that you can use the dataset owner contact feature
+"if there's an issue with a dataset" and doesn't say anything about
+other contexts in which you can use this feature. On the other hand,
+this is a response to a question about bug-tracking systems, so it
+makes sense that he would focus on that aspect even if there are wider uses.
+
 It could be that the feature was designed for a common process of correcting
 the data and that the people who were making these corrections had different
 intuitions about how the system would work and thus wouldn't have the
