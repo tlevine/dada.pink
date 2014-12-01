@@ -2,7 +2,7 @@ While standing at a look-out place looking out over some pretty water
 in Seattle, I got into a conversation with a person who was also there
 and also with a bike. He said that highway 101 is a great place to bike
 long distances and that there's camping along the way. This sounds fun.
-I have been wanting to go camping without a car.
+I want to see pretty places and go camping without a car.
 
 Places
 ==============
@@ -18,8 +18,27 @@ Places
 * https://www.warmshowers.org/content/cycle-tour-balkan-states
 * http://www.mrpumpy.net/
 * http://www.bikely.com/ (Mako uses it.)
-* http://www.nzcycletrail.com
 * http://www.nps.gov/natr/index.htm
+* http://travellingtwo.com/resources/10questions/cycling-the-karakoram-highway 
+
+Easy
+
+* http://www.northsea-cycle.com/
+* http://www.eurovelo6-france.com/
+* Tasmania, Australia
+* Route 395, Oregon
+* Isle of Wight, England
+* http://cycleireland.ie/
+* http://www.nzcycletrail.com
+  * http://www.nzcycletrail.com/otago-central-rail-trail
+  * http://www.nzcycletrail.com/around-mountains
+  * http://www.nzcycletrail.com/rimutaka-cycle-trail
+  * http://www.nzcycletrail.com/hawkes-bay-trails
+  * http://www.nzcycletrail.com/hauraki-rail-trail
+* https://en.wikipedia.org/wiki/Blue_Ridge_Parkway
+* http://www.adventurecycling.org
+  * http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/pacific-coast/
+  * http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/florida-connector/
 
 Journals
 ==================
@@ -71,9 +90,9 @@ Recommended cycle routes
 * http://travellingtwo.com/resources/10-best-bike-tours
 * http://www.frommers.com/slideshows/818731-the-world-s-10-best-bike-tours
 * http://www.bicycling.com/ride-maps/featured-rides/50-rides-lifetime
-* 
+* http://travellingtwo.com/resources/10-best-bike-tours
 * http://travel.nationalgeographic.com/travel/top-10/cycle-routes/
-* 
+* http://www.cycletrailsaustralia.com/
 * 
 * 
 
