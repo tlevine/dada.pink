@@ -7,28 +7,18 @@ I have been wanting to go camping without a car.
 Places
 ==============
 
-Highway 101
-
 * http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/pacific-coast/
 * Ryan (Seattle person) said you can go all the way down to Panama. Here are some more resources
 * http://www.crazyguyonabike.com/doc/?doc_id=2684
-
-American Parks
-
 * http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/great-parks/
 * http://www.nps.gov/yell/planyourvisit/bicycling.htm
 * http://www.cycleamerica.com/np-tours.htm
-
-Europe
-
 * http://www.theguardian.com/travel/2008/jul/28/cyclingholidays.europe
-
-Other things about routes
-
 * http://sheldonbrown.com/euhansen.html
 * https://www.warmshowers.org/content/cycle-tour-balkan-states
 * http://www.mrpumpy.net/
 * http://www.bikely.com/ (Mako uses it.)
+* http://www.nzcycletrail.com
 
 Journals
 ==================
@@ -45,6 +35,7 @@ Organizations
 * http://www.eurovelo.org/
 * http://www.adventurecycling.org/guided-tours/
 * http://www.velo.qc.ca/fr/accueil
+* http://www.nzcycletrail.com
 
 Guided tours
 ===============
@@ -62,3 +53,17 @@ Guided tours
 * Relaxed
   * http://outfittertours.com/tour/relaxed-tuscany-bicycle-tour-7-night/
   * http://www.adventurecycling.org/guided-tours/fully-supported-tours/2015-idaho-trails-relaxed/
+
+Recommended cycle routes
+===========================
+
+* http://travellingtwo.com/resources/top10
+* http://www.lonelyplanet.com/travel-tips-and-articles/75502
+* http://travellingtwo.com/resources/10-best-bike-tours
+* http://www.frommers.com/slideshows/818731-the-world-s-10-best-bike-tours
+* http://www.bicycling.com/ride-maps/featured-rides/50-rides-lifetime
+* 
+* http://travel.nationalgeographic.com/travel/top-10/cycle-routes/
+* 
+* 
+* 
