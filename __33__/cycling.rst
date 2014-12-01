@@ -28,6 +28,7 @@ Easy
 * Tasmania, Australia
 * Route 395, Oregon
 * Isle of Wight, England
+* http://www.southdowns.gov.uk/
 * http://cycleireland.ie/
 
   * http://www.killarneynationalpark.ie/
@@ -51,6 +52,11 @@ Easy
 
 * http://cycletrailsaustralia.com/2_trails/gibb-river-road
 * http://cycletrailsaustralia.com/2_trails/finke-road-sa-nt
+* http://www.provence-a-velo.fr/accueil/les-circuits/circuits-par-pratique.aspx
+* http://outfittertours.com/tour/relaxed-tuscany-bicycle-tour-7-night/
+* http://www.adventurecycling.org/guided-tours/best-tours-for-beginners/
+  * http://www.adventurecycling.org/guided-tours/fully-supported-tours/2015-idaho-trails-relaxed/
+  * http://www.adventurecycling.org/guided-tours/fully-supported-tours/2015-great-lakes-relaxed/
 
 Journals
 ==================
@@ -94,9 +100,6 @@ Guided tours
 * http://www.ibike.org/bikeafrica/
 * http://www.veloafrique.be/
 * http://tourdafrique.com/
-* Relaxed
-  * http://outfittertours.com/tour/relaxed-tuscany-bicycle-tour-7-night/
-  * http://www.adventurecycling.org/guided-tours/fully-supported-tours/2015-idaho-trails-relaxed/
 
 Recommended cycle routes
 ===========================
