@@ -3,3 +3,9 @@ in Seattle, I got into a conversation with a person who was also there
 and also with a bike. He said that highway 101 is a great place to bike
 long distances and that there's camping along the way. This sounds fun.
 I have been wanting to go camping without a car.
+
+Highway 101
+--------------
+He said you can go all the way down to Panama. Here are some more resources
+
+* http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/pacific-coast/
