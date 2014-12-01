@@ -1,10 +1,12 @@
 People talk of
 [volunteer](http://okfn.org)
-[open](http://www.planethunters.org/)
+[open](http://openaddresses.io/)
 [openness](http://www.codeforamerica.org/)
 [work](https://www.wikipedia.org/)
 being bad because of the exploitation, overrepresentation of
-overrepresented people, bad results, and any number of other things.
+overrepresented people, bad results, lack of funding for things
+that should be funded, alignment towards interests of rich
+people, and any number of other things.
 
 Surely this stuff has happened before!
 
@@ -15,4 +17,5 @@ more formal way, through things like
 [Teach for America](http://www.teachforamerica.org/), and
 [World Wide Opportunities on Organic Farms (WWOOF)](http://www.wwoof.net/).
 
-Are these the same sort of thing?
+Are these the same sort of thing? If so, where can I find people who talk
+about all of these things? If not, how are they different?
