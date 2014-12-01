@@ -19,6 +19,7 @@ Places
 * http://www.mrpumpy.net/
 * http://www.bikely.com/ (Mako uses it.)
 * http://www.nzcycletrail.com
+* http://www.nps.gov/natr/index.htm
 
 Journals
 ==================
@@ -28,6 +29,9 @@ Journals
 * http://cyclethebalkans.blogspot.com/
 * http://www.zagafrica.fr/
 * http://petergostelow.com/thebigafricacycle/
+
+`A bunch of journals <http://www.gobicycletouring.info/>`_
+
 
 Organizations
 ================
@@ -67,3 +71,9 @@ Recommended cycle routes
 * 
 * 
 * 
+
+Equipment
+=============
+
+* http://www.crazyguyonabike.com/doc/page/?page_id=8363
+* https://en.wikipedia.org/wiki/Touring_bicycle
