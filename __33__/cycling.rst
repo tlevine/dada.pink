@@ -29,6 +29,10 @@ Easy
 * Route 395, Oregon
 * Isle of Wight, England
 * http://cycleireland.ie/
+    * http://www.killarneynationalpark.ie/
+    * http://cycleireland.ie/cooley-peninsula-cycle-loop/
+    * http://cycleireland.ie/old-head-of-kinsale-cycle-loop/
+    * https://en.wikipedia.org/wiki/Lismore,_County_Waterford
 * http://www.nzcycletrail.com
   * http://www.nzcycletrail.com/otago-central-rail-trail
   * http://www.nzcycletrail.com/around-mountains
@@ -39,6 +43,8 @@ Easy
 * http://www.adventurecycling.org
   * http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/pacific-coast/
   * http://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/florida-connector/
+* http://cycletrailsaustralia.com/2_trails/gibb-river-road
+* http://cycletrailsaustralia.com/2_trails/finke-road-sa-nt
 
 Journals
 ==================
