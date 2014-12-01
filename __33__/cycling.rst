@@ -28,6 +28,7 @@ Other things about routes
 * http://sheldonbrown.com/euhansen.html
 * https://www.warmshowers.org/content/cycle-tour-balkan-states
 * http://www.mrpumpy.net/
+* http://www.bikely.com/ (Mako uses it.)
 
 Journals
 ==================
@@ -36,13 +37,14 @@ Journals
 * http://www.bruno-lafrikavelo.com/
 * http://cyclethebalkans.blogspot.com/
 * http://www.zagafrica.fr/
-
+* http://petergostelow.com/thebigafricacycle/
 
 Organizations
 ================
 
 * http://www.eurovelo.org/
 * http://www.adventurecycling.org/guided-tours/
+* http://www.velo.qc.ca/fr/accueil
 
 Guided tours
 ===============
@@ -56,3 +58,7 @@ Guided tours
 * http://www.spiceroads.com/
 * http://www.ibike.org/bikeafrica/
 * http://www.veloafrique.be/
+* http://tourdafrique.com/
+* Relaxed
+  * http://outfittertours.com/tour/relaxed-tuscany-bicycle-tour-7-night/
+  * http://www.adventurecycling.org/guided-tours/fully-supported-tours/2015-idaho-trails-relaxed/
