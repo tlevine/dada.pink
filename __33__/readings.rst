@@ -79,3 +79,8 @@ Blood child
     ...
 Something about neurolinguistic programming
     (not a specific book)
+
+Other interesting books
+-------------------------
+
+`Don't sweat the small stuff <http://dontsweat.com/>`_
