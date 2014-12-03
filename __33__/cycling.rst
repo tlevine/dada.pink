@@ -113,8 +113,6 @@ Recommended cycle routes
 * http://travellingtwo.com/resources/10-best-bike-tours
 * http://travel.nationalgeographic.com/travel/top-10/cycle-routes/
 * http://www.cycletrailsaustralia.com/
-* 
-* 
 
 Equipment
 =============
@@ -125,6 +123,7 @@ Equipment
 * http://www.cyclo-randonnee.fr/achat/cat-velo-cyclo-randonnee-198.html
 * http://plato.se/cykla/2014/05/09/att-valja-langfardscykel/
 * http://www.cykelguiden.nu/cykelguiden.asp?page=kopa-cykel
+* http://www.adventure-cycling-guide.co.uk/bike5.htm
 
 Surley Long-Haul Trucker
 -----------------------------
