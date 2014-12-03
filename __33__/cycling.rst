@@ -123,4 +123,30 @@ Equipment
 * https://en.wikipedia.org/wiki/Touring_bicycle
 * http://www.crazyguyonabike.com/doc/page/?page_id=148087
 * http://www.cyclo-randonnee.fr/achat/cat-velo-cyclo-randonnee-198.html
+* http://plato.se/cykla/2014/05/09/att-valja-langfardscykel/
+* http://www.cykelguiden.nu/cykelguiden.asp?page=kopa-cykel
+
+Surley Long-Haul Trucker
+-----------------------------
+Everyone loves Surly Long-Haul Truckers. Not everyone in the US or
+everyone who speaks English---everyone!
+
 * http://tomsbiketrip.com/which-touring-bike-should-i-buy/
+* http://cyclo-roulard.e-monsite.com/pages/cote-organisation/page-1.htmlG
+* http://www.utsidan.se/forum/showthread.php?threadid=77796
+* https://www.flashback.org/t2162727
+
+How to size it
+
+* http://surlybikes.com/info_hole/spew/spew_bike_fit
+* http://sheldonbrown.com/frame-sizing.html
+* http://www.totalbike.com/service/frame_size.php
+
+Buying bikes off craigslist
+-------------------------------
+* http://hackerspace.lifehacker.com/how-to-buy-a-bike-off-craigslist-1607242253
+* http://www.instructables.com/id/Buying-used-bikes-for-beginners/
+* http://www.your-adrenaline-fix.com/used-dirt-bikes-for-sale.html
+* http://chrisbaskind.com/how-not-to-get-ripped-off-when-buying-a-used-bicycle/
+* http://www.popville.com/2013/07/tips-for-buying-a-bike-on-craigslist/
+* http://www.thechainlink.org/forum/topics/buying-bikes-off-craiglist
