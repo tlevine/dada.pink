@@ -117,20 +117,28 @@ Recommended cycle routes
 Equipment
 =============
 
+General information
+
 * http://www.crazyguyonabike.com/doc/page/?page_id=8363
 * https://en.wikipedia.org/wiki/Touring_bicycle
 * http://www.crazyguyonabike.com/doc/page/?page_id=148087
 * http://www.cyclo-randonnee.fr/achat/cat-velo-cyclo-randonnee-198.html
 * http://plato.se/cykla/2014/05/09/att-valja-langfardscykel/
 * http://www.cykelguiden.nu/cykelguiden.asp?page=kopa-cykel
+
+Lists of suggestions
+
+* http://tomsbiketrip.com/which-touring-bike-should-i-buy/
 * http://www.adventure-cycling-guide.co.uk/bike5.htm
+* http://www.gobicycletouring.info/2012/05/the-most-popular-bicycles-for-long-distance-touring/
+* http://www.bicycle-touring-guide.com/touring-bicycle/
+* http://www.whileoutriding.com/bike
 
 Surley Long-Haul Trucker
 -----------------------------
 Everyone loves Surly Long-Haul Truckers. Not everyone in the US or
 everyone who speaks English---everyone!
 
-* http://tomsbiketrip.com/which-touring-bike-should-i-buy/
 * http://cyclo-roulard.e-monsite.com/pages/cote-organisation/page-1.htmlG
 * http://www.utsidan.se/forum/showthread.php?threadid=77796
 * https://www.flashback.org/t2162727
