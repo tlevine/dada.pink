@@ -151,9 +151,16 @@ How to size it
 
 Buying bikes off craigslist
 -------------------------------
+
 * http://hackerspace.lifehacker.com/how-to-buy-a-bike-off-craigslist-1607242253
 * http://www.instructables.com/id/Buying-used-bikes-for-beginners/
 * http://www.your-adrenaline-fix.com/used-dirt-bikes-for-sale.html
 * http://chrisbaskind.com/how-not-to-get-ripped-off-when-buying-a-used-bicycle/
 * http://www.popville.com/2013/07/tips-for-buying-a-bike-on-craigslist/
 * http://www.thechainlink.org/forum/topics/buying-bikes-off-craiglist
+
+Checking the condition of a bike
+----------------------------------
+
+* http://www.popville.com/2013/07/tips-for-buying-a-bike-on-craigslist/
+* http://www.cyclorama.net/viewArticle.php?id=342
