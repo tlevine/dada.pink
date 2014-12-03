@@ -82,6 +82,7 @@ Organizations
 * http://www.adventurecycling.org/guided-tours/
 * http://www.velo.qc.ca/fr/accueil
 * http://www.nzcycletrail.com
+* http://ffct.org/
 
 Guided tours
 ===============
@@ -121,4 +122,5 @@ Equipment
 * http://www.crazyguyonabike.com/doc/page/?page_id=8363
 * https://en.wikipedia.org/wiki/Touring_bicycle
 * http://www.crazyguyonabike.com/doc/page/?page_id=148087
-* 
+* http://www.cyclo-randonnee.fr/achat/cat-velo-cyclo-randonnee-198.html
+* http://tomsbiketrip.com/which-touring-bike-should-i-buy/
