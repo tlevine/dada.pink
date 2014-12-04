@@ -165,5 +165,7 @@ Checking the condition of a bike
 * http://www.popville.com/2013/07/tips-for-buying-a-bike-on-craigslist/
 * http://www.cyclorama.net/viewArticle.php?id=342
 * https://bicycles.stackexchange.com/questions/6363/is-there-such-a-thing-as-frame-failure
-* http://www.mytenspeeds.com/My_TenSpeeds_1/Site%20Contents/How_To_Do_It/FrameSetPrep_2_InspectingFrame.htm
 * http://forums.mtbr.com/beginners-corner/tips-buying-used-bike-715042.html
+* http://www.mytenspeeds.com/My_TenSpeeds_1/Site%20Contents/How_To_Do_It/FrameSetPrep_2_InspectingFrame.htm
+* http://www.mytenspeeds.com/My_TenSpeeds_1/Site%20Contents/How_To_Do_It/FrameSetPrep_3_InspectingFrontForks.htm
+* http://www.mytenspeeds.com/My_TenSpeeds_1/Site%20Contents/How_To_Do_It/FrameSetPrep_4_InspectingRearDrops.htm
