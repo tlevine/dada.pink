@@ -25,7 +25,7 @@ Portland, Maine is named after the Isle of Portland, Dorsetshire.
     Neck and named it Portland, after the isle off the coast of Dorset,
     England.
 
-(https://en.wikipedia.org/wiki/Portland,_Maine)
+(https://en.wikipedia.org/wiki/Portland,_Maine#History)
 
 I have yet to figure out when or how the Isle of Portland, Dorsetshire
 was named. Here are some leads.
