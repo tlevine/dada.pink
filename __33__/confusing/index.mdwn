@@ -43,15 +43,26 @@ More importantly, however, understanding people's idiosyncracies is just
 really fun.
 
 ## Contents
-In the first section, [Odd Behaviors That Make Me Curious](curiousity),
-I list some things that raise my curiosity about why a person is the way
-he or she is.
+I have divided this piece into five sections. You could read them in the
+order that I list them below, but you could also just read whichever one
+sounds most interesting.
 
-The second section, [What Makes Me Investigate My Curiosity?](why-investigate),
+[Odd Behaviors That Make Me Curious](curiousity)
+is a list of some things that raise my curiosity about why a person is
+the way he or she is.
+
+In [What Makes Me Investigate My Curiosity?](why-investigate)
 I ponder what determines how I act on my curiosity.
 
-The third section, [Questions I Ask](questions), discusses some common
+[Questions I Ask](questions) discusses some common
 patterns of questions that I might ask. I feel like my social skills came
 from reading literature on the design of interviews and questionnaires,
 and you might see why as you read this section. I try to ask questions
 that pass little judgement and are easy to answer.
+
+The three sections above are more about how I try to understand individual
+people. There are some special things about groups, and I discuss these in
+[Groups As Atomic Units](groups).
+
+In [Neat Results](results) I recount some stories of fun things that happened
+after I did these various sorts of things.
