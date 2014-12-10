@@ -1,97 +1,57 @@
-[[!meta title="How to figure out why people talk one way and act another way"]]
+[[!meta title="What I do when people act confusingly"]]
 [[!meta description="There's usually a simple explanation, but it can take a while to come up with it."]]
 
-## Abstract
-Sometimes people act really mean for no apparent reason. Other times they
-say stuff that suggests one thing and do stuff that suggests another thing,
-and this can seem cold, rude, &c.
-
-I get very confused and frustrated when this happens; why would someone ever
-do this? Did I do something wrong? I can hide my frustration by saying that
-the person is just fundamentally bad, that leads to other unpleasant things
-because this is never the real reason.
-
-It turns out that there usually is a simple explanation that doesn't require
-me to hate the person. Usually, the various bizarre happen because the person
-is hiding something from himself or herself.
+People sometimes do things that seem unreasonable, mean, inconsiderate,
+or otherwise strange. Why would people do such things? It could be that
+they are stupid, evil, sociopathic, or just weird, but there's usually
+a much simpler explanation.
 
 I remarked that I have a system for noticing this stuff, but I only remember
 the different parts of the system when I notice myself using them.
 I started writing everything down here in hopes that I might eventually
 manage to explain how I do this.
 
+## A summary of the system
+I sometimes sense that something is unusual about how a person is acting,
+and then I get curious enough to pay more attention.
+Paying attention to your feelings is also a good idea in general, even if
+you're only concerned with boring things like health and money.
+
+A person's confusing behaviours would usually be much less confusing if
+you knew everything else about his or her life. You usually don't know
+everything about his or her life, but you can still reduce your confusion
+by simply recognizing that his or her life is just as complicated as yours
+and that the complications are quite similar.
+
+There are too many fun things to do, and I really like to
+[sleep](/!/sleeping/), so I usually just stop at the recognition that
+a particular something is interesting about a person. But I sometimes
+find that I want to learn more about the person.
+
+When I implicitly decide that I want to learn more about the person,
+I pay more attention to the various sorts of cues that would peek my
+initial curiosity. I also start asking variations of the question "Why?".
+
+## Why you might care
 I think that paying attention to this stuff helps me understand people
 (including myself),
-to recognize mindgames, and to be direct in communication. Moreover,
-I think it's how I empathise with people who are being mean,
+to recognize mindgames, and to be direct in communication.
+This is how I empathise with people who are being mean,
 stressful, angry, cold, manipulative, indirect, or rude.
 
-## Term
-When someone is lying to herself or himself and upsetting someone else
-in the process, I usually describe the whole thing as "silly". What a
-strange choice of words!
-
-As [Caitlin](http://inamerryhour.com/) remarked upon reading an earlier
-version of this page,
-
-> It's difficult
-> for me to think of the word 'silly' in a pejorative way because I don't
-> usually use it to refer to people's unconscious motivations and strategies
-> for rationalizing cognitive dissonance, which I think is what you're
-> describing.  I use the word almost exclusively to refer to irreverence or
-> eccentrically joyous behavior/speech.  The opposite of seriousness.  I
-> think irreverence is a vastly underrated quality.  Those data tacos, for
-> instance.  That's an example of the kind of silliness I'd like to see more
-> of.
-
-I usually don't want want to be around people when their unconscious
-rationalizations of cognitive dissonance manifest as mean things, but
-I don't see such manifestations as bad or good; they're just things.
-
-Like Caitlin, I consider the data tacos and [data doner](/!/geom_doner)
-to be fun, non-serious, silly games. I apply the word "silly" to these
-unconscious motivations to emphasize that they're not very serious either.
-
-I use the word "silly" to remind myself that people who are doing horrible
-things [don't want to be mean](http://drhorrible.com/). They're just
-playing complicated games (without realizing it),
-because games are fun and we need something to
-do all day. The lengths that people will go to cover up their motivations
-are really funny!
-
-I think I took this use of the word "silly" from my friend Dasha a few
-years ago, but I only recently figured out what I meant by it and why
-I like the word so much.
-
-## Why I write this
-I am usually quite interested by why anyone acts the way she or he does.
-I thought to write this piece after learning from
-[Matt Linares](http://matt.microsplash.org/) about
-[neuro-linguistic programming](https://en.wikipedia.org/wiki/Neuro-linguistic_programming).
-I remarked that I pay attention to the
-same sorts of things (without having a name for them) but with the
-slightly different focus discussed above: Rather than avoiding being
-manipulated, I am interested in understanding why someone would do
-something so bizarre.
+More importantly, however, understanding people's idiosyncracies is just
+really fun.
 
 ## Contents
-I have divided the piece into a few sections. If this were a paper book,
-I would order them thusly.
+In the first section, [Odd Behaviors That Make Me Curious](curiousity),
+I list some things that raise my curiosity about why a person is the way
+he or she is.
 
-1. [Identifying silly behaviors](identify)
-2. [Explaining silly behaviors](explain)
-3. [Three examples](examples) of how I identified silly behaviors and then explained them
-4. [Common patterns of silliness](patterns): Specific things that you can watch for
-5. [Silliness in groups](groups)
-6. [Cool things you can do](what-to-do) when you think you understand someone
+The second section, [What Makes Me Investigate My Curiosity?](why-investigate),
+I ponder what determines how I act on my curiosity.
 
-Since this is a website, I can give you multiple orders! Here's another
-reasonable order. The previous order puts the theory before the examples,
-and this one puts the examples before the theory.
-
-1. [Three examples](examples) of how I identified silly behaviors and then explained them
-2. [Common patterns of silliness](patterns): Specific things that you can watch for
-3. [Silliness in groups](groups)
-4. [Identifying silly behaviors](identify)
-5. [Explaining silly behaviors](explain)
-6. [Cool things you can do](what-to-do) when you think you understand someone
+The third section, [Questions I Ask](questions), discusses some common
+patterns of questions that I might ask. I feel like my social skills came
+from reading literature on the design of interviews and questionnaires,
+and you might see why as you read this section. I try to ask questions
+that pass little judgement and are easy to answer.
