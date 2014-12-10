@@ -11,7 +11,7 @@ the different parts of the system when I notice myself using them.
 I started writing everything down here in hopes that I might eventually
 manage to explain how I do this.
 
-## A summary of the system
+## An overview of what I do
 I sometimes sense that something is unusual about how a person is acting,
 and then I get curious enough to pay more attention.
 Paying attention to your feelings is also a good idea in general, even if
@@ -31,6 +31,8 @@ find that I want to learn more about the person.
 When I implicitly decide that I want to learn more about the person,
 I pay more attention to the various sorts of cues that would peek my
 initial curiosity. I also start asking variations of the question "Why?".
+
+And then neat things start to happen.
 
 ## Why you might care
 I think that paying attention to this stuff helps me understand people
