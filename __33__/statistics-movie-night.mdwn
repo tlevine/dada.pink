@@ -2,3 +2,33 @@
 * Bill Nye the Science Guy: Pseudoscience
 * The video on random sampling from jury duty
 * My statistics doodles video once I make it?
+
+
+## About that random sampling video from jury duty
+I called the jury clerk, and he told me that it's called "Call to Serve" and
+is distributed by the Federal Judicial Center Information Services Office.
+He gave me a United States Courts intranet URL
+([.dcn](https://groups.google.com/forum/#!topic/comp.protocols.dns.bind/bDO5_EEGClA)
+for the FJC catalog, which I obviously couldn't access, but I found the FJCISO
+phone number on its internet website, and I called.
+
+I spoke with Matt Sarago (msarago@fjc.gov) and learned the following.
+
+* Produced by a production company for Georgia, and that came with copyright restrictions.
+* NTIS sold the old one, and that's the one on YouTube.
+  * Someone just bought it and (illegally?) put it on YouTube.
+* I called the Federal Judicial Center Information Services Office
+* Personal reaction: It's saying how important it is to show up.
+* It sounds like only a jury administrator would have it.
+    It was probably distributed only by the FJC.
+  * Doesn't know whether a jury administrator would have the right
+      to distribute it to me---probably wouldn't
+* The old video said something bad about real estate agents and got people upset,
+    so there was an update to that.
+
+He'll send me
+
+* YouTube link to the old version of Call to Serve
+* YouTube link to a video for jurors in patent cases that might be interesting.
+* Information on the licensing of Call to Serve from its credits, so that I may
+    look further into obtaining the video
