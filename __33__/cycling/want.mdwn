@@ -17,6 +17,10 @@ It's pretty simple.
 * http://moz.geek.nz/mozbike/ride/nz-2004/12-12-buller/nztour-buller-12-moz.html
 * 
 
+Note: There isn't really a
+[difference](http://www.bikeforums.net/touring/187734-difference-between-front-rear-panniers.html)
+between front and rear panniers
+
 ## Computers
 I can probably have some fun with computers. Maybe recording my acceleration,
 altitude, global position, &c. could be fun. And maybe I could have some fun
