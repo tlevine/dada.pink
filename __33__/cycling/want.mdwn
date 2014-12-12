@@ -1,0 +1,23 @@
+## Backpack
+I want a front pannier that is also a backpack.
+(I'll keep using my Tom Bihn Synapse 19 for when I don't have a bike.)
+[This](https://bicycles.stackexchange.com/questions/19165/does-a-hybrid-pannier-backpack-exist)
+is a good start on references. These look nice:
+
+* [Mondi Backpack](http://www.newlooxs.nl/en/producten/rugzakken/mondi-backpack/5052/)
+* [Side One](http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sideone) and [Side Two](http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sidetwo)
+* [Ballard Market Pannier](http://www.detours.us/panniers/ballard-market-pannier.html)
+
+For comparison of sizes, the Tom Bihn Synapse 19 has a volume of 19 liters,
+or 1160 cubic inches. The Ribz Front Pack has like 12 litres.
+
+Or maybe I just get a normal backpack and add the rack mounting things.
+It's pretty simple.
+
+* http://moz.geek.nz/mozbike/ride/nz-2004/12-12-buller/nztour-buller-12-moz.html
+* 
+
+## Computers
+I can probably have some fun with computers. Maybe recording my acceleration,
+altitude, global position, &c. could be fun. And maybe I could have some fun
+with lights.

@@ -1,24 +1,3 @@
-I bought a bike! It's a 2010 Surly Long Haul Trucker that I found it on
-Craigslist. And then I got assorted bike toys, including fancy panniers,
-a fancy helmet, fancy lights, and fancy locks.
-
-XXX picture
-
-I hadn't previously been into bikes and hadn't had a bike in 15 years,
-but I got excited about bikes on Sunday, November 30, 2014.
-While standing at a look-out place looking out over some pretty water
-in Seattle, I got into a conversation with a person who was also there
-and also with a bike. He said that highway 101 is a great place to bike
-long distances and that there's camping along the way. This sounds fun.
-I want to see pretty places and go camping without a car.
-
-I started looking at all sorts of cycling things on the internet and
-compiled all of the links below. I determined that I should get an
-American bike because they're cheapest and that I should get a Surly
-Long Haul Trucker, specifically. And then I checked Craigslist and
-happened to find a good deal on one of those that fit me pretty well.
-Woo!
-
 Places
 ==============
 
