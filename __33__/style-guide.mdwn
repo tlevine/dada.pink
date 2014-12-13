@@ -1,0 +1,3 @@
+Colors are grey with pink accents. Assorted greys and pinks are fine,
+but I usually use <span style="color:#fe57a1">#fe57a1</span> as pink
+on computers.
