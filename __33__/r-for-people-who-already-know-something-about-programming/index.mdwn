@@ -547,3 +547,4 @@ talk about, and how to do some sort of model diagnosis.
 > * [R spells for data wizards](/!/r-spells-for-data-wizards/), by me
 > * [Advanced R](http://adv-r.had.co.nz/), by Hadley Wickham
 > * [Music Videos in R](http://www.livestream.com/knerd/video?clipId=pla_a5d59285-9399-47dc-aaef-2b9a77142d5e), by me
+> * [aRrgh](http://tim-smith.us/arrgh/index.html)
