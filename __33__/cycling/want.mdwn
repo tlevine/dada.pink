@@ -1,6 +1,23 @@
-## Backpack
-I want a front pannier that is also a backpack.
-(I'll keep using my Tom Bihn Synapse 19 for when I don't have a bike.)
+## Bag
+I want a front pannier that is easy to carry around without a bike
+and has lots of pockets.
+
+Some references
+
+* http://lovelybike.blogspot.com/2011/03/pannier-mounting-systems-compared.html
+* http://www.arkel-od.com/us/all-categories/bicycle-bike-pannier-rack-front.html
+* http://www.bikeforums.net/touring/665967-front-rack-surly-lht.html
+* http://surlybikes.com/parts/cargo/surly_rack
+* http://www.adventurecycling.org/resources/blog/surly-long-haul-trucker/
+* http://bicycletouringpro.com/blog/bicycle-panniers/
+
+### Tom Bihn Synapse 19
+I currently have a Tom Bihn Synapse 19. I can keep using it if I find
+a way to mount it.
+Regardless of whether I do this,
+I'll keep using my Tom Bihn Synapse 19 for when I don't have a bike.
+
+### Backpack
 [This](https://bicycles.stackexchange.com/questions/19165/does-a-hybrid-pannier-backpack-exist)
 is a good start on references. These look nice:
 
@@ -19,7 +36,31 @@ Note: There isn't really a
 [difference](http://www.bikeforums.net/touring/187734-difference-between-front-rear-panniers.html)
 between front and rear panniers
 
+### Trunk bag
+Trunk bags look pretty awesome.
+
+* [TailRider](http://www.arkel-od.com/us/all-categories/seat-bags-trunk-bags.html)
+* [Topeak](http://mikesbikes.com/product-list/accessories-1109/packs-racks-baskets-1154/rack-top-bags-trunks-1164/)
+* [More](http://bicyclehabitat.com/product-list/accessories-for-your-bike-1109/bags-baskets-1154/rack-top-bags-trunks-1164/)
+* [Timbuk2](http://www.timbuk2.com/hunchback-bike-rack-trunk-cooler-bag/446.html)
+
+Separate from the physical differences, I like the idea of a trunk bag because
+I don't have to change the bike configuration much depending on how I'm using the
+bike; I always take the trunk bag with me, and I add panniers if I'm moving house.
+
+It also pleases me aesthetically that they go in the center, so having only
+one of them is weird.
+
+I could also try mounting my Synapse this way.
+
 ## Computers
 I can probably have some fun with computers. Maybe recording my acceleration,
 altitude, global position, &c. could be fun. And maybe I could have some fun
 with lights.
+
+## Lock
+The Kryptonite New York lock looks like the best.
+
+Or maybe http://www.amazon.com/gp/product/B001U885MQ?tag=thesweethome-20&linkCode=as2
+
+## 
