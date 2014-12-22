@@ -39,11 +39,18 @@ between front and rear panniers
 ### Trunk bag
 Trunk bags look pretty awesome.
 
-* [TailRider](http://www.arkel-od.com/us/all-categories/seat-bags-trunk-bags.html)
 * [Silkroad Pro](http://www.vaude.com/de-DE/Produkte/Taschen-Reisegepaeck/Silkroad-Plus-black.html)
 * [MTX TrunkBag DX](http://bicyclehabitat.com/product/topeak-mtx-trunkbag-dx-46836-1.htm)
+* [Hunchback](http://www.rei.com/product/847603/timbuk2-hunchback-rack-trunk#tab-specs)
+
+These look cool but are too small for my laptop.
+
 * [Interchange](http://bicyclehabitat.com/product/bontrager-interchange-rear-trunk-bag-179325-1.htm)
 * [Banjo Brothers](http://banjobrothers.com/products/current/rack-top-bags/)
+
+The [TailRider](http://www.arkel-od.com/us/all-categories/seat-bags-trunk-bags.html)
+has a lot of heavy/annoying straps and stuff. Also, it fits only on a seatpost rack,
+not on a rear wheel rack.
 
 Lists
 
@@ -66,6 +73,7 @@ I could also try mounting my Synapse this way.
 * http://www.amazon.com/Avenir-Excursion-Small-Panniers-Inches/dp/B00165Q4RG
 * http://crosso.pl/en/produkt/dry-30-3/
 * http://crosso.pl/en/produkt/expert-40-4/
+* Ortlieb
 
 ## Computers
 I can probably have some fun with computers. Maybe recording my acceleration,
