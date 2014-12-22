@@ -25,15 +25,16 @@ Backpack
 is a good start on references. These look nice:
 
 * `Mondi Backpack <http://www.newlooxs.nl/en/producten/rugzakken/mondi-backpack/5052/>`_
-* `Side One <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sideone >`_and `Side Two](http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sidetwo>`_
+* `Side One <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sideone >`_
+   and `Side Two <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sidetwo>`_
 * `Ballard Market Pannier <http://www.detours.us/panniers/ballard-market-pannier.html>`_
 
 For comparison of sizes, the Tom Bihn Synapse 19 has a volume of 19 liters,
 or 1160 cubic inches. The Ribz Front Pack has like 12 litres.
 
 Or maybe I just get a normal backpack and add the rack mounting things.
-It's `pretty simple <http://www.instructables.com/id/Backpack-panniers-that-are-still-backpacks/.>`_
-Here's a `crazier <http://moz.geek.nz/mozbike/ride/nz-2004/12-12-buller/nztour-buller-12-moz.html >`_approach.
+It's `pretty simple <http://www.instructables.com/id/Backpack-panniers-that-are-still-backpacks/>`_.
+Here's a `crazier <http://moz.geek.nz/mozbike/ride/nz-2004/12-12-buller/nztour-buller-12-moz.html >`_ approach.
 
 Note: There isn't really a
 `difference <http://www.bikeforums.net/touring/187734-difference-between-front-rear-panniers.html>`_
