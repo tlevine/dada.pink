@@ -14,10 +14,18 @@ How might I use it for the bike without converting it to a pannier bag?
 
 Get a basket.
 
-* Townie basket on a low-rider rack on the front wheel
+* Basket on a low-rider rack on the front wheel
 * Single basket instead of a pannier on the back
+* Handlebar basket
+* Mount on top of the front rack
 * I'd rather have it in front because I'll carry valuables in my backpack
   and will thus be bothered if I can't see it.
+
+The basket should just-fit my Synapse (16" x 11.4" x 7.9"). Some options
+
+* http://nantucketbikebaskets.com
+  * `Cruiser Adult D-Shape, Pink <http://www.nantucketbikebaskets.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=76&category_id=13&option=com_virtuemart&Itemid=3>`_
+
 
 Attaching the backpack
 (`biciconex.com <http://www.instructables.com/id/Backpack-on-a-Bike/?ALLSTEPS>`_).
