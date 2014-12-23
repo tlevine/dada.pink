@@ -6,7 +6,7 @@ are earlier in the table.
 ====================== ================ ========== =============== ==============================
 Service                Paradigm         Locations  Storage Cost*   Drop-off/pick-up cost*
 ---------------------- ---------------- ---------- --------------- ------------------------------
-StorageByMail_         Drop-off/pick-up USA (USPS) $29 for 5 boxes Cost of USPS minus $25**
+StorageByMail_         Drop-off/pick-up USA (USPS) $29 for 5 boxes Cost of USPS minus $25
 MakeSpace_             Drop-off/pick-up USA (UPS)  $25 for 4 boxes $20 per box
 Storrage_              Drop-off/pick-up Seattle    $4 per box      $7 per drop-off/pick-up
 BoxBee_                Drop-off/pick-up NY, SF bay $7.50 per box   Free pick-up, $30 per drop-off
