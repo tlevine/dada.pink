@@ -14,7 +14,7 @@ CubeSmart_             Storage unit     All over   $30             Receive packa
 ManhattanMiniStorage_  Storage unit     NY         $40             Receive packages for free
 ====================== ================ ========== =============== ==============================
 
-*\*For storage unit services, the cost is approximate and for the smallest units,
+*\*For storage unit services, the cost is approximate and for the smallest units.
 For drop-off/pickup services with many plans, the cost is for the one I am most
 likely to use. In both cases, the price is the monthly cost.*
 
