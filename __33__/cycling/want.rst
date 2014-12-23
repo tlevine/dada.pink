@@ -23,7 +23,9 @@ is a good start on references. These look nice:
   * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-15l-grey/
   * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-large-25l-grey/o
 * `PanPack <http://www.panpack.com/product.html>`_
-* `Cycle 28 <http://www.vaude.com/de-DE/Produkte/Taschen-Reisegepaeck/Radtaschen/Cycle-28-black-red.html>`_
+* `Cycle 22 <http://www.vaude.com/de-DE/Produkte/Taschen-Reisegepaeck/Radtaschen/Cycle-22-black-red.html>`_
+  * http://manchestercycling.blogspot.com/2011/01/vaude-cycle-25.html
+  * http://www.commutebybike.com/2011/07/05/vaude-cycle-30-bag-review/
 
 For comparison of sizes, the Tom Bihn Synapse 19 has a volume of 19 liters,
 or 1160 cubic inches. The Ribz Front Pack has like 12 litres.
