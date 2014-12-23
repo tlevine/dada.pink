@@ -25,6 +25,7 @@ The basket should just-fit my Synapse (16" x 11.4" x 7.9"). Some options
 
 * http://nantucketbikebaskets.com
   * `Cruiser Adult D-Shape, Pink <http://www.nantucketbikebaskets.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=76&category_id=13&option=com_virtuemart&Itemid=3>`_
+* http://www.ebay.com/itm/PINK-STEEL-WIRE-BASKET-BOLT-ON-BEACH-CRUISER-LOWRIDER-BMX-MTB-BIKE-CYCLING-/150998916902?ssPageName=VIP:watchlink:top:en&fromMakeTrack=true
 
 
 Attaching the backpack
@@ -198,3 +199,8 @@ I want a top bag or quilt.
 And a hammock
 
 http://www.bikehacks.com/bikehacks/2010/07/bike-camping-post-3-sleeping.html
+
+Tape
+~~~~~~~~~~~~~~~
+
+https://www.google.com/search?q=pink+cork+tape&tbm=shop
