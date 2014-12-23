@@ -603,6 +603,17 @@ blockquote > p {
     border-top: 1px solid #fe57a1;
     margin-top: 2em;
 }
+
+col { width: auto; }
+table {
+  border-left: none;
+  border-right: none;
+  border-top: solid 1px;
+  border-right: solid 1px;
+}
+td { border: none; }
+table tr:first-child th, table tr:first-child td { border-bottom: solid 1px; }
+
 @media print {
   .pageheader, .pagefooter { display: none; }
   .webonly { display: none; }
