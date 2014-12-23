@@ -12,17 +12,23 @@ I'll keep using my Tom Bihn Synapse 19 for when I don't have a bike.
 
 How might I use it for the bike without converting it to a pannier bag?
 
+Get a basket.
+
+* Townie basket on a low-rider rack on the front wheel
+* Single basket instead of a pannier on the back
+* I'd rather have it in front because I'll carry valuables in my backpack
+  and will thus be bothered if I can't see it.
+
 Attaching the backpack
 (`biciconex.com <http://www.instructables.com/id/Backpack-on-a-Bike/?ALLSTEPS>`_).
 
 * Loop the waist strap around the top of the rack, and then clip it.
 * Tie the shoulder straps in front.
 * Clip the top loop of the back pack to the top of the rack.
+* Prevent it from getting caught in the wheels
 
-Preventing it from getting caught in the wheels
-
-* Tie straps in a water knot so they don't flap around.
-* The rods that hold the rear fender in place should help.
+  * Tie straps in a water knot so they don't flap around.
+  * The rods that hold the rear fender in place should help.
 
 Things I don't want to do.
 
@@ -34,6 +40,7 @@ References
 
 * http://www.bikeforums.net/commuting/603392-how-do-would-you-carry-backpack-rear-rack.html
 * http://www.animatedknots.com/waterknot/index.php
+* http://www.bikeforums.net/commuting/603703-time-basket-front-rear.html
 
 Backpack
 ~~~~~~~~~~~
