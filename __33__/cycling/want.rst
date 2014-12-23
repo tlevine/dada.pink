@@ -12,24 +12,21 @@ I'll keep using my Tom Bihn Synapse 19 for when I don't have a bike.
 
 Backpack
 ~~~~~~~~~~~
-`This <https://bicycles.stackexchange.com/questions/19165/does-a-hybrid-pannier-backpack-exist>`_
-is a good start on references. These look nice:
+These look nice.
 
 * `Mondi Backpack <http://www.newlooxs.nl/en/producten/rugzakken/mondi-backpack/5052/>`_
-* `The Wave Backpack <http://www.newlooxs.nl/en/producten/rugzakken/the-wave-backpack/5381/>`_ is a bit big.
-* FastRider
-
-  * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-15l-grey/
-  * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-large-25l-grey/o
-
-* `Day PanPack <http://www.panpack.com/daypack.html>`_
- 
-   * `Other PanPacks <http://www.panpack.com/product.html>`_
-
 * `Cycle 22 <http://www.vaude.com/de-DE/Produkte/Taschen-Reisegepaeck/Radtaschen/Cycle-22-black-red.html>`_
 
   * http://manchestercycling.blogspot.com/2011/01/vaude-cycle-25.html
   * http://www.commutebybike.com/2011/07/05/vaude-cycle-30-bag-review/
+
+These are almost nice.
+
+* I can't tell what pockets the `Day PanPack <http://www.panpack.com/daypack.html>`_ has.
+ 
+   * `Other PanPacks <http://www.panpack.com/product.html>`_
+
+* `The Wave Backpack <http://www.newlooxs.nl/en/producten/rugzakken/the-wave-backpack/5381/>`_ is a bit big.
 
 For comparison of sizes, the Tom Bihn Synapse 19 has a volume of 19 liters,
 or 1160 cubic inches. The Ribz Front Pack has like 12 litres.
@@ -37,6 +34,12 @@ or 1160 cubic inches. The Ribz Front Pack has like 12 litres.
 Or maybe I just get a normal backpack and add the rack mounting things.
 It's `pretty simple <http://www.instructables.com/id/Backpack-panniers-that-are-still-backpacks/>`_.
 Here's a `crazier <http://moz.geek.nz/mozbike/ride/nz-2004/12-12-buller/nztour-buller-12-moz.html>`_ approach.
+
+
+Some references
+
+* https://bicycles.stackexchange.com/questions/19165/does-a-hybrid-pannier-backpack-exist
+* http://www.bikeforums.net/touring/759539-panniers-convert-into-daypacks.html
 
 Trunk bag
 ~~~~~~~~~~~
@@ -78,6 +81,10 @@ Front panniers
 * http://crosso.pl/en/produkt/dry-30-3/
 * http://crosso.pl/en/produkt/expert-40-4/
 * Ortlieb
+* FastRider
+
+  * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-15l-grey/
+  * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-large-25l-grey/
 
 Other panniers
 ------------------
@@ -91,6 +98,8 @@ Other panniers
   * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Discover-Pro-Front-anthracite-black.html
   * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Aqua-Deluxe-Pro-black.html
   * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Karakorum-black-meadow.html
+
+`Pannier Comparison <http://www.lancerushing.com/bicycling/panniers.cfm>`_
 
 Computers
 ----------------------
