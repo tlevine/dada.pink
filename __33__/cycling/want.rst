@@ -1,6 +1,6 @@
 Day bag
 -----------
-I want a front pannier that is easy to carry around without a bike
+I want a small pannier that is easy to carry around without a bike
 and has lots of pockets.
 
 Some references
@@ -28,6 +28,11 @@ is a good start on references. These look nice:
 * `Side One <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sideone >`_
    and `Side Two <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sidetwo>`_
 * `Ballard Market Pannier <http://www.detours.us/panniers/ballard-market-pannier.html>`_
+* FastRider
+  * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-15l-grey/
+  * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-large-25l-grey/o
+* `PanPack <http://www.panpack.com/product.html>`_
+* 
 
 For comparison of sizes, the Tom Bihn Synapse 19 has a volume of 19 liters,
 or 1160 cubic inches. The Ribz Front Pack has like 12 litres.
@@ -81,6 +86,17 @@ Front panniers
 * http://crosso.pl/en/produkt/expert-40-4/
 * Ortlieb
 
+Other panniers
+------------------
+
+* http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-low-rider-pannier/fastrider-double-pannier-rear-acidus-5-pockets/
+* http://www.vaude.com/de-DE/Produkte/Taschen-Reisegepaeck/Radtaschen/Aqua-Back-Plus-black.html
+* `GT-54 <http://www.arkel-od.com/us/all-categories/touring-bike-bag/gt-54-grand-touring-pannier.html>`_
+* Vaude
+  * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Aqua-Back-Plus-black.html
+  * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Discover-Pro-Front-anthracite-black.html
+  * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Aqua-Deluxe-Pro-black.html
+  * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Karakorum-black-meadow.html
 Computers
 ----------------------
 I can probably have some fun with computers. Maybe recording my acceleration,
