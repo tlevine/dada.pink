@@ -608,8 +608,8 @@ col { width: auto; }
 table {
   border-left: none;
   border-right: none;
-  border-top: solid 1px;
-  border-right: solid 1px;
+  border-top: solid 2px;
+  border-bottom: solid 2px;
 }
 td { border: none; }
 table tr:first-child th, table tr:first-child td { border-bottom: solid 1px; }
