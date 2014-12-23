@@ -26,16 +26,17 @@ services (USPS and UPS, respectively) for pickup and delivery. As far as
 I can tell, they will only receive scheduled pickups; I can't buy something
 on the internet and have it mailed there.
 
-Storrage and BoxBee do pickups with their own provider
+Storrage, MakeSpace in New York, and BoxBee do their own pick-ups and drop-offs.
+None of these receives packages, but BoxBee will ship packages between their
+different cities.
 
- ===============================
- Notes on mail
- -------------------------------
- Everything via USPS
- Everything via UPS              .. _MakeSpace: https://www.makespace.com
-                                 .. _BoxBee: http://boxbee.com/
- Ship items between NY and SF.
- Receive mail and put in unit
- Receive mail, don't put in unit
- ===============================
- http://blog.selfstorage.com/self-storage-reits/cubesmart-direct-3496
+I read about a
+"`CubeSmart Direct <http://blog.selfstorage.com/self-storage-reits/cubesmart-direct-3496>`_"
+with characteristics similar to Storrage and BoxBee, but I found nothing about it on
+CubeSmart's website.
+
+ManhattanMiniStorage and CubeSmart both receive packages. CubeSmart is neat in
+that they'll put the packages into your storage unit! I think.
+
+.. _MakeSpace: https://www.makespace.com
+.. _BoxBee: http://boxbee.com/
