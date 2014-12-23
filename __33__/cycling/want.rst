@@ -10,15 +10,41 @@ a way to mount it.
 Regardless of whether I do this,
 I'll keep using my Tom Bihn Synapse 19 for when I don't have a bike.
 
+How might I use it for the bike without converting it to a pannier bag?
+
+Attaching the backpack
+(`biciconex.com <http://www.instructables.com/id/Backpack-on-a-Bike/?ALLSTEPS>`_).
+
+* Loop the waist strap around the top of the rack, and then clip it.
+* Tie the shoulder straps in front.
+* Clip the top loop of the back pack to the top of the rack.
+
+Preventing it from getting caught in the wheels
+
+* Tie straps in a water knot so they don't flap around.
+* The rods that hold the rear fender in place should help.
+
+Things I don't want to do.
+
+* I don't want a basket, crate, &c. for the top of the rack?
+  I'd rather not deal with having it and removing it for panniers and stuff.
+* I am not going to trust bungee cords and cargo nets.
+
+References
+
+* http://www.bikeforums.net/commuting/603392-how-do-would-you-carry-backpack-rear-rack.html
+* http://www.animatedknots.com/waterknot/index.php
+
 Backpack
 ~~~~~~~~~~~
 These look nice.
 
-* `Mondi Backpack <http://www.newlooxs.nl/en/producten/rugzakken/mondi-backpack/5052/>`_
 * `Cycle 22 <http://www.vaude.com/de-DE/Produkte/Taschen-Reisegepaeck/Radtaschen/Cycle-22-black-red.html>`_
 
   * http://manchestercycling.blogspot.com/2011/01/vaude-cycle-25.html
   * http://www.commutebybike.com/2011/07/05/vaude-cycle-30-bag-review/
+
+* `Bug <http://www.arkel-od.com/us/all-categories/laptop-bicycle-pannier/bug-cummuting-bag.html>`_
 
 These are almost nice.
 
@@ -26,7 +52,10 @@ These are almost nice.
  
    * `Other PanPacks <http://www.panpack.com/product.html>`_
 
-* `The Wave Backpack <http://www.newlooxs.nl/en/producten/rugzakken/the-wave-backpack/5381/>`_ is a bit big.
+* `The Wave Backpack <http://www.newlooxs.nl/en/producten/rugzakken/the-wave-backpack/5381/>`_
+  is a bit big.
+* `Mondi Backpack <http://www.newlooxs.nl/en/producten/rugzakken/mondi-backpack/5052/>`_
+  is nicely small but only has two pockets.
 
 For comparison of sizes, the Tom Bihn Synapse 19 has a volume of 19 liters,
 or 1160 cubic inches. The Ribz Front Pack has like 12 litres.
