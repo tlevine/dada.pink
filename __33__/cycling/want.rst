@@ -16,7 +16,7 @@ Backpack
 is a good start on references. These look nice:
 
 * `Mondi Backpack <http://www.newlooxs.nl/en/producten/rugzakken/mondi-backpack/5052/>`_
-* `Side One <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sideone >`_
+* `Side One <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sideone>`_
    and `Side Two <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sidetwo>`_
 * `Ballard Market Pannier <http://www.detours.us/panniers/ballard-market-pannier.html>`_
 * FastRider
