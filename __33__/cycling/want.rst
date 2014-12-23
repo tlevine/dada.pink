@@ -3,15 +3,6 @@ Day bag
 I want a small pannier that is easy to carry around without a bike
 and has lots of pockets.
 
-Some references
-
-* http://lovelybike.blogspot.com/2011/03/pannier-mounting-systems-compared.html
-* http://www.arkel-od.com/us/all-categories/bicycle-bike-pannier-rack-front.html
-* http://www.bikeforums.net/touring/665967-front-rack-surly-lht.html
-* http://surlybikes.com/parts/cargo/surly_rack
-* http://www.adventurecycling.org/resources/blog/surly-long-haul-trucker/
-* http://bicycletouringpro.com/blog/bicycle-panniers/
-
 Tom Bihn Synapse 19
 ~~~~~~~~~~~~~~~~~~~~~~
 I currently have a Tom Bihn Synapse 19. I can keep using it if I find
@@ -32,7 +23,7 @@ is a good start on references. These look nice:
   * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-15l-grey/
   * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-large-25l-grey/o
 * `PanPack <http://www.panpack.com/product.html>`_
-* 
+* `Cycle 28 <http://www.vaude.com/de-DE/Produkte/Taschen-Reisegepaeck/Radtaschen/Cycle-28-black-red.html>`_
 
 For comparison of sizes, the Tom Bihn Synapse 19 has a volume of 19 liters,
 or 1160 cubic inches. The Ribz Front Pack has like 12 litres.
@@ -40,10 +31,6 @@ or 1160 cubic inches. The Ribz Front Pack has like 12 litres.
 Or maybe I just get a normal backpack and add the rack mounting things.
 It's `pretty simple <http://www.instructables.com/id/Backpack-panniers-that-are-still-backpacks/>`_.
 Here's a `crazier <http://moz.geek.nz/mozbike/ride/nz-2004/12-12-buller/nztour-buller-12-moz.html >`_ approach.
-
-Note: There isn't really a
-`difference <http://www.bikeforums.net/touring/187734-difference-between-front-rear-panniers.html>`_
-between front and rear panniers
 
 Trunk bag
 ~~~~~~~~~~~
@@ -116,6 +103,20 @@ Other
 
 * http://bicycletouringpro.com/blog/packing-list-2014-europe-asia/
 * http://tomsbiketrip.com/crosso-dry-twist-expert-pannier-review-detailed-photos/
+
+How panniers and racks work
+
+* http://lovelybike.blogspot.com/2011/03/pannier-mounting-systems-compared.html
+* http://www.arkel-od.com/us/all-categories/bicycle-bike-pannier-rack-front.html
+* http://www.bikeforums.net/touring/665967-front-rack-surly-lht.html
+* http://surlybikes.com/parts/cargo/surly_rack
+* http://www.adventurecycling.org/resources/blog/surly-long-haul-trucker/
+* http://bicycletouringpro.com/blog/bicycle-panniers/
+
+Note: There isn't really a
+`difference <http://www.bikeforums.net/touring/187734-difference-between-front-rear-panniers.html>`_
+between front and rear panniers
+
 
 Sleep
 ----------------------
