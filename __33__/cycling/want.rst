@@ -16,15 +16,16 @@ Backpack
 is a good start on references. These look nice:
 
 * `Mondi Backpack <http://www.newlooxs.nl/en/producten/rugzakken/mondi-backpack/5052/>`_
-* `Side One <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sideone>`_
-   and `Side Two <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sidetwo>`_
-* `Ballard Market Pannier <http://www.detours.us/panniers/ballard-market-pannier.html>`_
+* `The Wave Backpack <http://www.newlooxs.nl/en/producten/rugzakken/the-wave-backpack/5381/>`_ is a bit big.
 * FastRider
 
   * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-15l-grey/
   * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-large-25l-grey/o
 
-* `PanPack <http://www.panpack.com/product.html>`_
+* `Day PanPack <http://www.panpack.com/daypack.html>`_
+ 
+   * `Other PanPacks <http://www.panpack.com/product.html>`_
+
 * `Cycle 22 <http://www.vaude.com/de-DE/Produkte/Taschen-Reisegepaeck/Radtaschen/Cycle-22-black-red.html>`_
 
   * http://manchestercycling.blogspot.com/2011/01/vaude-cycle-25.html
