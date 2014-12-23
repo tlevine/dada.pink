@@ -20,10 +20,13 @@ is a good start on references. These look nice:
    and `Side Two <http://www.ortlieb.com/_prod.php?lang=en&produkt=racktime_sidetwo>`_
 * `Ballard Market Pannier <http://www.detours.us/panniers/ballard-market-pannier.html>`_
 * FastRider
+
   * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-15l-grey/
   * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-large-25l-grey/o
+
 * `PanPack <http://www.panpack.com/product.html>`_
 * `Cycle 22 <http://www.vaude.com/de-DE/Produkte/Taschen-Reisegepaeck/Radtaschen/Cycle-22-black-red.html>`_
+
   * http://manchestercycling.blogspot.com/2011/01/vaude-cycle-25.html
   * http://www.commutebybike.com/2011/07/05/vaude-cycle-30-bag-review/
 
@@ -32,7 +35,7 @@ or 1160 cubic inches. The Ribz Front Pack has like 12 litres.
 
 Or maybe I just get a normal backpack and add the rack mounting things.
 It's `pretty simple <http://www.instructables.com/id/Backpack-panniers-that-are-still-backpacks/>`_.
-Here's a `crazier <http://moz.geek.nz/mozbike/ride/nz-2004/12-12-buller/nztour-buller-12-moz.html >`_ approach.
+Here's a `crazier <http://moz.geek.nz/mozbike/ride/nz-2004/12-12-buller/nztour-buller-12-moz.html>`_ approach.
 
 Trunk bag
 ~~~~~~~~~~~
@@ -82,10 +85,12 @@ Other panniers
 * http://www.vaude.com/de-DE/Produkte/Taschen-Reisegepaeck/Radtaschen/Aqua-Back-Plus-black.html
 * `GT-54 <http://www.arkel-od.com/us/all-categories/touring-bike-bag/gt-54-grand-touring-pannier.html>`_
 * Vaude
+
   * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Aqua-Back-Plus-black.html
   * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Discover-Pro-Front-anthracite-black.html
   * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Aqua-Deluxe-Pro-black.html
   * http://www.vaude.com/en-GB/Products/Luggage-Bags/Bike-Bags/Karakorum-black-meadow.html
+
 Computers
 ----------------------
 I can probably have some fun with computers. Maybe recording my acceleration,
