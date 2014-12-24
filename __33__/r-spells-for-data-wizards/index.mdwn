@@ -26,7 +26,7 @@ When writing a CSV, don't add the rownames.
 ## Indexing
 It's easy to miss a level of indexing, especially with lists.
 
-    str(list(a = 3)[1][[1]])
+    str(list(a = 3)[1]\[[1]])
     # num 3
 
     str(list(a = 3)[1])
