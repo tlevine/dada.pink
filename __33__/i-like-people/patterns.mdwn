@@ -47,7 +47,10 @@ would ask about peoples' passions and was very insistant that people had them.
     description.
 * He wants to help people find their passions.
 
-These are the usual 
+I find the above sorts of things to occur in people who ask questions with
+strong assumptions, but it's not always that way. Often (usually?), the person
+is just abbreviating the question that doesn't have strong assumptions
+because that version is quite long.
 
 ### The person's mental model
 The person is expecting me to answer with a goal that sounds reasonable.
