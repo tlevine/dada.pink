@@ -13,7 +13,7 @@ question of the first type and I get an odd feeling about the way the question
 is asked, it sometimes means that the person wants the answer to the first
 question to be "yes".
 
-### A story
+### A person who asked about passions
 I met someone who would ask people "What are are you passionate about?"
 At the time, I mostly liked to sit around and not do much, and the word
 "passion" didn't seem to fit. I told him something to that effect when
@@ -52,6 +52,11 @@ strong assumptions, but it's not always that way. Often (usually?), the person
 is just abbreviating the question that doesn't have strong assumptions
 because that version is quite long.
 
+### Every young professional ever
+Lots of people ask, "What do you do?". In some circles, the question is
+phrased as "Where are you from?", meaning which organization rather than
+which country.
+
 ### The person's mental model
 The person is expecting me to answer with a goal that sounds reasonable.
 The odd feeling that I mention above is the feeling that I need to have a
@@ -63,12 +68,12 @@ If I say in response that I don't have a goal in life, then I don't fit into
 the person's mental model about goals. The person might try to resolve the
 contradiction by deciding that one of the following statements is true.
 
-* The person's model of the world is inadequete: Life goals are not a
+* The person's model of the world is inadequete: Passions are not a
     meaningful way of categorizing people. (The person is least likely
     to resolve the contradiction this way.)
-* People can be divided into those with goals and those without goals.
+* People can be divided into those with passions and those without passions.
     People in the former group are *better*, and I am in the latter group.
-* I really do have a goal, but I am being modest, being a wise-guy,
+* I really do have a passion, but I am being modest, being a wise-guy,
     under-selling myself, &c.
 
 ### Wanting to believe
@@ -76,13 +81,13 @@ If the person finds a way of preserving his mental model, the person is
 showing that he really wants to believe in this model of the world.
 Why might he want that? I can usually explain it as one of the following.
 
-1. He or she has recently come up with a life goal and is hoping that his
-    strategy of coming up with a life goal was a good idea.
+1. He or she has recently come up with a passion and is hoping that his
+    strategy of coming up with a passion was a good idea.
 2. He or she wants to fit in with a group of people who talk about their
-    life goals.
+    passions.
 
 It is hard to know whether your mental model is right. (In this case, it's
-hard to know whether having a life goal is a good idea.) Also, it is scary
+hard to know whether having a passion is a good idea.) Also, it is scary
 to be following a mental model that you don't know is right. Thus, people
 sometimes try really hard to convince themselves that their mental models
 are right.
