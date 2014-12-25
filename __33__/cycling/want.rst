@@ -45,6 +45,11 @@ Things I don't want to do.
   I'd rather not deal with having it and removing it for panniers and stuff.
 * I am not going to trust bungee cords and cargo nets.
 
+I think I'm going to wind up finding some sort of tray that isn't intended
+to go on a bike and is of the perfect size to attach to my rack and to hold
+the backpack's bottom straps. Then I'll add one bungee cord or something to
+keep the backpack in place. And I'll put it on the front of the bike.
+
 References
 
 * http://www.bikeforums.net/commuting/603392-how-do-would-you-carry-backpack-rear-rack.html
@@ -204,3 +209,11 @@ Tape
 ~~~~~~~~~~~~~~~
 
 https://www.google.com/search?q=pink+cork+tape&tbm=shop
+
+Toys
+~~~~~~~~~~~~~~~~~~
+Make my own version of these
+
+* `Draw with chalk <http://chalktrail.com/products/>`_
+* `Tool roll <https://www.etsy.com/listing/101133679/bike-tool-roll-brown-with-black-strap>`_
+* `Mittens for signaling <http://www.doppelganger.jp/option/da050_051gl/>`_
