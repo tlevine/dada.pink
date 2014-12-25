@@ -17,46 +17,15 @@ of interviews and questionnaires. I get pretty far by just asking people
 questions and listening to their answers, without interpreting the
 answers in much detail.
 
-At the same time, I'm paying attention to a bunch of other things.
+At the same time, I'm paying attention to a bunch of things that don't
+require me to talk.
 Well, this one is always happening, not just while I'm asking people
 questions. There is a mental bunch of patterns that I pay attention to,
 and much of the present piece is about me trying to remember all of them
 and write them down.
 
-Eventually I wind up being I'm curious about something I noticed about
-someone. If I'm reasonably relaxed and not too tired, I start asking
-questions about these other things I've been noticing.
-
-## When people are being mean or otherwise unpleasant
-I'm interested in people even when they're unpleasant to be around.
-
-I first thought to write something like the present piece after learning from
-[Matt Linares](http://matt.microsplash.org/) about
-[neuro-linguistic programming](https://en.wikipedia.org/wiki/Neuro-linguistic_programming).
-I remarked that I pay attention to the
-same sorts of things (without having a name for them) but with the
-slightly different focus discussed above: Rather than avoiding being
-manipulated, I am interested in understanding why someone would do
-something so bizarre.
-
-A common perspective (in law and religion, for example) on people who are
-acting mean, rude, manipulative, or otherwise unpleasant is that they are *bad*.
-When people are *really* bad, we might even choose to stop them, fix them,
-punish them, or just avoid them. This is a nice way for good people to get
-into fights with bad people. It makes for an entertaining game, but it's a bit
-too exciting for me.
-
-The distinction between good and bad always seems kind of arbitrary to me.
-I sometimes find myself among a group of people who are discussing
-something *bad* that a person did. The focus is often about how *bad* the
-thing was and whether the person should be avoided, punished, &c.
-This discussion always seems a bit mean and unempathetic.
-
-When someone acts in a way that displeases me, or when people think that
-someone did something bad, I usually become curious as to why the person
-did the thing and why the people reacted the way they did. The reasons are
-usually interestingly complicated or hilariously simple. Figuring out the
-reasons is lots of fun, and thinking about *good* versus *bad* is too stressful.
+Things get really interesting when I start asking questions about
+these other things I have noticed.
 
 ## Why you might care
 I think that paying attention to this stuff helps me understand people
@@ -69,18 +38,16 @@ I have divided this piece into five sections. You could read them in the
 order that I list them below, but you could also just read whichever one
 sounds most interesting.
 
-[Odd Behaviors That Make Me Curious](curiosity)
-is a list of some things that raise my curiosity about why a person is
-the way he or she is.
-
-In [What Makes Me Investigate My Curiosity?](why-investigate)
-I ponder what determines how I act on my curiosity.
-
 [Questions I Ask](questions) discusses some common
-patterns of questions that I might ask. I feel like my social skills came
-from reading literature on the design of interviews and questionnaires,
-and you might see why as you read this section. I try to ask questions
-that pass little judgement and are easy to answer.
+patterns of questions that I might ask. As I said, I think my social skills
+came from literature on the design of interviews and questionnaires,
+and you might see why as you read this section.
+
+In [Patterns I Have Seen](patterns), I list some things things that I have
+noticed in a bunch of people.
+
+I get quite curious [when people are being mean or otherwise unpleasant](mean).
+In this section, I discuss some things related to people who are being unpleasant.
 
 The three sections above are more about how I try to understand individual
 people. There are some special things about groups, and I discuss these in
