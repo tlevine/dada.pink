@@ -1,0 +1,1 @@
+[[!map pages="__33__/i-like-people/remove/* and ! __33__/i-like-people/remove/*/*"]]
