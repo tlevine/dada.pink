@@ -1,17 +1,34 @@
-[[!meta title="What I do when people act confusingly"]]
-[[!meta description="There's usually a simple explanation, but it can take a while to come up with it."]]
+[[!meta title="Listening closely"]]
+[[!meta description="Things I do to learn about people"]]
 
-People sometimes do things that seem unreasonable, mean, inconsiderate,
-or otherwise strange. Why would people do such things? It could be that
-they are stupid, evil, sociopathic, or just weird, but there's usually
-a much simpler explanation.
+I'm always curious about everything about people. Well, probably not
+everything, but it seems like everything. I'm always curious to see
+what a person likes to do, what the person thinks about, how the person
+relates to other people, and how this all came to be.
 
-I remarked that I have a system for noticing this stuff, but I only remember
-the different parts of the system when I notice myself using them.
-I started writing everything down here in hopes that I might eventually
-manage to explain how I do this.
+I remarked that there's a system by which I attend to this curiosity,
+but I only remember the different parts of the system when I notice
+myself using them. I started writing everything down here in hopes that
+I might eventually manage to explain how I do this.
 
 ## An overview of what I do
+I think that I developed my social skills by reading about the design
+of interviews and questionnaires. I get pretty far by just asking people
+questions and listening to their answers, without interpreting the
+answers in much detail.
+
+At the same time, I'm paying attention to a bunch of other things.
+Well, this one is always happening, not just while I'm asking people
+questions. There is a mental bunch of patterns that I pay attention to,
+and much of the present piece is about me trying to remember all of them
+and write them down.
+
+When I implicitly decide that I want to learn more about the person,
+I pay more attention to the various sorts of cues that would peek my
+initial curiosity. I also start asking variations of the question "Why?".
+
+
+
 I sometimes sense that something is unusual about how a person is acting,
 and then I get curious enough to pay more attention.
 Paying attention to your feelings is also a good idea in general, even if
@@ -27,10 +44,6 @@ There are too many fun things to do, and I really like to
 [sleep](/!/sleeping/), so I usually just stop at the recognition that
 a particular something is interesting about a person. But I sometimes
 find that I want to learn more about the person.
-
-When I implicitly decide that I want to learn more about the person,
-I pay more attention to the various sorts of cues that would peek my
-initial curiosity. I also start asking variations of the question "Why?".
 
 And then neat things start to happen.
 
