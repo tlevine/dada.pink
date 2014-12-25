@@ -34,7 +34,7 @@ More importantly, understanding people's idiosyncracies is just
 really fun.
 
 ## Contents
-I have divided this piece into five sections. You could read them in the
+I have divided this piece into sections. You could read them in the
 order that I list them below, but you could also just read whichever one
 sounds most interesting.
 
@@ -49,9 +49,13 @@ noticed in a bunch of people.
 I get quite curious [when people are being mean or otherwise unpleasant](mean).
 In this section, I discuss some things related to people who are being unpleasant.
 
-The three sections above are more about how I try to understand individual
+The sections above are more about how I try to understand individual
 people. There are some special things about groups, and I discuss these in
 [Groups As Atomic Units](groups).
 
-In [Neat Results](results) I recount some stories of fun things that happened
+We might see my interest in how other people act as an interest in how
+I act. So there will eventually be a section on [understanding myself](me),
+though I don't know what I'm going to put in it.
+
+Mixed within each of these sections are stories of fun things that happened
 after I did these various sorts of things.
