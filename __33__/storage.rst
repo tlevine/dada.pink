@@ -4,7 +4,7 @@ Here are some attributes of different services. The more appealing services
 are earlier in the table.
 
 ====================== ================ ========== =============== ==============================
-Service                Paradigm         Locations  Storage Cost*   Drop-off/pick-up cost*
+Service                Paradigm         Locations  Storage Cost    Drop-off/pick-up cost
 ---------------------- ---------------- ---------- --------------- ------------------------------
 StorageByMail_         Drop-off/pick-up USA (USPS) $29 for 5 boxes Cost of USPS minus $25
 MakeSpace_             Drop-off/pick-up USA (UPS)  $25 for 4 boxes $20 per box
@@ -14,9 +14,9 @@ CubeSmart_             Storage unit     All over   $30             Receive packa
 ManhattanMiniStorage_  Storage unit     NY         $40             Receive packages for free
 ====================== ================ ========== =============== ==============================
 
-*\*For storage unit services, the cost is approximate and for the smallest units.
-For drop-off/pickup services with many plans, the cost is for the one I am most
-likely to use. In both cases, the price is the monthly cost.*
+For storage unit services, the costs are approximate and for the smallest units.
+For drop-off/pickup services with many plans, the costs are for the one I am most
+likely to use. In both cases, the price is the monthly cost.
 
 Sizes
 -------------
@@ -30,6 +30,10 @@ I couldn't figure out the exact size for MakeSpace boxes. Boxes of this size
 can be shipped by USPS Priority Mail (to and from StorageByMail) for $25 or
 less, which is effectively free when you account for the USPS free shipping
 scheme. USPS quickly gets more expensive after this size.
+
+I checked Sarah's Storrage boxes and found the model number "CFP-261".
+Searching around, I found the similarly named and specified
+`Orbis FP 261 <http://www.orbiscorporation.com/Products/Hand-Held-Containers/Stack-N-Nest/FP261#.VJ1wOTC_ALU>`_.
 
 Mail
 ---------
