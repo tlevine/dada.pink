@@ -56,6 +56,17 @@ How about this?
 * AK-41228 Short Dividers for Akro Grid Containers
 * And maybe some AK-39120-G Gray Attached Lid Containers
 
+Or this
+
+* 3 AK-33221
+* 1 AK-42228
+* 2 AK-41228
+* 4 AK-33220-G
+
+Other stores are cheaper and less confusing.
+
+* http://www.usplastic.com/catalog/item.aspx?itemid=90780&catid=446
+
 And I enjoy that there's a
 `Plastic Shipping Container Institute <http://www.pscionline.org/>`_.
 
