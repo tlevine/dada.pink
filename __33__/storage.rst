@@ -18,7 +18,7 @@ For storage unit services, the costs are approximate and for the smallest units.
 For drop-off/pickup services with many plans, the costs are for the one I am most
 likely to use. In both cases, the price is the monthly cost.
 
-Sizes
+Box Sizes
 -------------
 Conventional storage units get as small as a 3.5' cube, but you are more likely
 to find a 5' cube.
@@ -31,9 +31,33 @@ can be shipped by USPS Priority Mail (to and from StorageByMail) for $25 or
 less, which is effectively free when you account for the USPS free shipping
 scheme. USPS quickly gets more expensive after this size.
 
+More on boxes
+------------------
 I checked Sarah's Storrage boxes and found the model number "CFP-261".
 Searching around, I found the similarly named and specified
 `Orbis FP 261 <http://www.orbiscorporation.com/Products/Hand-Held-Containers/Stack-N-Nest/FP261#.VJ1wOTC_ALU>`_.
+The cheapest price I can find for it is $20, which is even more than Storrage
+charges. So I searched around for similar boxes and found some neat and cheaper things.
+
+* http://www.tedthorsen.com/itemgroup.aspx?category_id=301500
+
+  * http://www.tedthorsen.com/ItemCategory.aspx?parent_id=3015
+
+* http://www.tedthorsen.com/itemgroup.aspx?category_id=301300
+* http://www.tedthorsen.com/itemgroup.aspx?category_id=3014
+* http://www.tedthorsen.com/itemgroup.aspx?category_id=3016
+* http://www.uline.com/BL_312/Round-Trip-Totes
+
+The Akro Grid containers look pretty cool. But expensive.
+How about this?
+
+* AK-33221 Clear Plastic Covers for Akro Grid Containers
+* AK-42228 Long Dividers for Akro Grid Containers
+* AK-41228 Short Dividers for Akro Grid Containers
+* And maybe some AK-39120-G Gray Attached Lid Containers
+
+And I enjoy that there's a
+`Plastic Shipping Container Institute <http://www.pscionline.org/>`_.
 
 Mail
 ---------
