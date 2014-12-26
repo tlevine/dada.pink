@@ -67,6 +67,19 @@ Other stores are cheaper and less confusing.
 
 * http://www.usplastic.com/catalog/item.aspx?itemid=90780&catid=446
 
+Zoro has a nice website.
+
+* http://www.zoro.com/g/Dividable%20Tote%20Boxes/00103743/?category=5615
+* http://www.zoro.com/g/Bin%20Dividers/00115213/?category=5615
+* http://www.zoro.com/g/Modular%20Tote%20Boxes/00052452/?category=5501
+
+And they have a promo code, "COLD2", that expires at the end of 2014. Buy these.
+
+* 3 http://www.zoro.com/i/G3962183
+* 9 http://www.zoro.com/i/G2782586
+* 3 http://www.zoro.com/i/G0662663
+* 3 http://www.zoro.com/i/G1605003
+
 And I enjoy that there's a
 `Plastic Shipping Container Institute <http://www.pscionline.org/>`_.
 
