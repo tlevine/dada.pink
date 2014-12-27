@@ -34,7 +34,8 @@ and their SSL certificate has expired.
 
 Ship2Storage is more clear about their shipping discounts being "limited-time".
 
-http://www.ship2storage.com/
+MakeSpace's pricing is
+`really complicated <https://www.makespace.com/p/legal/terms/>`_.
 
 Box Sizes
 -------------
