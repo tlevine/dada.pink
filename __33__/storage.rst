@@ -6,9 +6,9 @@ are earlier in the table.
 ====================== ================ ========== =============== ==============================
 Service                Paradigm         Locations  Storage Cost    Drop-off/pick-up cost
 ---------------------- ---------------- ---------- --------------- ------------------------------
-StorageByMail_         Drop-off/pick-up USA (USPS) $29 for 5 boxes Cost of USPS minus $25
 Ship2Storage_          Drop-off/pick-up Anywhere   $10 per box     Cost of shipping one way
 MakeSpace_             Drop-off/pick-up USA (UPS)  $25 for 4 boxes $20 per box
+StorageByMail_         Drop-off/pick-up USA (USPS) $29 for 5 boxes Cost of USPS minus $25
 Storrage_              Drop-off/pick-up Seattle    $4 per box      $7 per drop-off/pick-up
 BoxBee_                Drop-off/pick-up NY, SF bay $7.50 per box   Free pick-up, $30 per drop-off
 CubeSmart_             Storage unit     All over   $30             Receive packages for free
@@ -27,8 +27,11 @@ month-to-month storage.
 
 StorageByMail says in only one place on their site that the discounted shipping
 is a "limited-time" thing, so maybe I shouldn't trust that it'll stay there.
-Possibly related, they have been around
-`since 2010 <http://www.crunchbase.com/organization/storagebymail-com>`_.
+Possibly related, they got a small investment
+`in 2010 <http://www.crunchbase.com/organization/storagebymail-com>`_,
+they haven't posted on Twitter in two years, they haven't responded to my email,
+and their SSL certificate has expired.
+
 Ship2Storage is more clear about their shipping discounts being "limited-time".
 
 http://www.ship2storage.com/
@@ -62,6 +65,9 @@ charges. So I searched around for similar boxes and found some neat and cheaper 
 * http://www.tedthorsen.com/itemgroup.aspx?category_id=3014
 * http://www.tedthorsen.com/itemgroup.aspx?category_id=3016
 * http://www.uline.com/BL_312/Round-Trip-Totes
+
+Anyway, for comparison among services, consider that the cost of the box that
+some of the services send is about $20.
 
 The Akro Grid containers look pretty cool. But expensive.
 How about this?
