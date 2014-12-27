@@ -7,6 +7,7 @@ are earlier in the table.
 Service                Paradigm         Locations  Storage Cost    Drop-off/pick-up cost
 ---------------------- ---------------- ---------- --------------- ------------------------------
 StorageByMail_         Drop-off/pick-up USA (USPS) $29 for 5 boxes Cost of USPS minus $25
+Ship2Storage_          Drop-off/pick-up Anywhere   $10 per box     Cost of shipping one way
 MakeSpace_             Drop-off/pick-up USA (UPS)  $25 for 4 boxes $20 per box
 Storrage_              Drop-off/pick-up Seattle    $4 per box      $7 per drop-off/pick-up
 BoxBee_                Drop-off/pick-up NY, SF bay $7.50 per box   Free pick-up, $30 per drop-off
@@ -17,6 +18,20 @@ ManhattanMiniStorage_  Storage unit     NY         $40             Receive packa
 For storage unit services, the costs are approximate and for the smallest units.
 For drop-off/pickup services with many plans, the costs are for the one I am most
 likely to use. In both cases, the price is the monthly cost.
+
+Ship2Storage gives different prices for different box sizes and gives discounts
+for if you leave your stuff there longer. It seems to me that a long-term deal
+doesn't let you receive the box and then mail it back, so this isn't very appealing.
+The price I used is for the box size closest to the other box sizes and for
+month-to-month storage.
+
+StorageByMail says in only one place on their site that the discounted shipping
+is a "limited-time" thing, so maybe I shouldn't trust that it'll stay there.
+Possibly related, they have been around
+`since 2010 <http://www.crunchbase.com/organization/storagebymail-com>`_.
+Ship2Storage is more clear about their shipping discounts being "limited-time".
+
+http://www.ship2storage.com/
 
 Box Sizes
 -------------
@@ -111,6 +126,7 @@ ManhattanMiniStorage look very established well-marketed. StorageByMail
 is more low-key.
 
 .. _StorageByMail: http://www.storagebymail.com
+.. _Ship2Storage: http://www.ship2storage.com
 .. _MakeSpace: https://www.makespace.com
 .. _Storrage: http://www.storrage.com
 .. _BoxBee: http://boxbee.com
