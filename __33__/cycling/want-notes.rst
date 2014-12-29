@@ -233,11 +233,13 @@ Everyone wants Tubus.
 * `Tubus Duo <http://www.tubus.com/product.php?xn=17>`_ and
 `Nitto M-12-2 <http://biketouringnews.com/touring-bike-accessories/bags-panniers/nitto-m-12-2-front-rack/>`_
 
-Here's another normal thing.
+Here are some others that look cool.
 
 * `Old Man Mountain Pioneer <http://www.oldmanmountain.com/Pages/RackPages/FrontRacks.html>`_
   
   * https://groups.google.com/forum/#!topic/surlylht/Uh0u6YD7znk
+
+* http://store.velo-orange.com/index.php/accessories/racks-decaleurs/campeur-front-rack.html
 
 But these look fancy.
 

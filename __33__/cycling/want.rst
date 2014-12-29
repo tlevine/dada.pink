@@ -4,12 +4,14 @@
   that just fits my Tom Bihn Synapse 19 (16" x 11.4" x 7.9")
 * Front rack for panniers and the backpack
 
-  * `Bruce Gordon Front Mountain Rack <http://brucegordoncycles.bigcartel.com/product/front-mountain-rack>`_,
-    because it's a fancy not-low-rider-but-similar rack that has a platform
-    on top.
-  * `Bruce Gordon Front Lowriding Rack <http://brucegordoncycles.bigcartel.com/product/front-lowriding-rack>`_ and, maybe,
-    `Nitto M-12-2 <http://biketouringnews.com/touring-bike-accessories/bags-panniers/nitto-m-12-2-front-rack/>`_
+  * `Bruce Gordon Front Lowriding Rack <http://brucegordoncycles.bigcartel.com/product/front-lowriding-rack>`_ if it's easy to acquire, or
+  * `Tubus Duo <http://www.tubus.com/product.php?xn=17>`_, because it's kind
+    designed exactly for the Surly LHT, with one of the following
 
+    * `Nitto M-12-2 <http://biketouringnews.com/touring-bike-accessories/bags-panniers/nitto-m-12-2-front-rack/>`_
+    * `Nashbar Front Rack <http://www.nashbar.com/bikes/Product_10053_10052_167593_-1#ReviewHeader>`_
+    * `VO Randonneur <http://store.velo-orange.com/index.php/accessories/racks-decaleurs/vo-randonneur-front-rack-stainless-steel.html>`_
+    * `VO Pass Hunter <http://store.velo-orange.com/index.php/accessories/racks-decaleurs/racks/vo-pass-hunter-rack.html>`_
 
 * An amazing lock
   * Kryptonite New York Lock Fahgettaboutit Mini U
