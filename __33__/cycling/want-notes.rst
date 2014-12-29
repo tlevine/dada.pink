@@ -222,3 +222,22 @@ Make my own version of these
 * `Draw with chalk <http://chalktrail.com/products/>`_
 * `Tool roll <https://www.etsy.com/listing/101133679/bike-tool-roll-brown-with-black-strap>`_
 * `Mittens for signaling <http://www.doppelganger.jp/option/da050_051gl/>`_
+
+
+Front rack
+-------------------
+Everyone wants Tubus.
+
+* `Tubus Duo <http://www.tubus.com/product.php?xn=17>`_ and
+`Nitto M-12-2 <http://biketouringnews.com/touring-bike-accessories/bags-panniers/nitto-m-12-2-front-rack/>`_
+
+Here's another normal thing.
+
+* `Old Man Mountain Pioneer <http://www.oldmanmountain.com/Pages/RackPages/FrontRacks.html>`_
+  
+  * https://groups.google.com/forum/#!topic/surlylht/Uh0u6YD7znk
+
+But these look fancy.
+
+* `Bruce Gordon <http://brucegordoncycles.bigcartel.com/product/front-mountain-rack>`_
+* `Robert Beckman <http://robertbeckmandesigns.net/>`_
