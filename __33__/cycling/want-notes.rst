@@ -245,3 +245,12 @@ But these look fancy.
 
 * `Bruce Gordon <http://brucegordoncycles.bigcartel.com/product/front-mountain-rack>`_
 * `Robert Beckman <http://robertbeckmandesigns.net/>`_
+
+Also
+
+* http://www16.ocn.ne.jp/~nitto210/carrier.html
+* http://www.bikeforums.net/touring/970973-recommendations-modern-mtb-touring-3.html
+* http://www.bikeforums.net/touring/84881-front-shelf-rack.html
+* https://www.flickr.com/photos/11527443@N06/1129529002/
+* http://www.crazyguyonabike.com/doc/page/?page_id=148050
+* http://oceanaircycles.com/2012/06/27/fully-racked-up-with-bruce-gordon-low-rider/

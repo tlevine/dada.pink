@@ -1,5 +1,10 @@
 * A set of Vaude Discover Pro panniers (Back, Front, and maybe Box),
   because they have pockets and look nice
+
+  * https://www.bikeshophub.com/Bags/vaude-discover-pro-front-panniers-p-1122.html
+  * https://www.bikeshophub.com/Bags/vaude-discover-pro-back-panniers-p-1123.html
+  * https://www.bikeshophub.com/Bags/tubus-duo-front-rack-p-1071.html
+
 * A basket in front to mount my backpack, maybe just zip-tied to the rack,
   that just fits my Tom Bihn Synapse 19 (16" x 11.4" x 7.9")
 * Front rack for panniers and the backpack
