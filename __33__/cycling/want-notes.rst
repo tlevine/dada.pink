@@ -156,6 +156,8 @@ Other panniers
 
 `Pannier Comparison <http://www.lancerushing.com/bicycling/panniers.cfm>`_
 
+Fancy http://www.bgcycles.com/new-page-2/
+
 Computers
 ----------------------
 I can probably have some fun with computers. Maybe recording my acceleration,
