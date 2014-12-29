@@ -66,6 +66,7 @@ These look nice.
   * http://www.commutebybike.com/2011/07/05/vaude-cycle-30-bag-review/
 
 * `Bug <http://www.arkel-od.com/us/all-categories/laptop-bicycle-pannier/bug-cummuting-bag.html>`_
+* Arkel GT-18BP
 
 These are almost nice.
 
@@ -135,6 +136,10 @@ Front panniers
 
   * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-15l-grey/
   * http://en.hollandbikeshop.com/bicycle-bags/fastrider-panniers/fastrider-single-pannier/fastrider-portable-pannier-aquadus-large-25l-grey/
+
+* Arkel GT-18
+* Arkel T-28
+* Lone peak
 
 Other panniers
 ------------------
