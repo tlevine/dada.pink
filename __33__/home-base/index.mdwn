@@ -24,8 +24,19 @@ Some notable [features](http://www.mailboxforwarding.com/pricing.php)
 The $15/month plan should cover everything I need, but I'd need to pay
 extra for forwarding mail.
 
+Unfortunately, they're kind of horrible. They didn't respond to my email,
+they took way longer to handle my form 1538, and they didn't send email
+notifications that they had indicated that they would send.
+And I'm
+[not](http://www.livingradically.com/2010/10/mailbox-forwarding-review-get-postal-mail-online/)
+the only person who had such difficulties.
+And they're also
+[deceptive](http://www.ripoffreport.com/r/Mailbox-Forwarding-Inc/Grandville-Michigan/Mailbox-Forwarding-Inc-Mailbox-Forwarding-Failed-to-Disclose-additional-requirements-to-1105525)
+about form 1538.
+
 ## My US PostBox
 It has [good stuff](https://www.myuspostbox.com/setup.php?lang=eng),
 but the per-item fees are [expensive](http://www.myuspostbox.com/schedule.php?lang=eng)
 
-
+## Traveling Mailbox
+https://travelingmailbox.com/
