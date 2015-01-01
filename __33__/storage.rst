@@ -132,6 +132,11 @@ MakeSpace, Storrage, and BoxBee look very startuppy. CubeSmart and
 ManhattanMiniStorage look very established well-marketed. StorageByMail
 is more low-key.
 
+Services I haven't looked at yet
+----------------------------------
+
+* http://lovespace.co.uk
+
 .. _StorageByMail: http://www.storagebymail.com
 .. _Ship2Storage: http://www.ship2storage.com
 .. _MakeSpace: https://www.makespace.com
