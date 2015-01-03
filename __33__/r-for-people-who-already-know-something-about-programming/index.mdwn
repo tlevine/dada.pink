@@ -55,6 +55,12 @@ Keep these three explosive statements about R in mind.
 I don't really know whether the above statements are true,
 but R makes a lot of sense when you assume that they are.
 
+Your preferred programming languages may not share these three
+characteristics, and that may put you off. The culture of R clashes
+with your programming culture, so you should not simply assume that
+R works the way your preferred languages do. You must
+*embrace these aspects of R* if you to use R well.
+
 ### R was designed by statisticians
 I don't know whether R really was designed by statisticians, (I also don't
 quite know what I mean by "statisticians".) but it makes sense that we would
