@@ -396,7 +396,7 @@ In many languages, you should think of variables as pointers to some data.
     console.log(container)
     // { 'bacon slices': 8, eggs: 11, tomatoes: 4 }
 
-In R, you can think of pretty much variable as a separate copy of data.
+In R, you can think of nearly every variable as a separate copy of data.
 
     container <- list(bacon.slices = 8, eggs = 11)
     another.variable <- container
@@ -407,6 +407,14 @@ In R, you can think of pretty much variable as a separate copy of data.
     #
     # $eggs
     # [1] 11
+
+In both versions, we assigned some data to a variable called *container*
+and then assigned *container* to *another variable*. Then we manipulated
+*another variable*. In the Javascript version, *another variable* was a
+**pointer** to *container*, so manipulating *another variable* manipulated
+*container* as well, because they are actually the same thing. In the R
+version, *another variable* was a **copy** of *container*, so manipulating
+*another variable* did not manipulate *container*.
 
 ### Counter-intuitive execution order
 In other dynamic languages, the arguments of a function are evaluated before
