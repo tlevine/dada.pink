@@ -540,7 +540,7 @@ up when you run `data`.
 define for their classes.
 
 ### About plotting
-There are three types of graphics that people make in R
+Here are three types of graphics that people make in R
 
 > * Base R graphics
 > * Lattice graphics (from the lattice package)
@@ -565,8 +565,11 @@ There are three ways to make classes in R, and I don't remember all of them.
 You probably won't use them very often, and I have to look them up when I
 want to use them.
 
-You usually get the properties of an object with `$`, or sometimes with `@`.
-I think these are for the different ways of making classes.
+You usually get the properties of an object with `$`, or sometimes with `@`,
+but there are some properties that you can only access with a separate function
+("method" in object-oriented terminology) or with the `attr` function.
+I think these differences are related to the different ways of making classes,
+but I'd need to look it up again to say for sure.
 
 ### Environments
 Environments are a way to get separate scopes; you can evaluate code in
@@ -575,6 +578,9 @@ different places, with some-but-not-much interference.
   env <- new.env()
   eval({twelve <- 3 + 9}, envir=env)
   get('twelve', envir = env)
+
+The interference that I have discovered is that libraries get loaded
+across all environments.
 
 ## What it means when people say they "know R"
 When someone says he or she knows R, it doesn't mean that he or she knows
