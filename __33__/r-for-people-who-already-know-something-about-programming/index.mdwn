@@ -493,6 +493,27 @@ This means that we are fitting a linear regression model (`lm`) where the
 dependent variable is `Sepal.Length` and the independent variable is
 `Petal.Length`.
 
+We pass a categorical variable rather than a numeric variable, and the model
+will interpret it reasonably. 
+
+    f <- Sepal.Length ~ Species
+    lm(f, data = iris)
+
+`Species` is a factor, so the above `lm` call creates the appropriate dummy
+variables.
+
+We can specify multiple variables, of course. Here we have two main effects,
+`Petal.Length` and `Petal.Width`, and one interaction term.
+
+    f <- Sepal.Length ~ Petal.Width + Petal.Length + Petal.Width:Petal.Length
+    lm(f, data = iris)
+
+The above call can be abbreviated thusly.
+
+    lm(Sepal.Length ~ Petal.Width * Petal.Length, data = iris)
+
+That is, `*` produces the main effects and all the interaction terms.
+
 ### An end-user program
 You can think of R as an end-user program, akin to Excel. The R interpreter
 has a bunch of things that you might not expect of an interpreter.
