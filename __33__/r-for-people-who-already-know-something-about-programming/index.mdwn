@@ -437,8 +437,15 @@ we just provide the expression.
 (The braces are just there to group the expressions; they are not specific to
 `eval`.)
 
-I think this behavior is implemented through meta-programming, so it's kind
-of not part of the language. Except that it is part of the language.
+How does it do this!? I'm pretty sure that it involves meta-programming;
+ordinarily, the contents of eval would be evaluated first, just as in
+Javascript, but this is deferred through meta-programming.
+
+Since this behavior is implemented through meta-programming, we could
+say that it is not really part of the language. Except that `eval`
+definitely is part of the language. Moreover, bizarre execution orders
+like this show up in many places, even in libraries, so it is good to
+be aware of this.
 
 ### Missing values
 Many languages have a concept of nothing, and R has this too; it's called
@@ -460,10 +467,19 @@ of nothing and eight is nothing.
     sum(NULL, 8)
     # 8
 
+(You might prefer that adding `NULL` to something produce an error, but
+please set that preference aside for now.)
+
 If we add a missing value to eight, we don't know what the result is.
 
     sum(NA, 8)
     # NA
+
+`NULL` indicates that we know that the correct value is nothing.
+`NA`, on the other hand, indicates that we do not know what the correct
+value is. When we add nothing (`NULL`) to eight, we know that the result
+will be eight. When we add a missing value (`NA`) to eight, we do not
+know what the result is, so the result is another missing value.
 
 ## Cool language features
 
