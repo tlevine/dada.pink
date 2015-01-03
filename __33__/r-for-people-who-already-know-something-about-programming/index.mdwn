@@ -146,6 +146,8 @@ mostly like HTML. But people who use R only know how to use R, so they
 need a new domain-specific language written in R.
 
 ## Basics of the language
+R is an interpreted language. It is largely written in C and Fortran.
+It is a Lisp, but you wouldn't guess that based on the C-style syntax.
 
 > * Interpreted
 > * Largely written in C and Fortran
@@ -279,8 +281,7 @@ and see what happens when we add different things to it.
     a + 1:2
     a + 1:8
 
-So you should think of the dimensionality as a component of the type of
-a thing in R.
+So you should think of the shape of a thing as a component of its type.
 
 ## Primitive data structures are weird
 R's most primitive data structures (or at least the most primitive ones that
