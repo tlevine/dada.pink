@@ -87,3 +87,7 @@ And here are the other things.
 * Books
   * Statistika Elementare
   * Fjalor Shqip Frëngjisht
+
+Old lists are here.
+
+[[!map pages="stuff/stuff-list/20*"]]
