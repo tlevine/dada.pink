@@ -1,15 +1,46 @@
-[[!meta title="Tom's stuff, itemized"]]
-[[!meta description="A list of the things that Tom carries around with him"]]
+[[!meta title="Bicycle stuff"]]
+[[!meta description="Stuff related to cycling"]]
 
-Everything I need to carry when I move house fits in a
-[Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)
-Here are those things.
+Here's what I'm carrying in January 2015. Most of it is the same as
+previous months, but a lot is new because
+[I just got a bicycle](/!/bicycle). So I have separated them into
+bicycle things and other things. Here are the bicycle things I have.
+(Some of them are things that I have ordered but not yet received.)
+
+* Giro helmet
+* Vis360 lights
+* Surly Long Haul Trucker 2010 frame
+* The standard gears, derailleurs, wheels, &c. that come with the LHT
+* Brooks saddle
+* Rear rack
+  * Tubus Logo Evo
+  * Vaude Discover Pro back panniers
+  * Ortlieb classic back rollers
+      (I'm going to get rid of these once I get the Vaudes.)
+* Front low-rider rack
+  * Tubus Duo
+  * Vaude Discover Pro front panniers
+* Front high-rider rack
+  * Nashbar Front Rack
+  * Tote bag tied to the handlebars
+  * Tom Bihn Synapse 19 in the tote bag
+* Tools
+  * Park Tool pedal wrench
+  * Tire pressure gauge
+  * Topeak pump
+  * Allen keys
+  * Park Tool folding chain tool
+* Locks
+  * Kryptonite New York Lock Fahgettaboutit Mini U
+  * Pink Abus folding lock
+  * Cable lock
+
+And here are the other things.
 
 * Computers
   * Laptop (Acer Aspire One 725-0488) and power adapter
-  * American and European power cables
   * Phone (Nexus S), many micro-USB cables, USB power adapter
-  * Another phone
+  * Cheap GSM phone with European wall power adapter
 * Clothes (including the clothes I'm wearing)
   * Three pairs of merino wool socks
   * Two pairs of merino wool underwear
@@ -20,15 +51,15 @@ Here are those things.
   * One cotton dressy shirt
   * Plastic windbreaker with lots of pockets
   * Cashmere sweater
+  * Merino wool sweater
   * Cotton leggings
 * Teeth things
   * Toothbrush
-  * Toothpaste (travel-size only)
+  * Toothpaste
   * Normal floss
   * Floss for under my braces
   * Retainer
-* Footwear
-  * Boots
+* Boots
 * Documents
   * Passport
   * A few blank cheques
@@ -52,66 +83,7 @@ Here are those things.
   * Empty plastic bags
 * An empty [Ribz Front Pack](http://www.ribzwear.com/ribz-front-pack/), small-size, for extra space in an emergency and for separating dirty laundry.
 * Various cables and EMG boards and an analog interface for my study on
-    [wrist-cracking](/!/wrist-cracking/).
-
-## Notable non-contents
-There is no pillow nor towel; clothes can be used for these purposes.
-
-A bed, bed sheets, and blankets are excluded. I can take these with me,
-but I would need to bring another bag to carry it.
-
-The above contents account for free space for food, but the specific foods
-are not listed.
-
-The supplies need to be refilled as I use them.
-If I'm in the same place for a while, I purchase larger containers of these things.
-
-## Likely changes
-I'm probably going to switch the Acer Aspire One 725-0488 for a ThinkPad X201 as
-the latter is slightly better supported on Linux and is easier to find parts for.
-
-### Removing big stuff
-These things should save some space.
-
-* Switch the earmuffs for custom earplugs.
-* Do something about my glasses; I have three pairs, and that takes up a lot of space.
-* Swap my disposible water bottle for a flat water "bottle".
-
-### Ideas from Ginger
-[Ginger Coons](http://adaptstudio.ca/) had a bunch of great ideas.
-
-* Buy everything at sporting/camping stores.
-* Fancy wool underwear
-* Leave-in laundry detergent
-* Get Nalgene's tiny bottles. (They seemed a bit big for me, but it's worth looking at them.)
-
-### Containers
-I'm getting a feel for how big my containers should be.
-
-I usually don't need shampoo and conditioner, but when I need it,
-I need it for a few days. I think I need four or five sample containers
-of shampoo and two or three of conditioner.
-
-I want a container for mouthwash.
-
-Six sample containers of detergent is more than enough, but I'm fine with
-having extra for that as it's rather important.
-
-One sample container of sunscreen goes surprisingly far, but I could still
-go for more containers of it.
-
-### Clothes
-Switch cotton underwear for silk or plastic so that it dries faster.
-
-My ideal **jacket**, which I doubt I'll find, is a tiny shell with **lots** of
-pockets, enough to store all of my other clothes. This way, I can keep all
-of my clothes in the shell and put the things I need day-to-day in my backpack.
-When I have to carry all of my stuff with me, it'll probably still fit in
-the backpack, but I'll be able to distribute the bulk of the clothes in the
-shell, to carry some food in my backpack, and to access the things in my
-backpack more easily. Also, I won't need the front pack anymore
-
-If I can plan ahead better, get a C5 (or is it C6) cable specific to
-whatever country I'm going to so I don't need the adapter. Or maybe I can
-find some sort of fancy one that has the adapters built in. Or maybe just
-get smaller power adapters.
+    [wrist-cracking](/!/wrist-cracking/)
+* Books
+  * Statistika Elementare
+  * Fjalor Shqip Frëngjisht
