@@ -1,0 +1,17 @@
+Stopwatches instead of real time because it's easier to say and
+synchronize and because they have seconds on phones
+
+Delay and offset
+
+Whiteboard with T0, T1 = T2, T3
+
+Do trips in this order
+
+* One trip just to walk through the steps
+* One trip where the person runs as fast as she can
+* One trip where the person walks for one leg and runs for the other
+* Huff-and-puff filter: Everyone sprints.
+
+Record the true offset.
+Record the times for each one.
+Check whether the ones with the lowest delay have the most accurate offset.
