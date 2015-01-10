@@ -17,17 +17,23 @@ discussion of how they're complicated.
 
 Some questions refer to complicated concepts.
 
-* What is ergonomics?
 * What is the difference between ergonomics and data science?
 * Do you know computer programming?
 
 It's a lot of work for me to answer these if you won't tell me what
 "ergonomics", a "difference", "data science", and "knowing" are.
 These are fine if you manage to tell me what "ergonomics",
-"data science", a "difference", and "knowing" are.
+"data science", a "difference", and "knowing" are. Moreover, these
+questions are so vague that I doubt that I could possibly provide
+a helpful answer if I tried.
 
+Some questions are quite straightforward but would take a long time
+to answer fully. Requests for definitions fall into this category.
 
-hard to remember
+* How does this work?
+* What have you been working on recently?
+* What program are you using right now?
+* What is ergonomics?
 
 lots of questions
 
@@ -58,7 +64,11 @@ I don't think you'll manage to come up with an alternative that I feel
 like answering. If you just want to make conversation, you might look
 for something else that I feel like talking about.
 
-## Making me want to answer more complicated questions
+If you notice yourself enacting one of
+[these fallacies](https://en.wikipedia.org/wiki/List_of_fallacies),
+consider remarking that you are doing that. You can also just stop.
+
+## Making me want to respond to more complicated questions
 The easiest thing is, perhaps, to send me the question over
 [email](mailto:_@thomaslevine.com). I might compose an answer eventually,
 and I'll eventually send you the answer if I wind up composing one.
