@@ -30,17 +30,21 @@ a helpful answer if I tried.
 Some questions are quite straightforward but would take a long time
 to answer fully. Requests for definitions fall into this category.
 
-* How does this work?
 * What have you been working on recently?
 * What program are you using right now?
+* How does this work?
 * What is ergonomics?
 
-lots of questions
-
-
+I can often point you to a webpage that answers your question
+reasonably completely, and I may get annoyed if you insist that I
+answer it now so you don't have to go to the webpage. You might be
+able to ask about something more specific that thus doesn't take
+me very long to answer.
 
 People sometimes ask many different questions in quick succession such
 that I don't even remember the questions.
+
+* 
 
 
 ## My mood
@@ -48,6 +52,11 @@ Sleep
 food
 relax
 slow
+
+## What I might do about complicated questions
+If we just met and I manage to notice that you're making smalltalk,
+I might arbitrarily make the question more specific or respond with
+something totally irrelevant.
 
 ## Making questions simple enough to match my mood
 Consider whether there is a more specific question that you could ask
