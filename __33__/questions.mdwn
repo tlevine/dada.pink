@@ -44,7 +44,15 @@ relax
 slow
 
 ## Making questions simple enough to match my mood
+Consider whether there is a more specific question that you could ask
+instead, as it might be less work for me to answer.
 
+
+Perhaps you are asking the question to lead into some other thing.
+
+
+Read about how to compose questions for interviews or questionnaires,
+and ask me questions based on what you learned.
 
 
 ## Making me want to answer more complicated questions
