@@ -47,15 +47,16 @@ slow
 Consider whether there is a more specific question that you could ask
 instead, as it might be less work for me to answer.
 
-
 Perhaps you are asking the question to lead into some other thing.
-For example,
+For example, someone once asked, "How many dimensions do your data have?"
+I asked this person why he asked, and he explained that he wrote a paper
+about something that I don't remember right not that had something to do
+with data with lots of dimensions.
 
-
-Read about how to compose questions for interviews or questionnaires,
-and ask me questions based on what you learned. If you do manage to
-find an article about this stuff that you like, please tell me, as I
-don't remember where I learned this stuff.
+If you're just curious about something or are just making conversation,
+I don't think you'll manage to come up with an alternative that I feel
+like answering. If you just want to make conversation, you might look
+for something else that I feel like talking about.
 
 ## Making me want to answer more complicated questions
 The easiest thing is, perhaps, to send me the question over
