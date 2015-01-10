@@ -52,7 +52,12 @@ Perhaps you are asking the question to lead into some other thing.
 
 
 Read about how to compose questions for interviews or questionnaires,
-and ask me questions based on what you learned.
+and ask me questions based on what you learned. Here are some places
+where you can read about this stuff on the internet for free.
+
+* [ 
+* [Developing a Questionnaire](http://books.google.com/books?id=EpKvAwAAQBAJ)
+* [Surveys](https://en.wikibooks.org/wiki/Social_Research_Methods/Surveys)
 
 
 ## Making me want to answer more complicated questions
