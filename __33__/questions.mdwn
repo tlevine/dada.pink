@@ -7,8 +7,11 @@ People sometimes ask me questions that are far more complicated than I
 am in the mood to answer. In such cases, I might still be in the mood
 to talk a bit further and to arrive at a question that I am in the mood
 to answer. If you have asked me a question and we haven't managed to
-come up with a question that I am in the mood to answer.
+come up with a question that I am in the mood to answer, the following
+page might be helpful to you.
 
+
+## Some complicated questions
 
 Some questions are 
 
@@ -20,3 +23,22 @@ complex
 
 
 hard to remember
+
+
+## My mood
+Sleep
+food
+relax
+slow
+
+## Making questions simpler
+
+
+
+## Making me want to answer more complicated questions
+
+* Feed me.
+* Wait until after I have slept.
+* Offer to write up the answer to the question after I have explained
+    it to you, and then follow through with the offer.
+* Pay me.
