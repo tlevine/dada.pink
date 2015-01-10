@@ -54,15 +54,22 @@ the questions. Depending on the context, the individual questions might be
 just fine separately.
 
 ## My mood
-Sleep
-food
-relax
-slow
+I like when I have [slept](/!/sleeping/) and otherwise been moving slowly
+and [quietly](/!/ear-muffs). And I like food and water and other normal things.
+Complicated questions spoil this mood rather quickly, especially if
+they are spoken quickly, loudly, or with complex grammar.
 
 ## What I might do about complicated questions
 If we just met and I manage to notice that you're making smalltalk,
 I might arbitrarily make the question more specific or respond with
 something totally irrelevant.
+
+If I known you for more than a few seconds, I'll probably try to make
+it more precise (This might involve asking you something.) or indicate
+that the question is too complicated and then give up at answering.
+
+If I feel like not-answering would be seen as wrong, I might give you
+a bad answer and be very frustrated.
 
 ## Making questions simple enough to match my mood
 Consider whether there is a more specific question that you could ask
