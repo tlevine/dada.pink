@@ -27,12 +27,14 @@ These are fine if you manage to tell me what "ergonomics",
 "data science", a "difference", and "knowing" are.
 
 
-complex
-
-
 hard to remember
 
 lots of questions
+
+
+
+People sometimes ask many different questions in quick succession such
+that I don't even remember the questions.
 
 
 ## My mood
@@ -41,14 +43,22 @@ food
 relax
 slow
 
-## Making questions simpler
+## Making questions simple enough to match my mood
 
 
 
 ## Making me want to answer more complicated questions
+The easiest thing is, perhaps, to send me the question over
+[email](mailto:_@thomaslevine.com). I might compose an answer eventually,
+and I'll eventually send you the answer if I wind up composing one.
 
-* Feed me.
-* Wait until after I have slept.
-* Offer to write up the answer to the question after I have explained
-    it to you, and then follow through with the offer.
-* Pay me.
+If you want an answer soon, ask me the question in person, and
+offer to write up the answer to the question after I have explained
+it to you, and then follow through with the offer.
+
+You might also try feeding me, finding me a nice place to sleep and wait
+until after I have slept, moving to a quiet place (if we are in a loud
+place), or paying me. The effectiveness of these approaches
+seems to relate to their quantity; feeding me more, having me sleep
+better or longer, moving me to a quieter place for longer, and paying
+me more all seem to help more.
