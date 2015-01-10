@@ -1,14 +1,12 @@
 
-(Introduce)
-
-
-
 People sometimes ask me questions that are far more complicated than I
 am in the mood to answer. In such cases, I might still be in the mood
 to talk a bit further and to arrive at a question that I am in the mood
-to answer. If you have asked me a question and we haven't managed to
-come up with a question that I am in the mood to answer, the following
-page might be helpful to you.
+to answer. But I might not be in such a mood.
+
+If you have asked me a question and we haven't managed to come up with
+a question that I am in the mood to answer, the following page might be
+helpful to you.
 
 
 ## Some complicated questions
@@ -92,3 +90,10 @@ place), or paying me. The effectiveness of these approaches
 seems to relate to their quantity; feeding me more, having me sleep
 better or longer, moving me to a quieter place for longer, and paying
 me more all seem to help more.
+
+## On the frivolity of answering questions
+I find I can get to know people quite well based on the questions they
+ask. Similarly, people can find out quite a lot about me based on my
+responses to questions, even if they don't "answer" the questions.
+(I don't exactly know what I mean by "answer".) I usually treat questions
+like this, especially when they seem to be going nowhere.
