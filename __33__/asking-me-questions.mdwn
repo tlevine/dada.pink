@@ -40,10 +40,18 @@ able to ask about something more specific that thus doesn't take
 me very long to answer.
 
 People sometimes ask many different questions in quick succession such
-that I don't even remember the questions.
+that I don't even remember the questions. Here's a made-up generic example.
 
-* 
+> What are the practical applications of this thing you're talking about?
+> Who uses it? Can I integrate it with my other thing to do stuff?
+> What are the main advantages and disadvantages of this thing?
+> Can assign it to a thing-a-ma-bob with widgets? Can this thing help
+> people who have some particular disability do some particular activity?
 
+I'll probably have forgotten the first question by the time you're on the
+third question, and then I'll give up on being able to follow the rest of
+the questions. Depending on the context, the individual questions might be
+just fine separately.
 
 ## My mood
 Sleep
