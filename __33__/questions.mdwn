@@ -12,17 +12,27 @@ page might be helpful to you.
 
 
 ## Some complicated questions
+Here are some questions that seem really complicated to me and some
+discussion of how they're complicated.
 
-Some questions are 
+Some questions refer to complicated concepts.
 
+* What is ergonomics?
+* What is the difference between ergonomics and data science?
+* Do you know computer programming?
 
-vocabulary
+It's a lot of work for me to answer these if you won't tell me what
+"ergonomics", a "difference", "data science", and "knowing" are.
+These are fine if you manage to tell me what "ergonomics",
+"data science", a "difference", and "knowing" are.
 
 
 complex
 
 
 hard to remember
+
+lots of questions
 
 
 ## My mood
