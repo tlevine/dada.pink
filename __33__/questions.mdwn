@@ -49,16 +49,13 @@ instead, as it might be less work for me to answer.
 
 
 Perhaps you are asking the question to lead into some other thing.
+For example,
 
 
 Read about how to compose questions for interviews or questionnaires,
-and ask me questions based on what you learned. Here are some places
-where you can read about this stuff on the internet for free.
-
-* [ 
-* [Developing a Questionnaire](http://books.google.com/books?id=EpKvAwAAQBAJ)
-* [Surveys](https://en.wikibooks.org/wiki/Social_Research_Methods/Surveys)
-
+and ask me questions based on what you learned. If you do manage to
+find an article about this stuff that you like, please tell me, as I
+don't remember where I learned this stuff.
 
 ## Making me want to answer more complicated questions
 The easiest thing is, perhaps, to send me the question over
