@@ -3,14 +3,29 @@ Ilda uses these
 * Notepad++
 * Sublime text
 * XAMPP
+  (While XAMPP could be done all text-based, she explained that she
+  installs and manages XAMPP with a graphical thing.)
 * LibreOffice
 
+How can we replace those with text-based things? Aside from XAMPP, let's
+try to do everything in vim. Here are some basic aspects of vim that we
+came up with that Ilda might use to replace the other programs.
 
+Vim has modes.
 
+* Press ``i`` to go into insert mode.
+* Press ``ESC`` to leave a mode.
+* All of the commands that I'm going to mention need to be run outside of modes.
 
-* modes
-* ``i`` for insert mode
-* ``:w``, ``:wq``, &c.
+Vim has commands that begin with colon.
+
+``:w``
+    Save
+``:q``
+    quit
+``:wq``
+    Save and quit
+
 * Buffers and switching buffers and files (because the other editors let you edit multiple files)
 * ``:split`` and ``:vsplit`` and switching windows
 * Opening directories, or ``:Explore``
