@@ -58,7 +58,9 @@ leaning forwards and included concave troughs in order to afford sitting in a
 particular orientation in the seat. The fifth was similar to the fourth but
 without the concave troughs, allowing more movement in the legs (figure 3).
 
-![Figure 3: Toilet seats tested by McClelland & Ward (1982), from their paper](figure-003.jpg)
+![Figure 3: Toilet seats tested by McClelland & Ward (1982), from their paper](figure-3.jpg)
+
+*Figure 3: Toilet seats tested by McClelland & Ward (1982), from their paper*
 
 Based on an anthropometric survey that they performed, McClelland & Ward (1982)
 chose apertures of approximately 36 cm for the last four of the seats, which
@@ -108,7 +110,9 @@ Stalls often have too little space. If the doors often open inwards, there
 should be enough space for a user to close the door while standing in the
 stall in order close the door and to take off a jacket or backpack (figure 6).
 
-![Figure 6: The lack of space in conventional stalls](figure-006.jpg)
+![Figure 6: The lack of space in conventional stalls](figure-6.jpg)
+
+*Figure 6: The lack of space in conventional stalls*
 
 The 99th percentile for males of the largest distance between the stomach and
 back is 13.7". For pregnant women, the 99th percentile of this distancec is 16.6".
@@ -131,7 +135,7 @@ of the squatting posture in order to size the toilet properly (table 2).
 These data can be used to determine how squatting toilets should be sized for
 different sizes of people and to determine whether adjustability is necessary.
 
-![Figure 5: An improved squatting toilet, from Cai & You (1998)](figure-005.jpg)
+![Figure 5: An improved squatting toilet, from Cai & You (1998)](figure-5.jpg)
 
 *Figure 5: An improved squatting toilet, from Cai & You (1998)*
 
@@ -151,7 +155,7 @@ observed that cleaning staff adopted risky forward reaches of the arms
 when mopping small areas around toilet seats, such as those created by a
 toilet mounted on the floor (figure 1).
 
-![Figure 1: A standard toilet seat](figure-001.jpg)
+![Figure 1: A standard toilet seat](figure-1.jpg)
 
 *Figure 1: A standard toilet seat*
 
@@ -193,7 +197,7 @@ For example, most restrooms around my university campus have horizontally
 oriented support bars (figure 4) even though Dekker et al. determined that
 elderly people usually prefer vertically oriented bars.
 
-![Figure 4: A toilet with horizontal supports](figure-004.jpg)
+![Figure 4: A toilet with horizontal supports](figure-4.jpg)
 
 *Figure 4: A toilet with horizontal supports*
 
@@ -228,7 +232,7 @@ found that the minimum distance between feet during squatting ranged from
 17 cm to 52 cm. (They used minimum and maximum distances because the feet
 were angled.) Graded widths of squatting toilets would support this range better.
 
-[Figure 8: Stalls with graduated width and toilet size](figure-008.jpg)
+[Figure 8: Stalls with graduated width and toilet size](figure-8.jpg)
 
 Because concerns about sanitation cause often cause people tot use toilet
 seats as they not are intended to be used, an increase in the level of
@@ -249,7 +253,13 @@ making the toilet bowl larger and increasing the size of the seat on top.
 Stalls should also be tall enough to support the 99th percentile male height,
 75.6" (Tilley et al., 2008).
 
-![Figure 7: Large seat and bowls to allow urinating for tall men.](figure-007.jpg)
+![Table 2: Anthropometrics of squatting posture, from Cai & You (1998)](table-2.jpg)
+
+*Table 2: Anthropometrics of squatting posture, from Cai & You (1998)*
+
+![Figure 7: Large seat and bowls to allow urinating for tall men.](figure-7.jpg)
+
+*Figure 7: Large seat and bowls to allow urinating for tall men.*
 
 To ease mopping, sitting toilets should be built into the wall instead of the
 floor (figure 2). This avoids the creation of small pockets that cleaning
@@ -261,7 +271,9 @@ distances from the seat front, ranging from 175 to 515 mm. The height of the
 supports should range from850 to 1400 mm. These numbers are based on
 preferences recorded by Dekker et al. (2007).
 
-![Figure 2: A toilet seat built into the wall to ease mopping](figure-002.jpg)
+![Figure 2: A toilet seat built into the wall to ease mopping](figure-2.jpg)
+
+*Figure 2: A toilet seat built into the wall to ease mopping*
 
 # References
 Cai, D. and You, M. (1998). An ergonomic approach to public squatting-type toilet design. Applied Ergonomics 29(2), 147–153.
@@ -288,9 +300,4 @@ Ergonomics 35(3), 247-266.
 11
 
 Table 1: Preferred seat height, from McClelland & Ward (1982)
-
-Table 2: Anthropometrics of squatting posture, from Cai & You (1998)
-
-12
-
 
