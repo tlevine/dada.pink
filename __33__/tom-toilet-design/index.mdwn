@@ -56,7 +56,9 @@ comparable with the next three experimental seats. The third provided
 increased buttock support. The fourth increased thigh support to encourage
 leaning forwards and included concave troughs in order to afford sitting in a
 particular orientation in the seat. The fifth was similar to the fourth but
-without the concave troughs, allowing more movement in the legs. (Figure 3)
+without the concave troughs, allowing more movement in the legs (figure 3).
+
+![Figure 3: Toilet seats tested by McClelland & Ward (1982), from their paper](figure-003.jpg)
 
 Based on an anthropometric survey that they performed, McClelland & Ward (1982)
 chose apertures of approximately 36 cm for the last four of the seats, which
@@ -124,10 +126,14 @@ movement. Stalls should be wide enough to support this range of people.
 ## Squatting use
 Cai & You (1998) also designed a new squatting toilet and tested it on users.
 Their final design incorporates a 15-degree sloped area for placing the feet,
-improving squatting comfort.(Figure 5) They also collected anthropometric data
+improving squatting comfort (figure 5). They also collected anthropometric data
 of the squatting posture in order to size the toilet properly (table 2).
 These data can be used to determine how squatting toilets should be sized for
 different sizes of people and to determine whether adjustability is necessary.
+
+![Figure 5: An improved squatting toilet, from Cai & You (1998)](figure-005.jpg)
+
+*Figure 5: An improved squatting toilet, from Cai & You (1998)*
 
 ## Standing use
 Little research is available on the standing use of public toilets.
@@ -287,7 +293,4 @@ Table 2: Anthropometrics of squatting posture, from Cai & You (1998)
 
 12
 
-Figure 5: An improved squatting toilet, from Cai & You (1998)
-
-13
 
