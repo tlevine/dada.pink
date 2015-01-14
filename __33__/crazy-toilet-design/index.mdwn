@@ -83,6 +83,10 @@ people to squat down to lower toilets than for short people to use taller
 toilets, so they recommend this number that is slightly below average. This
 number was slightly lower than the typical recommendation at the time.
 
+![Table 1: Preferred seat height, from McClelland & Ward (1982)](table-1.jpg)
+
+*Table 1: Preferred seat height, from McClelland & Ward (1982)*
+
 This height is still suboptimal for anyone with height far from the mean.
 A better solution would be adjustability of some sort.
 
@@ -232,7 +236,7 @@ found that the minimum distance between feet during squatting ranged from
 17 cm to 52 cm. (They used minimum and maximum distances because the feet
 were angled.) Graded widths of squatting toilets would support this range better.
 
-[Figure 8: Stalls with graduated width and toilet size](figure-8.jpg)
+![Figure 8: Stalls with graduated width and toilet size](figure-8.jpg)
 
 Because concerns about sanitation cause often cause people tot use toilet
 seats as they not are intended to be used, an increase in the level of
@@ -276,28 +280,11 @@ preferences recorded by Dekker et al. (2007).
 *Figure 2: A toilet seat built into the wall to ease mopping*
 
 # References
-Cai, D. and You, M. (1998). An ergonomic approach to public squatting-type toilet design. Applied Ergonomics 29(2), 147–153.
 
-Cohen, A. (2009). The tall book : a celebration of life from on high. New York : Bloomsbury.
-
-Dekker, D., Buzink, S.N., Molenbroek, J.F.M. and Bruin, R. (2007). Hand supports to assist toilet use among the elderly.
-
-McClelland, I.L. and Ward, J.S. (1982). The Ergonomics of Toilet Seats. Human Factors 24(6), 713–725.
-
-Tilley, A.R. and Henry Dreyfuss Associates. (2008) The Measure of Man & Woman: Human Factors in Design. Tianjin University Press.
-
-Woods, V. and Buckle, P. (2005). An investigation into the design and use of workplace cleaning equipment. International Journal of Industrial
-Ergonomics 35(3), 247-266.
-
-
-
-Figure 3: Toilet seats tested by McClelland & Ward (1982), from their paper
-
-10
-
-Figure 4: A toilet with horizontal supports
-
-11
-
-Table 1: Preferred seat height, from McClelland & Ward (1982)
-
+* Cai, D. and You, M. (1998). An ergonomic approach to public squatting-type toilet design. Applied Ergonomics 29(2), 147–153.
+* Cohen, A. (2009). The tall book : a celebration of life from on high. New York : Bloomsbury.
+* Dekker, D., Buzink, S.N., Molenbroek, J.F.M. and Bruin, R. (2007). Hand supports to assist toilet use among the elderly.
+* McClelland, I.L. and Ward, J.S. (1982). The Ergonomics of Toilet Seats. Human Factors 24(6), 713–725.
+* Tilley, A.R. and Henry Dreyfuss Associates. (2008) The Measure of Man & Woman: Human Factors in Design. Tianjin University Press.
+* Woods, V. and Buckle, P. (2005). An investigation into the design and use of workplace cleaning equipment. International Journal of Industrial
+* Ergonomics 35(3), 247-266.
