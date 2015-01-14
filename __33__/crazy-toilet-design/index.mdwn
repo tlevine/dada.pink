@@ -2,9 +2,9 @@
 
 Thomas Levine, 2010
 
-I shall present an analysis of the public toilet. I am concerned with the
+I present a haphazard ergonomic analysis of the public toilet. I am concerned with the
 system surrounding the toilet seat; I am not primarily concerned with other
-parts of public restrooms, but I examine closely related parts of them,
+parts of public restrooms, but I shall examine closely related parts of them,
 such as partitions between stalls.
 
 # Tasks
