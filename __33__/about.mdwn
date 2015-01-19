@@ -63,8 +63,8 @@ is so hard to learn! How fortunate that you can change that!
 If you ask me and I think I can help, I'll meet with you in person or
 over the phone or something and try to explain. During our session, we'll
 take copious notes on everything we did. If you finally understand the
-thing, we (or, preferably, you) will make something that helps other
-people understand this confusing and important thing.
+thing, we (or, preferably, you) might consider making something that
+helps other people understand this confusing and important thing.
 
 Preferably, this thing will not involve much work from a teacher.
 For example, videos, drawings, and writings are great.
@@ -74,6 +74,8 @@ for the activity.
 (If I do it, I'll probably
 [write](/!/street-sign-protocol)
 [something](/!/downloading-binary-files-is-not-magic/).)
+Here's an example of
+[a time I did this](/!/switching-to-command-line/).
 
 
 <!-- https://web.archive.org/web/20111007065304/http://vihart.com/vi/ -->
