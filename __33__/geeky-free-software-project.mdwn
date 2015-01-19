@@ -6,20 +6,11 @@ a huge meta-project about exploring outrageous degrees of freedom.
 
 Let's break this into three things.
 
-1. The interesting part about free software/culture is just sharing.
-2. Cool things happen because people share information with me.
-3. Cool happen I can do because I share information.
+1. Cool things happen because people share information with me.
+2. Cool happen I can do because I share information.
+3. The interesting part about free software/culture is just sharing.
 
 ## On sharing
-
-I use computers to make *my* life easier. I get computers to help me
-[stay in touch with people](http://small.dada.pink/whom-to-email),
-[study myself](http://small.dada.pink/dadawarehouse),
-[study](/open-data)
-[other](/!/wrist-cracking)
-[things](/scarsdale),
-[remember things](http://small.dada.pink/schedule).
-
 I use the word "sharing" because I think its meaning is a bit more
 generic than any of the various open openness words, which are totally
 meaningless. Consider the following, for example.
@@ -36,6 +27,20 @@ doesn't mean that the norm has changed.
 Beyond the practical conveniences of sharing information, there's a
 deeper benefit of shared information. I think that recognizing that
 complicated things aren't magic gives me [agency](/!/why-i-like-hackerspaces/).
+
+I think this relates to how I use computers. I don't really think of
+them as a thing. They're just things that make my life easier. I get
+computers to help me
+[stay in touch with people](http://small.dada.pink/whom-to-email),
+[study myself](http://small.dada.pink/dadawarehouse),
+[study](/open-data)
+[other](/!/wrist-cracking)
+[things](/scarsdale), and
+[remember things](http://small.dada.pink/schedule).
+
+Other people make little modules and whatnot, and then I assemble them
+to do whatever I feel like. I don't depend on someone else being able
+to design something for me.
 
 ## People share with me
 Nice things happen when it's easy to exchange things and information.
