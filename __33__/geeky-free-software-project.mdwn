@@ -11,10 +11,6 @@ Let's break this into three things.
 3. Cool happen I can do because I share information.
 
 ## On sharing
-When things seem like magic, it's like the modification of my
-surroundings are beyond my control and I am dependent on some outside
-something. But real magic is rather uncommon, and recognizing that
-most things aren't magic gives me [agency](/!/why-i-like-hackerspaces/).
 
 I use computers to make *my* life easier. I get computers to help me
 [stay in touch with people](http://small.dada.pink/whom-to-email),
@@ -36,6 +32,10 @@ meaningless. Consider the following, for example.
 We only need the word "open" because the norm is "closed" in some strange
 contexts. But "closed" wasn't always the norm, and calling things "open"
 doesn't mean that the norm has changed.
+
+Beyond the practical conveniences of sharing information, there's a
+deeper benefit of shared information. I think that recognizing that
+complicated things aren't magic gives me [agency](/!/why-i-like-hackerspaces/).
 
 ## People share with me
 Nice things happen when it's easy to exchange things and information.
