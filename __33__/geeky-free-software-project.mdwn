@@ -10,38 +10,6 @@ Let's break this into three things.
 2. Cool happen I can do because I share information.
 3. The interesting part about free software/culture is just sharing.
 
-## On sharing
-I use the word "sharing" because I think its meaning is a bit more
-generic than any of the various open openness words, which are totally
-meaningless. Consider the following, for example.
-
-* "Open source" software is usually not copyleft.
-* People talk about GitHub as if GitHub invented collaboration.
-* "[something in open data is fucked](https://twitter.com/lifewinning/status/489712000055144449)"
-* [Open data is all about the money](/!/open-data-is-all-about-money)
-
-We only need the word "open" because the norm is "closed" in some strange
-contexts. But "closed" wasn't always the norm, and calling things "open"
-doesn't mean that the norm has changed.
-
-Beyond the practical conveniences of sharing information, there's a
-deeper benefit of shared information. I think that recognizing that
-complicated things aren't magic gives me [agency](/!/why-i-like-hackerspaces/).
-
-I think this relates to how I use computers. I don't really think of
-them as a thing. They're just things that make my life easier. I get
-computers to help me
-[stay in touch with people](http://small.dada.pink/whom-to-email),
-[study myself](http://small.dada.pink/dadawarehouse),
-[study](/open-data)
-[other](/!/wrist-cracking)
-[things](/scarsdale), and
-[remember things](http://small.dada.pink/schedule).
-
-Other people make little modules and whatnot, and then I assemble them
-to do whatever I feel like. I don't depend on someone else being able
-to design something for me.
-
 ## People share with me
 Nice things happen when it's easy to exchange things and information.
 When something is simple enough to figure out or is complicated but
@@ -212,13 +180,45 @@ internet! People do all of the work of getting to know me on the internet,
 so meeting them becomes a lot less work for me; I get to learn about them,
 and I don't have to tell them about me.
 
+## On sharing
+I use the word "sharing" because I think its meaning is a bit more
+generic than any of the various open openness words, which are totally
+meaningless. Consider the following, for example.
+
+* "Open source" software is usually not copyleft.
+* People talk about GitHub as if GitHub invented collaboration.
+* "[something in open data is fucked](https://twitter.com/lifewinning/status/489712000055144449)"
+* [Open data is all about the money](/!/open-data-is-all-about-money)
+
+We only need the word "open" because the norm is "closed" in some strange
+contexts. But "closed" wasn't always the norm, and calling things "open"
+doesn't mean that the norm has changed.
+
+Beyond the practical conveniences of sharing information, there's a
+deeper benefit of shared information. I think that recognizing that
+complicated things aren't magic gives me [agency](/!/why-i-like-hackerspaces/).
+
+I think this relates to how I use computers. I don't really think of
+them as a thing. They're just things that make my life easier. I get
+computers to help me
+[stay in touch with people](http://small.dada.pink/whom-to-email),
+[study myself](http://small.dada.pink/dadawarehouse),
+[study](/open-data)
+[other](/!/wrist-cracking)
+[things](/scarsdale), and
+[remember things](http://small.dada.pink/schedule).
+
+Other people make little modules and whatnot, and then I assemble them
+to do whatever I feel like. I don't depend on someone else being able
+to design something for me.
+
 ## Review
 
-1. All of these free and open words are very complicated, but I think
+1. I don't really understand how my computers work; I use things that
+    other people support, and I choose simple things so I don't have to
+    remember how to use them.
+2. Neat/funny things happen when I put lots of stuff on the internet.
+3. All of these free and open words are very complicated, but I think
     the core of these various terms has something to do with sharing.
     Also, sharing is normal; people talk more about it in contexts where
     sharing is weird.
-2. I don't really understand how my computers work; I use things that
-    other people support, and I choose simple things so I don't have to
-    remember how to use them.
-3. Neat/funny things happen when I put lots of stuff on the internet.
