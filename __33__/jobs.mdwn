@@ -1,0 +1,7 @@
+[[!meta title="Jobs"]]
+[[!meta description=""]]
+
+I'm usually available for consulting on assorted computer things.
+(People often say I do "data science".) And if I'm busy or otherwise
+can't do your project, I can probably find someone else who can.
+[email me](mailto:_@thomaslevine.com) to inquire.
