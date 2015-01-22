@@ -560,7 +560,7 @@ installed beautifulsoup4 from pip with no trouble. As you see, I hardly
 ever have trouble installing things, but you might, and it's perfectly
 reasonable to use things that are easier to install.
 
-For whatever reason, I didn't realize for the longest time that the built-in
+I didn't realize for the longest time that the built-in
 [xml](https://docs.python.org/3.4/library/xml.etree.elementtree.html)
 library constructs an XML tree and thus allows XPath queries; I had thought
 it had far fewer features. You're probably just fine with that.
