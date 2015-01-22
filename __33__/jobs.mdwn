@@ -1,7 +1,33 @@
 [[!meta title="Jobs"]]
-[[!meta description=""]]
 
 I'm usually available for consulting on assorted computer things.
-(People often say I do "data science".) And if I'm busy or otherwise
-can't do your project, I can probably find someone else who can.
-[email me](mailto:_@thomaslevine.com) to inquire.
+
+It sometimes goes like this. You have an idea as to how we could use
+fancy data to do something that seems like magic, and I try to articulate
+it less magically, such that I can get a computer to do it. You probably
+have some intuition as to how the thing will work (even if you don't realize
+it), so I might ask you how you think the magic would work. In any case,
+I wind up writing up the magic as nonmagical but possibly complicated
+mathematical function. Then I look for numbers that I can plug into the
+inputs of the mathematical function. These numbers might start in a form that
+doesn't look like numbers, such as [scans of paperwork](/!/parsing-pdfs/).
+
+For example, here's what I did when some people had me make their fraud
+investigations more data-driven. First, I learned about their present
+investigation practices. Next, I learned about some suspicious activities
+they look for, and wrote these activities as mathematical functions that
+needed certain numbers as inputs. I also learned of many relevant documents
+that they had. Conveniently, most of these documents were written in English.
+Inconveniently, none of these documents were written in Computer. So my last
+step was to determine the various number inputs to the mathematical functions
+based on the words that I saw in the reports.
+
+If that example sounds like what you have, I can probably help. On the other
+hand, I often do things that seem *completely different*, so I can probably
+help even if that doesn't sound at all like what you have. Also, people
+sometimes say I do "data science", but other times, they call it something
+*completely different*. If you are unsure as to whether I can do your project,
+I suggest that you contact me anyway; if I can't do it, I can probably find
+someone else who can.
+
+[Email me](mailto:_@thomaslevine.com) to inquire.
