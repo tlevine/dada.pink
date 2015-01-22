@@ -65,6 +65,13 @@ and something like one of these.
     html.xpath('id("blah")/div[@class="blah"]/a[@href="blah"]')
     html.cssselect('#blah > div.blah > a[href="blah"]')
 
+You might notice that I'm using [lxml](http://lxml.de/), even though
+[everybody](https://twitter.com/planarrowspace/status/558108695750782978)
+uses [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/).
+I use lxml because I never learned BeautifulSoup and because I like XPath.
+I have heard that BeautifulSoup is better for really really bad HTML, but
+I haven't had trouble with lxml.
+
 Here's an example from the
 [`parse.py`](http://small.dada.pink/acpr-banque-de-france/acpr/parse.py)
 file in [`acpr`](https://pypi.python.org/pypi/acpr).
@@ -532,7 +539,9 @@ Python has some nice things going for it, but the choice of language is
 rather arbitrary. Look for these things in whatever language you use.
 
 * An HTTP library
-* An HTML parser with a decent query language (XPath or CSS, for example)
+* An HTML parser with a decent query language
+    ([XPath](http://www.w3.org/TR/xpath/) or
+    [CSS](http://www.w3.org/Style/CSS/), for example)
 * A way of saving HTTP responses
 * Libraries for whatever data store you are using, especially CSV
 * A package manager (pip, npm, pacman, apt-get, &c.)
