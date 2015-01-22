@@ -65,13 +65,6 @@ and something like one of these.
     html.xpath('id("blah")/div[@class="blah"]/a[@href="blah"]')
     html.cssselect('#blah > div.blah > a[href="blah"]')
 
-You might notice that I'm using [lxml](http://lxml.de/), even though
-[everybody](https://twitter.com/planarrowspace/status/558108695750782978)
-uses [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/).
-I use lxml because I never learned BeautifulSoup and because I like XPath.
-I have heard that BeautifulSoup is better for really really bad HTML, but
-I haven't had trouble with lxml.
-
 Here's an example from the
 [`parse.py`](http://small.dada.pink/acpr-banque-de-france/acpr/parse.py)
 file in [`acpr`](https://pypi.python.org/pypi/acpr).
@@ -548,6 +541,29 @@ rather arbitrary. Look for these things in whatever language you use.
 
 I'm always nervous about Python's impurity and dynamic typing; I see myself
 switching to Haskell reasonably soon.
+
+### Other XML Parsers
+The only differences I ever see between XML parsers is whether I can run
+XPath or CSS on their results.
+
+You might notice that I tend to use [lxml](http://lxml.de/) in Python, even
+though [everybody](https://twitter.com/planarrowspace/status/558108695750782978)
+aparently uses [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/).
+I use lxml because I never learned BeautifulSoup and because I like XPath.
+I have heard that BeautifulSoup is better for really really bad HTML, but
+I haven't had trouble with lxml.
+
+You might choose to use BeautifulSoup because it is easier for you to
+[install](https://twitter.com/planarrowspace/status/558323191270367233).
+I usually install lxml from pacman or apt-get with no trouble, and I once
+installed beautifulsoup4 from pip with no trouble. As you see, I hardly
+ever have trouble installing things, but you might, and it's perfectly
+reasonable to use things that are easier to install.
+
+For whatever reason, I didn't realize for the longest time that the built-in
+[xml](https://docs.python.org/3.4/library/xml.etree.elementtree.html)
+library constructs an XML tree and thus allows XPath queries; I had thought
+it had far fewer features. You're probably just fine with that.
 
 ### Frameworks
 I dislike Python [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
