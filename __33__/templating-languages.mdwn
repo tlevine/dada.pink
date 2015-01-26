@@ -19,6 +19,19 @@ As I read in [Wikipedia](https://en.wikipedia.org/wiki/Template),
 Like with anything else, templating in the context of computers may mean
 any of the above things.
 
+## Metaprogramming
+A "template language" is sometimes intended to produce a string of text that
+someone will eventually look at. In other cases, it is intended to produce a
+string of text that a program will run. These uses overlap, of course.
+
+Things like Template Haskell and C++ templates are the former sort of use,
+which you might call "metaprogramming". Things like ejs and Jinja are the
+latter sort, and that's what I'm going to talk about for the remainder of
+this article.
+
+But, as with anything else, the difference between metaprogramming and any
+other sort of templating is quite arbitrary.
+
 ## Templating without fancy languages
 Let's make a template with simple parts of a language.
 
@@ -43,7 +56,7 @@ This is what we get when we run it.
 This way, we can separate the composition of the letter from the filling
 in of the blanks with the variables.
 
-## Fancier templating features
+## Common templating features
 You can do pretty well with just simple language stuff like what you see
 above, but it starts to get complicated when you have conditions and loops
 and stuff. Consider this example from the Jinja website.
@@ -68,17 +81,71 @@ Consider writing this in simple Javascript or Python or whatever!
 If it doesn't look like a mess at the end, you will have rewritten
 a bunch of things that are already in these various templating languages.
 
-## Templating webby things
+### Partials
+A common feature that is not shown above is the concept of "partials".
+[Here](http://sass-lang.com/guide#topic-5)'s an example in SASS.
+We have two files. One is called `_reset.sass` and contains this.
+
+    html,
+    body,
+    ul,
+    ol
+      margin:  0
+      padding: 0
+
+The other is called `base.sass` and contains this.
+
+    @import reset
+
+    body
+      font: 100% Helvetica, sans-serif
+      background-color: #efefef
+
+When we compile `base.sass`, the stuff from `_reset.sass` gets included
+in the resulting CSS file.
+
+Heist has a more powerful concept called "splices".
+[Here](http://snapframework.com/docs/tutorials/heist#example-2) is an
+example of a splice for including the factorial of a number.
+
+## Fancier features
+Other features you might want include
+
+* Choose the grammatically appropriate form of a word based on whether
+    a quantity is singular ("one apple" or plural "two apples").
+* Format the last element in a list differently from all of the other
+    elements.
+* Format the odd elements in a list differently from the even elements.
+* Convert the templates to an intermediate form that allows your computer
+    to fill in the templates faster.
+
+I suggest reading the
+[Django template documentation](https://docs.djangoproject.com/en/1.7/topics/templates/)
+if you want to see some of these features that you might not have expected.
+
 I usually hear this templating discussed in context of webby things.
 If you are assembling HTML pages with these templates, you might want
 some of the following features
 
 * If characters that mean something in HTML, like `<`, are included,
     escape them so that the HTML doesn't get messed up.
-* If
+* Allow HTML to be included, but don't allow potentially dangerous things
+    like script tags. (In case you don't know why those would be dangerous,
+    consider the following scenario: The administrator of a bank website opens
+    a page on the website that lists names of users, and one of the names
+    includes a script tag.)
+* HTML and CSS are very verbose, so we could write something that
+    is much more concise and looks completely different but that can
+    be compiled to HTML and CSS.
+* Templating programs written in Javascript can often be run inside of web
+    browsers rather than servers.
 
-
-## 
+## More to read
+If you want to learn more and aren't satisfied with the links above,
+you might start with the following pages.
 
 http://garann.github.io/template-chooser/
 https://en.wikipedia.org/wiki/Template_processor
+
+Also, take a look at the documentation of the various engines if you
+want to see what sorts of features template languages might have.
