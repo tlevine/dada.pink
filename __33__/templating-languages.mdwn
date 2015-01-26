@@ -20,11 +20,62 @@ Like with anything else, templating in the context of computers may mean
 any of the above things.
 
 ## Templating without fancy languages
+Let's make a template with simple parts of a language.
 
+    var letter = function(recipient) {
+      return 'Dear ' + recipient + ',\n\n' +
+             'Here is our wonderful personalized newsletter!\n' +
+             'You are so special to us that we know your name!\n\n' +
+             'Valediction,\nOrganization'
+    }
 
+This is what we get when we run it.
+
+    > console.log(letter('Tom'))
+    Dear Tom,
+
+    Here is our wonderful personalized newsletter!
+    You are so special to us that we know your name!
+
+    Valediction,
+    Organization
+
+This way, we can separate the composition of the letter from the filling
+in of the blanks with the variables.
+
+## Fancier templating features
+You can do pretty well with just simple language stuff like what you see
+above, but it starts to get complicated when you have conditions and loops
+and stuff. Consider this example from the Jinja website.
+
+    {% extends "layout.html" %}
+    {% block body %}
+      <ul>
+      {% for user in users %}
+        <li><a href="{{ user.url }}">{{ user.username }}</a></li>
+      {% endfor %}
+      </ul>
+    {% endblock %}
+
+We have a website with lots of differently layed-out pages. All of them
+have some things in common, however, such as a header and a footer. These
+common things are included in the "layout.html" file, which we don't see
+in the above example. Inside of this "layout.html" file is a "body" block
+that gets filled in differently for each of the different pages.
+
+This particular page lists links to users' "url[s]", using a loop.
+Consider writing this in simple Javascript or Python or whatever!
+If it doesn't look like a mess at the end, you will have rewritten
+a bunch of things that are already in these various templating languages.
 
 ## Templating webby things
-I usually hear this templating discussed
+I usually hear this templating discussed in context of webby things.
+If you are assembling HTML pages with these templates, you might want
+some of the following features
+
+* If characters that mean something in HTML, like `<`, are included,
+    escape them so that the HTML doesn't get messed up.
+* If
 
 
 ## 
