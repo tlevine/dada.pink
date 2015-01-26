@@ -7,4 +7,27 @@ that get called templating languages but look way different from things
 like [ejs](http://www.embeddedjs.com/) and [Jinja](http://jinja.pocoo.org/),
 which are also called templating languages.
 
+## Most basic templating
+As I read in [Wikipedia](https://en.wikipedia.org/wiki/Template),
 
+> Template may mean:
+> 
+> * a stencil, pattern or overlay used in graphic arts (drawing, painting, etc.) and sewing to replicate letters, shapes or designs
+> * a pre-developed page layout in electronic or paper media used to make new pages with a similar design, pattern, or style
+> * form letter, a predefined letter which retains its primary intent when individually customised with variable data or text
+
+Like with anything else, templating in the context of computers may mean
+any of the above things.
+
+## Templating without fancy languages
+
+
+
+## Templating webby things
+I usually hear this templating discussed
+
+
+## 
+
+http://garann.github.io/template-chooser/
+https://en.wikipedia.org/wiki/Template_processor
