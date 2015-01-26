@@ -1,0 +1,10 @@
+"Templating" and "templating engines" might sound very fancy. There
+are so many considerations! And there are a bunch of wacky cool things
+like [MediaWiki templates](https://www.mediawiki.org/wiki/Help:Templates),
+[Haml](http://haml.info), and
+[Blaze](http://hackage.haskell.org/package/happstack-authenticate-0.10.4/docs/Happstack-Auth-Blaze-Templates.html)
+that get called templating languages but look way different from things
+like [ejs](http://www.embeddedjs.com/) and [Jinja](http://jinja.pocoo.org/),
+which are also called templating languages.
+
+
