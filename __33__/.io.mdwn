@@ -44,6 +44,11 @@ as artisinal and well crafted.
 
 [Amanda Foley](http://thenextweb.com/entrepreneur/2013/12/17/getting-creative-domain-name-registration/)
 
+## Checking WHOIS information
+[The oldest.io domains](http://blog.park.io/articles/the-first-io-domain-ever-registered/)
+inspired me to look through the WHOIS information for some of the more known .io domains
+in order to find when they were first registered.
+
 ## Some other fun things I found along the way
 Read about [how .co and .info thought about marketing](https://www.quora.com/How-did-the-co-TLD-become-so-popular).
 
