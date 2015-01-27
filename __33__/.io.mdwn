@@ -49,6 +49,11 @@ as artisinal and well crafted.
 inspired me to look through the WHOIS information for some of the more known .io domains
 in order to find when they were first registered.
 
+I found a list of
+"[most popular .io domains](http://hack.ly/articles/the-most-popular-dot-io-domains/)"
+based on [Alexa data](http://techslides.com/io-domains-in-alexa-top-1-million).
+(I guess searches?) and checked when the domains were registered.
+
 ## Some other fun things I found along the way
 Read about [how .co and .info thought about marketing](https://www.quora.com/How-did-the-co-TLD-become-so-popular).
 
