@@ -50,8 +50,8 @@ Read about [how .co and .info thought about marketing](https://www.quora.com/How
 Google [doesn't consider](http://clay.io/blog/an-appeal-to-google-make-io-a-gcctld/)
 .io websites to be located in the Indian Ocean.
 
-Does .io support the
-[United States military](https://en.wikipedia.org/wiki/.io#Controversy) rather
+Does .io [support](https://en.wikipedia.org/wiki/.io#Controversy) the
+[United States military](https://en.wikipedia.org/wiki/Camp_Justice_%28Diego_Garcia%29) rather
 than the [Chagossians](https://en.wikipedia.org/wiki/Chagossians),
 the indigenous people of the Indian Ocean Territory that was recently
 [deported](https://en.wikipedia.org/wiki/Depopulation_of_Chagossians_from_the_Chagos_Archipelago)?
