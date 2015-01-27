@@ -3,7 +3,8 @@ would show up interestingly in the Caller ID. I first looked for places
 called "[Thomas](https://en.wikipedia.org/wiki/Thomas#Places)" and didn't
 find anywhere that looked big enough.
 
-But then I tried "[Thomasville](https://en.wikipedia.org/wiki/Thomasville)"
+Then, at Wikipedia's suggestion,
+I tried "[Thomasville](https://en.wikipedia.org/wiki/Thomasville)"
 and found three promising municipalities.
 
 * [Thomasville, Alabama](http://www.thomasvilleal.com/), area code
@@ -12,3 +13,5 @@ and found three promising municipalities.
     [229](https://www.voip.ms/m/orderdid.php?type=starts&query=229&state=GA&action=didsearch)
 * [Thomasville, North Carolina](http://www.thomasville-nc.gov/), area code
     [336](https://www.voip.ms/m/orderdid.php?type=starts&query=336&state=NC&action=didsearch)
+
+Which of these do I want!?
