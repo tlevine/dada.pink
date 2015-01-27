@@ -1,14 +1,22 @@
-[[!meta title="Why do people like .io domains so much?"]]
-[[!meta description="Well duh it's like input/output, but why are people so into it?"]]
+[[!meta title="The .io boom"]]
+[[!meta description="Why do people like .io domains so much?"]]
 
 I remarked that I'm usually not excited to hear about things ending in
 ".io" because I think it's going to be a boring company product that's
 making a big deal about nothing. Why do I think this? Also, how did a
 top-level domain for an Indian Ocean territory get so popular?
 
-## My intuition
-My intuition is that [socket.io](http://socket.io) and maybe some other
-sites with similar audiences explains the recent popularity. socket.io
+## My hunch
+Why are people so excited by it? And why those particular people?
+"IO" could mean input/output, and that's kind of cool, but that doesn't
+seem very interesting to me.
+
+I think that [socket.io](http://socket.io), specifically, (and maybe
+some other sites for software libraries) had a lot to do with the new
+popularity. Someone made this library and domain, and as the library
+got popular, the .io top-level domain also got popular.
+
+socket.io runs on Node, which was rather unstable at the time that socket.io first
 runs on Node, which was rather unstable at the time that socket.io first
 got popular. The sort of people who knew about it and thought it was cool
 were the ones making websites on with all this fancy brand new Node stuff,
