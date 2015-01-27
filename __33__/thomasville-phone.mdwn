@@ -28,3 +28,11 @@ for a few reasons.
     pleasant of the three.
 * I kind of liked the "22" rather than the "33".
 * Most importantly, Thomasville, Georgia is in Thomas county.
+
+All of these Thomasvilles are in the United States; what if I want a
+number in another country? There aren't any Thomasvilles, but there are
+lots of Saint Thomases.
+
+* [Saint Thomas](https://en.wikipedia.org/wiki/Saint_Thomas#Places)
+* [Santo Tomás](https://en.wikipedia.org/wiki/Santo_Tomas)
+* [Sveti Tomaž](https://en.wikipedia.org/wiki/Toma%C5%BE)
