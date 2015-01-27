@@ -36,20 +36,22 @@ as artisinal and well crafted.
 > These new .io sites are almost artisanal in nature - small, well crafted and
 > functional. It's like a TLD for techies with taste.
 
-http://www.russellbeattie.com/blog/artisanal-websites-the-rise-of-io-domains-for-well-crafted-web-services
+[Russell Beattie](http://www.russellbeattie.com/blog/artisanal-websites-the-rise-of-io-domains-for-well-crafted-web-services)
 
-> .io domains belong to the Internet artisans… at least that’s the vibe it has.
+> .io domains belong to the Internet artisans... at least that’s the vibe it has.
 > We’ve managed to turn this little island in the Indian Ocean into a brand for
 > the people who are making the Internet.
 
-http://thenextweb.com/entrepreneur/2013/12/17/getting-creative-domain-name-registration/
+[Amanda Foley](http://thenextweb.com/entrepreneur/2013/12/17/getting-creative-domain-name-registration/)
 
-How .co and .info thought about marketing
-https://www.quora.com/How-did-the-co-TLD-become-so-popular
+## Some other fun things I found along the way
+Read about [how .co and .info thought about marketing](https://www.quora.com/How-did-the-co-TLD-become-so-popular).
 
-A fun consideration
-http://clay.io/blog/an-appeal-to-google-make-io-a-gcctld/
+Google [doesn't consider](http://clay.io/blog/an-appeal-to-google-make-io-a-gcctld/)
+.io websites to be located in the Indian Ocean.
 
-Does .io support the United States military?
-https://en.wikipedia.org/wiki/.io#Controversy
-https://en.wikipedia.org/wiki/Depopulation_of_Chagossians_from_the_Chagos_Archipelago
+Does .io support the
+[United States military](https://en.wikipedia.org/wiki/.io#Controversy) rather
+than the [Chagossians](https://en.wikipedia.org/wiki/Chagossians),
+the indigenous people of the Indian Ocean Territory that was recently
+[deported](https://en.wikipedia.org/wiki/Depopulation_of_Chagossians_from_the_Chagos_Archipelago)?
