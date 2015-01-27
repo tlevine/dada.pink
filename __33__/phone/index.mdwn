@@ -1,0 +1,10 @@
+[[!meta title="Calling Tom"]]
+
+If you're in the United States, you probably want to call
+[+1 229 516 1541](tel:12295161541).
+
+If you're in another country or the above number is otherwise a long
+distance number, you can call [+883 51000 9902082](tel:883510009902082),
+which should be a local call. This can sometimes be treated erroneously
+as a long-distance call, so read [here](inum) for some tricks related to
+calling this number.
