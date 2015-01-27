@@ -144,9 +144,9 @@ some of the following features
 If you want to learn more and aren't satisfied with the links above,
 you might start with the following pages.
 
-* This [Template-Engine-Chooser](http://garann.github.io/template-chooser/),
+* This [Template-Engine-Chooser](http://garann.github.io/template-chooser/)
     compares Javascript templating libraries.
-* [Template processor](https://en.wikipedia.org/wiki/Template_processor),
+* [Template processor](https://en.wikipedia.org/wiki/Template_processor)
     on Wikipedia
 
 Also, take a look at the documentation of the various engines if you
