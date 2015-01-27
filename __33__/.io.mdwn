@@ -1,0 +1,55 @@
+[[!meta title="Why do people like .io domains so much?"]]
+[[!meta description="Well duh it's like input/output, but why are people so into it?"]]
+
+I remarked that I'm usually not excited to hear about things ending in
+".io" because I think it's going to be a boring company product that's
+making a big deal about nothing. Why do I think this? Also, how did a
+top-level domain for an Indian Ocean territory get so popular?
+
+## My intuition
+My intuition is that [socket.io](http://socket.io) and maybe some other
+sites with similar audiences explains the recent popularity. socket.io
+runs on Node, which was rather unstable at the time that socket.io first
+got popular. The sort of people who knew about it and thought it was cool
+were the ones making websites on with all this fancy brand new Node stuff,
+and .io became associated with websites like this.
+
+Then I guess it got mainstream and all of the big people wanted it too
+and now it's not cool anymore.
+
+Anyway, is any this hunch at all true? Let's see if I can figure that out.
+
+## Perception as artisinal
+I started by looking around for an article like the one that I am writing
+right now. Unfortunately, I didn't find one, so I had to write it.
+The closest articles I did find, however, mentioned that people see .io websites
+as artisinal and well crafted.
+
+> For me, ".io" is about craft. The class of companies that go for that domain
+> extension seem to care about quality of service and user experience. They
+> want to reach earlier adopter, startup types who are similarly inclined. It's
+> a startup-to-startup domain suffix. People who join sites using the .io
+> extension realise that, in my opinion.
+
+[steflski](http://www.reddit.com/r/startups/comments/1rby83/thoughts_on_io_and_me_domain_extensions/)
+
+> These new .io sites are almost artisanal in nature - small, well crafted and
+> functional. It's like a TLD for techies with taste.
+
+http://www.russellbeattie.com/blog/artisanal-websites-the-rise-of-io-domains-for-well-crafted-web-services
+
+> .io domains belong to the Internet artisans… at least that’s the vibe it has.
+> We’ve managed to turn this little island in the Indian Ocean into a brand for
+> the people who are making the Internet.
+
+http://thenextweb.com/entrepreneur/2013/12/17/getting-creative-domain-name-registration/
+
+How .co and .info thought about marketing
+https://www.quora.com/How-did-the-co-TLD-become-so-popular
+
+A fun consideration
+http://clay.io/blog/an-appeal-to-google-make-io-a-gcctld/
+
+Does .io support the United States military?
+https://en.wikipedia.org/wiki/.io#Controversy
+https://en.wikipedia.org/wiki/Depopulation_of_Chagossians_from_the_Chagos_Archipelago
