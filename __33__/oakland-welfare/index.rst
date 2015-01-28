@@ -140,4 +140,19 @@ Other things
 
 Free "lifeline" phone
 ------------------------
+If you are eligible, you are entitled to one "lifeline" phone through
+any of `these providers <>`_.
 
+Most of them are landline phones, and two are mobile phones. My friend
+wanted a mobile phone, so he had to first decide whether he wanted
+Cricket or ReachOut. There are two "methods" of applying, and these are
+called method 1 and method 2. If you are already enrolled in certain
+welfare programs, you can apply by method 1. If not, you can only apply
+based on income, method 2.
+
+Go `here <https://www.cricketwireless.com/o/support/account-management/cricket-lifeline-credit/application-info-by-state-a-f.html#california>`_
+to apply for Cricket by either method.
+
+ReachOut wireless has separate forms for 
+`method 1 <https://www.reachoutmobile.com/images/downloadablePDF/download_CA.pdf>`_ and
+`method 2 <https://www.reachoutmobile.com/images/downloadablePDF/CA%202013%20Income-Based%20Form.pdf>`_.
