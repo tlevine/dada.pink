@@ -65,11 +65,28 @@ an "alternative payment plan" that give them two extra weeks before they
 needed to pay the present bill and that spread the bill across four months,
 with no additional costs.
 
-* http://www.benefits.gov/benefits/benefit-details/1540
-* http://www.pge.com/en/myhome/saveenergymoney/financialassistance/care/index.page
-* http://www.ac-ocap.com/
-* http://www.spectrumcs.org/newspectrum/services/weatherization.htm
-* http://www.spectrumcs.org/newspectrum/services/heap.htm
+With extra time to pay the bill, I helped them sign up for the
+`Home Energy Assistance Program (HEAP) <http://www.benefits.gov/benefits/benefit-details/1540>`_.
+People who are eligible are entitled to free
+`weatherization <http://www.spectrumcs.org/newspectrum/services/weatherization.htm>`_
+(insulation and stuff, I think) and
+"`a one-time payment per program year <http://www.spectrumcs.org/newspectrum/services/heap.htm>`_.
+I think this latter aspect of the program is intended for emergencies where
+the household can't pay its utilities bill one month; as one grateful
+anonymous patron supposedly said,
+
+> When my lights were turned off, Spectrum paid my PG&E bill and got them back
+> on. I don't know what I would have done without their assistance.
+
+You supposedly can "[c]all HEAP AT `(510) 881-0300 <tel:1-510-881-0300>_`
+to have an application mailed to you". When I called I found no option for
+getting an application mailed. The closest thing I heard was to press 3 if
+I had received a 48 hour notice or gotten my power turned off, so I did that.
+I was instructed to leave my name and number, and they would get back to me.
+These friends are so broke that they don't have phones, so I gave the phone
+number of someone else they knew, and the only phone call she has received
+since is a telemarketer trying to sell home security stuff.
+
 * http://www.pge.com/en/myhome/saveenergymoney/financialassistance/index.page
 * Alternative payment plan
 * http://www.pge.com/en/myhome/saveenergymoney/financialassistance/energysavingsassistanceprogram/index.page
