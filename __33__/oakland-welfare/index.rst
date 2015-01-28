@@ -74,8 +74,9 @@ Home Energy Assistance Program
 With extra time to pay the bill, I helped them sign up for the
 `Home Energy Assistance Program (HEAP) <http://www.benefits.gov/benefits/benefit-details/1540>`_.
 `Spectrum <http://www.spectrumcs.org/>`_ is the provider in Oakland;
-if you're in another part of California, look for your provider
-`here <http://www.csd.ca.gov/Services/FindServicesinYourArea.aspx>`_.
+if you're in another part of California, check
+`this page <http://www.csd.ca.gov/Services/FindServicesinYourArea.aspx>`_.
+to find your provider.
 
 People who are eligible are entitled to free
 `weatherization <http://www.spectrumcs.org/newspectrum/services/weatherization.htm>`_
