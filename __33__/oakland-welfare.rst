@@ -73,6 +73,10 @@ Home Energy Assistance Program
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 With extra time to pay the bill, I helped them sign up for the
 `Home Energy Assistance Program (HEAP) <http://www.benefits.gov/benefits/benefit-details/1540>`_.
+`Spectrum <http://www.spectrumcs.org/>`_ is the provider in Oakland;
+if you're in another part of California, look for your provider
+`here <http://www.csd.ca.gov/Services/FindServicesinYourArea.aspx>`_.
+
 People who are eligible are entitled to free
 `weatherization <http://www.spectrumcs.org/newspectrum/services/weatherization.htm>`_
 (insulation and stuff, I think) and
@@ -89,9 +93,15 @@ to have an application mailed to you". When I called I found no option for
 getting an application mailed. The closest thing I heard was to press 3 if
 I had received a 48 hour notice or gotten my power turned off, so I did that.
 I was instructed to leave my name and number, and they would get back to me.
+And then after you HEAP pays the full balance of the account if they decide
+that the people qualify?
+
 These friends are so broke that they don't have phones, so I gave the phone
 number of someone else they knew, and the only phone call she has received
 since is a telemarketer trying to sell home security stuff.
+
+It might be easier to apply for this if you're
+`already on food stamps <http://www.liheap.us/california-heap/>`_.
 
 Other things
 ~~~~~~~~~~~~~~~~~
@@ -103,17 +113,8 @@ Other things
   medical bills.
 * PG&E might have some more things that I didn't look at on their
   `assistance programs <http://www.pge.com/en/myhome/saveenergymoney/financialassistance/index.page>`_ page.
+* http://ac-ocap.com/
 
 Free "lifeline" phone
 ------------------------
 
-> PG&E and Alameda Power & Telecom bills assistance for a one-time
-> payment per program year.
-
-http://www.ac-ocap.com/
-
-Call (510) 881-0300, press 3, then leave a name (probably Johnny's) and
-phone number (probably Lesley's). They'll supposedly get back to you.
-And then after you apply maybe they pay the full balance of the account?
-
-Tom
