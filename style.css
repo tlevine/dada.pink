@@ -590,7 +590,7 @@ h1 { font-size: 2.5em; }
 h2 { font-size: 2em; }
 h3 { font-size: 1.5em; }
 
-pre, blockquote {
+pre, blockquote, .line-block {
   background-color: #555;
   padding: 0.5em;
   margin: 1em;

@@ -21,7 +21,7 @@ person in your household. Do you need to have your own apartment in order
 to be your own household? What if you have an apartment but sublet a room
 to other people? What if the people occupying that room change often?
 
-`Marina <http://cooperation.io/>` thinks that a "household" is a group of
+`Marina <http://cooperation.io/>`_ thinks that a "household" is a group of
 people that pool income for tax purposes, rather than a bunch of people who
 live at the same address.
 
