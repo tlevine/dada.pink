@@ -7,7 +7,7 @@ up for welfare is quite scary because they use fancy-sounding language without
 explaining what it all means. I might make it sound easy below, but you should
 expect it to be rather frustrating.
 
-Determining the size of your household
+Determining eligibility
 ----------------------------------------
 Eligibility for many of the different programs is based on household annual
 income, and determining this can be quite complicated. 
@@ -26,6 +26,9 @@ people that pool income for tax purposes, rather than a bunch of people who
 live at the same address.
 
 Like with income, I have no idea how to determine your household size.
+
+Eligibility is also based on other things, but income and household size are
+by far the most common and most confusing criteria.
 
 With all the fancy language that I'm seeing in these welfare programs, I get
 the impression that the government could claim that you are cheating the system
@@ -46,9 +49,18 @@ a certain day.
 
 I first had them sign up for
 `PG&E Cares <http://www.pge.com/en/myhome/customerservice/financialassistance/care/index.page>`_,
-which gives discounts to people with low income.
+which gives discounts to people with
+`low income <http://www.pge.com/en/myhome/saveenergymoney/financialassistance/care/eligibility/index.page>`_.
+The friends had to wait a few days
+before learning whether they were accepted, and they were able to check on
+the PG&E website as to whether they were granted the discount. The website
+said that they were ineligible but that they could contact PG&E about this,
+either by phone at tel:1-866-743-2273 or by email at mailto:CAREandFERA@pge.com.
+(`FERA <http://www.pge.com/en/myhome/saveenergymoney/financialassistance/fera/index.page>`_
+is similar to CARE but is only available for households of
+`three people or more <http://www.pge.com/en/myhome/saveenergymoney/financialassistance/fera/eligibility/index.page>`_.)
 
-I next called PG&E at tel:1-800-743-5000 and switched them to
+I also called PG&E at tel:1-800-743-5000 and switched them to
 an "alternative payment plan" that give them two extra weeks before they
 needed to pay the present bill and that spread the bill across four months,
 with no additional costs.
