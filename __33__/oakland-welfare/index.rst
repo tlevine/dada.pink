@@ -10,7 +10,7 @@ expect it to be rather frustrating.
 Determining eligibility
 ----------------------------------------
 Eligibility for many of the different programs is based on household annual
-income, and determining this can be quite complicated. 
+income, and determining this can be quite complicated.
 
 What if you just got fired but made lots of money before you got fired?
 Or, what if you don't work very often but make good money when you do work?
@@ -107,9 +107,21 @@ Call HEAP AT (510) 881-0300 to have an application mailed to you
 
 I also discovered that, while
 `How to apply to the HEAP Program <http://www.spectrumcs.org/newspectrum/services/heap-apply.htm>`_
-"is currently under construction", it 
+"is currently under construction",
 
-https://web.archive.org/web/20131026080135/http://www.spectrumcs.org/newspectrum/services/heap-apply.htm
+.. image:: how-to-apply-under-construction.png
+
+it wasn't under construction on
+`October 26, 2013 <https://web.archive.org/web/20131026080135/http://www.spectrumcs.org/newspectrum/services/heap-apply.htm>`_.
+At that time, it was apparantly possible to apply in person at city hall!
+
+.. line-block::
+
+    **Option 2: Apply in Person**
+    Pick up, fill out and leave applications at:
+
+    Oakland Community Assistance Office
+    One Frank Ogawa Plaza, Room #123, Oakland, Ca 94612
 
 It might be easier to apply for this if you're
 `already on food stamps <http://www.liheap.us/california-heap/>`_.
