@@ -100,6 +100,17 @@ These friends are so broke that they don't have phones, so I gave the phone
 number of someone else they knew, and the only phone call she has received
 since is a telemarketer trying to sell home security stuff.
 
+I'm going to next try contacting
+`Kari Sardell <http://www.spectrumcs.org/newspectrum/services/contact.htm>`_
+at either tel:1-510-881-0300, extension 216, or at mailto:ksardell@spectrumcs.org.
+Call HEAP AT (510) 881-0300 to have an application mailed to you
+
+I also discovered that, while
+`How to apply to the HEAP Program <http://www.spectrumcs.org/newspectrum/services/heap-apply.htm>`_
+"is currently under construction", it 
+
+https://web.archive.org/web/20131026080135/http://www.spectrumcs.org/newspectrum/services/heap-apply.htm
+
 It might be easier to apply for this if you're
 `already on food stamps <http://www.liheap.us/california-heap/>`_.
 
