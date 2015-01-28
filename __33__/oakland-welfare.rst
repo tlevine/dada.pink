@@ -47,6 +47,8 @@ Utilities
 Their electricity and gas was going to get turned off if they didn't pay by
 a certain day.
 
+PG&E Cares
+~~~~~~~~~~~~~~~~~~
 I first had them sign up for
 `PG&E Cares <http://www.pge.com/en/myhome/customerservice/financialassistance/care/index.page>`_,
 which gives discounts to people with
@@ -60,11 +62,15 @@ either by phone at tel:1-866-743-2273 or by email at mailto:CAREandFERA@pge.com.
 is similar to CARE but is only available for households of
 `three people or more <http://www.pge.com/en/myhome/saveenergymoney/financialassistance/fera/eligibility/index.page>`_.)
 
+Alternative payment plan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 I also called PG&E at tel:1-800-743-5000 and switched them to
 an "alternative payment plan" that give them two extra weeks before they
 needed to pay the present bill and that spread the bill across four months,
 with no additional costs.
 
+Home Energy Assistance Program
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 With extra time to pay the bill, I helped them sign up for the
 `Home Energy Assistance Program (HEAP) <http://www.benefits.gov/benefits/benefit-details/1540>`_.
 People who are eligible are entitled to free
@@ -87,10 +93,16 @@ These friends are so broke that they don't have phones, so I gave the phone
 number of someone else they knew, and the only phone call she has received
 since is a telemarketer trying to sell home security stuff.
 
-* http://www.pge.com/en/myhome/saveenergymoney/financialassistance/index.page
-* Alternative payment plan
-* http://www.pge.com/en/myhome/saveenergymoney/financialassistance/energysavingsassistanceprogram/index.page
-* http://www.pge.com/en/myhome/saveenergymoney/financialassistance/reach/eligibility/index.page
+Other things
+~~~~~~~~~~~~~~~~~
+
+* `REACH <http://www.pge.com/en/myhome/saveenergymoney/financialassistance/reach/eligibility/index.page>`_
+  pays your utilities bill in case of an "uncontrollable or unplanned change in
+  [your] ability to pay their PG&E bill." I figure that this would have to be
+  something like getting fired from a job or getting hurt and thus having high
+  medical bills.
+* PG&E might have some more things that I didn't look at on their
+  `assistance programs <http://www.pge.com/en/myhome/saveenergymoney/financialassistance/index.page>`_ page.
 
 Free "lifeline" phone
 ------------------------
