@@ -1,0 +1,78 @@
+I helped some friends in Oakland who were broke not pay money for things
+that the government could subsidize instead. And thus I learned a bit about
+welfare in Oakland.
+
+Figuring out how to sign up for welfare is hilariously difficult, and signing
+up for welfare is quite scary because they use fancy-sounding language without
+explaining what it all means. I might make it sound easy below, but you should
+expect it to be rather frustrating.
+
+Determining the size of your household
+----------------------------------------
+Eligibility for many of the different programs is based on household annual
+income, and determining this can be quite complicated. 
+
+What if you just got fired but made lots of money before you got fired?
+Or, what if you don't work very often but make good money when you do work?
+I have no idea how you are supposed to determine how much money you make.
+
+You are most likely to be eligible for these programs if you have only one
+person in your household. Do you need to have your own apartment in order
+to be your own household? What if you have an apartment but sublet a room
+to other people? What if the people occupying that room change often?
+
+`Marina <http://cooperation.io/>` thinks that a "household" is a group of
+people that pool income for tax purposes, rather than a bunch of people who
+live at the same address.
+
+Like with income, I have no idea how to determine your household size.
+
+With all the fancy language that I'm seeing in these welfare programs, I get
+the impression that the government could claim that you are cheating the system
+no matter what your income or household situation is, as they could probably
+come up with an explanation as to why your assessment of your situation was
+incorrect.
+
+On the other hand, I get the feeling that these welfare programs have few
+enough staff that they wouldn't have time to check whether you are actually
+eligible, (I got this impression because of long it took before I ever wound
+up talking to a person.) so you might be fine even if you make an outrageous
+lie about your income or household situation.
+
+Utilities
+---------------
+Their electricity and gas was going to get turned off if they didn't pay by
+a certain day.
+
+I first had them sign up for
+`PG&E Cares <http://www.pge.com/en/myhome/customerservice/financialassistance/care/index.page>`_,
+which gives discounts to people with low income.
+
+I next called PG&E at tel:1-800-743-5000 and switched them to
+an "alternative payment plan" that give them two extra weeks before they
+needed to pay the present bill and that spread the bill across four months,
+with no additional costs.
+
+* http://www.benefits.gov/benefits/benefit-details/1540
+* http://www.pge.com/en/myhome/saveenergymoney/financialassistance/care/index.page
+* http://www.ac-ocap.com/
+* http://www.spectrumcs.org/newspectrum/services/weatherization.htm
+* http://www.spectrumcs.org/newspectrum/services/heap.htm
+* http://www.pge.com/en/myhome/saveenergymoney/financialassistance/index.page
+* Alternative payment plan
+* http://www.pge.com/en/myhome/saveenergymoney/financialassistance/energysavingsassistanceprogram/index.page
+* http://www.pge.com/en/myhome/saveenergymoney/financialassistance/reach/eligibility/index.page
+
+Free "lifeline" phone
+------------------------
+
+> PG&E and Alameda Power & Telecom bills assistance for a one-time
+> payment per program year.
+
+http://www.ac-ocap.com/
+
+Call (510) 881-0300, press 3, then leave a name (probably Johnny's) and
+phone number (probably Lesley's). They'll supposedly get back to you.
+And then after you apply maybe they pay the full balance of the account?
+
+Tom
