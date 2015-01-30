@@ -1,4 +1,42 @@
-## Why people give advice
+
+## Some reasons why other people's career advice may be totally irrelevant
+People have all different reasons why they work, and people come from
+all different backgrounds, so it is quite likely that well meant advice
+won't apply at all to you. Also, 
+
+### Different backgrounds
+People grew up in all different places, learned different things when they
+were young, had different relationships with their families and other people,
+have different genes, and so on. It's quite likely that the person giving
+you advice was different enough that what he or she did won't always work for
+you; moreover, it's not like we can know whether the advice will apply.
+
+For example, some people are especially interested in making money. I find
+that these people often came from relatively poor families and are hoping to
+provide for their parents or for their (future) children.
+
+### Career motivations change throughout life
+Even a single person will have totally different career motivations throughout
+her or his (or zir) life.
+
+Various fancy people came up with ideas as to what motivates people.
+I particularly like a way of thinking that we attribute to Erik Erikson,
+mainly because his name is "Erik Erikson". His father left when he was
+young, so he changed his name from "Erik [whatever-his-father's-last-name-was]"
+to "Erik Erikson".
+
+In this model, people are looking for eight different things throughout life.
+
+1. Basic trust
+2. ...
+
+
+
+*I should note that I don't know whether Erik Erikson actually thought this
+way; I haven't read much of his writings because they're too dense for me,
+so this is just what I get from introductory psychology texts.*
+
+### Why people give advice
 Lots of people have no idea how to do what they want to do and want to
 feel like they do know what they are doing. Giving advice can reassure
 yourself that you are doing something reasonable. For example, if you
@@ -9,3 +47,7 @@ is a good idea.
 Similarly, people often give advice in order to convince themselves that
 they are experts. For example, you might give people career advice in
 order to convince yourself that you know a lot about career stuff.
+
+If someone is giving me advice, I usually see the advice as advice that
+the other person is giving himself or herself (or zirself) rather than as
+something that has anything to do with me.
