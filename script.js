@@ -4,8 +4,9 @@ var slidesInitialized = false
 
 function initSlides() {
   headers = document.querySelectorAll('h1,h2,h3,h4,img,ul,ol')
-  headers.map(function(h) h.style = 'display: none;')
-  document.querySelectorAll('p').map(function(p) p.style = 'display: none;')
+  for (var j = 0; j < headers.length; j++) headers[j].style = 'display: none;'
+  var p = document.querySelectorAll('p')
+  for (var j = 0; j < p.length; j++) p[j].style = 'display: none;'
 }
 function nextSlide() {
   if (!slidesInitialized) initSlides()
