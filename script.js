@@ -7,6 +7,7 @@ function initSlides() {
   for (var j = 0; j < headers.length; j++) headers[j].style = 'display: none;'
   var p = document.querySelectorAll('p')
   for (var j = 0; j < p.length; j++) p[j].style = 'display: none;'
+  slidesInitialized = true
 }
 function nextSlide() {
   if (!slidesInitialized) initSlides()
