@@ -59,6 +59,17 @@ other and still decide to go to Israel to fight a holy war. Similarly,
 people sometimes say that they are in the business of making money and
 then hire hip rockstar programmers so they can feel cool.
 
+### People don't necessarily do the work that they say they do
+...
+
+I think that much of "data science" is people with advanced degrees who
+didn't find jobs in academia but want to feel like they're still doing
+"research". It can be really fun to use the fancy stuff that you read in a
+paper, but I very rarely manage to find situations where any of the fancy
+things I read in fancy books and journals is practical; I think that people
+say they need their analysis, science, &c. skills because they want to feel
+like researchers, not because it is particularly helpful for the business.
+
 ### Do real work for short terms rather than trying to find something that you enjoy and still pays
 
 ### Don't apply for jobs.
