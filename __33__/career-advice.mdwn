@@ -97,7 +97,7 @@ people sometimes say that they are in the business of making money and
 then hire hip rockstar programmers so they can feel cool.
 
 ### People don't necessarily do the work that they say they do
-...
+
 
 I think that much of "data science" is people with advanced degrees who
 didn't find jobs in academia but want to feel like they're still doing
@@ -133,22 +133,23 @@ provide for their parents or for their (future) children.
 Even a single person will have totally different career motivations throughout
 her or his (or zir) life.
 
-Various fancy people came up with ideas as to what motivates people.
+Various fancy people came up with ideas as to what motivates people. Here are
+some of them
+
+* [Two-factor theory](https://en.wikipedia.org/wiki/Two-factor_theory)
+* [Erikson's stages of psychosocial development](https://en.wikipedia.org/wiki/Erikson%27s_stages_of_psychosocial_development)
+* [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+* [Behaviorism](https://en.wikipedia.org/wiki/Behaviorism)
+* [Ecological systems theory](https://en.wikipedia.org/wiki/Ecological_systems_theory)
+
 I particularly like a way of thinking that we attribute to Erik Erikson,
 mainly because his name is "Erik Erikson". His father left when he was
 young, so he changed his name from "Erik [whatever-his-father's-last-name-was]"
-to "Erik Erikson".
+to "Erik Erikson". But they're all good.
 
-In this model, people are looking for eight different things throughout life.
-
-1. Basic trust
-2. ...
-
-
-
-*I should note that I don't know whether Erik Erikson actually thought this
-way; I haven't read much of his writings because they're too dense for me,
-so this is just what I get from introductory psychology texts.*
+The point here is that your motivation will change throughout life, so you
+can't even expect someone of a very similar background to give you relevant
+advice.
 
 ### Why people give advice
 Lots of people have no idea how to do what they want to do and want to
