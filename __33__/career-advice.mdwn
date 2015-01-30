@@ -1,0 +1,10 @@
+Lots of people have no idea how to do what they want to do and want to
+feel like they do know what they are doing. Giving advice can reassure
+yourself that you are doing something reasonable. For example, if you
+think that you should learn Python, you might suggest that other people
+learn Python, in order to convince yourself that learning Python really
+is a good idea.
+
+Similarly, people often give advice in order to convince themselves that
+they are experts.
+
