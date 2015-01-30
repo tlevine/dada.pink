@@ -4,7 +4,7 @@ totally different. And perhaps you are wondering what you should
 learn, how to get a job, how to market yourself, &c. I have assembled
 some advice for you!
 
-## Why do you want a career?
+## Why do you want a job?
 There are all kinds of reasons why the career that interests you would
 appeal to you. The nominal reason is often that you want to be able to
 afford to live, or at least pay off your student debt. But there are so
@@ -32,7 +32,7 @@ in order to do; in this case, you should question whether you actually
 like doing the thing and whether you really need the special status,
 as you might be wrong about one of these two things.
 
-## Some tips for people who want to make money
+## How to make money
 As I indicated above, I think that making money is pretty much the only
 good reason to take your career seriously. Here are some things that
 took me way too long to learn and might apply to you if you care at all
@@ -50,6 +50,12 @@ and they don't like being reminded of that.
 If you want some practice in pretending, fill your LinkedIn profile with
 buzzwords and respond to the recruiters. Or, even easier, just ask me to refer
 one of them to you, and you can try to keep up the act.
+
+![](recommendation.png)
+
+![](referral-1.png)
+
+![](referral-2.png)
 
 ### It is okay to produce bad work
 I often hear of people trying hard to do good work inside of an organization
@@ -118,7 +124,13 @@ like researchers, not because it is particularly helpful for the business.
 If people actually wanted to make money, things would work a lot differently.
 
 ### Do real work for short terms rather than trying to find something that you enjoy and still pays
-I periodically consider going to graduate school, and
+I periodically consider going to graduate school. I still haven't gone, and
+here is much of the reason.
+
+I could join the academy, spend half of my time doing grant-funded research,
+spend half my time teaching, and spend the third half of my time applying for
+grants. Or, I could do whatever I want most days ("research"), work for a few
+weeks a year at real jobs, and sleep the rest of the time.
 
 ### Don't apply for jobs.
 Some people like to say that you should apply to things even if you don't
@@ -163,7 +175,11 @@ In some cases, you might know someone in the company and basically have the job
 but need to apply as a formality. This has a slight chance of working, but even
 then, it's hit-or-miss; the policies of the organization that you are applying
 to are likely to be complicated enough that your contact doesn't fully
-understand the policies,
+understand the policies. One of the times I applied for graduate school, my
+would-be advisor realized only after I had been accepted that funding for me
+wasn't available because I wasn't an European citizen. There are too many little
+things like this that take way too long to learn when application processes are
+so long.
 
 ### The main reason you need "experience" is so you can feel confident when you're bullshitting.
 
