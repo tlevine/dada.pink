@@ -182,10 +182,64 @@ things like this that take way too long to learn when application processes are
 so long.
 
 ### The main reason you need "experience" is so you can feel confident when you're bullshitting.
+I remarked when I had just graduated from college that people were treating
+me like a "recent graduate" who didn't know anything. I think that if I had
+just hung out on the beach for a few years and not touched a computer that
+people would think that I had some "experience". Or I could have just lied
+about my age.
+
+But there is, in fact, more to bullshitting than fitting your background into
+a mold. Even if you think that you don't know anything or that you're slow at
+computers, you could probably learn everything that you needed to do for lots
+of entry-level programming work on the job. The issue is that you have to
+convince the company that you know the appropriate amount of each of the
+buzzwords and incoherently fancy language.
+
+I haven't figured out exactly how this bullshit works, but here are two things
+that come to mind.
+
+First, you can develop arbitrary preferences. For example, learn to explain
+why a particular software is best and to complain about all of the problems
+about all of the alternatives. There is a diversity of experiences in the human
+condition, so most of these softwares are probably just fine, but briefly
+suspend this reasonability while you act like you're all experienced and shit.
+
+ lot of you could do work that companies are supposedly hiring for
+
+
+### Work only if it pays well.
+My view is that it is best to do horrible work for brief periods and then to
+spend most of your time [sleeping](/!/sleeping) and otherwise having fun.
+
+I haven't actually used most of the above advice to get jobs; a lot of it is
+outrageous stuff that I think would work but haven't really tried. Some of
+the reason that I haven't tried it is because I haven't been working very
+long, but much of it is that I feel horrible about deceiving people, even if
+it is the only way to make money.
+
+I want to retire so I'm happy to do horrible work if it pays ridiculously
+well. But I don't want to do not-horrible work that pays okay, because I'd
+rather just sleep.
+
+### Treat your career like a game, and have fun with it
+I think I enjoy working in stuffy companies because I like to see why people
+act the way they do. I think it's hilarious that the real world is just as
+arbitrary as they say it is in the movies.
+
+I always find it absolutely bizarre that someone would want to start a company.
+Here are some explanations I have come up with.
+
+* One person wanted to do the work that his parents did.
+* Another person wanted to meet rock stars and programmers.
+* A higher-up in one company was used to corporate sales and kept doing that
+    because she needed something to do all day, even though the company didn't
+    have much to sell.
+* One person wanted to go traveling, but he lives in San Francisco, so
+    he started a backpack company instead.
 
 ## Why Tom's career advice may be totally irrelevant
 The stuff I say above makes perfect sense to me, but other people think
-it wouldn't apply to them. I suppose this is the bigger message you could
+it wouldn't apply to them. I think this is the bigger message you should
 take from the present writing.
 
 ### Different backgrounds
@@ -237,7 +291,8 @@ I quite enjoy saying outrageous things as if they're totally normal and
 am also rather frustrated by how much of the advice I have been given is
 totally irrelevant. My career advice [above](#tomscareeradvice) can be
 summarized as "Tom used to believe common wisdoms, so he is surprised,
-frustrated, and amused when he finds that they are totally wrong."
+frustrated, and amused when he finds that they are totally wrong.
+He also likes being outrageous."
 
 There are so many other reasons why people would give advice; my point
 is that helping you out is the least of the reasons.
