@@ -5,7 +5,7 @@ attending?
 * https://www.youtube.com/channel/UCIqiLefbVHsOAXDAxQJH7Xw
   (also http://algo-rythmics.ms.sapientia.ro/)
 
-HPGL anarchy sign?
+HPGL anarchy sign? ::
 
     CI25;PU18,-26;PD-4,33,-15,-36;PU-31,-7;PD42,18;
 
