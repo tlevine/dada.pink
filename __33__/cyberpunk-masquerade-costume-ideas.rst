@@ -7,7 +7,7 @@ attending?
 
 HPGL anarchy sign?
 
-    CI25;SS;PU18,-26;PD-4,33,-15,-36;PU-31,-7;PD42,18;
+    CI25;PU18,-26;PD-4,33,-15,-36;PU-31,-7;PD42,18;
 
 We'd spread it across multiple masks.
 
