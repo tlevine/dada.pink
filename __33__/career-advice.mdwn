@@ -96,9 +96,13 @@ other and still decide to go to Israel to fight a holy war. Similarly,
 people sometimes say that they are in the business of making money and
 then hire hip rockstar programmers so they can feel cool.
 
-### People don't necessarily do the work that they say they do
+The typical examples of this is that
+[women](http://www.newsweek.com/2015/02/06/what-silicon-valley-thinks-women-302821.html),
+certain ethnic groups,
+and old people are seen as incompetent,
+but that just scratches the surface. 
 
-
+For example,
 I think that much of "data science" is people with advanced degrees who
 didn't find jobs in academia but want to feel like they're still doing
 "research". It can be really fun to use the fancy stuff that you read in a
@@ -107,10 +111,18 @@ things I read in fancy books and journals is practical; I think that people
 say they need their analysis, science, &c. skills because they want to feel
 like researchers, not because it is particularly helpful for the business.
 
+If people actually wanted to make money, things would work a lot differently.
+
 ### Do real work for short terms rather than trying to find something that you enjoy and still pays
 I periodically consider going to graduate school, and
 
 ### Don't apply for jobs.
+Some people like to say that you should apply to things even if you don't
+think you'll get them because "you miss all the shots you don't take".
+This advice is horribly misguided, as you will also miss all of the shots
+that you do take.
+
+
 
 ### The main reason you need "experience" is so you can feel confident when you're bullshitting.
 
