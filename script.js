@@ -14,10 +14,10 @@ function nextSlide() {
 
   if (i == 0) {
     headers[i].style = ''
-    headers[i]++
+    i++
   } else if (i < headers.length) {
     headers[i].style = ''
-    headers[i]++
+    i++
     headers[i].style = 'display: none;'
   } else {
     headers[i].style = ''
