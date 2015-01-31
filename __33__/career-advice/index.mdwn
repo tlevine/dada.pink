@@ -1,3 +1,5 @@
+[[!meta title="Career advice from Tom"]]
+
 Perhaps you are considering a career, maybe in "data science",
 maybe in some other form of cyber wizardry, or maybe something
 totally different. And perhaps you are wondering what you should
