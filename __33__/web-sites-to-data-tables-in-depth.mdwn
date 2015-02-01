@@ -18,12 +18,12 @@ I use [Firefox](https://www.mozilla.org/en-US/firefox/).
 
 Write downloader functions that return `Response`
 objects from the requests package, and decorate them
-with [picklecache](https://pypi.python.org/pypi/picklecache).
+with [vlermv](https://pypi.python.org/pypi/vlermv).
 
     import os
 
     import requests
-    from picklecache import cache
+    from vlermv import cache
 
     @cache(os.path.join(os.path.expanduser('~'), '.acpr'))
     def search(pg:int):
@@ -51,7 +51,8 @@ with [picklecache](https://pypi.python.org/pypi/picklecache).
 
 (This is from 
 [`download.py`](http://small.dada.pink/acpr-banque-de-france/acpr/download.py)
-in [`acpr`](https://pypi.python.org/pypi/acpr).)
+in [`acpr`](https://pypi.python.org/pypi/acpr),
+except that I switched the obselete ``picklecache`` for ``vlermv``.)
 
 ## Parse functions
 Write parser functions that accept `Response`
@@ -195,7 +196,7 @@ wherein I save some data to a relational database.
 
     from jumble import jumble
     import dataset
-    from pickle_warehouse import Warehouse
+    from pickle_warehouse import Warehouse # obselete, use vlermv instead
 
     import scarsdale_property_inquiry.download as dl
     import scarsdale_property_inquiry.read as read
@@ -282,7 +283,7 @@ of mostly-pure functions, so my tests mostly just call the functions and
 check the outputs.
 
 ### Fixtures
-When something breaks, find the appropriate file in the picklecache
+When something breaks, find the appropriate file in the vlermv
 directory, copy it to a fixtures directory, and load it in your tests
 like this.
 
@@ -339,7 +340,7 @@ testing them, but they pretty much just call these functions, so I'm fine
 with that.
 
 I wrote `scarsdale-property-inquiry` before I wrote
-`picklecache`, so its downloader functions include the cache and are
+`vlermv`, so its downloader functions include the cache and are
 thus a bit big. But you can see them
 [here](https://github.com/tlevine/scarsdale-property-inquiry/blob/master/scarsdale_property_inquiry/params.py).
 
@@ -501,7 +502,7 @@ Here's an easy way to make a Python package.
     touch mypackage/mypackage/__init__.py
 
     # In the outer directory, copy a setup.py file from one of my packages
-    cp ~/picklecache/setup.py mypackage/setup.py
+    cp ~/vlermv/setup.py mypackage/setup.py
 
     # Write your computer code in the inner directory.
     vim mypackage/mypackage/download.py
