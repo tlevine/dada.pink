@@ -1,0 +1,47 @@
+I want to run Tom's Computer School at your hackerspace or school or
+wherever. Or maybe even over the internet, if we can't do in person.
+Here's how it will work.
+
+## How Tom thinks you should learn computers
+I think you should do whatever you feel like and learn just enough
+computer things as it seems relevant. Here are some related writings.
+
+* Learn through ...
+
+Tom can assist you in a few ways.
+
+* Telling you what to learn (text editor, shell, ssh/scp/sftp, maybe a mail client)
+* Explaining things that you couldn't find elsewhere
+
+* Switching to command line
+* Learning data stuff article
+
+## Daily schedule
+Each student will have a meeting of ten minutes with me. Students can
+use this meeting to ask me questions. Since it's only ten minutes per
+day, students are better off finding answers in other places if they
+can, like from websites, books, and videos. This meeting will be a bit
+different on the first day, as I discuss below.
+
+### First day
+As mentioned above, the ten-minute meetings will run a bit differently on
+the first day.
+
+If you have an idea of a computer thing that you want to make or learn,
+we will discuss that thing, and I will tell you which aspects to do/learn
+first, based on your background and what you want to do.
+
+
+If you don't have much of an idea, I will decide for you, based on your
+background and on the things that you do day to day. It will probably be one
+of the following.
+
+* Use vim or emacs for something that you already do with other software.
+* Use the shell for something that you already do without the shell.
+* Learn some
+
+Given how involved these discussions may get, I will probably be okay with
+them running beyond ten minutes.
+
+You can, of course, ask for this sort of advice later in the school; I am
+just deciding that this what we're going to talk about on the first day.
