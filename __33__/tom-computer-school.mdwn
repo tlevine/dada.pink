@@ -17,11 +17,29 @@ Tom can assist you in a few ways.
 * Learning data stuff article
 
 ## Daily schedule
-Each student will have a meeting of ten minutes with me. Students can
-use this meeting to ask me questions. Since it's only ten minutes per
+We'll gather in whatever place we gather in for a few hours each day.
+The exact times don't matter that much to me. Let's say that the day
+is from 10 am to 5 pm.
+
+We will allocate 10 am to 11 am for talks, but they won't happen every day.
+
+We'll have a two-hour break from 12 pm to 2 pm for lunch and napping
+and whatnot. At the beginning of this break, we'll have an optional game
+where we can [run around and learn computer things](/!/real-world-algorithms/).
+(We might also take one full day off of the normal schedule to play the games
+that need to be played in a corn maze or a hilly area.)
+
+Each student will have a meeting of ten minutes with me every day.
+The student use this meeting to ask me questions.
+Since it's only ten minutes per
 day, students are better off finding answers in other places if they
 can, like from websites, books, and videos. This meeting will be a bit
 different on the first day, as I discuss below.
+
+At the end of the day, we'll have a meeting where everyone verbally reports
+what she or he did that day. The report must be limited to ten seconds.
+If we have too many students for such a meeting, we'll do this in writing,
+and the reports will be limited to one complex sentence or two simple sentences.
 
 ### First day
 As mentioned above, the ten-minute meetings will run a bit differently on
@@ -38,10 +56,14 @@ of the following.
 
 * Use vim or emacs for something that you already do with other software.
 * Use the shell for something that you already do without the shell.
-* Learn some
+* Configure and use a nice email client (pine, mh, mutt, &c.) or some related
+    email thing, maybe for searching (notmuch), filtering (postfix, imapfilter, &c).
+* Learn to copy files between computers.
+
+My reasoning is explained in that OpenLabs talk notes.
 
 Given how involved these discussions may get, I will probably be okay with
-them running beyond ten minutes.
+the first day's meetings running beyond ten minutes.
 
 You can, of course, ask for this sort of advice later in the school; I am
 just deciding that this what we're going to talk about on the first day.
