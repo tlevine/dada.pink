@@ -63,7 +63,6 @@ If you have an idea of a computer thing that you want to make or learn,
 we will discuss that thing, and I will tell you which aspects to do/learn
 first, based on your background and what you want to do.
 
-
 If you don't have much of an idea, I will decide for you, based on your
 background and on the things that you do day to day. It will probably be one
 of the following.
