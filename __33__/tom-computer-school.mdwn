@@ -1,20 +1,22 @@
+[[meta title="Tom Computer School"]]
+[[meta description="I formalize my views on learning computer stuff."]]
+
 I want to run Tom's Computer School at your hackerspace or school or
 wherever. Or maybe even over the internet, if we can't do in person.
 Here's how it will work.
 
 ## How Tom thinks you should learn computers
 I think you should do whatever you feel like and learn just enough
-computer things as it seems relevant. Here are some related writings.
+computer things as it seems relevant. Here is a
+[related writing](/!/learn-computers-through/).
+I can assist you at this in a few ways.
 
-* Learn through ...
-
-Tom can assist you in a few ways.
-
-* Telling you what to learn (text editor, shell, ssh/scp/sftp, maybe a mail client)
+* Telling you what to learn
 * Explaining things that you couldn't find elsewhere
 
-* Switching to command line
-* Learning data stuff article
+The closest thing to this that I have done is the class on
+[switching to command line](/!/switching-to-command-line/) that I gave
+at [OpenLabs](http://openlabs.cc)
 
 ## Daily schedule
 We'll gather in whatever place we gather in for a few hours each day.
@@ -22,6 +24,8 @@ The exact times don't matter that much to me. Let's say that the day
 is from 10 am to 5 pm.
 
 We will allocate 10 am to 11 am for talks, but they won't happen every day.
+The topics of talks might have something to do with the questions that I get
+in the ten-minute meetings that I haven't yet told you about.
 
 We'll have a two-hour break from 12 pm to 2 pm for lunch and napping
 and whatnot. At the beginning of this break, we'll have an optional game
@@ -35,6 +39,16 @@ Since it's only ten minutes per
 day, students are better off finding answers in other places if they
 can, like from websites, books, and videos. This meeting will be a bit
 different on the first day, as I discuss below.
+
+My responses to the questions I get during the meetings are likely to sound
+like one of the following.
+
+* Search the internet for a particular topic, (I'll tell you the topic that
+    is relevant to your question.) and follow the directions that you get.
+* Ask me something simpler so I don't have to think so hard.
+* Here is a link to a web page that answers your question.
+* I couldn't find anything on the internet that would answer your question
+    easily, so I might eventually write something about it and send that to you.
 
 At the end of the day, we'll have a meeting where everyone verbally reports
 what she or he did that day. The report must be limited to ten seconds.

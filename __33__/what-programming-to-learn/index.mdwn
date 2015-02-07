@@ -1,53 +1,40 @@
 [[!meta title="What I think people who want to learn programming"]]
 
 Some people want to learn programming for the sake of it
-rather than for a particular project. This is quite reasonable
-today. blah blah
-
-
-
+rather than for a particular project. I would rather [sleep](/!/sleeping/),
+but I'm told that such a desire is quite reasonable today.
 
 People often approach this by learning "Python", "JavaScript",
 "Ruby on Rails", &c. These are all really broad topics, and
 something something. I think people should learn things that
 are immediately useful to them. So I came up with this list.
+It might be focused on people who write a lot.
 
+* A good text editor (vim or emacs), or a bad text editor and some shell programming
+* A thing for copying files between computers (SSH, SCP, SFTP, or rsync)
+* Maybe email things
 
-It's more focused on people who write a lot.
-
-* A good text editor (vim or emacs)
-* 
-
-
-massive gap between people who are just starting and people
-who know the stuff
-
-
-### What is a text editor?
+### Text editor
+What is a text editor?
 With a word processor, we edit the styled, rendered content.
 The word processor saves this in a format that we don't see.
-For example, we might edit a web page in LibreOFfice Writer
+For example, we might edit a web page in LibreOffice Writer
 and save it as HTML.
-
 
 When we "edit text" or use a "text editor", we are editing
 the raw, unrendered code. We are separating the editing from
 the rendering.
 
-
-
-This is related to the conccepts of what you see is what you
+This is related to the concepts of what you see is what you
 get and what you see is what you mean.
-
-Reference the LaTeX essay. Maybe.
-
-
-
-
-Word processor stores information in a relatively complex file format
+A word processor stores information in a relatively complex file format
 with all of the style information and whatnot.
 
+There's some canonical essay about why what-you-see-is-what-you-get
+is bad and why things like LaTeX are better. But I can't find it.
 
+
+<!--
 interface for controlling character-based data
 
 different from a word processor
@@ -56,3 +43,16 @@ different from a word processor
 source code of 
 
 more formatting
+-->
+
+### Copying files between computers
+People use all sorts of hip new softwares for copying files between computers,
+but I find the old-fashioned stuff to be way easier. Learn to use any of SCP,
+SSH, SFTP, or rsync, and you won't need to deal with DropBoxes, Google Drives,
+or huge email attachements.
+
+### Email things
+All of the free-of-cost email services that I have tried are pretty bad, and
+most of the paid ones that I haven't tried are pretty expensive. There are
+various different softwares that can replace services like Gmail, which I find
+to be rather slow, confusing, and generally frustrating.

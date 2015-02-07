@@ -1,4 +1,4 @@
-[[!meta title="Learn Computers Through ______"]]
+[[!meta title="Learn Computers Through Everyday Activities"]]
 [[!tag computer]]
 <!-- created_at: 2012-08-09 -->
 
@@ -11,7 +11,7 @@ are some such annoyances.
 
 I do the same. But once I learn all of the technical stuff about how to make
 the thing that solves the annoyance, I normally don't need to write anything
-more than a configuration file. Some recent examples
+more than a configuration file. Here are some recent (April 2012) examples.
 
 * I was using Gmail. Ugh. Now, my email is hosted by [Gandi](http://gandi.net),
     downloaded by [offlineimap](http://offlineimap.org), searched by
@@ -44,9 +44,10 @@ mention the more fundamental aspect of data format conversion being an everyday
 problem for some people, specifically the sort of people that I tend to hang
 around.
 
-I want to try teaching people computers/programming through other annoyances.
+I want to try teaching people to use computers/programming for their
+mundane tasks.
 This might be maintaining a calendar, writing papers or saving photographs.
-(These things annoyed me, so I've come up with nerdy solutions to them.)
+(These examples are from me.)
 If you have some annoying repetitive task (not necessarily one that involves
 a computer) and want to learn more about computers/programming in order to
 make it less annoying, talk to me.
