@@ -7,32 +7,43 @@ Here's how it will work.
 
 ## How Tom thinks you should learn computers
 I think you should do whatever you feel like and learn just enough
-computer things as it seems relevant. Here is a
+computer things as you need for that. Here is a
 [related writing](/!/learn-computers-through/).
-I can assist you at this in a few ways.
+I can assist you at this by telling you what to learn and by
+explaining things that you couldn't find elsewhere.
 
-* Telling you what to learn
-* Explaining things that you couldn't find elsewhere
+## Principles behind Tom School
+I seem to like [sleep](/!/sleeping/) more than other people do, and that
+might have something to do with the plan that I put forth presently.
+I have planned the Tom School such that I can give people personalized
+teaching without me working very hard. I think that students will learn things
+more quickly and with less stress in this format than they would with more
+common formats, but I didn't really try to make that happen.
 
-The closest thing to this that I have done is the class on
-[switching to command line](/!/switching-to-command-line/) that I gave
-at [OpenLabs](http://openlabs.cc)
+When I do talk to one person for more than a few seconds in the context
+of teaching, my goal is to find out enough about what the person is
+wondering that I know what to write down that will explain whatever she
+wants to know. When I'm talking to just one person, I try to avoid explaining
+things that take more than about a sentence to explain.
 
 ## Daily schedule
 We'll gather in whatever place we gather in for a few hours each day.
 The exact times don't matter that much to me. Let's say that the day
 is from 10 am to 5 pm.
 
+### Lectures
 We will allocate 10 am to 11 am for talks, but they won't happen every day.
 The topics of talks might have something to do with the questions that I get
 in the ten-minute meetings that I haven't yet told you about.
 
+### Mid-day break
 We'll have a two-hour break from 12 pm to 2 pm for lunch and napping
 and whatnot. At the beginning of this break, we'll have an optional game
 where we can [run around and learn computer things](/!/real-world-algorithms/).
 (We might also take one full day off of the normal schedule to play the games
 that need to be played in a corn maze or a hilly area.)
 
+### Meetings with individual students
 Each student will have a meeting of ten minutes with me every day.
 The student use this meeting to ask me questions.
 Since it's only ten minutes per
@@ -51,11 +62,22 @@ like one of the following.
 * I couldn't find anything on the internet that would answer your question
     easily, so I might eventually write something about it and send that to you.
 
+Many of the things that I write that other people wind up reading come out
+of meetings that went a bit like the meetings that I propose. The most formal
+such meetings were those in the class on
+[switching to command line](/!/switching-to-command-line/) that I gave
+at [OpenLabs](http://openlabs.cc).
+
+### End-of-day meeting
 At the end of the day, we'll have a meeting where everyone verbally reports
-what she or he did that day. The report must be limited to ten seconds.
+what she or he did that day. Each report will be limited to five seconds.
 If we have too many students for such a meeting, we'll do this in writing,
-and the reports will be limited to something like two complex sentences,
-four simple sentences, or 350 characters.
+and the reports will be limited to something like one complex sentence,
+two simple sentences, or 150 characters.
+
+The end-of-day meeting is inspired by "stand-up" meetings. I quite enjoy such
+meetings when the meeting doesn't run long. (But stand-up meetings always run
+long if I'm not the one running them.)
 
 ### First day
 As mentioned above, the ten-minute meetings will run a bit differently on
