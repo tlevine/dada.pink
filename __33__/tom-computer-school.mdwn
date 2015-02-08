@@ -38,9 +38,10 @@ The student use this meeting to ask me questions.
 Since it's only ten minutes per
 day, students are better off finding answers in other places if they
 can, like from websites, books, and videos. This meeting will be a bit
-different on the first day, as I discuss below.
+different on the first day, as I discuss [below](#firstday).
 
-My responses to the questions I get during the meetings are likely to sound
+On all days other than the first day,
+my responses to the questions I get during the meetings are likely to sound
 like one of the following.
 
 * Search the internet for a particular topic, (I'll tell you the topic that
@@ -53,7 +54,8 @@ like one of the following.
 At the end of the day, we'll have a meeting where everyone verbally reports
 what she or he did that day. The report must be limited to ten seconds.
 If we have too many students for such a meeting, we'll do this in writing,
-and the reports will be limited to one complex sentence or two simple sentences.
+and the reports will be limited to something like two complex sentences,
+four simple sentences, or 350 characters.
 
 ### First day
 As mentioned above, the ten-minute meetings will run a bit differently on
