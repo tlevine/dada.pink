@@ -61,6 +61,9 @@ like one of the following.
 * Here is a link to a web page that answers your question.
 * I couldn't find anything on the internet that would answer your question
     easily, so I might eventually write something about it and send that to you.
+* I will sit next to you as you debug your code, and I will tell you to read
+    the error messages. (Error messages are scary, so you might not read them
+    otherwise!)
 
 Many of the things that I write that other people wind up reading come out
 of meetings that went a bit like the meetings that I propose. The most formal
