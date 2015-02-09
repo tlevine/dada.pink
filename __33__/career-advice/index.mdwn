@@ -261,6 +261,11 @@ For example, some people are especially interested in making money. I find
 that these people often came from relatively poor families and are hoping to
 provide for their parents or for their (future) children.
 
+### Discrimination
+Many people say that my career advice above applies only to people of
+very priviliged backgrounds and that it won't work if you are
+discriminated against.
+
 ### Career motivations change throughout life
 Even a single person will have totally different career motivations throughout
 her or his (or zir) life.
@@ -333,5 +338,5 @@ People have all different reasons why they work, and people come from
 all different backgrounds, so it is quite likely that well meant advice
 won't apply at all to you.
 
-We might summarize everything I just said as "*Do stuff that you like to
+We might summarize everything I just said as "Do stuff that you like to
 do, and tell people about it."
