@@ -1,4 +1,4 @@
-
+[[!meta title="On discrimination against pedestrians"]]
 
 People often complain that things are designed in various ways that don't
 support cycling. When they say this, they probably mean that the environment
@@ -6,6 +6,33 @@ is worse for cycling than for for driving. Somehow, people never talk about
 how all these things that are worse for cycling than for driving are even
 worse for walking.
 
+## Specific issues
+
+### Storage lockers
+We have racks for bicycles and parking lots for motor vehicles. If you're
+storing your bicycle, motorcycle, car, truck, &c. in one of these parking
+spots, you can also store a bunch of other junk with it.
+
+But we don't have storage lockers for backpacks! I mean we do, but it is
+nowhere near as common and usually costs money. I would love to have a spot
+to leave my backpack while I walk around town, and I need a bicycle in order
+to be able to have such a spot.
+
+### Pedestrian paths
+If you want to drive a long distance, you can take a road or highway.
+Because that's apparently dangerous on a bicycle, we sometimes make
+bicycle lanes on highways. Sidewalks are much less common.
+
+Part of the issue is that, while pedestrian paths probably exist, you
+are much less likely to find a sign directing you along it. Also,
+crosswalks are often absent from intersections, and jaywalking laws
+in the United States scare me away from crossing streets on foot.
+But I'm totally fine with changing lanes on a bicycle, because that
+is clearly legal.
+
+The lack of pedestrian paths was particularly bad in the Netherlands;
+I couldn't find pedestrian paths for most of the distance between Delft
+and The Hague, so I wound up walking on the cycle path for much of the way.
 
 ## How I realized this
 I recently got a bicycle for the first time in pretty much forever,
