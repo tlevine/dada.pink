@@ -1,5 +1,13 @@
 
 
+People often complain that things are designed in various ways that don't
+support cycling. When they say this, they probably mean that the environment
+is worse for cycling than for for driving. Somehow, people never talk about
+how all these things that are worse for cycling than for driving are even
+worse for walking.
+
+
+## How I realized this
 I recently got a bicycle for the first time in pretty much forever,
 and I have been realizing that it is way easier to get around on bicycle
 than on foot, even in cities places that supposedly aren't good for
@@ -8,3 +16,8 @@ do best on flat and smooth surfaces (especially mine) and are easy to
 steal; surely bicycles should be more annoying. It finally hit me that
 cycling is so much easier because we actually design the environment
 for cycling, and not for walking.
+
+Most people probably wouldn't notice the stuff I have noticed. I have
+never had a car, and I only just got a bicycle; before getting the bicycle,
+I walked everywhere. Also, I'm pretty okay with spending three hours
+walking somewhere, so I walk more than most people.
