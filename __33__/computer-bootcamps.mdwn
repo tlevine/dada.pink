@@ -25,6 +25,19 @@ I find that people take bootcamps for these reasons.
 Most bootcamps provide all of these. If you want all of these, you'll probably
 enjoy a bootcamp.
 
+## Worries
+Here I address some specific worries.
+
+
+
+**Will I be able to I handle the workload?** See [alternatives](#alternatives)
+
+do. Perhaps you're even considering taking one! But they're a lot of work
+and money, and the application process might be annoying, and you may worry
+that your present knowledge is too little. I hope the present writing will
+resolve some of your wonderings.
+
+
 ## Alternatives
 Tom School fulfills the last three and not the first three. In the context of bootcamps, people usually talk about the last four and not the first two.
 If you want all six, do a bootcamp.
