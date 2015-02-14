@@ -4,10 +4,12 @@
 You may have heard of computer "bootcamps", informal schools that are
 structured a bit like university semesters or like continuing education
 courses and that teach computer stuff, probably a bit better than universities
-do. Perhaps you're even considering taking one! But they're a lot of work
+do. Perhaps you're even considering taking one!
+
+But they're a lot of work
 and money, and the application process might be annoying, and you may worry
-that your present knowledge is too little. I hope the present writing will
-resolve some of your wonderings.
+that your present knowledge is too little. Or, you might not know which one
+to take. I hope the present writing will resolve some of your wonderings.
 
 Reasons to take a bootcamp course
 -----------------------------
@@ -33,9 +35,9 @@ Worries
 Here I address some specific worries.
 
 Will I be able to I handle the workload?
-    Yes, but you might not like it. Consider `alternatives <#alternatives>`_ with lighter workloads.
+    Yes, but you might not like it. You might consider `alternatives <#alternatives>`_ with lighter workloads.
 Will I get in?
-    u
+    See 
 Do I need to learn more computer before I take the bootcamp?
     u
 Is it worth the money?
@@ -55,3 +57,30 @@ If you need all but number 1, just fiddle around at home like you have been doin
 If you only need number 3, read Career Advice from Tom (http://thomaslevine.com/!/career-advice/) instead.
 If you need anything other than 2 or 3, do Tom School. (It doesn't have to involve me specifically, of course.)
 If you need only number 5, go to an appropriate hackerspace. (I can suggest some.)
+
+Which bootcamp to take?
+---------------------------
+Here are some considerations that can help you consider which bootcamp to take.
+
+What they teach
+~~~~~~~~~~~~~~~~~~
+I get the sense that most of these bootcamps teach you a tiny bit of commonly
+used POSIX and webby software and then go on to something more specific to the
+course, ("web development", "data science", &c.). 
+
+If just you want general familiarity with computer stuff, it doesn't matter
+which one you take. I don't have any advice for if you want something more specific.
+
+Bootcamp business models
+~~~~~~~~~~~~~~~~~~~~~~~~~
+I think of three categories of business model for these bootcamps.
+
+1. Ordinary courses funded by tuition
+2. Recruiting
+3. University courses taught by people without normal academic credentials
+   (Not usuallly called "bootcamps")
+
+(It's not like one bootcamp follows only one model, of course.)
+
+The most straightforward thing would be a course that costs lots of money
+and has no other revenue source.
