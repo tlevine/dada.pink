@@ -33,10 +33,19 @@ If you want most of these, you'll probably enjoy a bootcamp.
 Here I address some specific worries.
 
 ### Will I be able to I handle the workload?
-"Handle" could mean a lot of things. 
+I have different answers depending on the
+[sort of bootcamp](#bootcampbusinessmodels).
 
-Yes, but you might not like it.
-You might consider [alternatives](#alternatives) with lighter workloads.
+A bootcamp that costs money is unlikely to "fail" you, even though they'll
+push you pretty hard.
+
+A bootcamp that is all about recruiting will quickly kick you out if your
+production drops below spectacular.
+
+I don't really know about university courses. If they're like normal
+university courses, I suspect that they are less work than the bootcamps
+that cost money but that they might actually fail you if you don't do
+suitable work.
 
 ### Do I need to learn more computer before I take the bootcamp?
 We can see this as two different concerns that have the same answer.
@@ -95,8 +104,7 @@ I should remind you that money isn't the only thing in life and that a bootcamp
 might still be good for you, even though you shouldn't expect it to help you
 financially.
 
-Alternatives
------------------------------
+## Alternatives
 Here are some alternatives that fulfill only some of the above six
 [reasons to take a bootcamp course](#reasonstotakeabootcampcourse)
 
