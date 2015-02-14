@@ -37,15 +37,18 @@ Here I address some specific worries.
 "Handle" could mean a lot of things. 
 
 Yes, but you might not like it.
-You might consider [alternatives](#alternatives>) with lighter workloads.
+You might consider [alternatives](#alternatives) with lighter workloads.
+
+### Do I need to learn more computer before I take the bootcamp?
+We can see this as two different concerns that have the same answer.
+
+1. Do I know enough computer that I'll get something out of the course?
+2. Will I get in?
 
 
-Will I get in?
-    See 
-Do I need to learn more computer before I take the bootcamp?
-    u
-Is it worth the money?
-    No, not even if it gets you a job. I'm dead serious.
+
+### Is it worth the money?
+No, not even if it gets you a job. I'm dead serious.
 
 Alternatives
 -----------------------------
@@ -54,7 +57,7 @@ Here are some alternatives that fulfill only some of the above six
 
 The main reason to do one of the alternatives below
 
-[Tom School](/!/tom-computer-school/>) fulfills the last three
+[Tom School](/!/tom-computer-school/) fulfills the last three
 and not the first three.
 
 If you need all but number 1, just fiddle around at home like you have been doing.
