@@ -108,13 +108,17 @@ other and still decide to go to Israel to fight a holy war. Similarly,
 people sometimes say that they are in the business of making money and
 then hire hip rockstar programmers so they can feel cool.
 
-The typical examples of this is that
+The typical examples of this is that people put
 [women](http://www.newsweek.com/2015/02/06/what-silicon-valley-thinks-women-302821.html),
 certain ethnic groups,
-and old people are seen as incompetent,
-but that just scratches the surface. 
+and old people
+in positions where they'll be less productive. (They often get different jobs,
+lower pay rates, or don't get hired at all.) If business were all about
+short-sighted money profit, this stuff would happen much less.
 
-For example,
+These typical examples just scratch the surface.
+
+Here's a more nuanced non-profit phenomenon.
 I think that much of "data science" is people with advanced degrees who
 didn't find jobs in academia but want to feel like they're still doing
 "research". It can be really fun to use the fancy stuff that you read in a
