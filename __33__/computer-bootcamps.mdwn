@@ -6,9 +6,8 @@ structured a bit like university semesters or like continuing education
 courses and that teach computer stuff, probably a bit better than universities
 do. Perhaps you're even considering taking one!
 
-But they're a lot of work
-and money, and the application process might be annoying, and you may worry
-that your present knowledge is too little. Or, you might not know which one
+But they're a lot of work, they take time, they cost money, and your present
+knowledge might be too little. Or, you might not know which one
 to take. I hope the present writing will resolve some of your wonderings.
 
 Reasons to take a bootcamp course
