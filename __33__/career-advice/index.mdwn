@@ -185,15 +185,43 @@ other reasons that a company might ask for job applications.
 It's not any one of these is the only reason in any case, of course.
 Lots of things are going on, and making money is only one of the concerns.
 
-In some cases, you might know someone in the company and basically have the job
+### If you do apply for a job, spend as little time as you possibly can on the application.
+Sometimes even I convince myself that it's worth applying for things. In such
+cases, I rush through application materials as fast as I possibly can; I get
+annoyed with myself when I spend more than a few minutes on an initial application
+form. Here are some things I do in order to avoid spending time writing the application.
+
+* Be what the people are looking for; don't try to tell the truth or to be
+    yourself.
+* Probably use lots of buzzwords.
+* Reuse things you have written elsewhere.
+* In the rare case that you think an application deserves more than three
+    minutes of work, don't change your other plans because of application
+    deadlines; just don't apply.
+* Don't proofread.
+
+I'm fine with a couple hours of talking to people, but if I find myself
+unclear as to how drawn-out the process of interviewing or otherwise talking to
+people is going to be, I'll probably withdraw my application.
+
+Still, remember the advice I just told you: **Don't apply for jobs**! While you
+can make applications less wasteful by spending less time on them, they are still
+pointless most of the time.
+
+For example, it might be worth applying to a company if
+know someone in the company and basically have the job
 but need to apply as a formality. This has a slight chance of working, but even
 then, it's hit-or-miss; the policies of the organization that you are applying
 to are likely to be complicated enough that your contact doesn't fully
-understand the policies. One of the times I applied for graduate school, my
+understand the policies.
+
+<!--
+One of the times I applied for graduate school, my
 would-be advisor realized only after I had been accepted that funding for me
-wasn't available because I wasn't an European citizen. There are too many little
+wouldn't be enough because I wasn't an European citizen. There are too many little
 things like this that take way too long to learn when application processes are
 so long.
+-->
 
 ### The main reason you need "experience" is so you can feel confident when you're bullshitting.
 I remarked when I had just graduated from college that people were treating
