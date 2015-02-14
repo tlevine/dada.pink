@@ -101,15 +101,29 @@ Alternatives
 Here are some alternatives that fulfill only some of the above six
 [reasons to take a bootcamp course](#reasonstotakeabootcampcourse)
 
-The main reason to do one of the alternatives below
+Starting a company/organization/initiative/whatever around making a computer
+thing that you want to learn to make can fulfill number 1. And maybe numbers
+2 and 3. Lying about your credentials can do similar things.
+
+If you only need number 3, you might read
+[Career Advice from Tom](/!/career-advice/) instead. Or talk to a recruiter.
+
+Looking up syllabi from bootcamps and other recommendations of what people
+should learn can fulfill number 4.
+
+I notice sometimes that a girl who wants to learn computers dates a boy who
+seem to know more about computers (I want to stress the part about *seeming*,
+as it might be that the two people are equivalently able and that we think the
+boy knows more because of the entrenched patriarchy and whatnot.) and thus
+teaches the girl about computers. This probably accomplishes lots of the things
+that a bootcamp does. But I don't mean to recommend it, as couples who match
+this pattern usually seem unhappy.
+
+Hanging out in an appropriate hackerspace can accomplish number 5.
+(I can suggest some if you email me.)
 
 [Tom School](/!/tom-computer-school/) fulfills the last three
 and not the first three.
-
-If you need all but number 1, just fiddle around at home like you have been doing.
-If you only need number 3, read Career Advice from Tom (http://thomaslevine.com/!/career-advice/) instead.
-If you need anything other than 2 or 3, do Tom School. (It doesn't have to involve me specifically, of course.)
-If you need only number 5, go to an appropriate hackerspace. (I can suggest some.)
 
 ## Bootcamp business models
 The business model of a specific bootcamp is related to many of the things
