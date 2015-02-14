@@ -33,13 +33,13 @@ Worries
 Here I address some specific worries.
 
 Will I be able to I handle the workload?
-    See `alternatives <#alternatives>`_.
-
-do. Perhaps you're even considering taking one! But they're a lot of work
-and money, and the application process might be annoying, and you may worry
-that your present knowledge is too little. I hope the present writing will
-resolve some of your wonderings.
-
+    Yes, but you might not like it. Consider `alternatives <#alternatives>`_ with lighter workloads.
+Will I get in?
+    u
+Do I need to learn more computer before I take the bootcamp?
+    u
+Is it worth the money?
+    No, not even if it gets you a job. I'm dead serious.
 
 Alternatives
 -----------------------------
