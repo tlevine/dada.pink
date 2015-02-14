@@ -42,13 +42,59 @@ You might consider [alternatives](#alternatives) with lighter workloads.
 ### Do I need to learn more computer before I take the bootcamp?
 We can see this as two different concerns that have the same answer.
 
-1. Do I know enough computer that I'll get something out of the course?
+1. Do I know enough computer that I'll learn in the course?
 2. Will I get in?
+3. Will I be able to find a job afterwards?
 
+I get the sense that most of these bootcamps try to get you generally familiar
+with some hip computing practices (POSIX and webby software) and then go on to
+something more specific to the course, ("web development", "data science", &c.). 
+If just you want general familiarity with computer stuff, you will learn
+something, and it doesn't matter which one you take. I don't have any advice
+for if you want something more specific.
 
+Whether you get in depends on the
+[sort of bootcamp](#bootcampbusinessmodels) and on your background.
+
+**If the bootcamp charges tuition and doesn't do recruiting**, you'll get in.
+You might have to apply a few times, but one will definitely take you.
+
+**If the bootcamp does recruiting**, you will only get in if you are already
+qualified for the jobs they would place you in.
+
+I don't know how university courses evaluate applications. I imagine that
+they consider formal credentials more than the hip startups do, just like
+normal university courses. But I don't really know.
 
 ### Is it worth the money?
-No, not even if it gets you a job. I'm dead serious.
+**No**, not even if it gets you a job. I'm dead serious.
+(On the other hand, it is less of a waste than college.)
+
+Here's more nuanced answer.
+
+**If you have a really good scholarship**, the course might actually be
+worth the money, but you probably wouldn't ask whether the course is worth
+the money.
+
+**If the bootcamp charges tuition and doesn't do recruiting**, the tuition will
+be expensive enough to account for any resulting salary increases. Moreover,
+you'll probably learn a bit faster than usual, but not that much faster, and
+not in a sustainable way.
+
+The finances for for **university courses** are more extreme versions of those
+for the tuition-funded bootcamps. These courses cost more, take longer, and
+provide real degrees that companies sometimes care about. Such courses will
+probably allow you to fetch much higher salaries, and the tuition will be even
+higher, such that you still break even at best.
+
+**If the bootcamp does recruiting** (regardless of whether it charges tuition),
+the course is probably a waste of time. If you get in, you already know enough
+to get a job, so you could instead just talk to a normal recruiter and find
+your job three months earlier.
+
+I should remind you that money isn't the only thing in life and that a bootcamp
+might still be good for you, even though you shouldn't expect it to help you
+financially.
 
 Alternatives
 -----------------------------
