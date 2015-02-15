@@ -12,6 +12,7 @@ html, body, h2, #boxes ul, blockquote, input#searchbox {
   margin: 0;
   padding: 0;
 }
+h1 { display: none; }
 h2 {
   color: #FE57A1;
   font-size: inherit;
