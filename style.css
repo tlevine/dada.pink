@@ -589,6 +589,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fe57a1;
   margin-top: 0.5em;
   margin-bottom: 0;
+  font-weight: inherit;
 }
 h1 { font-size: 3em; font-weight: bold; }
 h2 { font-size: 2em; font-weight: bold; }
