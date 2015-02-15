@@ -231,7 +231,7 @@ Front rack
 Everyone wants Tubus.
 
 * `Tubus Duo <http://www.tubus.com/product.php?xn=17>`_ and
-`Nitto M-12-2 <http://biketouringnews.com/touring-bike-accessories/bags-panniers/nitto-m-12-2-front-rack/>`_
+  `Nitto M-12-2 <http://biketouringnews.com/touring-bike-accessories/bags-panniers/nitto-m-12-2-front-rack/>`_
 
 Here are some others that look cool.
 
