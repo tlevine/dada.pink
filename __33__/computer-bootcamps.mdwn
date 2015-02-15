@@ -19,11 +19,11 @@ I find that people take bootcamps for these reasons.
 2. They want to be pushed really hard, enough that they're stressed-out all
     the time.
 3. They want to feel like they are working towards finding a job.
-4. They want someone to choose the curriculum for them and to believe that
-    the curriculum is a good one.
+4. They want someone to choose the curriculum for them. (And they want to
+    believe that the curriculum is a good one.)
 5. They want to be around other people who are learning computers with them.
 6. They want to talk periodically with people who know more about the thing
-   they're learning.
+    they're learning.
 
 Most bootcamps provide all of these, though people usually talk about the
 last four and not the first two.
