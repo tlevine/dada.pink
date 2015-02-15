@@ -552,7 +552,7 @@ a.openid_large_btn:focus {
 /* Tom's customizations */
 body {
   color: white;
-  font: normal 100% sans-serif;
+  font: normal 100% 'Nimbus Sans', Helvetica, Arial, sans-serif;
   background-color: #111;
   width: 100%;
   height: 100%;
@@ -594,14 +594,36 @@ h1 { font-size: 3em; font-weight: bold; }
 h2 { font-size: 2em; font-weight: bold; }
 p {
   margin-top: 0.5em;
-  margin-bottom: 0.5;
+  margin-bottom: 0;
 }
 
 h3, h4, h5, h6 { display: inline-block; }
 h3 + p, h4 + p, h5 + p, h6 + p { display: inline; }
-h3 { font-weight: bold; }
-h4 { font-weight: normal; }
-h5 { font-weight: italic; }
+
+/* http://stackoverflow.com/a/535390/407226 */
+body{counter-reset: section}
+h2{counter-reset: sub-section}
+h3{counter-reset: composite}
+h4{counter-reset: detail}
+
+h2:before{
+  counter-increment: section;
+  content: counter(section) " ";
+}
+h3:before{
+  counter-increment: sub-section;
+  content: counter(section) "." counter(sub-section) " ";
+}
+h4:before{
+  counter-increment: composite;
+  content: counter(section) "." counter(sub-section) "." counter(composite) " ";
+}
+h5:before{
+  counter-increment: detail;
+  content: counter(section) "." counter(sub-section) "." counter(composite) "." counter(detail) " ";
+}
+
+
 
 pre, blockquote, .line-block {
   background-color: #555;
@@ -632,3 +654,8 @@ table tr:first-child th, table tr:first-child td { border-bottom: solid 1px; }
   .webonly { display: none; }
   a, p, h1, h2, h3, h4, h5 { color: black !important; }
 }
+
+
+#content { width: 340px; margin-left: auto; margin-right: auto; }
+@media screen and (min-width: 540px) { #content { width: 520px; } }
+@media screen and (min-width: 720px) { #content { width: 700px; } }
