@@ -105,34 +105,6 @@ I should remind you that money isn't the only thing in life and that a bootcamp
 might still be good for you, even though you shouldn't expect it to help you
 financially.
 
-## Alternatives
-Here are some alternatives that fulfill only some of the above six
-[reasons to take a bootcamp course](#reasonstotakeabootcampcourse)
-
-Starting a company/organization/initiative/whatever around making a computer
-thing that you want to learn to make can fulfill number 1. And maybe numbers
-2 and 3. Lying about your credentials can do similar things.
-
-If you only need number 3, you might read
-[Career Advice from Tom](/!/career-advice/) instead. Or talk to a recruiter.
-
-Looking up syllabi from bootcamps and other recommendations of what people
-should learn can fulfill number 4.
-
-I notice sometimes that a girl who wants to learn computers dates a boy who
-seem to know more about computers (I want to stress the part about *seeming*,
-as it might be that the two people are equivalently able and that we think the
-boy knows more because of the entrenched patriarchy and whatnot.) and thus
-teaches the girl about computers. This probably accomplishes lots of the things
-that a bootcamp does. But I don't mean to recommend it, as couples who match
-this pattern usually seem unhappy.
-
-Hanging out in an appropriate hackerspace can accomplish number 5.
-(I can suggest some if you email me.)
-
-[Tom School](/!/tom-computer-school/) fulfills the last three
-and not the first three.
-
 ## Bootcamp business models
 The business model of a specific bootcamp is related to many of the things
 I discussed above.
@@ -165,3 +137,41 @@ aren't. These are instead called "masters" programs or just normal courses
 and differ from typical university offerings in they are taught by normal
 academic credentials. The ways that universities make money are complicated
 enough that I don't really try to understand them.
+
+## Alternatives
+Here are some alternatives that fulfill only some of the above six
+[reasons to take a bootcamp course](#reasonstotakeabootcampcourse)
+
+Starting a company/organization/initiative/whatever around making a computer
+thing that you want to learn to make can fulfill number 1. And maybe numbers
+2 and 3. Lying about your credentials can do similar things.
+
+If you only need number 3, you might read
+[Career Advice from Tom](/!/career-advice/) instead. Or talk to a recruiter.
+
+Looking up syllabi from bootcamps and other recommendations of what people
+should learn can fulfill number 4.
+
+I notice sometimes that a girl who wants to learn computers dates a boy who
+seem to know more about computers (I want to stress the part about *seeming*,
+as it might be that the two people are equivalently able and that we think the
+boy knows more because of the entrenched patriarchy and whatnot.) and thus
+teaches the girl about computers. This probably accomplishes lots of the things
+that a bootcamp does, so it might work for you. I should note that couples who
+match this pattern usually seem unhappy, so it's hard for me to recommend this
+approach for learning computer things. On the other hand, people taking computer
+bootcamps often seem just as unhappy.
+
+Hanging out in an appropriate hackerspace can accomplish number 5.
+(I can suggest some if you email me.)
+
+[Tom School](/!/tom-computer-school/) fulfills the last three
+and not the first three.
+
+## Conclude
+There are a bunch of things that people get out of a computer bootcamp,
+and some of them aren't so obvious. If you want all these things that a
+bootcamp will give you, you'll probably enjoy it. In case you don't think
+you'll enjoy a bootcamp or you don't have the time or money to take the
+program, you might try one of the alternatives that I suggested. In any
+case, good luck in your computer studies!
