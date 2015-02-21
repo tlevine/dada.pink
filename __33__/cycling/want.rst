@@ -20,3 +20,19 @@
 * Pink tape
 * Mittens with lights for signaling
 * Roll of fabric with my tools in nice pockets
+
+
+
+A real bike is too big. I want a folding bike. These look best.
+
+* https://www.bikefriday.com/bicycles/touring/1490 (if I don't care for riding in winter)
+* https://www.bikefriday.com/bicycles/touring/1491
+* https://www.bikefriday.com/bicycles/touring/1604
+* https://www.bikefriday.com/bicycles/touring/1525
+* https://www.bikefriday.com/bicycles/touring/1445
+
+These in particular, because the Silk folds in "5 seconds" and the internally
+geared hub will be nice for winter. And also it supposedly requires less
+maintenance, which should allow me to carry fewer tools.
+https://www.bikefriday.com/bicycles/touring/1525
+
