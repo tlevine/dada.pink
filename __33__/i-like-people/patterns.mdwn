@@ -135,10 +135,9 @@ the prospects are for some people, or about how beautiful the world is.
 When you see this degree of negativity in people, it is easy to focus on
 the things that they are negating. For example, if a person complains
 about the state of health insurance in her country, you might think that
-the person cares about health insurance. 
-
-I think of most of that as irrelevant
-noise.
+the person cares about health insurance. It's worth considering, however,
+that the topic of health insurance is irrelevant noise and that the real
+topic is that the person is angry, frustrated, &c. with something.
 
 ### Anti
 I briefly met [Anti](http://anti.sx/) at
