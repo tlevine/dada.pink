@@ -5,11 +5,57 @@ This might have been considered a combination of "advertising",
 Here's how I think one should go about it.
 
 ## Big companies or small companies
-Decide whether you are going after big companies with long sales processes
-or after tiny companies that probably aren't going to exist next year.
+Decide whether you are going after big companies with lots of employees
+and long sales processes or after tiny companies with a handful of employees
+that probably aren't going to exist next year.
+
+I'll tell you about the different materials you should develop, places you
+should look for clients, ways you should present yourselves, and the other
+staff that you need; and I'll tell you how these are different depending on
+whether you're going for big companies or small companies.
+
+Note well: Sometimes it isn't clear whether the company you're going after is
+big or small, as the distinction isn't always clear. Small companies are like
+project teams inside of big meta-companies. Employees of small hip startups
+socialize frequently with employees of other hip startups on lunch breaks,
+on mailing lists, and at conferences, just like how employees of big companies
+socialize within the company. These employees of small also move fluidly
+between small companies. When a big company is acting like a bunch of small
+companies or a small company is acting like a bunch of big companies, consider
+my evangalism suggestions for both big and small companies.
 
 ## If you are going after big companies
-Your presentations, brochures, &c. should focus on the value
+Your presentations, brochures, &c. should focus on the value of your
+product in the specific situations of your potential clients. Figure out
+the situation of your clients, and demonstrate how your product is
+relevant.
+
+Seek out potential clients at high-profile events. These are usually
+quite expensive, so sponsoring and exhibiting at expensive conferences
+is a pretty good strategy.
+
+Because you are doing corporate sales, it is very important that you have
+a good sales team to funnel any prospects to. Also, because you are selling
+complex software to a very high level of the organization, it is less
+important that the software be especially easy for beginners to use.
 
 ## If you are going after small companies
+It should be very easy to get started using your product. The interface should
+be quite intuitive, and you should have documentation that walks people through
+the common uses step-by-step. The documentation should be very prominently
+available on the internet.
 
+This is quite different from targeting big companies;
+there are too many small companies for you to target any of them specifically,
+and their needs may change so frequently that it isn't useful for them to worry
+too much about how your product addresses their specific uses.
+
+Small companies are likely to have less money, so you need to go after lots of
+small companies. This is a long-term effort. Make software they like, teach
+them to use it, release some portion of it for free, and hope that some of the
+people who have heard about your software will eventually find a need to buy it.
+And you need to stick with your product for a while. On the other hand, this is
+less intense of an effort. After you expose your product to people, you mostly
+have to wait, keep working on the product, and make it easy for people to get
+in touch with you later. You don't need as big of a sales team, and it's okay if
+are a bit sporatic with your evangalism. It also doesn't cost as much money upfront.
