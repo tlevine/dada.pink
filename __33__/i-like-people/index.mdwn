@@ -38,13 +38,13 @@ I have divided this piece into sections. You could read them in the
 order that I list them below, but you could also just read whichever one
 sounds most interesting.
 
+In [Patterns I Have Seen](patterns), I list some things things that I have
+noticed in a bunch of people.
+
 [Questions I Ask](questions) discusses some common
 patterns of questions that I might ask. As I said, I think my social skills
 came from literature on the design of interviews and questionnaires,
 and you might see why as you read this section.
-
-In [Patterns I Have Seen](patterns), I list some things things that I have
-noticed in a bunch of people.
 
 I get quite curious [when people are being mean or otherwise unpleasant](mean).
 In this section, I discuss some things related to people who are being unpleasant.
