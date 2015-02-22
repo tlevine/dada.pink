@@ -88,15 +88,6 @@ and/or might want to believe that he is doing something. And so on.
 * Being very rational to avoid acknowledging feelings
 * Shutting down verbally
 
-
-
-## Beginning a thought with negation
-I pay quite a lot of attention to
-
-Sometimes, people begin a thought 
-
-
-
 ## Using lots of negation
 I find that people sometimes tend towards positive grammatical constructions
 and other times tend towards negative grammatical constructions. The latter
@@ -153,8 +144,6 @@ to be against things.
 
 
 ## Beginning a thought with a very firm statement
-This is similar to the previous one.
-
 Let me take a paragraph tangent on a fun story.
 When I was in university, lots of people would ask me what my major
 was. I'd say it was "ergonomics", and then I'd have to explain
@@ -169,6 +158,25 @@ He insisted right away that "It is a science!" and then justified that
 the stuff he did in class was very scientific. I guess a lot of people
 tell him that political science isn't a science. Moreover, I think he
 wants to justify that he's doing something real.
+
+## Beginning a thought with an unsolicited negation
+This is similar to the previous one about firm statements.
+I pay quite a lot of attention to negation, as you can read above.
+Sometimes, people begin a thought with a negation. A common one is
+"It's not about the money." during a discussion of why someone does
+the work he or she does.
+
+Someone who works for the Gates Foundation opened a thought with
+something to the effect of "We will not fund projects that use
+technology for education but not in novel ways." It would be one
+thing if someone had asked, "Will you fund projects that use
+off-the-shelf technology for education?" but that wasn't the case;
+this person who works for the Gates Foundation was giving a talk.
+
+When I see such unsolicited negations as a specific sort of firm statement
+(discussed above), and I have the same reaction; people really are working
+for the money or are funding non-novel technology projects, but they want
+to believe that they aren't.
 
 ## Immediate survival and comfort
 Reasonable mysticism and unreasonable other things: Have you eaten?
