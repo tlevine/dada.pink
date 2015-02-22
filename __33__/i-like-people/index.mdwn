@@ -60,6 +60,6 @@ though I don't know what I'm going to put in it.
 Mixed within each of the above sections are stories of fun things that happened
 after I did these various sorts of things.
 
-I have some [Concluding Thoughts](conclusion) on all of this. This section
+I have some [concluding thoughts](conclusion) on all of this. This section
 would conventionally appear at the end of a book, and it is usually the
 first or second section that I read.
