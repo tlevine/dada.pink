@@ -1,7 +1,8 @@
+[[!meta title="When people are being mean or otherwise unpleasant"]]
 
-## When people are being mean or otherwise unpleasant
 I'm interested in people even when they're unpleasant to be around.
 
+## A common perspective
 I first thought to write something like the present piece after learning from
 [Matt Linares](http://matt.microsplash.org/) about
 [neuro-linguistic programming](https://en.wikipedia.org/wiki/Neuro-linguistic_programming).
@@ -13,15 +14,16 @@ something so bizarre.
 
 A common perspective (in law and religion, for example) on people who are
 acting mean, rude, manipulative, or otherwise unpleasant is that they are *bad*.
-When people are *really* bad, we might even choose to stop them, fix them,
+When people are *really bad*, we might even choose to stop them, fix them,
 punish them, or just avoid them. This is a nice way for good people to get
 into fights with bad people. It makes for an entertaining game, but it's a bit
 too exciting for me.
 
+## Good and bad confuse me
 The distinction between good and bad always seems kind of arbitrary to me.
 I sometimes find myself among a group of people who are discussing
-something *bad* that a person did. The focus is often about how *bad* the
-thing was and whether the person should be avoided, punished, &c.
+something *bad* that a person did. The focus is often that the thing was bad
+and whether the person should be avoided, punished, &c.
 This discussion always seems a bit mean and unempathetic.
 
 When someone acts in a way that displeases me, or when people think that
@@ -29,4 +31,3 @@ someone did something bad, I usually become curious as to why the person
 did the thing and why the people reacted the way they did. The reasons are
 usually interestingly complicated or hilariously simple. Figuring out the
 reasons is lots of fun, and thinking about *good* versus *bad* is too stressful.
-

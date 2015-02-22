@@ -1,3 +1,7 @@
+[[!meta title="Common patterns"]]
+
+Here are some things that I see lots of people doing.
+
 ## Questions with implicit assumptions
 Consider difference between the following questions.
 
@@ -48,8 +52,12 @@ would ask about peoples' passions and was very insistant that people had them.
 * He wants to help people find their passions.
 
 I find the above sorts of things to occur in people who ask questions with
-strong assumptions, but it's not always that way. Often (usually?), the person
-is just abbreviating the question that doesn't have strong assumptions
+strong assumptions.
+
+Keep in mind, however, that it's not always that way. Often (usually?),
+the person is just abbreviating the question that doesn't have strong assumptions
+is just abbreviating the question that doesn't have strong
+assumptions (That is, "Are you passionate about something, and if so what?")
 because that version is quite long.
 
 ### Every young professional ever
@@ -66,40 +74,9 @@ in the previous story meant. The person might identify strongly with his
 work or be very focused on his work. He might have recently started working
 and/or might want to believe that he is doing something. And so on.
 
-### The person's mental model
-The person is expecting me to answer with a goal that sounds reasonable.
-The odd feeling that I mention above is the feeling that I need to have a
-goal in life. I may feel pressure to frame some stuff that I do as a goal
-even if I don't think of myself as having a goal. On the other hand, I may
-truly have a goal in life, in which case his expectation was right.
 
-If I say in response that I don't have a goal in life, then I don't fit into
-the person's mental model about goals. The person might try to resolve the
-contradiction by deciding that one of the following statements is true.
 
-* The person's model of the world is inadequete: Passions are not a
-    meaningful way of categorizing people. (The person is least likely
-    to resolve the contradiction this way.)
-* People can be divided into those with passions and those without passions.
-    People in the former group are *better*, and I am in the latter group.
-* I really do have a passion, but I am being modest, being a wise-guy,
-    under-selling myself, &c.
 
-### Wanting to believe
-If the person finds a way of preserving his mental model, the person is
-showing that he really wants to believe in this model of the world.
-Why might he want that? I can usually explain it as one of the following.
-
-1. He or she has recently come up with a passion and is hoping that his
-    strategy of coming up with a passion was a good idea.
-2. He or she wants to fit in with a group of people who talk about their
-    passions.
-
-It is hard to know whether your mental model is right. (In this case, it's
-hard to know whether having a passion is a good idea.) Also, it is scary
-to be following a mental model that you don't know is right. Thus, people
-sometimes try really hard to convince themselves that their mental models
-are right.
 
 ##
 * Brain settling, internal judgement
@@ -114,13 +91,32 @@ are right.
 
 
 ## Beginning a thought with negation
+I pay quite a lot of attention to
+
+Sometimes, people begin a thought 
+
+
+
+## Using lots of negation
+I find that people sometimes tend towards positive grammatical constructions
+and other times tend towards negative grammatical constructions. The latter
+is more interesting to me, for whatever reason.
+
+By "using lots of negation", I mean literally that people use words like
+"not", "no", and "without" and that they use prefixes like "un-", "anti-",
+and "in-". Another way of saying this is that people start conversations by
+complaining, people focus on things being different rather than the same
+
+I met a person once who went by the name "Anti". I only saw him for a few
+minutes ever, but I know many other people who could fittingly take his name.
 
 
 
 
 ## Beginning a thought with a very firm statement
-Similar to the previous one
+This is similar to the previous one.
 
+Let me take a paragraph tangent on a fun story.
 When I was in university, lots of people would ask me what my major
 was. I'd say it was "ergonomics", and then I'd have to explain
 [what ergonomics is]().
