@@ -8,7 +8,7 @@ Here's how it will work.
 ## How Tom thinks you should learn computers
 I think you should do whatever you feel like and learn just enough
 computer things as you need for that. Here is a
-[related writing](/!/learn-computers-through/).
+[related writing](/!/learn-programming-through/).
 I can assist you at this by telling you what to learn and by
 explaining things that you couldn't find elsewhere.
 
