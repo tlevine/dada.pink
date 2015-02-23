@@ -45,7 +45,7 @@ I think you should learn
 <dt>Better than DropBox</dt>
 <dd>basics of scp, sftp, or rsync</dd>
 <dt>Maybe some good email programs</dt>
-<dd>mutt, pine, notmuch, mh, &c. (My [email](/!/email) setup is very cool but presently not documented.)</dd>
+<dd>mutt, pine, notmuch, mh, &c. (My <a href="/!/email/">email</a> setup is very cool but presently not documented.)</dd>
 </dl>
 
 These 30-year-old programs are still better than everything else; that's
