@@ -20,11 +20,15 @@ teaching without me working very hard. I think that students will learn things
 more quickly and with less stress in this format than they would with more
 common formats, but I didn't really try to make that happen.
 
-When I do talk to one person for more than a few seconds in the context
-of teaching, my goal is to find out enough about what the person is
-wondering that I know what to write down that will explain whatever she
-wants to know. When I'm talking to just one person, I try to avoid explaining
-things that take more than about a sentence to explain.
+When I talk to one person for more than a few seconds in the context
+of teaching, my main goal is to come up with something to write about.
+A secondary goal is teaching/advising/whatever the person, and I prefer
+to accomplish that by referring the person to a piece of writing.
+If such a piece of writing does not exist, I can write down something
+that will explain whatever the person wants to know.
+I find that improvised verbal explanations are usually horrendous wastes
+of time, so I try to give up at them if they take more than about a
+sentence. 
 
 ## Daily schedule
 We'll gather in whatever place we gather in for a few hours each day.
@@ -100,7 +104,8 @@ of the following.
     email thing, maybe for searching (notmuch), filtering (postfix, imapfilter, &c).
 * Learn to copy files between computers.
 
-My reasoning is explained in that OpenLabs talk notes.
+My reasoning for these generic topics is
+[here](http://thomaslevine.com/!/geeky-free-software-project/#peoplesharewithme).
 
 Given how involved these discussions may get, I will probably be okay with
 the first day's meetings running beyond ten minutes.
