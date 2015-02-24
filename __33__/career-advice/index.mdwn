@@ -157,29 +157,30 @@ impossible to figure out how to make an application good. And if the
 organization actually wants to hire someone, application processes are
 even more work on their end.
 
-As I said before,
-[profit and greed are the least of motivations in business](#profitandgreedaretheleastofmotivationsinbusiness).
+Since application processes are so financially wasteful for all involved
+parties (not just the applicant) why would companies engage in such a
+wasteful activity? It's because, as I said before,
+[money isn't everything](#profitandgreedaretheleastofmotivationsinbusiness).
 Nominally, the goal of the job application is to select good candidates
-for a role that they need to fill, or something like that. Here are some
+for a role that they need to fill in order to make more money,
+or something like that. Here are some
 other reasons that a company might ask for job applications.
 
-1. People in the organization are [pretending](#pretending)
-    that they knows what they're doing, so they post jobs just like all the
-    other companies do. Or they're pretending that it has enough money to
-    hire people.
-2. People in organization don't really know what they wants and are deferring
-    their decision until later. I think this is more common with grants and
-    short projects than with jobs.
-3. People really started the company because they want to make friends, not
-    because they want to make money.
-4. People in the organization want to feel like they are smart. Interviewing
+1. People in the organization want to feel like they are smart. Interviewing
     people makes them feel smart, and being very selective makes them feel
     smarter. Also, the people who get selected feel smart.
-5. If you care little enough for sleeping that you'll jump through all the
-    application hoops, you might care more for work than for sleep; you are
-    likely to keep your job for a long time and to work hard while you're at
-    your job. And I suppose most of the people in the company think this way
-    because the other ones leave.
+2. People really started the company because they want to make friends, not
+    because they want to make money.
+3. People in organization don't really know what they want and are deferring
+    their decision until later. I think this is more common with grants and
+    short projects than with jobs.
+4. People in the organization are [pretending](#pretending)
+    that they know what they're doing, so they post jobs just like all the
+    other companies do.
+5. People with the commitment to jump through all the application hoops
+    are likely to have the commitment to stay at the job once they get it
+    and to work hard. Moreover, this has to do with a culture of hard
+    work and sacrifice at the company.
 
 It's not any one of these is the only reason in any case, of course.
 Lots of things are going on, and making money is only one of the concerns.
