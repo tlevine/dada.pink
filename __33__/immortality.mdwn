@@ -1,0 +1,131 @@
+[[!meta title="Hyperconversation"]]
+
+I put everything I can on the internet so that I don't have to remember
+where it is; search engines do that for me. This has hilarious and wonderful
+side effects on my conversations.
+
+## Easy sending of emails
+Check out this email.
+
+    Subject: Re: [NICAR-L] PDF scrapers
+    http://thomaslevine.com/!/parsing-pdfs/
+
+Here's another.
+
+    Subject: Organizing
+    Kind of related
+    http://thomaslevine.com/!/making-your-personal-website/
+
+One more.
+
+    Subject: English
+    http://thomaslevine.com/!/english/ 
+
+The bodies of these emails are just links. Sending URLs rather than the content that
+is at the URLs is actually far easier than sending the content; I don't have
+to worry about whether I copied things properly, the files I send don't have to
+be as large, I don't have to tell people that they're allowed to share the
+stuff I send them, and I can send the emails from my phone.
+
+If I couldn't send URLs, I would probably wind up developing something like a URL
+for indexing my content privately, and then I'd use that to select the content.
+
+A lot of my emails are like the email above. This happens because writing
+the same email twice seems like a waste of time.
+When I answer the same question multiple times, I start writing down the
+answer so that I don't have to answer it again.
+And then I can answer new questions instead!
+
+## On privacy
+When my writings are already easy to find on the internet, I don't have to
+worry about whether they contain private information; when something I wrote
+is on the public internet, I *know* that it is public, because I wouldn't
+have made it public if I had the slightest concern that it might contain
+private information.
+
+This is part of why it's so easy to share the information.
+
+## Complex responses
+If I have already written down the answer to a question and the answer is
+on a public website that is easy to find, I can respond very easily and
+quickly. But sometimes the answer is spread across multiple things that I
+have written, and this is where my hyperconsciousness really shines.
+I was able to compose the following response in a couple minutes.
+
+    From: Thomas Levine
+    Subject: Re: [NICAR-L] Tracking text-ish documents and the
+      changes to documents over time
+
+    I think that lots of people write the same script that you describe;
+    here's my version.
+    http://thomaslevine.com/!/wsync/
+
+    Nowadays, I save the parsed HTTP response rather than just the body
+    of the response.
+    http://thomaslevine.com/!/web-sites-to-data-tables-in-depth/
+
+    Either way, they get saved as files. These files will be quite similar,
+    so you can save space with backup software that saves incremental changes
+    in the files.
+    http://obnam.org/
+
+While seeming short and simple, this response is in fact long and complex.
+The length and complexity are deferred to web pages, making it easier for
+me to write and less scary for others to read.
+
+## In-person conversations
+Also, my conversations get much more interesting when people read the
+repetitive parts first. For example, here's an email that I sent someone
+while sitting next to her and talking about teaching data stuff.
+
+    Subject: Data data
+
+    Data and learning and cetera
+    http://thomaslevine.com/!/why-i-like-hackerspaces/
+    http://thomaslevine.com/datakind/
+    http://thomaslevine.com/!/making-your-personal-website/
+    http://thomaslevine.com/!/learning-data-stuff/
+    http://thomaslevine.com/!/bits/
+    
+    There's some stuff I missed, so you might find the search box helpful.
+    http://thomaslevine.com/ikiwiki.cgi?P=algorithm
+    
+    And I'm gonna go tag a bunch of these things with "learn" right now.
+    http://thomaslevine.com/learn/
+    
+    Other things
+    http://thomaslevine.com/stuff/
+    http://small.dada.pink/whom-to-email/README
+    http://small.dada.pink/dadawarehouse/README
+    http://thomaslevine.com/!/sleeping/
+
+I didn't have to remember all of that stuff I had written, so I only
+had to talk about the parts that I hadn't written about and to listen
+to the things that the other person had to say. Much more interesting,
+and much less work!
+
+## People already know me when they meet me
+I noticed recently that people act like they have known me since forever
+only shortly after meeting me. At first, I figured that this must be a
+trick or that they must just act this way with everyone. But then I realized
+that they really *did* know me because they had read all about me on the
+internet!
+
+People do all of the work of getting to know me on the internet, so meeting
+them becomes a lot less work for me; I get to learn about them, and I don't
+have to tell them about me.
+
+## On immortality
+Several people have recently expressed told me that they're excited for
+the future when computers advance to the point that we can digitize our
+consciousness. You might be surprized to learn that this future is already
+here. Moreover, it has already been here for a while.
+
+> Je savois... que la lecture de tous les bons livres est comme une
+> conversation avec les plus honnêtes gens des siècles passés, qui en ont
+> été les auteurs, et même une conversation étudiée en laquelle ils ne
+> nous découvrent que les meilleures de leurs pensées.
+
+[René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+already [knew that](http://www.gutenberg.org/cache/epub/13846/pg13846.txt)
+in [1637](https://en.wikipedia.org/wiki/Discourse_on_the_Method).
