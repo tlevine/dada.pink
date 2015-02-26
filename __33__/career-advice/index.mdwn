@@ -1,5 +1,7 @@
 [[!meta title="Career advice from Tom"]]
 
+*These started as notes for a talk at [Cyber Wizard Institute](http://cyber.wizard.institute/). A video might come eventually.*
+
 Perhaps you are considering a career, maybe in "data science",
 maybe in some other form of cyber wizardry, or maybe something
 totally different. And perhaps you are wondering what you should
