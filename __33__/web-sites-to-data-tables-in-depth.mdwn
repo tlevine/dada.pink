@@ -25,7 +25,7 @@ with [vlermv](https://pypi.python.org/pypi/vlermv).
     import requests
     from vlermv import cache
 
-    @cache(os.path.join(os.path.expanduser('~'), '.acpr'))
+    @cache('~/.acpr')
     def search(pg:int):
         '''
         pg is a natural number.
