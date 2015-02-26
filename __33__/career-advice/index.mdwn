@@ -237,17 +237,19 @@ of entry-level programming work on the job. The issue is that you have to
 convince the company that you know the appropriate amount of each of the
 buzzwords and incoherently fancy language.
 
-I haven't figured out exactly how this bullshit works, but here are two things
+#### Some examples of bullshit
+
+I haven't figured out exactly how this bullshit works, but here are some things
 that come to mind.
 
-First, you can develop arbitrary preferences. For example, learn to explain
+Develop arbitrary preferences. For example, learn to explain
 why a particular software is best and to complain about all of the problems
 about all of the alternatives. There is a diversity of experiences in the human
 condition, so most of these softwares are probably just fine, but briefly
 suspend this reasonability while you act like you're all experienced and shit.
 
- lot of you could do work that companies are supposedly hiring for
-
+Act smart in meetings.
+[This guide](https://medium.com/conquering-corporate-america/10-tricks-to-appear-smart-during-meetings-27b489a39d1a) is pretty good.
 
 ### Work only if it pays well.
 My view is that it is best to do horrible work for brief periods and then to
