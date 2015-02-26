@@ -35,9 +35,10 @@ I help organizations take advantage of data.
 
 ### Technology
 I use a wide range of technologies as appropriate.
-I am *quite good* with GNU/Linux system administration,
+I am *quite good* with dynamic programming languages,
+GNU/Linux system administration,
 web development, relational databases, NoSQL databases,
-dynamic programming languages, data analysis software, &c.
+data analysis software, &c.
 I have particularly *deep expertise* in R, Python, and Shell.
 
 ### Projects
