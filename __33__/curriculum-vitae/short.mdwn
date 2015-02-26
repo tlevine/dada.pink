@@ -25,10 +25,11 @@ Design & Environmental Analysis (Concentration in Human Factors & Ergonomics)
 I help organizations take advantage of data.
 
 ### Services
+
 * Data strategy and architecture
 * Visualization of data
 * Connecting disparate datasets of inconsistent data formats,
-    (that is, data warehousing and extract-transform-load)
+* Data warehousing, extract-transform-load (ETL)
 * Development of end-user data analysis tools
 * Training on data science and software engineering
 
