@@ -44,7 +44,7 @@ I have particularly *deep expertise* in R, Python, and Shell.
 ### Projects
 Here are the larger projects I've done.
 
-**Fraud detection**.
+**Anti-fraud**.
 [World Bank](http://worldbank.org/), Integrity Vice Presidency.
 (Washington, DC, USA, mostly remote; May 2014 to June 2014, half-time)
 I built a system for data-driven detection of suspicious behaviors in
