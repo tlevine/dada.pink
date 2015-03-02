@@ -91,5 +91,5 @@ infrastructure and build specialized data processing systems
 
 * English (native)
 * French
-* Mandarin Chinese
-* Swedish
+* Mandarin Chinese (can't read)
+* Swedish (only a little)
