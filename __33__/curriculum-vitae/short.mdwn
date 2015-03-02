@@ -22,13 +22,11 @@ Design & Environmental Analysis (Concentration in Human Factors & Ergonomics)
 ## Data science consulting
 *(May 2011 to present)*
 
-I help organizations take advantage of data.
-
-### Services
+I help organizations take advantage of data. Services include
 
 * Data strategy and architecture
 * Visualization of data
-* Connecting disparate datasets of inconsistent data formats,
+* Connecting disparate datasets of inconsistent data formats
 * Data warehousing, extract-transform-load (ETL)
 * Development of end-user data analysis tools
 * Training on data science and software engineering
@@ -42,7 +40,7 @@ data analysis software, &c.
 I have particularly *deep expertise* in R, Python, and Shell.
 
 ### Projects
-Here are the larger projects I've done.
+Here are some projects I've done.
 
 **Anti-fraud**.
 [World Bank](http://worldbank.org/), Integrity Vice Presidency.
