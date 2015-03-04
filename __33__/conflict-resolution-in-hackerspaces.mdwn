@@ -45,6 +45,8 @@ The PWKTCRP should convey the following.
     person. You must choose one, and only one, other person.
 2. If this happens, the second person may declare a third person who is
     involved in the conflict. The third may declare a forth, and so on.
+3. At this point, anyone who is not yet in the conflict may also declare
+    that she is, herself, part of the conflict.
 3. Once the people have declared who is in the conflict, we consider a
     conflict to exist that involves all of the people.
 4. Everyone who is involved in the conflict and is not a member of the
@@ -81,9 +83,27 @@ the interrupter right away and declare that there will be time for
 commentary later.
 
 ### Stepping through the procedures
+*You can follow a script a bit like this one.*
 
 
+Let's start. Raise your hand if you would like to declare a conflict,
+and I'll call on you.
+*Call on the first person.* Whom would you like to declare a conflict with?
+*If the person takes more than two seconds,* You haven't answered the question.
+If you don't tell me who the person is within ten seconds, we will consider
+you not to have declared a conflict.
+*If the person does not declare a conflict, repeat this with another raised hand.*
 
-now.
-The present article presents some procedures that I recommend 
-does happen, so it is
+Okay, [person that the person named], would you like to add someone else to the
+conflict? *If the person takes more than two seconds,* Answer or [see above]....
+*Repeat until it's done.*
+
+Would anyone else like to add herself to the conflict? Raise your hand if you
+want to.
+
+There is now a conflict between [all of the people---list their names].
+Please line up, and I'll take a picture of all of you.
+*Take the picture.*
+You now have two minutes to gather your belongings and leave the hackerspace.
+I'll follow you outside when you leave so I can go through the rest of the
+procedures. Everyone else, follow....
