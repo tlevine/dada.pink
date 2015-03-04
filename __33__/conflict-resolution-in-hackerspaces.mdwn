@@ -20,7 +20,68 @@ a institution that you don't call "hackerspace".
 
 ## The situation
 
+## Bylaws
+
+Why just one person? So you can't have one person kick out the whole room
+
 ## Immediate response
+A person who knows the conflict resolution procedures (PWKTCRP) should
+firmly and loudly declare that it appears that a conflict exists and that
+the hackerspace has procedures to handle this. After making this declaration,
+the PWKTCRP will
+
+1. Request assistance from everyone who is available
+2. Explain the procedures
+3. Step through the procedures
+
+### Explaining the procedures
+The PWKTCRP should convey the following.
+
+1. You may declare that a conflict exists between yourself and another
+    person. You must choose one, and only one, other person.
+2. If this happens, the second person may declare a third person who is
+    involved in the conflict. The third may declare a forth, and so on.
+3. Once the people have declared who is in the conflict, we consider a
+    conflict to exist that involves all of the people.
+4. Everyone who is involved in the conflict and is not a member of the
+    hackerspace will have two minutes to gather her things and then
+    leave the hackerspace and stay out for twelve hours.
+  * Members who are involved in the conflict are
+      encouraged to leave as well, but they don't have to.
+  * If two minutes isn't enough time for someone, he should gather what
+      he can and ask someone else to gather the rest.
+  * A photograph will be taken of each person involved in the conflict.
+5. People involved in the conflict may, of course, meet somewhere else
+    to talk, fight, &c., until the twelve-hour ban is up.
+6. The PWKTCRP will report on the incident to the mailing list of the
+    hackerspace, and everyone else is welcome to comment on it.
+7. After the twelve hour ban is up, anyone involved in the conflict may
+    email the mailing list to declare that the conflict still exists.
+    If this happens, the conflict will be brought up at the next meeting,
+    and the people at that meeting may choose to ban anyone involved in
+    the conflict.
+8. Provide an example based on the present situation: For example, Sam
+    might say that she and Alex are in a conflict. Alex might say that
+    Jack is also involved in the conflict. If this happens, there is a
+    conflict between Sam, Alex, and Jack. I (or someone else) will take
+    their photos, and then they will have two minutes to gather belongings
+    and leave the space. I will post a note on the mailing list.
+    After twelve hours, Sam, Alex, and Jack can come back in, and any
+    of them may request on the mailing list that the conflict be brought
+    up during the meeting this Wednesday.
+9. I don't expect you to remember all of these rules, so I will also
+    guide you through the process.
+
+If anyone interrupts during this explanation, the PWKTCRP should cut off
+the interrupter right away and declare that there will be time for
+commentary later.
+
+
+In my view, the main reason to have a concept of membership in a hackerspace
+is to be able to kick people out.
+
+
+
 now.
 The present article presents some procedures that I recommend 
 does happen, so it is
