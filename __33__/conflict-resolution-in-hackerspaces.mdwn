@@ -21,6 +21,8 @@ a institution that you don't call "hackerspace".
 ## The situation
 
 ## Bylaws
+In my view, the main reason to have a concept of membership in a hackerspace
+is to be able to kick people out.
 
 Why just one person? So you can't have one person kick out the whole room
 
@@ -33,6 +35,8 @@ the PWKTCRP will
 1. Request assistance from everyone who is available
 2. Explain the procedures
 3. Step through the procedures
+
+### Requesting assistance
 
 ### Explaining the procedures
 The PWKTCRP should convey the following.
@@ -76,9 +80,7 @@ If anyone interrupts during this explanation, the PWKTCRP should cut off
 the interrupter right away and declare that there will be time for
 commentary later.
 
-
-In my view, the main reason to have a concept of membership in a hackerspace
-is to be able to kick people out.
+### Stepping through the procedures
 
 
 
