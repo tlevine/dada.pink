@@ -7,8 +7,9 @@ know how to handle it. Fortunately, I *do* know how to handle it
 (unless I'm wrong), and I present my knowledge in the present article.
 
 ## Overview
-I'm going to describe some procedures for handling this situation.
-This includes
+I'm going to describe the sort of situation that I intend to deal with
+and then present my recommendation of procedures for handling this
+situation. The recommendations include
 
 * Stuff that should be included in your hackerspace's bylaws
 * Trainings for new members
@@ -17,7 +18,9 @@ This includes
 I'm going to keep saying "hackerspace", but this will apply for similar
 a institution that you don't call "hackerspace".
 
-## 
+## The situation
+
+## Immediate response
 now.
 The present article presents some procedures that I recommend 
 does happen, so it is
