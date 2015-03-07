@@ -76,6 +76,10 @@ applying the following algorithm to each note contained in the rhythm:
 4. Play the melody pitch for the duration between the beginning time
     and the end time.
 
+The above algorithm doesn't handle glissando, slurs, and other gradual
+pitch changes. In order to include them, one could itemize the different
+pitch change types, and assign a pitch change type to each rhythm note.
+
 A phrase has a chord progression, and this determines the relative
 keys of its component measures. I mention this because it has a name
 and I wanted to see how it fits in, but it's better to think of this
