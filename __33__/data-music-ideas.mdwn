@@ -44,12 +44,11 @@ The structures are typically written like this.
 
 ### Verse type
 The resulting music will have a few *tracks*. (I need a better name for this.)
-They are, approximately
+For a simple song, they might be something like this.
 
 * Melody
 * Bass/chords
-* Harmony (I don't know how this one works.)
-* Drums
+* Percussion
 * Flourishes (other percussion)
 
 Several instruments may be mapped to any track, and the instruments
