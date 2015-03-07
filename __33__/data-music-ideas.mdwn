@@ -14,6 +14,7 @@ them in this outline sense.
 
 The above outline works only for a certain sort of song, and one obvious
 characteristic of this sort of song is that it would be in four-four time.
+If I parametrized the outline a bit, this might support more song types.
 
 ## Properties of songs, verses, phrases, and measures
 These different song components are composed of each other, but each
