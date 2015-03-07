@@ -38,7 +38,8 @@ The structures are typically written like this.
 * "ABABACA": Alternate between two types of verses, with a third
     type stuck in at the end
 
-A song also has a few *tracks*. (I need a better name for this.)
+### Verse type
+The resulting music will have a few *tracks*. (I need a better name for this.)
 They are, approximately
 
 * Melody
@@ -50,12 +51,17 @@ They are, approximately
 Several instruments may be mapped to any track, and the instruments
 may change measure to measure. The tracks may also be turned on and
 off. But the instruments need to fit into one of the five tracks above.
-
-### Verse type
-A verse is mostly just a collection of four phrases; there isn't anything
-special here. That is, there totally is something to put here, but I don't
-yet know what.
+*The verse-type level is where instruments get mapped to tracks*.
+For example, one verse-type might have piano and vocals mapped to
+melody; bass guitar mapped to chords; and drums mapped to drums.
+Another
 
 ### Phrase
-A phrase has a *chord progression*, and this determines the relative
-keys of its component measures.
+
+
+### Measure
+A phrase has a chord progression, and this determines the relative
+keys of its component measures. I mention this because it has a name
+and I wanted to see how it fits in, but it's better to think of this
+as just a feature of the measure; a measure has a relative key, as
+discussed above.
