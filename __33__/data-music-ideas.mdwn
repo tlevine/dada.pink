@@ -58,7 +58,16 @@ off. But the instruments need to fit into one of the five tracks above.
 *The verse-type level is where instruments get mapped to tracks*.
 For example, one verse-type might have piano and vocals mapped to
 melody; bass guitar mapped to chords; and drums mapped to drums.
-Another
+
+When specifying this mapping, one must be able to specify slight
+*track transformations* that are specific to the instruments.
+For example, the drum track might have a rhythm with two notes per
+measure, one on the first beat and the other on the third beat.
+(We could perhaps write this as "x-x-".) We could specify a
+transformation for snare drums that makes the snare drum play
+only on the third beat. Or, we might have a melody track with
+a quarter-note rhythm and specify a transformation to turn that
+into eighth-notes.
 
 ### Phrase
 A verse is mostly just a collection of four phrases; there isn't anything
@@ -82,7 +91,10 @@ applying the following algorithm to each note contained in the rhythm:
 
 The above algorithm doesn't handle glissando, slurs, and other gradual
 pitch changes. In order to include them, one could itemize the different
-pitch change types, and assign a pitch change type to each rhythm note.
+*pitch change types*, and assign a pitch change type to each rhythm note.
+
+The above algorithm also doesn't handle accent and other
+*changes in dynamics*. These properties could also be assigned in the rhythm.
 
 A phrase has a chord progression, and this determines the relative
 keys of its component measures. I mention this because it has a name
