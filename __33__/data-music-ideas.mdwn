@@ -57,9 +57,25 @@ melody; bass guitar mapped to chords; and drums mapped to drums.
 Another
 
 ### Phrase
-
+A verse is mostly just a collection of four phrases; there isn't anything
+special here. That is, there totally is something to put here, but I don't
+yet know what.
 
 ### Measure
+The measure level is where *melody* and *rhythm* gets mapped to track.
+Melody can be defined as a sequence of notes, but this has rhythm, so
+how do we deal with that? I suggest that this can be accomplished by
+applying the following algorithm to each note contained in the rhythm:
+
+1. Check where within the measure this rhythm note starts. Call this
+    the "beginning time".
+2. Check for the pitch in the melody that corresponds with this time
+    in the measure.
+3. Take the minimum of the length of the rhythm note and the melody
+    note. Call this the "end time".
+4. Play the melody pitch for the duration between the beginning time
+    and the end time.
+
 A phrase has a chord progression, and this determines the relative
 keys of its component measures. I mention this because it has a name
 and I wanted to see how it fits in, but it's better to think of this
