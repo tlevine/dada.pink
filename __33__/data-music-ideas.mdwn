@@ -12,6 +12,9 @@ A *phrase* is composed of four *measures*.
 Measures have notes and stuff in them, but we stop thinking about
 them in this outline sense.
 
+The above outline works only for a certain sort of song, and one obvious
+characteristic of this sort of song is that it would be in four-four time.
+
 ## Properties of songs, verses, phrases, and measures
 These different song components are composed of each other, but each
 component also has its own aesthetics that informs how its children are
