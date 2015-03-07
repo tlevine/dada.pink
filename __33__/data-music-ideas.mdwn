@@ -51,5 +51,11 @@ Several instruments may be mapped to any track, and the instruments
 may change measure to measure. The tracks may also be turned on and
 off. But the instruments need to fit into one of the five tracks above.
 
-### Verse
-A verse has a *chord progression*
+### Verse type
+A verse is mostly just a collection of four phrases; there isn't anything
+special here. That is, there totally is something to put here, but I don't
+yet know what.
+
+### Phrase
+A phrase has a *chord progression*, and this determines the relative
+keys of its component measures.
