@@ -1,0 +1,55 @@
+I'm trying to break down some subset of contemporary music into an
+set of aesthetics onto which I can map plotting elements. Here's my
+present thinking.
+
+This is probably a sloppy version of rather elementary music theory,
+but I never learned it from a book.
+
+## Outline of a song
+A *song* is composed of *verses*. (The count is explained below.)
+A *verse* is composed of four *phrases*.
+A *phrase* is composed of four *measures*.
+Measures have notes and stuff in them, but we stop thinking about
+them in this outline sense.
+
+## Properties of songs, verses, phrases, and measures
+These different song components are composed of each other, but each
+component also has its own aesthetics that informs how its children are
+generated.
+
+### Properties that every component type has
+A song has an *absolute key*---the key that the song is "in". All other
+components types have *relative keys*, which are the changes in key relative
+the parent component. For example, a song in C major could contain a verse
+in "I" that contains a phrase in "I" with a measure in "vi". The result
+would be a measure in A minor, primarily, and C major, secondarily.
+This is used in construction of chords and melodies; notes are selected
+such that they are in the appropriate keys.
+
+### Songs
+A song has a *structure* of verses.
+Verses are categorized based on how they sound musically.
+Near-identical verses are given the same category, and each category
+is given a capital letter as a name, starting from "A". A song usually
+has at least three verses, with at least two different categories.
+The structures are typically written like this.
+
+* "AABA": Four verses, the third one being different
+* "ABABACA": Alternate between two types of verses, with a third
+    type stuck in at the end
+
+A song also has a few *tracks*. (I need a better name for this.)
+They are, approximately
+
+* Melody
+* Bass/chords
+* Harmony (I don't know how this one works.)
+* Drums
+* Flourishes (other percussion)
+
+Several instruments may be mapped to any track, and the instruments
+may change measure to measure. The tracks may also be turned on and
+off. But the instruments need to fit into one of the five tracks above.
+
+### Verse
+A verse has a *chord progression*
