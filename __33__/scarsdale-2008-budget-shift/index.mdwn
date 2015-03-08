@@ -6,9 +6,9 @@ The village substantially reduced its budget after 2008, mainly in the capital
 projects fund.
 
 [<img alt="Appropriation by year and fund"
-      src="appropriations.png"
+      src="../scarsdale-village-funds/appropriations.png"
       class="wide" />
-](appropriations.png)
+](../scarsdale-village-funds/appropriations.png)
 
 The fund's appropriation typically increases by a couple million dollars each
 year, but the appropriation was decreased by about $20 million in 2009-2010,
