@@ -11,21 +11,20 @@ publication, and the editor asked for my job title.
 
 None of these felt quite right.
 
-What about da**d**a? [David Riordan]()
+What about da<strong>d</strong>a? [David Riordan](http://magicschoolb.us/)
 had invented big dada at the Students for Free Culture
 conference a few months prior and convinced me to give a
 lightning talk about the relationship between free culture
-and the data thing.
+and the data thing. This was too reasonable to be considered
+dada, but the name stuck in my mind.
 
 I read multiple
-[dada]()
-[manifestos]()
+[dada](https://fr.wikisource.org/wiki/Manifeste_DaDa)
+[manifestos](http://www.freemedialibrary.com/index.php/Dada_Manifesto_%281918,_Tristan_Tzara%29)
 and thought that Dada was a rather perfect description
-for what I do.
+for what I do. Also, I enjoyed the ease of confusing dada for data.
 So I told her "Dada Artist".
 
 I don't
 know whether they wound up using it in this publication, but I've been using it
 ever since.
-
-
