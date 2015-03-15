@@ -313,7 +313,7 @@ The squiggly shapes in the back are violin plots, which are like smoothed
 versions of the points.
 
 The shapes of the two sides of the plots are sort of similar but also sort
-of different. Based on the plot, I'd guess that there probably is at least
+of different. Based on the plot, I'd guess that there is at least
 a small difference in whether an owner responds depending on whether the
 owner has many or few datasets. But I'm not really sure, based on the plot,
 about what the difference is.
@@ -527,6 +527,15 @@ but not now.)
 Also, I can't simply turn off the message, pull request, &c. features, so
 people assume that I pay attention to them. I notice them every few months
 by accident and thus don't respond very quickly.
+
+## Reasoning behind the owner contact thingy
+I discussed the above findings with a couple of people who work at Socrata
+(I spoke with them separately.) and then asked them if they knew of the
+original reason for including the feature. They both had the same answer
+for me: Socrata wants it to be clear that Socrata's client (the city,
+country, &c.) owns and manages the data, not Socrata, and the owner contact
+thingy was designed as it was to communicate this ownership; contrary to my
+suspicians, no particular client had specifically requested the feature.
 
 ## Relevance
 Are you looking for information about a dataset? On one hand, you might be
