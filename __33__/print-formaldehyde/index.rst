@@ -24,4 +24,4 @@ The dataset is derived from the
 `Formaldehyde <http://stat.ethz.ch/R-manual/R-devel/library/datasets/html/Formaldehyde.html>`_
 dataset from base R, but a "6" was swapped for the highlighted "5"
 because I ran out of 6s; in the original dataset, the fifth value
-of "optden" is 0.62**6** instead of 0.625.
+of "optden" is 0.62\ **6** instead of 0.625.
