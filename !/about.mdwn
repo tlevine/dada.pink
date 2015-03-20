@@ -1,4 +1,5 @@
-[[!meta title="About Thomas Levine"]]
+About Thomas Levine
+=====================
 
 ![A picture of Tom](/img/tram-thomas.jpg)
 

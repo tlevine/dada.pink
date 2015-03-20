@@ -1,5 +1,6 @@
+description: Things you might want to know if you asked me a hard question
+---------------------
 [[!meta title="Asking me questions"]]
-[[!meta description="Things you might want to know if you asked me a hard question"]]
 
 People sometimes ask me questions that are far more complicated than I
 am in the mood to answer. In such cases, I might still be in the mood
