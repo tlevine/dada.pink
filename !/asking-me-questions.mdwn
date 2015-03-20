@@ -1,6 +1,6 @@
 description: Things you might want to know if you asked me a hard question
 ---------------------
-title: Asking me questions
+# Asking me questions
 
 People sometimes ask me questions that are far more complicated than I
 am in the mood to answer. In such cases, I might still be in the mood

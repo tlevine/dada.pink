@@ -1,4 +1,4 @@
-title: How to kick someone out of a hackerspace when he's being very disruptive
+# How to kick someone out of a hackerspace when he's being very disruptive
 
 An inconvenience of hackerspaces and similarly communal institutions
 is that anyone can get in, including people who disrupt what everyone
