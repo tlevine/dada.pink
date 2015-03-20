@@ -1,5 +1,6 @@
 title: Websites to data tables, in depth
 description: Tom finally explains how he scrapes websites.
+--------------------------------------------------------
 [[!tag learn]]
 [[!tag convert]]
 

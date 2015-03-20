@@ -1,4 +1,4 @@
-title: Why dada
+# Why dada
 
 I've never particularly liked explaining what I "do", and I
 think I kind of reject the concept of such categorization.

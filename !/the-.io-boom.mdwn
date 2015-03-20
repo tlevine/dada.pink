@@ -1,5 +1,6 @@
 title: The .io boom
 description: Why do people like .io domains so much?
+--------------------------------------------------------
 
 I remarked that I'm usually not excited to hear about things ending in
 ".io" because I think it's going to be a boring company product that's
