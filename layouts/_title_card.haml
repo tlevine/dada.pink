@@ -1,7 +1,0 @@
-%hgroup
-  %h1
-    #{link ? link_to(item[:title], item.identifier) : item[:title]}
-  %p
-    = item[:subtitle]
-.date
-  = item[:created_at].strftime('%B %d, %Y') rescue ''

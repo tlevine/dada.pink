@@ -1,1 +1,0 @@
-[[!meta redir="/__33__/sliding-window-and-the-merits-of-tiny-modules"]]

@@ -1,7 +1,0 @@
-Thanks for all of the tips.
-
-I've used USB network adapters, but they aren't very well supported by Linux. They wind up being fine for SSH with [url=https://github.com/keithw/mosh/]mosh[/url], but they're quite bad for HTTP.
-
-I wound up getting a [url=http://www.newegg.com/Product/Product.aspx?Item=N82E16833106191]7260HMW BN[/url] because it didn't say that it requires a Haswell processor. (The one that ktriebol linked says "4th generation Intel Core processors".) It probably requires a Haswell processor anyway, but I can hope.
-
-It fits just fine and gets detected, but it turns out that this card's driver also has [url=https://bbs.archlinux.org/viewtopic.php?id=134920]issues[/url]. Until I fix that, I'm using a TP-LINK TL-WR710N, which I plan on turning into a [url=http://ofmodemsandmen.com/]ROOter[/url].

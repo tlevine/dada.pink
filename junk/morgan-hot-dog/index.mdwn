@@ -1,1 +1,0 @@
-[[!map pages="exclaim/morgan-hot-dog/* and ! exclaim/morgan-hot-dog/*/*"]]
