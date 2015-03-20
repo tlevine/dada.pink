@@ -1,5 +1,5 @@
-[[!meta title="Readings"]]
-[[!meta description="Books and other readings Tom likes or wants to read or something"]]
+title: Readings
+description: Books and other readings Tom likes or wants to read or something
 
 My favorite books
 --------------------

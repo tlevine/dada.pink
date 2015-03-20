@@ -1,4 +1,4 @@
-[[!meta title="Design for varied ability"]]
+title: Design for varied ability
 <!-- created_at: 2013-02-09 -->
 [[!tag ergonomics]]
 

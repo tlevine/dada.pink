@@ -1,4 +1,4 @@
-[[!meta title="Five stages of PhD"]]
+title: Five stages of PhD
 <!-- created_at: 2013-04-21 -->
 
 In my categorical data analysis class (BTRY 6030), 

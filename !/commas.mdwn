@@ -1,5 +1,5 @@
-[[!meta title="Commas"]]
-[[!meta description="CSV is the people's data format, the common language that will unite us and bring world peace."]]
+title: Commas
+description: CSV is the people's data format, the common language that will unite us and bring world peace.
 
 Some friends and I started making music based on "data" (dunno exactly
 what I mean by that), and then it spiraled out of control. Also,

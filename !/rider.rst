@@ -1,5 +1,5 @@
-[[!meta title="Tom's rider"]]
-[[!meta description="Things you might want to know if you are hosting or considering hosting Tom"]]
+title: Tom's rider
+description: Things you might want to know if you are hosting or considering hosting Tom
 
 Tom's Rider
 ==============

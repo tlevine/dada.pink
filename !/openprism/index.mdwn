@@ -1,5 +1,5 @@
-[[!meta title="OpenPrism"]]
-[[!meta description="Open the open data silos!"]]
+title: OpenPrism
+description: Open the open data silos!
 <!-- tweet_text: Search all the portals! http://openprism.thomaslevine.com http://thomaslevine.com/!/openprism @CKANproject @junar @socrata #opendata -->
 <!-- tweet_link: https://twitter.com/thomaslevine/status/367025550843326464 -->
 <!-- twitter_image: taco.png -->

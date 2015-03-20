@@ -1,4 +1,4 @@
-[[!meta title="Movies I like"]]
+title: Movies I like
 <!-- created_at: 2013-03-09 -->
 
 I tend to fall asleep during movies, so I prefer movies for which falling

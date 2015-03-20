@@ -1,4 +1,4 @@
-[[!meta title="Surveilling people is harder than I had though"]]
+title: Surveilling people is harder than I had though
 [[!tag dadawarehouse]]
 
 I've been collecting lots of data for the past ten years or so,

@@ -1,5 +1,5 @@
-[[!meta title="On the financial value of college"]]
-[[!meta description=""]]
+title: On the financial value of college
+description: 
 
 A friend sent me an newspaper article by
 [Jeff Guo](http://www.washingtonpost.com/people/jeff-guo)

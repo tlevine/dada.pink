@@ -1,4 +1,4 @@
-[[!meta title="Finding unique keys in a thousand spreadsheets"]]
+title: Finding unique keys in a thousand spreadsheets
 [[!tag open-data]]
 <!-- tweet_text: These spreadsheets didn't specify unique indices, so I figured them out. -->
 

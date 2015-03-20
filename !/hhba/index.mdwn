@@ -1,5 +1,5 @@
-[[!meta title="HHBA Media Party"]]
-[[!meta description="Hacks Hackers Buenos Aires Media Party"]]
+title: HHBA Media Party
+description: Hacks Hackers Buenos Aires Media Party
 <!-- created_at: 2012-09-21 -->
 <!-- relationships: ['scraperwiki'] -->
 

@@ -1,4 +1,4 @@
-[[!meta title="Installing Selenium"]]
+title: Installing Selenium
 <!-- created_at: 2012-04-24 -->
 
 The Selenium Server documentation is unnecessarily painful;

@@ -1,4 +1,4 @@
-[[!meta title="Reciprocity"]]
+title: Reciprocity
 [[!tag aesthesiology]]
 <!-- created_at: 2013-08-19 -->
 

@@ -1,4 +1,4 @@
-[[!meta title="New York Pizza"]]
+title: New York Pizza
 .. <!-- created_at: 2012-11-21 -->
 [[!tag doodles]]
 

@@ -1,4 +1,4 @@
-[[!meta title="Schemas and formats"]]
+title: Schemas and formats
 [[!tag learn]]
 
 format, like CSV

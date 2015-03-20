@@ -1,5 +1,5 @@
-[[!meta title="print(Formaldehyde)"]]
-[[!meta description="The formaldehyde dataset printed on letterpress in CSV format"]]
+title: print(Formaldehyde)
+description: The formaldehyde dataset printed on letterpress in CSV format
 [[!tag letterpress]]
 
 .. image:: csv-chase.jpg

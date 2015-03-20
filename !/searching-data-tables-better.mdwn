@@ -1,5 +1,5 @@
-[[!meta title="Searching data tables better"]]
-[[!meta description="How we can make it easier to search through open data"]]
+title: Searching data tables better
+description: How we can make it easier to search through open data
 [[!tag open-data]]
 
 I previously wrote about

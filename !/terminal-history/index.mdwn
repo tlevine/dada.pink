@@ -1,4 +1,4 @@
-[[!meta title="Terminal history"]]
+title: Terminal history
 [[!tag dotfiles]]
 <!-- created_at: 2013-05-09 -->
 

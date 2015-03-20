@@ -1,4 +1,4 @@
-[[!meta title="Websites to data tables"]]
+title: Websites to data tables
 [[!tag learn]]
 [[!tag convert]]
 

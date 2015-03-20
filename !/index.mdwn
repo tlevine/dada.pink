@@ -1,2 +1,2 @@
-[[!meta title="!"]]
+title: !
 [[!map pages="__33__/* and ! __33__/*/*"]]

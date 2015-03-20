@@ -1,4 +1,4 @@
-[[!meta title="Storage services"]]
+title: Storage services
 
 Here are some attributes of different services. The more appealing services
 are earlier in the table.

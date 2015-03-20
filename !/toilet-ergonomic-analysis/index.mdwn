@@ -1,4 +1,4 @@
-[[!meta title="A functional ergonomic analysis of public toilets"]]
+title: A functional ergonomic analysis of public toilets
 
 Thomas Levine, 2010
 

@@ -1,4 +1,4 @@
-[[!meta title="Hyperconversation"]]
+title: Hyperconversation
 
 I put everything I can on the internet so that I don't have to remember
 where it is; search engines do that for me. This has hilarious and wonderful

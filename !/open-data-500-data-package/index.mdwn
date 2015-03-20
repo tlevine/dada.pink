@@ -1,4 +1,4 @@
-[[!meta title="Open Data 500 Data Package"]]
+title: Open Data 500 Data Package
 [[!tag open-data]]
 <!-- tweet_text: I cleaned up the Open Data 500 data. My first data package! http://thomaslevine.com/!/open-data-500-data-package -->
 <!-- created_at: 2014-02-03 -->

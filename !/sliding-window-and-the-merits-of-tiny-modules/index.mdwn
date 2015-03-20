@@ -1,5 +1,5 @@
-[[!meta title="Sliding Window"]]
-[[!meta description="And the merits of tiny modules"]]
+title: Sliding Window
+description: And the merits of tiny modules
 
 ## Sliding window
 I once wanted to iterate over a thing in Python and have access to

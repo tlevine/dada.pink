@@ -1,6 +1,6 @@
 [[!tag learn]]
-[[!meta title="Netwaves"]]
-[[!meta description=""]]
+title: Netwaves
+description: 
 This came out of the Bits and Sound workshop at Relearn.
 
 ## File formats

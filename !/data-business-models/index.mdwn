@@ -1,4 +1,4 @@
-[[!meta title="Data business models"]]
+title: Data business models
 <!-- created_at: 2013-04-15 -->
 <!-- relationships: ['scraperwiki'] -->
 

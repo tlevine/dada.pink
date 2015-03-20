@@ -1,4 +1,4 @@
-[[!meta title="Things to read"]]
+title: Things to read
 
 Emacs
 

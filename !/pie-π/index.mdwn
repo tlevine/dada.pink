@@ -1,4 +1,4 @@
-[[!meta title="Pie π"]]
+title: Pie π
 
 I made a pie π! No, not a [pypy](http://pypy.org),
 

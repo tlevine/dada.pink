@@ -1,4 +1,4 @@
-[[!meta title="On balancing checkbooks"]]
+title: On balancing checkbooks
 [[!tag learn]]
 
 Balancing checkbooks is one of those things that people say everyone should

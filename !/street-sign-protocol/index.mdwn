@@ -1,5 +1,5 @@
-[[!meta title="The Street Sign Protocol"]]
-[[!meta description="What is a computer protocol?"]]
+title: The Street Sign Protocol
+description: What is a computer protocol?
 [[!tag learn]]
 <!-- tweet_text: The Simple Street Sign Protocol is a communications protocol used to orient humans to their location within a street grid http://thomaslevine.com/!/street-sign-protocol -->
 <!-- facebook_text: The Simple Street Sign Protocol is a communications protocol used to orient humans to their location within a street grid. -->

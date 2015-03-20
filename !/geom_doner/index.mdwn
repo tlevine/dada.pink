@@ -1,5 +1,5 @@
-[[!meta title="geom_doner"]]
-[[!meta description="Because data visualization is not enough"]]
+title: geom_doner
+description: Because data visualization is not enough
 [Data visualization needs to die](http://small.dada.pink/gastronomification-big-data-talk/hacks-hackers-berlin-2014-08/data-visualization-needs-to-die.pdf).
 We need data döner.
 

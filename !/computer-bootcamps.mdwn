@@ -1,5 +1,5 @@
-[[!meta title="Should I do a computer bootcamp?"]]
-[[!meta description="I explain the various benefits of these bootcamp courses so you can decide whether to take one."]]
+title: Should I do a computer bootcamp?
+description: I explain the various benefits of these bootcamp courses so you can decide whether to take one.
 
 You may have heard of computer "bootcamps", informal schools that are
 structured a bit like university semesters or like continuing education

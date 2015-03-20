@@ -1,4 +1,4 @@
-[[!meta title="Data Wranglers DC PDF parsing"]]
+title: Data Wranglers DC PDF parsing
 [[!tag learn]]
 [[!tag convert]]
 

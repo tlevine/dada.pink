@@ -1,4 +1,4 @@
-[[!meta title="URL Encoding and Decoding"]]
+title: URL Encoding and Decoding
 [[!tag dotfiles]]
 <!-- created_at: 2012-06-15 -->
 

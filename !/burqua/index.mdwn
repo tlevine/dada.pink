@@ -1,4 +1,4 @@
-[[!meta title="Burqua"]]
+title: Burqua
 <!-- created_at: 2011-03-24 -->
 [[!tag shenanigans]]
 

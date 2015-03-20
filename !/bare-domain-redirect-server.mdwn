@@ -1,4 +1,4 @@
-[[!meta title="Bare domain redirect server"]]
+title: Bare domain redirect server
 [[!tag toys]]
 
 <!-- created_at: 2012-06-18 -->

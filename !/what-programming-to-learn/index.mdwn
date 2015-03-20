@@ -1,4 +1,4 @@
-[[!meta title="What I think people who want to learn programming"]]
+title: What I think people who want to learn programming
 
 Some people want to learn programming for the sake of it
 rather than for a particular project. I would rather [sleep](/!/sleeping/),

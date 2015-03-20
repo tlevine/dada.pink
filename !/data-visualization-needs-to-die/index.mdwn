@@ -1,4 +1,4 @@
-[[!meta title="Data Visualization Needs to Die"]]
+title: Data Visualization Needs to Die
 
 Data visualization is a common data analysis tool. We convert data
 into visuals in order to make sense of what is going on.

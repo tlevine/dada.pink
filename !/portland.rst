@@ -1,5 +1,5 @@
-[[!meta title="Portland"]]
-[[!meta description="On the naming of Portlands"]]
+title: Portland
+description: On the naming of Portlands
 
 On the naming of Portlands
 =============================

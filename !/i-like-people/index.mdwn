@@ -1,5 +1,5 @@
-[[!meta title="I like people"]]
-[[!meta description="Things I do to learn about people"]]
+title: I like people
+description: Things I do to learn about people
 
 I'm always curious about everything about people. Well, surely not
 everything, but it seems like everything. I'm always curious to see

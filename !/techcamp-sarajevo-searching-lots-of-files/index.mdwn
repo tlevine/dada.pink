@@ -1,4 +1,4 @@
-[[!meta title="Searching lots of inconveniently formatted files at once"]]
+title: Searching lots of inconveniently formatted files at once
 <!-- created_at: 2013-05-21 -->
 <!-- relationships: ['techsoup', 'state-dept'] -->
 

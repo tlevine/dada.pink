@@ -1,4 +1,4 @@
-[[!meta title="Learn Computers Through Everyday Activities"]]
+title: Learn Computers Through Everyday Activities
 [[!tag computer]]
 <!-- created_at: 2012-08-09 -->
 

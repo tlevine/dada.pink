@@ -1,5 +1,5 @@
-[[!meta title="Tom Computer School"]]
-[[!meta description="I formalize my views on learning computer stuff."]]
+title: Tom Computer School
+description: I formalize my views on learning computer stuff.
 
 I want to run Tom's Computer School at your hackerspace or school or
 wherever. Or maybe even over the internet, if we can't do in person.

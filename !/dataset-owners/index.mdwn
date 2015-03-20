@@ -1,5 +1,5 @@
-[[!meta title="What happens when you use Socrata's Contact Dataset Owner feature"]]
-[[!meta description="Your message does go somewhere!"]]
+title: What happens when you use Socrata's Contact Dataset Owner feature
+description: Your message does go somewhere!
 
 I've heard of several other people trying to contact the owners
 of datasets on government websites but never getting a response.

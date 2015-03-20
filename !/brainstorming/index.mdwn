@@ -1,4 +1,4 @@
-[[!meta title="Brainstorming"]]
+title: Brainstorming
 [[!tag learn]]
 <!-- created_at: 2013-06-09 -->
 

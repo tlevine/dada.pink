@@ -1,4 +1,4 @@
-[[!meta title="A university fundraiser"]]
+title: A university fundraiser
 
 I once went to a fundraiser for a large American university.
 It was hilarious.

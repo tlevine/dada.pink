@@ -1,5 +1,5 @@
-[[!meta title="Things I want to do"]]
-[[!meta description="Some things that might be more exciting than sleep"]]
+title: Things I want to do
+description: Some things that might be more exciting than sleep
 
 ## Software things for other people
 

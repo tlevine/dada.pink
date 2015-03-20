@@ -1,5 +1,5 @@
-[[!meta title="Websites to data tables, in depth"]]
-[[!meta description="Tom finally explains how he scrapes websites."]]
+title: Websites to data tables, in depth
+description: Tom finally explains how he scrapes websites.
 [[!tag learn]]
 [[!tag convert]]
 

@@ -1,4 +1,4 @@
-[[!meta title="imapfilter"]]
+title: imapfilter
 [[!tag learn]]
 <!-- created_at: 2013-03-29 -->
 

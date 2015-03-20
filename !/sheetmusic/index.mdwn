@@ -1,5 +1,5 @@
-[[!meta title="Sheetmusic"]]
-[[!meta description="Making music from spreadsheets"]]
+title: Sheetmusic
+description: Making music from spreadsheets
 [Sheetmusic](http://pypi.python.org/pypi/sheetmusic) is
 a package for composing music inside of spreadsheets.
 

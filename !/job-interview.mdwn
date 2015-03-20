@@ -1,5 +1,5 @@
-[[!meta title="Job interview"]]
-[[!meta description="Things I wonder about jobs"]]
+title: Job interview
+description: Things I wonder about jobs
 
 Here are some questions that I find myself asking in the early stages
 of job interviews. If you are interested in hiring me, please answer these

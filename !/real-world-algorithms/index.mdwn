@@ -1,4 +1,4 @@
-[[!meta title="Real World Algorithms"]]
+title: Real World Algorithms
 [[!tag learn]]
 <!-- created_at: 2013-03-04 -->
 

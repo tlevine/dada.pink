@@ -1,5 +1,5 @@
-[[!meta title="Taxes and inflation"]]
-[[!meta description="Scarsdale Village tax rates and inflation"]]
+title: Taxes and inflation
+description: Scarsdale Village tax rates and inflation
 [[!tag scarsdale]]
 <!-- created_at: 2013-03-27 -->
 <!-- other_source: https://github.com/tlevine/scarsdale-data -->

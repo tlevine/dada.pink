@@ -1,5 +1,5 @@
-[[!meta title="What should I do?"]]
-[[!meta description="What would I like doing other than sleeping?"]]
+title: What should I do?
+description: What would I like doing other than sleeping?
 
 I'm going to tell you some things I have noticed recently and then see if you
 have advice for me regarding what I might want to do (for work or whatever).

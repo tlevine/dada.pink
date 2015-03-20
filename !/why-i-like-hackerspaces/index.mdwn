@@ -1,5 +1,5 @@
-[[!meta title="Using technology to enable people"]]
-[[!meta description="And why Tom likes hackerspaces"]]
+title: Using technology to enable people
+description: And why Tom likes hackerspaces
 [[!tag learn]]
 
 I see the following attitude a lot, especially in San Francisco.

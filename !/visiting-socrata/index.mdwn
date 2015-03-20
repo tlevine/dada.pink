@@ -1,4 +1,4 @@
-[[!meta title="My visit to Socrata, and data analysis about data analysis"]]
+title: My visit to Socrata, and data analysis about data analysis
 [[!tag open-data]]
 <!-- created_at: 2013-08-30 -->
 

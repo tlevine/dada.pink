@@ -1,5 +1,5 @@
-[[!meta title="Don't let binary files scare you"]]
-[[!meta description="Binary files might seem scary if you're used to looking at text, but most of what you know about text files is the same for binary files in general."]]
+title: Don't let binary files scare you
+description: Binary files might seem scary if you're used to looking at text, but most of what you know about text files is the same for binary files in general.
 [[!tag learn]]
 [[!tag convert]]
 <!-- created_at: 2014-04-16 -->

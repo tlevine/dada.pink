@@ -1,4 +1,4 @@
-[[!meta title="Linked Lists"]]
+title: Linked Lists
 [[!tag learn]]
 [[!tag data-structures-algorithms]]
 

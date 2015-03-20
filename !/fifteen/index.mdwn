@@ -1,4 +1,4 @@
-[[!meta title="Foo"]]
+title: Foo
 
 This happened.
 

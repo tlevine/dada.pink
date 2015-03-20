@@ -1,4 +1,4 @@
-[[!meta title="BeagleBone Power Supply"]]
+title: BeagleBone Power Supply
 [[!tag learn]]
 <!-- created_at: 2012-05-07 -->
 
