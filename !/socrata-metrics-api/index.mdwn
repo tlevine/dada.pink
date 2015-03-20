@@ -1,10 +1,10 @@
 title: How to use Socrata's site metrics API
 description: Unofficial documentation of an unofficial Socrata API
-<!-- created_at: 2013-08-14 -->
-<!-- tweet_text: I really like writing documentation. http://thomaslevine.com/!/socrata-metrics-api -->
-<!-- tweet_link1: -->
-<!-- twitter_image: screenshot.png -->
-<!-- facebook_image: screenshot.png -->
+created_at: 2013-08-14
+tweet_text: I really like writing documentation. http://thomaslevine.com/!/socrata-metrics-api
+tweet_link1:
+twitter_image: screenshot.png
+facebook_image: screenshot.png
 [[!tag socrata open-data]]
 
 The site metrics API on a Socrata open data portal tells you some

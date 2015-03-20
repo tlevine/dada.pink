@@ -1,7 +1,7 @@
 title: How I parse PDF files
 [[!tag learn]]
 [[!tag convert]]
-<!-- created_at: 2013-02-13 -->
+created_at: 2013-02-13
 
 <style>
 article pre code { font-size: 0.7em; }

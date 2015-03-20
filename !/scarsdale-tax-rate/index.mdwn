@@ -1,8 +1,8 @@
 title: Taxes and inflation
 description: Scarsdale Village tax rates and inflation
 [[!tag scarsdale]]
-<!-- created_at: 2013-03-27 -->
-<!-- other_source: https://github.com/tlevine/scarsdale-data -->
+created_at: 2013-03-27
+other_source: https://github.com/tlevine/scarsdale-data
 
 I took some [information](https://github.com/tlevine/scarsdale-data/blob/master/budget/appendix_a1-tax.csv)
 out of the Scarsdale budgets and noticed that the property tax rate increases quite consisently.

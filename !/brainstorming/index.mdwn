@@ -1,6 +1,6 @@
 title: Brainstorming
 [[!tag learn]]
-<!-- created_at: 2013-06-09 -->
+created_at: 2013-06-09
 
 Lots of people think that creativity is some innate trait that
 can't be learned. It isn't; people seem to think I'm very creative,

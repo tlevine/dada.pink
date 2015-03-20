@@ -1,6 +1,6 @@
 [[!meta title="Another definition of "big data""]]
-<!-- created_at: 2013-03-11 -->
-<!-- relationships: ['datakind'] -->
+created_at: 2013-03-11
+relationships: ['datakind']
 
 I'm helping prepare for DataKind's datadive with the world bank and had some
 trouble with the World Bank's [DataBank](http://databank.worldbank.org).

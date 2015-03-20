@@ -1,5 +1,5 @@
 title: Preserving whitespace in haml
-<!-- created_at: 2013-06-15 -->
+created_at: 2013-06-15
 
 If been to this site in the last few weeks, you've seen ugly code blocks like
 this one (from my article on my [scp wrapper](/!/scp-wrapper/)).

@@ -1,4 +1,4 @@
-<!-- merge with "movies" -->
+merge with "movies"
 
 title: Films I like
 

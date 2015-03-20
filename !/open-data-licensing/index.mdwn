@@ -1,13 +1,13 @@
 title: Open data licensing
-<!-- created_at: 2013-10-02 -->
+created_at: 2013-10-02
 [[!tag open-data]]
-<!-- tweet_text: Are your data really open if they don't have a license? http://thomaslevine.com/!/open-data-licensing -->
-<!-- twitter_title: Lots of datasets on open data portals are openly licensed -->
-<!-- twitter_description: But most aren't. -->
-<!-- twitter_image: square.png -->
-<!-- facebook_title: Lots of datasets on open data portals are openly licensed -->
-<!-- facebook_description: But most aren't. -->
-<!-- facebook_image: square.png -->
+tweet_text: Are your data really open if they don't have a license? http://thomaslevine.com/!/open-data-licensing
+twitter_title: Lots of datasets on open data portals are openly licensed
+twitter_description: But most aren't.
+twitter_image: square.png
+facebook_title: Lots of datasets on open data portals are openly licensed
+facebook_description: But most aren't.
+facebook_image: square.png
 
 I downloaded all of the metadata files from 102 open data
 portals hosted on CKAN, Socrata and OpenDataSoft. Each of
