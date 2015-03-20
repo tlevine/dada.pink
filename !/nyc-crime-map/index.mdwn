@@ -1,10 +1,11 @@
 title: NYC Crime Map Data API
 description: How to call the API for the NYC crime map
-[[!tag convert]]
 tweet_text: The API for the NYC Crime Map is pretty nice. https://github.com/tlevine/nyc-crime-map http://thomaslevine.com/!/nyc-crime-map
 twitter_image: firefox.png
 facebook_image: firefox.png
 created_at: 2014-01-09
+-------
+[[!tag convert]]
 
 People have been complaining a lot about how you can't get the raw data out of this
 [NYC Crime Map](http://maps.nyc.gov/crime/). I don't know what they're talking about.

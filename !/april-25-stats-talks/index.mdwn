@@ -1,6 +1,7 @@
-[[!meta title="Attendees decide between statistics talks""]]
-
 created_at: 2013-04-24
+--------------------------------------------------------
+# Attendees decide between statistics talks
+
 
 Recent statistics indicate resolutions of indecision regarding April 25 statistics talks.
 

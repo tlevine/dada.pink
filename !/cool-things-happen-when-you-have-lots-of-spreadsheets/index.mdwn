@@ -1,9 +1,10 @@
 title: Talking at Open Austin
 created_at: 2014-02-24
-[[!tag open-data]]
 twitter_image: unsilo.png
 facebook_image: unsilo.png
 description: A whirlwind tour of my studies about open data
+--------------------------------------------------------
+[[!tag open-data]]
 
 Here are some materials for my talk at
 [Open Austin](http://www.open-austin.org/).

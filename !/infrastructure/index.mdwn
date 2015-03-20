@@ -1,4 +1,5 @@
 title: My personal computer infrastructure
+-------
 [[!tag computer]]
 
 This is the architecture that runs my various sites and other services

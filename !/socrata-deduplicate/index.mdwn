@@ -6,6 +6,7 @@ twitter_title: Well this changes our @socrata data portal statistics....
 description: I finally deduplicated the Socrata dataset data.
 twitter_image: figure/network.png
 facebook_image: figure/network.png
+------------
 [[!tag socrata open-data]]
 
 Lots of governments use Socrata data portals to release their open data.

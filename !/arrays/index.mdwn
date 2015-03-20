@@ -1,4 +1,5 @@
-[[!meta title="Arrays""]]
+--------------------------------------------------------
+# Arrays
 [[!tag data-structures-algorithms]]
 [[!tag learn]]
 

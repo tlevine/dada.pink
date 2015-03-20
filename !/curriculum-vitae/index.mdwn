@@ -1,4 +1,5 @@
 title: Curriculum vitae
+----
 
 1. [Short version](short)
 2. [Medium version](medium)

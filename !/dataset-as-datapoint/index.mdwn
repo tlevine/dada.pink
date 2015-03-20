@@ -1,4 +1,5 @@
 title: Open Data Had Better Be Data-Driven
+-----------
 
 *A version of this article was published in the winter 2014 issue of [Socrata's magazine](http://www.socrata.com/magazine/).*
 

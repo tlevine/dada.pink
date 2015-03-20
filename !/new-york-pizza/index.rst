@@ -1,5 +1,6 @@
 title: New York Pizza
-.. <!-- created_at: 2012-11-21 -->
+created_at: 2012-11-21
+-------
 [[!tag doodles]]
 
 I hadn't eaten much New York pizza, so I asked

@@ -1,5 +1,6 @@
 title: What's in a table?
 redir: http://www.datakind.org/blog/whats-in-a-table/
+----------
 [[!tag learn]]
 [[!tag datakind]]
 
