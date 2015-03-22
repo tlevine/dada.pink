@@ -80,3 +80,16 @@ Here's an example of
 
 
 <!-- https://web.archive.org/web/20111007065304/http://vihart.com/vi/ -->
+
+
+## Other websites
+Profiles
+
+* [Facebook](http://facebook.com/perluette)
+* [Twitter](https://twitter.com/thomaslevine)
+* [LinkedIn](https://www.linkedin.com/in/tlevine)
+* [Google](https://plus.google.com/112237825767532686869)
+
+Packages and writings and stuff
+
+<blockquote><code>pip install <a href="https://pypi.python.org/pypi/tlevine">tlevine</a> && tlevine</code></blockquote>
