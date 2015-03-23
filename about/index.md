@@ -3,11 +3,9 @@ About Thomas Levine
 
 ![A picture of Tom](/img/tram-thomas.jpg)
 
-http://www.nga.gov/exhibitions/2006/dada/cities/index.shtm
-
 I like to [sleep](/!/sleeping/), and I'm usually
 curious about why people do anything else.
-My favorite color is [pink](/img/me-420.png).
+When I'm not sleeping, I like to do things that let me sleep more.
 
 ## Ergonomics
 I apparently know something about
@@ -15,12 +13,6 @@ I apparently know something about
 I have made assembly lines for fun since as long as I remember,
 and I noticed that it was weird only at university while I was
 making a snow fort with some other people.
-It seems also that I pay unusually much attention to why and how
-[people](http://small.dada.pink/dadawarehouse/README)
-[do](/!/hovering-cycle/)
-[things](/!/reciprocity/).
-
-<!-- (/!/why-do-people-crack-wrists/) -->
 
 My back and wrists started hurting when I was about 13. It might
 have had something to do with me playing cello and using computers
@@ -29,67 +21,33 @@ how backs and wrists work. And then my back and wrists didn't hurt as
 much. And then I went to university and got a degree in ergonomics.
 
 ## Computer
-When I'm not sleeping, I sometimes makes things that
-[do](http://small.dada.pink/whom-to-email/README)
-[my](/!/geeky-free-software-project)
-[work](https://pypi.python.org/pypi/tlevine)
-for me so I have 
-more time to sleep. My main trick is to articulate an
-intuition in math and then repeat stupid things
-[many](/!/searching-data-tables-better/)
-[many](/open-data)
-[times](http://pypi.python.org/pypi/pluplusch).
-This might be why people started calling me a data scientist.
+I'm apparently pretty good with computers too. When I'm not sleeping,
+I often make computer things that do my work for me so I have more time
+to sleep.
 
 I usually doesn't like talking about computers, or at least not in the
-way that people usually talk about them. It's about as interesting as talking
-about how to sharpen a pencil---probably fun once in a while, but boring
-if it's all that people ever want to talk about, especially if there isn't
-anything interesting to write about with your sharpened pencil.
+way that people usually talk about them. It's about as interesting to me
+as talking about how to sharpen a pencil; it's fun once in a while, and
+but I'm usually more interested in the thing I'm writing with the pencil
+than in advancing pencil-sharpening techniques.
 
-## Teaching
-The sort of teaching that people talk about is a
-[lot of work](/!/learning-data-stuff/),
-so here is how I like to teach people instead.
+## Records
+I write often about things that I'm thinking about or doing. This has some
+neat [side effects on social interactions](/!/hypermediated-conversation/), and
+it has something to do with my [approach to teaching](/!/tom-computer-school/).
 
-Do your own project or whatever, and try to learn the things that you
-think you need to learn. If there's something that is taking you a while
-to figure out, try to avoid learning it. If you can't avoid learning it,
-ask someone (so maybe me) for some help with that thing.
+## Contacting Tom
+Email is a good place to start; my email address is
+<a rel="me" href="mailto:_@thomaslevine.com">_@thomaslevine.com</a>.
 
-Recall that this thing was hard to learn and also so important that you
-couldn't avoid learning it. How unfortunate that something so important
-is so hard to learn! How fortunate that you can change that!
-
-If you ask me and I think I can help, I'll meet with you in person or
-over the phone or something and try to explain. During our session, we'll
-take copious notes on everything we did. If you finally understand the
-thing, we (or, preferably, you) might consider making something that
-helps other people understand this confusing and important thing.
-
-Preferably, this thing will not involve much work from a teacher.
-For example, videos, drawings, and writings are great.
-Activities like classes and games are also good if you record them
-somehow, like by taking a video, sharing notes, or writing directions
-for the activity.
-(If I do it, I'll probably
-[write](/!/street-sign-protocol)
-[something](/!/downloading-binary-files-is-not-magic/).)
-Here's an example of
-[a time I did this](/!/switching-to-command-line/).
-
-
-<!-- https://web.archive.org/web/20111007065304/http://vihart.com/vi/ -->
-
-
-## Other websites
-Profiles
+And you can use these websites if you do that.
 
 * [Facebook](http://facebook.com/perluette)
 * [Twitter](https://twitter.com/thomaslevine)
 * [LinkedIn](https://www.linkedin.com/in/tlevine)
 * [Google](https://plus.google.com/112237825767532686869)
 
-Packages and writings and stuff
+## Other things
+Here are some packages and writings and stuff.
 
 <blockquote><code>pip install <a href="https://pypi.python.org/pypi/tlevine">tlevine</a> && tlevine</code></blockquote>
