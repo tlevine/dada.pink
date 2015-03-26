@@ -46,6 +46,10 @@ And you can use these websites if you do that.
 * [Twitter](https://twitter.com/thomaslevine)
 * [LinkedIn](https://www.linkedin.com/in/tlevine)
 * [Google](https://plus.google.com/112237825767532686869)
+* [Github](https://github.com/tlevine)
+* [Bitbucket](https://bitbucket.org/tlevine)
+* [ScraperWiki](https://scraperwiki.com/profiles/tlevine)
+* [Gitorious](https://gitorious.org/tlevine)
 
 ## Other things
 Here are some packages and writings and stuff.
