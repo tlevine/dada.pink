@@ -1,6 +1,7 @@
 On March 26, 2015, I rode my bicycle from Schipol airport to Amsterdam
 city center. It was quite amusing.
 
+## Amusement
 My bicycle got somewhat damaged on its way to Schipol. It seems that
 my front rack is messed up on the right side (and maybe on the left,
 but I'm not sure), my front wheel is out of true, and the
@@ -43,22 +44,17 @@ bicycle on Dutch roads over my previously-well-tuned bicycle on American roads.
 
 ## On the convenience of a bicycle
 Although many people had given rave reviews of cycling, I had refrained
-until this past December from acquiring one as it seemed really big, and
-I didn't want to have to carry it. But then I realized in December that
-I could ride it instead of carrying it, and then it seemed rather
+until this past December from acquiring one. Bicycles seemed really big,
+and I didn't want to have to carry one.
+But then I realized in December that
+I could ride a bicycle instead of carrying it, and then it seemed rather
 convenient, as I find booking and boarding public transit to be rather
-stressful and inconvenient. (I'm fine with the ride.)
+stressful and inconvenient. (I'm fine with the trips themselves.)
 
 The appeal of a bicycle is that I can move between cities without using
 public transit. Well, this is actually just the beginning; the bicycle
 also makes it easier to go to places that aren't served well by public
 transit.
-
-Having the bicycle has been somewhat inconvenient since December, and
-it has been too cold for me to want to ride it very far. (More precisely,
-I'm fine with the cycling, but I didn't want to camp in cold weather.)
-I was still somewhat on-the-fence about whether it was worth it, but I
-figured that it would get more convenient in the warmer weather.
 
 Separate from my bicycle acquisition, I had made appointments in Amsterdam,
 Netherlands at the end of March and in Stockholm, Sweden at the end of May,
@@ -67,10 +63,16 @@ America and Europe, so I had to carry it across the ocean somehow. I couldn't
 figure out the bicycle policies for cruise ships, and flying on an airplane was
 so much cheaper, so that's what I took.
 
+Having the bicycle has been somewhat inconvenient since December, and
+it has been too cold for me to want to ride it very far. (More precisely,
+I'm fine with the cycling, but I didn't want to camp in cold weather.)
+I was still somewhat on-the-fence about whether it was worth it, but I
+figured that it would get more convenient in the warmer weather.
+
 How amazing that a bicycle still manages to inconvenience me in the
 Netherlands, where cycling should be super convenient!
 
-## 
+## Why am I so concerned about this?
 learned helplessness
 
 bureaucracies don't care about you
