@@ -138,27 +138,10 @@ immigration and customs when come back into the United States. I'm pretty sure,
 though, that this is particularly bad in John F. Kennedy Airport, so I'm just
 going to enter through a different airport next time.
 
-### School
+### Middle School
 It seems that something shifted around seventh and eighth grades
 (12 to 14 years old).
 
-I remember concluding in seventh grade that school administrators
-weren't really going to do anything about how other students were taking
-my things and hitting me. Administrators can't do very much about it,
-(Or, it would be a lot of work to do something about it, and they may
-risk losing their jobs.) and they said they would do stuff about it
-because that's what they're supposed to say.
-
-This conclusion was quite a relief as it led quickly to the following corollary.
-I can't control whether bad stuff happens to me, and nobody else is going to
-help, so it isn't worth even trying to protect my self or my things.
-
-Well, I recently amended this: There is one thing that you can do, and that is
-running away from the fighting. That's sometimes pretty hard, of course,
-(In the United States, school is pretty much required until you're 16.)
-but at least it works.
-
-##
 I often say that
 elementary school was worst, middle school less bad, high school even
 less, university even less, not-school even less. Teachers, students, and
@@ -170,6 +153,13 @@ Given what I'm thinking about at the moment, I find it quite interesting
 that the shifts were sudden---they were more about the school than about
 the grade/age.
 
+I remember concluding in seventh grade that school administrators
+weren't really going to do anything about how other students were taking
+my things and hitting me. Administrators can't do very much about it,
+(Or, it would be a lot of work to do something about it, and they may
+risk losing their jobs.) and they said they would do stuff about it
+because that's what they're supposed to say.
+
 Here's my present guess as to what is going on. The social status (that is,
 power, authority, &c.) of young people gets higher as they get older and move
 to higher grades in school; there is a bigger gap in status between the
@@ -178,6 +168,20 @@ than when they are in high school. With increases in this gap also come
 decreased accountability for the supervisors, and this lack of accountability
 is much of my frustration with organizations.
 
+### Running away from fights
+This conclusion about my powerlessness was quite a relief as it led quickly
+to the following corollary:
+I can't control whether bad stuff happens to me, and nobody else is going to
+help, so it isn't worth even trying to protect my self or my things.
+
+I amended this over the past year or so:
+There is one thing that you can do, and that is to
+run away from the fighting. That's sometimes pretty hard, of course,
+(For example, school is pretty much required until you're 16 in the
+United States.) but at least it sometimes works.
+
+You can see this in my reluctance to go to big cities, my disillusion about
+[real work](/!/career-advice/), and my interest in [dada](/!/dada/).
 
 ## What I want you to do if you're still reading this
 
