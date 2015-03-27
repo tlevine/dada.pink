@@ -201,9 +201,15 @@ You can see this in my reluctance to go to big cities, my disillusion about
 I seem to have given up on interacting at all with big organizations, but
 other people haven't. I suspect, as I explain above, that such organizations
 aren't always so horrible as the ones I am used to, but I still assume that
-they all are, and this is why they're so much work. Here are two requests
+they all are, and this is why they're so much work. Here are some requests
 for you.
 
-I have the impression that all organizations are 
+I have the impression that all organizations are bad, not just the ones that
+I am used to. Are they really? Please tell me if you know of big places that
+are pleasant to interact with. I want to know how they can be that way!
 
-Either way, can you do anything that might convince me that
+Either way, can you do anything that might convince me that some organizations
+are at least *less* horrible than the ones I am used to? Perhaps I can just
+read something, as I suggest above, but I'm open to crazier ideas. I'll talk to
+people, go somewhere, or maybe even take a job in order to see that better
+places exist.
