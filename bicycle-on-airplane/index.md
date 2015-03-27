@@ -1,4 +1,4 @@
-On March 26, 2015, I rode my bicycle from Schipol airport to Amsterdam
+On March 26, 2015, I rode my bicycle from Schipol Airport to Amsterdam
 city center. It was quite amusing.
 
 ## Amusement
@@ -104,6 +104,17 @@ I have to find the person, vet her, schedule everything, explain what I want
 to happen, check that the thing was done well. And there's even more to do
 if the thing wasn't done well.
 
+The incentives to the members of these organizations have very little to do
+with the requests of the patrons of these organizations.
+Even though rules tell members that they must act a certain way, the rules are
+so complicated that their staff can't be expected to remember the rules.
+And doing something about a breach of the rules is a lot of work.
+Moreover, nobody actually wants to work in these organizations, as far as I
+can tell. I think these big organizations, rather than small ones, exist
+mainly because the people at the top feel big; these organizations get set
+up in ways that make them more prominent, so addressing their nominal purpose
+is very low among their priorities.
+
 ## How reasonable is this frustration?
 I suspect that my aversion to organizations made sense in some other context.
 
@@ -168,6 +179,9 @@ than when they are in high school. With increases in this gap also come
 decreased accountability for the supervisors, and this lack of accountability
 is much of my frustration with organizations.
 
+Teachers and administrators may be more receptive in the higher schools,
+but I had already given up on them in middle school, before giving them a chance.
+
 ### Running away from fights
 This conclusion about my powerlessness was quite a relief as it led quickly
 to the following corollary:
@@ -184,8 +198,12 @@ You can see this in my reluctance to go to big cities, my disillusion about
 [real work](/!/career-advice/), and my interest in [dada](/!/dada/).
 
 ## What I want you to do if you're still reading this
+I seem to have given up on interacting at all with big organizations, but
+other people haven't. I suspect, as I explain above, that such organizations
+aren't always so horrible as the ones I am used to, but I still assume that
+they all are, and this is why they're so much work. Here are two requests
+for you.
 
-Under this reasoning, 
+I have the impression that all organizations are 
 
-
-
+Either way, can you do anything that might convince me that
