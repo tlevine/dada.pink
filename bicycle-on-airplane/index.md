@@ -25,10 +25,21 @@ hard on the right side pedal.
 The pedal came off pretty quickly. I tried putting it back in a couple
 of times and then eventually just rode without it. I stayed in my
 highest gear the whole way so I didn't have to pedal as much.
+As usual, my main concern in all of this was that I was breaking some
+rule and would get fined for it, but I also knew that I probably was
+following the rules and that I probably wouldn't get fined even if I
+did break a rule.
 
 One of the times the pedal came off, I hurt my left thumb. I think I
-hyperextended the joint at the base of the first metacarpal. Also, my
-hands got a little bit cold eventually.
+hyperextended the joint at the base of the first metacarpal, and this
+made it painful to do much with that hand. That wasn't much of a loss,
+as I already didn't want to change gears and I was going slowly enough
+not to need the break. Also, my hands got a little bit cold eventually,
+and this probably helped reduce swelling.
+
+The most hilarious part is that the ride was still among the easier and
+more pleasant of cycle rides I have taken. I preferred my messed-up
+bicycle on Dutch roads over my previously-well-tuned bicycle on American roads.
 
 ## On the convenience of a bicycle
 Although many people had given rave reviews of cycling, I had refrained
