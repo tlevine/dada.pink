@@ -1,12 +1,18 @@
+# On cycling and fear of big organizations
+
 On March 26, 2015, I rode my bicycle from Schipol Airport to Amsterdam
 city center. It was quite amusing.
 
 ## Amusement
-My bicycle got somewhat damaged on its way to Schipol. It seems that
-my front rack is messed up on the right side (and maybe on the left,
+My bicycle got somewhat damaged on its way to Schipol.
+My front rack is messed up on the right side (and maybe on the left,
 but I'm not sure), my front wheel is out of true, and the
 thing that the right pedal attaches to is bent such that I can't screw
-the pedal back in. I didn't check whether the frame was bent.
+the pedal back in. I haven't checked whether the frame was bent.
+Oh, and I think the rear derailleur is okay.
+
+I'm quite impressed that the airline managed break such sturdy pieces
+of metal; I had thought that something else would break first.
 It looks like something pressed really hard from the right side against
 the bottom-front of the bicycle.
 
@@ -15,7 +21,7 @@ disassembling it and packing it nicely in a box. I had read that such
 boxes might not be that effective, so one didn't seem worth it, given
 the inconvenience. I estimate that the cost of repairs will be less
 that that of a box and about as inconvenient, so not getting a box was
-*still* a decent idea. Unless the frame is bent. That could be bad.
+*still* a decent idea.
 
 The damage didn't seem that bad at first, and that the ride to town
 wasn't that long, so I rode it anyway. I put the right pedal on, even though
@@ -25,7 +31,7 @@ hard on the right side pedal.
 
 The pedal came off pretty quickly. I tried putting it back in a couple
 of times and then eventually just rode without it. I stayed in my
-highest gear the whole way so I didn't have to pedal as much.
+highest gear the whole way so I didn't have to pedal much.
 As usual, my main concern in all of this was that I was breaking some
 rule and would get fined for it, but I also knew that I probably was
 following the rules and that I probably wouldn't get fined even if I
@@ -33,10 +39,11 @@ did break a rule.
 
 One of the times the pedal came off, I hurt my left thumb. I think I
 hyperextended the joint at the base of the first metacarpal, and this
-made it painful to do much with that hand. That wasn't much of a loss,
+made it painful to do much with that hand. But that wasn't much of a loss,
 as I already didn't want to change gears and I was going slowly enough
-not to need the break. Also, my hands got a little bit cold eventually,
-and this probably helped reduce swelling.
+not to need the break! Also, my hands got a little bit cold eventually,
+and this probably helped reduce swelling. Funny that it worked out so
+not-badly.
 
 The most hilarious part is that the ride was still among the easier and
 more pleasant of cycle rides I have taken. I preferred my messed-up
@@ -109,16 +116,18 @@ with the requests of the patrons of these organizations.
 Even though rules tell members that they must act a certain way, the rules are
 so complicated that their staff can't be expected to remember the rules.
 And doing something about a breach of the rules is a lot of work.
+
 Moreover, nobody actually wants to work in these organizations, as far as I
 can tell. I think these big organizations, rather than small ones, exist
-mainly because the people at the top feel big; these organizations get set
-up in ways that make them more prominent, so addressing their nominal purpose
-is very low among their priorities.
+mainly because the people at the top feel big these organizations get set
+up in ways that make them more prominent; addressing their nominal purpose
+is only a small consideration.
 
 ## How reasonable is this frustration?
-I suspect that my aversion to organizations made sense in some other context.
+I suspect that I learned my aversion to organizations in some other context
+where it made sense.
 
-I get the impression that bureaucracies are pretty bad everywhere and
+It seems that bureaucracies are pretty bad everywhere and
 that they're especially bad in the area where I grew up. I grew up in
 [Scarsdale](http://en.wikipedia.org/wiki/Scarsdale,_New_York), which is
 near [New York City](http://en.wikipedia.org/wiki/New_York_City).
@@ -154,8 +163,9 @@ It seems that something shifted around seventh and eighth grades
 (12 to 14 years old).
 
 I often say that
-elementary school was worst, middle school less bad, high school even
-less, university even less, not-school even less. Teachers, students, and
+elementary school was worst time ever, middle school less bad, high school even
+less, university even less. And everything I have done since graduating
+university has been pretty okay. Teachers, students, and
 administrators were much more mean in the lower schools, there was much
 more homework in the lower schools, and I found the topics of study
 more interesting in the higher schools and after university.
