@@ -6,13 +6,20 @@ my front racks are messed up, my front wheel is out of true, and the
 thing that the right pedal attaches to is bent such that I can't screw
 the pedal back in. I didn't check whether the frame was bent.
 
-Here starts the amusement. I estimate
-
+Here starts the amusement. I checked my bike without substantially
+disassembling it and packing it nicely in a box. I had read that such
+boxes might not be that effective, so one didn't seem worth it, given
+the inconvenience. I estimate that the cost of repairs will be less
+that that of a box and about as inconvenient, so not getting a box was
+*still* a decent idea. Unless the frame is bent. That could be bad.
 
 ## 
 learned helplessness
 
 bureaucracies don't care about you
+
+It's so much easier to spend a month learning to do something my self
+than it is to hire someone to do it (even if it costs very little money).
 
 I get the impression that bureaucracies are pretty bad everywhere and
 that they're especially bad in the area where I grew up. I grew up in
@@ -48,13 +55,14 @@ I can't really do anything alone
 ##
 I often say that
 elementary school was worst, middle school less bad, high school even
-less, college even less, not-school even less. These were sudden shifts
-at each new school rather than gradual changes each year.
+less, university even less, not-school even less. Teachers, students, and
+administrators were much more mean in the lower schools, there was much
+more homework in the lower schools, and I found the topics of study
+more interesting in the higher schools and after university.
 
 Given what I'm thinking about at the moment, I find it quite interesting
 that the shifts were sudden---they were more about the school than about
 the grade/age.
-
 
 Here's my present guess as to what is going on. The social status (that is,
 power, authority, &c.) of young people gets higher as they get older and move
@@ -64,8 +72,6 @@ than when they are in high school. With increases in this gap also come
 decreased accountability for the supervisors, and this lack of accountability
 is much of my frustration with organizations.
 
-may have increased as
-I got older and that teachers were much more mean in the lower schools.
 
 ##
 It turns out that I
