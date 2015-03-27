@@ -51,7 +51,21 @@ elementary school was worst, middle school less bad, high school even
 less, college even less, not-school even less. These were sudden shifts
 at each new school rather than gradual changes each year.
 
-Given what I'm thinking about at the moment, let's consider that
+Given what I'm thinking about at the moment, I find it quite interesting
+that the shifts were sudden---they were more about the school than about
+the grade/age.
+
+
+Here's my present guess as to what is going on. The social status (that is,
+power, authority, &c.) of young people gets higher as they get older and move
+to higher grades in school; there is a bigger gap in status between the
+supervized and the supervisors when the supervized are in elementary school
+than when they are in high school. With increases in this gap also come
+decreased accountability for the supervisors, and this lack of accountability
+is much of my frustration with organizations.
+
+may have increased as
+I got older and that teachers were much more mean in the lower schools.
 
 ##
 It turns out that I
