@@ -73,22 +73,57 @@ How amazing that a bicycle still manages to inconvenience me in the
 Netherlands, where cycling should be super convenient!
 
 ## Why am I so concerned about this?
-learned helplessness
+I think I'm bothered that I didn't report this to the airline even though
+[I can](http://www.norwegian.com/en/customer-services/travel-information/baggage-/baggage-handling/) and might get some money for the damage.
+Why didn't I report it?
 
-bureaucracies don't care about you
+The person at the baggage claim told me I couldn't, but this isn't a reason
+in itself. When he told me this, I knew that a thrifty and reasonable person
+should keep asking different people until someone told me yes, as nobody in
+a big organization knows the rules.
 
-It's so much easier to spend a month learning to do something my self
-than it is to hire someone to do it (even if it costs very little money).
+I figured that the airline probably wouldn't give me anything and that this
+would be just as pointless as any other interaction with big organizations.
+Moreover, big organizations scare me, and I expect to need to play games to
+get anything from of them, even when it's just the service that I paid for.
+
+## Frustration with organizations (of people)
+I got the bicycle so I wouldn't need to deal with airlines; how funny it
+would be if it made me deal more with the airlines! A bigger thing I am
+noticing is that I am absolutely terrified of big organizations.
+
+You can get some idea of the terror by considering how completely ridiculous
+it is that
+I find riding a bicycle to be more convenient than taking an airplane.
+
+Consider, also, my recent frustration with dividing labor.
+I have lately been finding it so much easier to spend a month learning to do
+something my self than to hire someone to do it for me
+(even if it costs very little money). To get someone else to do something,
+I have to find the person, vet her, schedule everything, explain what I want
+to happen, check that the thing was done well. And there's even more to do
+if the thing wasn't done well.
+
+## How reasonable is this frustration?
+I suspect that my aversion to organizations made sense in some other context.
 
 I get the impression that bureaucracies are pretty bad everywhere and
 that they're especially bad in the area where I grew up. I grew up in
 [Scarsdale](http://en.wikipedia.org/wiki/Scarsdale,_New_York), which is
 near [New York City](http://en.wikipedia.org/wiki/New_York_City).
 
-Under this reasoning, 
+I have lately noticed that some people, particularly some particular people
+who grew up in other countries, are much better at dealing with bureaucracies.
+And I have read that other people in America are
+[more scared of police](http://www.politico.com/magazine/story/2015/03/letter-from-black-america-police-115545.html      
+)
+than I am.
 
-For example, 
-the only difficulty I have ever had going through immigration or customs
+Here are a couple situations that contribute to my suspicion that organizations
+are worse in the places where I grew up.
+
+### Immigrations officiers and customs officiers
+The only difficulty I have ever had going through immigration or customs
 ever was at John F. Kennedy Airport in New York City. Perhaps we should
 add that the only other time I saw anyone else have trouble was on Amtrak
 entering the United States through Niagara Falls (also in the state of
@@ -96,7 +131,14 @@ New York), where everyone on the
 car who didn't have United States citizenship (and that happened to be
 almost everyone) had trouble.
 
-##
+Contrast this with absolutely every other time I have moved between countries
+during my entire life; it was always fine! I am always a bit scared when I go
+to another country because I know that I'm going to have to go through
+immigration and customs when come back into the United States. I'm pretty sure,
+though, that this is particularly bad in John F. Kennedy Airport, so I'm just
+going to enter through a different airport next time.
+
+### School
 It seems that something shifted around seventh and eighth grades
 (12 to 14 years old).
 
@@ -108,8 +150,13 @@ risk losing their jobs.) and they said they would do stuff about it
 because that's what they're supposed to say.
 
 This conclusion was quite a relief as it led quickly to the following corollary.
-I can't really do anything alone
+I can't control whether bad stuff happens to me, and nobody else is going to
+help, so it isn't worth even trying to protect my self or my things.
 
+Well, I recently amended this: There is one thing that you can do, and that is
+running away from the fighting. That's sometimes pretty hard, of course,
+(In the United States, school is pretty much required until you're 16.)
+but at least it works.
 
 ##
 I often say that
@@ -132,17 +179,9 @@ decreased accountability for the supervisors, and this lack of accountability
 is much of my frustration with organizations.
 
 
-##
-It turns out that I
-[could report this to the airline](http://www.norwegian.com/en/customer-services/travel-information/baggage-/baggage-handling/) and possibly get some money for the damage,
-but I didn't. Why didn't I?
+## What I want you to do if you're still reading this
 
-The person at the baggage claim told me I couldn't, but this isn't a reason
-in itself. When he told me this, I knew that a thrifty and reasonable person
-should keep asking different people until someone told me yes, as nobody in
-a big organization knows the rules.
+Under this reasoning, 
 
-I figured that the airline probably wouldn't give me anything and that this
-would be just as pointless as any other interaction with big organizations.
-Moreover, big organizations scare me, and I expect to need to play games to
-get anything from of them, even when it's just the service that I paid for.
+
+
