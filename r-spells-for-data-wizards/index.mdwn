@@ -161,9 +161,12 @@ For example, here's a rolling z-score that [Brian](http://brianabelson.com) wrot
     z_change <- rollapply(rnorm(1000), 40, roll_z)
 
 ## Other stuff
-Use ProjectTemplate.
+Write packages. [This](http://r-pkgs.had.co.nz/r.html) is probably an okay guide.
+
+ProjectTemplate is kind of okay too.
 
     library(ProjectTemplate)
+
 
 Use `str` to find out something's type.
 
