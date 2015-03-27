@@ -30,8 +30,30 @@ New York), where everyone on the
 car who didn't have United States citizenship (and that happened to be
 almost everyone) had trouble.
 
-I remember concluding in seventh grade that school administrators
+##
+It seems that something shifted around seventh and eighth grades
+(12 to 14 years old).
 
+I remember concluding in seventh grade that school administrators
+weren't really going to do anything about how other students were taking
+my things and hitting me. Administrators can't do very much about it,
+(Or, it would be a lot of work to do something about it, and they may
+risk losing their jobs.) and they said they would do stuff about it
+because that's what they're supposed to say.
+
+This conclusion was quite a relief as it led quickly to the following corollary.
+I can't really do anything alone
+
+
+##
+I often say that
+elementary school was worst, middle school less bad, high school even
+less, college even less, not-school even less. These were sudden shifts
+at each new school rather than gradual changes each year.
+
+Given what I'm thinking about at the moment, let's consider that
+
+##
 It turns out that I
 [could report this to the airline](http://www.norwegian.com/en/customer-services/travel-information/baggage-/baggage-handling/), but I didn't.
 (The person at the baggage claim told me I couldn't, but I should have
