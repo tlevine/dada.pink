@@ -75,6 +75,15 @@ is much of my frustration with organizations.
 
 ##
 It turns out that I
-[could report this to the airline](http://www.norwegian.com/en/customer-services/travel-information/baggage-/baggage-handling/), but I didn't.
-(The person at the baggage claim told me I couldn't, but I should have
-figured out a way anyway.)
+[could report this to the airline](http://www.norwegian.com/en/customer-services/travel-information/baggage-/baggage-handling/) and possibly get some money for the damage,
+but I didn't. Why didn't I?
+
+The person at the baggage claim told me I couldn't, but this isn't a reason
+in itself. When he told me this, I knew that a thrifty and reasonable person
+should keep asking different people until someone told me yes, as nobody in
+a big organization knows the rules.
+
+I figured that the airline probably wouldn't give me anything and that this
+would be just as pointless as any other interaction with big organizations.
+Moreover, big organizations scare me, and I expect to need to play games to
+get anything from of them, even when it's just the service that I paid for.
