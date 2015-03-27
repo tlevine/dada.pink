@@ -2,9 +2,12 @@ On March 26, 2015, I rode my bicycle from Schipol airport to Amsterdam
 city center. It was quite amusing.
 
 My bicycle got somewhat damaged on its way to Schipol. It seems that
-my front racks are messed up, my front wheel is out of true, and the
+my front rack is messed up on the right side (and maybe on the left,
+but I'm not sure), my front wheel is out of true, and the
 thing that the right pedal attaches to is bent such that I can't screw
 the pedal back in. I didn't check whether the frame was bent.
+It looks like something pressed really hard from the right side against
+the bottom-front of the bicycle.
 
 Here starts the amusement. I checked my bike without substantially
 disassembling it and packing it nicely in a box. I had read that such
@@ -12,6 +15,49 @@ boxes might not be that effective, so one didn't seem worth it, given
 the inconvenience. I estimate that the cost of repairs will be less
 that that of a box and about as inconvenient, so not getting a box was
 *still* a decent idea. Unless the frame is bent. That could be bad.
+
+The damage didn't seem that bad at first, and that the ride to town
+wasn't that long, so I rode it anyway. I put the right pedal on, even though
+it didn't go in all the way and was crooked, and I attached the
+front-right pannier bag with a bungee cable. I tried not to push very
+hard on the right side pedal.
+
+The pedal came off pretty quickly. I tried putting it back in a couple
+of times and then eventually just rode without it. I stayed in my
+highest gear the whole way so I didn't have to pedal as much.
+
+One of the times the pedal came off, I hurt my left thumb. I think I
+hyperextended the joint at the base of the first metacarpal. Also, my
+hands got a little bit cold eventually.
+
+## On the convenience of a bicycle
+Although many people had given rave reviews of cycling, I had refrained
+until this past December from acquiring one as it seemed really big, and
+I didn't want to have to carry it. But then I realized in December that
+I could ride it instead of carrying it, and then it seemed rather
+convenient, as I find booking and boarding public transit to be rather
+stressful and inconvenient. (I'm fine with the ride.)
+
+The appeal of a bicycle is that I can move between cities without using
+public transit. Well, this is actually just the beginning; the bicycle
+also makes it easier to go to places that aren't served well by public
+transit.
+
+Having the bicycle has been somewhat inconvenient since December, and
+it has been too cold for me to want to ride it very far. (More precisely,
+I'm fine with the cycling, but I didn't want to camp in cold weather.)
+I was still somewhat on-the-fence about whether it was worth it, but I
+figured that it would get more convenient in the warmer weather.
+
+Separate from my bicycle acquisition, I had made appointments in Amsterdam,
+Netherlands at the end of March and in Stockholm, Sweden at the end of May,
+so I had planned on riding between them. But there's water in-between North
+America and Europe, so I had to carry it across the ocean somehow. I couldn't
+figure out the bicycle policies for cruise ships, and flying on an airplane was
+so much cheaper, so that's what I took.
+
+How amazing that a bicycle still manages to inconvenience me in the
+Netherlands, where cycling should be super convenient!
 
 ## 
 learned helplessness
