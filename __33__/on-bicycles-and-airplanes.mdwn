@@ -1,4 +1,4 @@
-# On cycling and fear of big organizations
+[[!meta title="On cycling and airplanes"]]
 
 On March 26, 2015, I rode my bicycle from Schipol Airport to Amsterdam
 city center. It was quite amusing.
@@ -94,7 +94,7 @@ would be just as pointless as any other interaction with big organizations.
 Moreover, big organizations scare me, and I expect to need to play games to
 get anything from of them, even when it's just the service that I paid for.
 
-## Frustration with organizations (of people)
+## Frustration with big organizations (of people)
 I got the bicycle so I wouldn't need to deal with airlines; how funny it
 would be if it made me deal more with the airlines! A bigger thing I am
 noticing is that I am absolutely terrified of big organizations.
@@ -103,25 +103,34 @@ You can get some idea of the terror by considering how completely ridiculous
 it is that
 I find riding a bicycle to be more convenient than taking an airplane.
 
-Consider, also, my recent frustration with dividing labor.
+The incentives to the staff of a company or government have very little to do
+with the interests of the patrons of the company or government.
+Even though rules tell members that they must act a certain way, the rules are
+so complicated that their staff can't be expected to remember the rules.
+And doing something about a breach of the rules is a lot of work.
+
+Moreover, nobody actually wants to work in these big organizations, as far as I
+can tell. I think these big organizations, rather than small ones, exist
+mainly because the people at the top feel big these organizations get set
+up in ways that make them more prominent; addressing their nominal purpose
+is only a small consideration.
+
+### Related frustration with division of labor in general
+This reminds me of my recent frustration with buying stuff.
 I have lately been finding it so much easier to spend a month learning to do
-something my self than to hire someone to do it for me
+something my self than to hire someone to do/make it for me
 (even if it costs very little money). To get someone else to do something,
 I have to find the person, vet her, schedule everything, explain what I want
 to happen, check that the thing was done well. And there's even more to do
 if the thing wasn't done well.
 
-The incentives to the members of these organizations have very little to do
-with the requests of the patrons of these organizations.
-Even though rules tell members that they must act a certain way, the rules are
-so complicated that their staff can't be expected to remember the rules.
-And doing something about a breach of the rules is a lot of work.
-
-Moreover, nobody actually wants to work in these organizations, as far as I
-can tell. I think these big organizations, rather than small ones, exist
-mainly because the people at the top feel big these organizations get set
-up in ways that make them more prominent; addressing their nominal purpose
-is only a small consideration.
+Hmm maybe I need to say it differently, as the above paragraphs don't quite
+convey the frustration. I expect all financial transactions to be scams, as
+lying and cheating seem to be the only ways of making any money. If I purchase
+some thing or service, the chance that I will actually receive whatever it is
+still quite low. Thus, I prefer to buy only things and services that are cheap
+enough that I can happily throw them away in the very likely case that they are
+complete junk.
 
 ## How reasonable is this frustration?
 I suspect that I learned my aversion to organizations in some other context
@@ -206,6 +215,42 @@ United States.) but at least it sometimes works.
 
 You can see this in my reluctance to go to big cities, my disillusion about
 [real work](/!/career-advice/), and my interest in [dada](/!/dada/).
+
+<!--
+## What I want to do now
+When an incident like this reminds me of my (not necessarily reasonable)
+perception that nobody cares about each other, this is what I usually
+want to do.
+
+1. Embrace the culture of cheating and stealing, and go work for a bank,
+    non-government organization, or defense contractor.
+2. Buy lots of things that I have put off buying because I didn't think
+    I particularly needed them yet.
+3. Find more ways to reduce my interactions with organizations/people who scare me.
+
+The "things" in 2 are usually tiny, and they usually support the endeavour in 3.
+One example is replacing all of my clothes with fibers that dry quickly, like
+wool, so that I can more easily fit my stuff in a [small backpack](/stuff) and
+run away from scary places. Another example is getting a bicycle instead of a
+car; I did this partly because *scheduling* a driving test (not taking the test)
+seemed very stressful.
+
+I am very easily seduced when people sheild me from bureaucracy
+
+Unfortunately, none of these approaches works particularly well. Actually,
+that's wrong; these approaches work ridiculously well, and I forget about
+that because I have been living the dream for so long. The culture of cheating
+and stealing is so strong that running away from everything is actually a
+reasonable idea!
+
+But it's still quite unfortunate, as I'm still trading some inconveniences
+for other inconveniences. For example, having few things lets me worry less
+about property theft, but it also means I have to design my electromyography
+equipment such that it is way smaller than it really needs to be. And it is
+really messed up that I prefer avoiding a bureaucratic process (scheduling a
+driving test) over having a car.
+
+-->
 
 ## What I want you to do if you're still reading this
 I seem to have given up on interacting at all with big organizations, but
