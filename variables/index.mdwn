@@ -1,6 +1,6 @@
 tags: ['datakind', 'learn']
 title: Two meanings of 'variable'
-redir: http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/
+redirect: http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/
 created_at: 2013-12-22
 ----------
 

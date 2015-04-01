@@ -1,1 +1,2 @@
-redir: __33__/readings
+redirect: /!/readings/
+--------------------------

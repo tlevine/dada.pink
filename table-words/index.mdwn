@@ -1,6 +1,6 @@
 tags: ['learn', 'datakind']
 title: What's in a table?
-redir: http://www.datakind.org/blog/whats-in-a-table/
+redirect: http://www.datakind.org/blog/whats-in-a-table/
 ----------
 
 <style>
