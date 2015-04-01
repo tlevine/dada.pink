@@ -1,3 +1,4 @@
+tags: ['socrata', 'open-data']
 title: OpenPrism
 description: Open the open data silos!
 tweet_text: Search all the portals! http://openprism.thomaslevine.com http://thomaslevine.com/!/openprism @CKANproject @junar @socrata #opendata
@@ -6,7 +7,6 @@ twitter_image: taco.png
 facebook_image: taco.png
 created_at: 2013-08-12
 -------
-[[!tag socrata open-data]]
 
 *The page that was once here has been [renamed](/!/searching-data-tables).*
 

@@ -1,7 +1,7 @@
+tags: ['letterpress']
 title: print(Formaldehyde)
 description: The formaldehyde dataset printed on letterpress in CSV format
 -------
-[[!tag letterpress]]
 
 .. image:: csv-chase.jpg
     :alt: The CSV file in the chase

@@ -1,7 +1,7 @@
+tags: ['shenanigans', 'letterpress']
 title: Nude Jello Wrestling
 created_at: 2011-04-21
 -------
-[[!tag shenanigans letterpress]]
 
 I did a lot of letterpress printing in college.
 

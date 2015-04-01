@@ -1,3 +1,4 @@
+tags: ['aesthesiology']
 title: Everyday Living for Girls
 description: The purpose of this book is to develop standards of living and appreciations of the value of personal and social development in the high school girl
 tweet_text: "Boisterous laughter, lounging over the table, beckoning to friends or acquaintances are all signs of poor breeding."
@@ -8,7 +9,6 @@ created_at: 2013-08-08
 twitter_image: pictures/IMG_4344.JPG
 facebook_image: pictures/IMG_4344.JPG
 -------
-[[!tag aesthesiology]]
 
 > The purpose of this book is to develop standards of living and appreciations of the value of personal and social development in the high school girl *(page v)*
 

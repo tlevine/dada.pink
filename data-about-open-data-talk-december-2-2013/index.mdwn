@@ -5,8 +5,8 @@ tweet_link: https://twitter.com/thomaslevine/status/408296807584628736
 twitter_image: unsilo.png
 facebook_image: unsilo.png
 description: A whirlwind tour of my studies about open data
+tags: ['open-data']
 -----------
-[[!tag open-data]]
 
 Here are some materials for
 [my talk at NYC Open Data](http://www.meetup.com/NYC-Open-Data/events/147380312/),
@@ -225,7 +225,7 @@ Second, resolving [duplicate datasets](/!/socrata-genealogies/#types-of-duplicat
 ### Data about people who use data
 Let's look a bit at how people interact with these data. One of Socrata's
 features is built-in charting tools that are supposed to
-"[consumeriz\[e\] the data experience](http://www.socrata.com/open-innovation/)"
+"[consumeriz[e] the data experience](http://www.socrata.com/open-innovation/)"
 Basically, you can go to `data.cityofnewyork.us` or any Socrata site, find
 an existing dataset, and make a new chart, map, query, &c. from it.
 It turns out that Socrata exposes a lot of knowledge about how this feature

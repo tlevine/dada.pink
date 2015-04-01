@@ -1,13 +1,13 @@
+tags: ['scarsdale']
 title: Reading your tax bill
 created_at: 2013-01-03
 -------
-[[!tag scarsdale]]
 
 <!--
   I'm sorry for you if you are reading this source code. It's an ugly mess, but
   it seemed to work, so I haven't refactored it.
 -->
-<style scoped>@import url("<%= item.identifier %>style.css");</style>
+<style scoped>@import url("style.css");</style>
 
 <!-- Layout -->
 <div id="about">
@@ -94,12 +94,12 @@ created_at: 2013-01-03
 
 <!-- Libraries -->
 <script src="jquery.min.js" type="text/javascript"></script>
-<script src="<%= item.identifier %>underscore-min.js" type="text/javascript"></script>
-<script src="<%= item.identifier %>backbone-min.js"></script>
-<script src="<%= item.identifier %>backbone.queryparams.js"></script>
+<script src="underscore-min.js" type="text/javascript"></script>
+<script src="backbone-min.js"></script>
+<script src="backbone.queryparams.js"></script>
 
 <!-- https://github.com/fryn/html5slider/raw/master/html5slider.js -->
-<script src="<%= item.identifier %>html5slider.js"></script>
+<script src="html5slider.js"></script>
 
 <!--
   Templates 
@@ -166,7 +166,7 @@ created_at: 2013-01-03
 </script>
 
 <!-- Assessed value distribution data -->
-<script src="<%= item.identifier %>data.js" type="text/javascript"></script>
+<script src="data.js" type="text/javascript"></script>
 
 <!-- Go -->
 <script type="text/javascript">
@@ -187,4 +187,4 @@ $.fn.serializeObject = function() {
     return o;
 };
 </script>
-<script src="<%= item.identifier %>main.js" type="text/javascript"></script>
+<script src="main.js" type="text/javascript"></script>

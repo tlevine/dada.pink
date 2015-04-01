@@ -1,7 +1,6 @@
+tags: ['data-structures-algorithms', 'learn']
 --------------------------------------------------------
 # Arrays
-[[!tag data-structures-algorithms]]
-[[!tag learn]]
 
 Once we have represented numbers in [memory](/!/bits), we can store groups of
 numbers. An array is a bunch of numbers arranged in a line.

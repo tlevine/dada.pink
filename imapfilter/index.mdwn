@@ -1,7 +1,7 @@
+tags: ['learn']
 title: imapfilter
 created_at: 2013-03-29
 -------
-[[!tag learn]]
 
 I use [imapfilter](https://github.com/lefcha/imapfilter) to filter my mail.
 It's awesome.

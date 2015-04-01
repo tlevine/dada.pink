@@ -1,6 +1,6 @@
+tags: ['learn']
 title: Schemas and formats
 ------------
-[[!tag learn]]
 
 format, like CSV
 

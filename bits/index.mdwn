@@ -1,6 +1,5 @@
+tags: ['data-structures-algorithms', 'learn']
 --------------------------------------------------------
-[[!tag data-structures-algorithms]]
-[[!tag learn]]
 # Bits
 
 What are bits and bytes and memory and 32-bit integers?

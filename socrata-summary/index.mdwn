@@ -1,3 +1,4 @@
+tags: ['socrata', 'open-data']
 title: Analyze all the datasets
 created_at: 2013-07-07
 twitter_image: figure/datasets_size_over_time2.png
@@ -11,7 +12,6 @@ facebook_description: This one time, I downloaded all of Socrata's datasets and 
 tweet_link: https://twitter.com/thomaslevine/status/353952098762760193
 facebook_link: https://www.facebook.com/perluette/posts/2480962388120
 ----------
-[[!tag socrata open-data]]
 
 I downloaded the metadata files for all of the datasets across all of the [Socrata](http://www.socrata.com/) data portals.
 Here I explain how I did that and present an summary of the sorts of data that we find in the portals.

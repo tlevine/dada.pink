@@ -1,3 +1,4 @@
+tags: ['open-data']
 title: Open data licensing
 created_at: 2013-10-02
 tweet_text: Are your data really open if they don't have a license? http://thomaslevine.com/!/open-data-licensing
@@ -8,7 +9,6 @@ facebook_title: Lots of datasets on open data portals are openly licensed
 facebook_description: But most aren't.
 facebook_image: square.png
 -------
-[[!tag open-data]]
 
 I downloaded all of the metadata files from 102 open data
 portals hosted on CKAN, Socrata and OpenDataSoft. Each of

@@ -1,7 +1,7 @@
+tags: ['computer']
 title: Learn Computers Through Everyday Activities
 created_at: 2012-08-09
 -----------------------------------------------------------
-[[!tag computer]]
 
 Some people write software to solve annoyances in their everyday lives. Here
 are some such annoyances.

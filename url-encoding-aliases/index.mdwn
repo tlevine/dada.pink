@@ -1,7 +1,7 @@
+tags: ['dotfiles']
 title: URL Encoding and Decoding
 created_at: 2012-06-15
 ----------
-[[!tag dotfiles]]
 
 There was a time when I quite often wanted to encode or decode a URL.
 Conveniently, someone had already written

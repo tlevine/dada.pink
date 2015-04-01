@@ -1,8 +1,7 @@
+tags: ['learn', 'datakind']
 title: What's in a table?
 redir: http://www.datakind.org/blog/whats-in-a-table/
 ----------
-[[!tag learn]]
-[[!tag datakind]]
 
 <style>
 #row tbody tr:nth-of-type(2n),

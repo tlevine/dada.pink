@@ -1,3 +1,4 @@
+tags: ['socrata open-data']
 created_at: 2013-07-29
 title: Open Calendars
 tweet_text: How we can prevent data-siloing in the first place http://thomaslevine.com/!/socrata-calendars #opendata
@@ -7,7 +8,6 @@ description: Open calendars on Socrata suggest an elegant open data strategy.
 twitter_image: figure/meeting-length-2.png
 facebook_image: figure/meeting-length-2.png
 ------------
-[[!tag socrata open-data]]
 
 To a lot of people, we can get "data" out of an SQL database but not out
 of a water bottle. I like to break this distinction; we can extract numbers

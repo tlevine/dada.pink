@@ -1,6 +1,6 @@
+tags: ['learn']
 title: R for people who already know something about programming
 -------
-[[!tag learn]]
 
 The introductory R texts and courses that I see normally read a bit
 differently from introductions to other languages.

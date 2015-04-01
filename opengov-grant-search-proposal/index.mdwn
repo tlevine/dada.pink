@@ -1,4 +1,5 @@
-[[!tag open-data]]
+tags: ['socrata', 'open-data']
+----------------------------
 
 With all of our wonderful government open data efforts, we now have more
 government data floating around than anyone could possibly follow. It's getting

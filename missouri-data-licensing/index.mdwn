@@ -1,3 +1,4 @@
+tags: ['open-data']
 title: License-free data in Missouri's data portal
 description: I grouped the datasets in Missouri's data portal and looked at licensing by dataset group.
 tweet_text: Missouri's data portal is mostly PDF traffic surveys. http://thomaslevine.com/!/missouri-data-licensing/
@@ -8,7 +9,6 @@ facebook_image: OAKVOLKER-5-HR-2009-A-TMC-diagram.png
 created_at: 2013-10-29
 other_source: https://github.com/tlevine/socrata-catalog/
 -------
-[[!tag open-data]]
 
 I recently [found](/!/open-data-licensing) that most datasets on the
 open data portals I've been looking at don't have open licenses or

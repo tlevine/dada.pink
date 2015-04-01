@@ -1,7 +1,6 @@
+tags: ['learn', 'data-structures-algorithms']
 title: Linked Lists
 -------
-[[!tag learn]]
-[[!tag data-structures-algorithms]]
 
 Once we have represented numbers in [memory](/!/bits), we can store groups of
 numbers. A list is a bunch of numbers arranged in order but not in a line.

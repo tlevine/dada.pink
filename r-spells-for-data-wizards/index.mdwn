@@ -5,9 +5,9 @@ tweet_text: I have no idea how people learn R. Maybe this will help. http://thom
 tweet_link: https://twitter.com/thomaslevine/status/355067758431580160
 twitter_image: lists.png
 facebook_image: lists.png
+tags: ['learn']
 -------
-[[!tag learn]]
-
+# R spells for data wizards
 I've never come up with a good way for learning/teaching the cool parts of R.
 I feel like that's sort of how R is; there's an awesome way to do everything,
 but it's all very specific and kind of hacky.
@@ -27,7 +27,7 @@ When writing a CSV, don't add the rownames.
 ## Indexing
 It's easy to miss a level of indexing, especially with lists.
 
-    str(list(a = 3)[1]\[[1]])
+    str(list(a = 3)[1][[1]])
     # num 3
 
     str(list(a = 3)[1])

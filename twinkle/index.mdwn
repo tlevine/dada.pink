@@ -1,8 +1,7 @@
+tags: ['doodles', 'music']
 title: Twinkle
 created_at: 2012-05-27
 ----------
-[[!tag doodles]]
-[[!tag music]]
 
 Twinkle twinkle little star played on lamps
 

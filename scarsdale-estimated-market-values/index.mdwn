@@ -1,9 +1,9 @@
-[[!meta title='Where does the "market value" on your tax bill come from?']]
-short_title: Tax bill "market value"
+tags: ['scarsdale']
+title: 'Where does the "market value" on your tax bill come from?'
+short_title: 'Tax bill "market value"'
 created_at: 2013-01-14
 other_source: https://github.com/tlevine/scarsdale-data
 -------
-[[!tag scarsdale]]
 
 Scarsdale's tax bills look like this.
 

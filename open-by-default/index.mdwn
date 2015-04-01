@@ -1,3 +1,4 @@
+tags: ['socrata', 'open-data']
 title: Open by default
 description: How can software encourage that its data be open by default?
 tweet_text: A discovery on a @socrata data portal got me thinking about how software can encourage data to be open by default. http://thomaslevine.com/!/open-by-default
@@ -8,7 +9,6 @@ twitter_image: screenshot.png
 facebook_image: screenshot.png
 created_at: 2013-08-21
 -------
-[[!tag socrata open-data]]
 
 The first of Sunlight Foundation's 32
 [Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/)

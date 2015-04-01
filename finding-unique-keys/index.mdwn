@@ -1,7 +1,7 @@
+tags: ['open-data']
 title: Finding unique keys in a thousand spreadsheets
 tweet_text: These spreadsheets didn't specify unique indices, so I figured them out.
 -------
-[[!tag open-data]]
 
 People often complain about how people don't write good metadata for their
 spreadsheets. That is, we don't have a good description of how the data were
