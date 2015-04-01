@@ -1,11 +1,153 @@
 title: Curriculum vitae
+description: Curriculum vitae (short version)
 ----
+<style>
+@media print {
+  .pageheader > .header { display: none; }
+}
+</style>
 
-1. [Short version](short)
-2. [Medium version](medium)
-3. [Long version](long)
-4. [Press](press)
+Thomas Kai Levine<br/>
+thomaslevine.com<br/>
+\_@thomaslevine.com<br/>
+<!-- +1 914 574 1328 -->
 
-[[!inline pages="__33__/curriculum-vitae/long" raw="yes"]]
+I do consulting now, but I'm interested in taking a normal job in a quiet area,
+as most American cities are too loud for me. I'm open to pretty much location
+on the planet and might even consider other planets.
 
-[[!inline pages="__33__/curriculum-vitae/press" raw="yes"]]
+## Education
+Cornell University, Bachelor's of Science (May 2011, GPA 3.5)<br/>
+Design & Environmental Analysis (Concentration in Human Factors & Ergonomics)
+
+## Awards
+* Hunter R. Rawlings III Cornell Presidential Research Scholar
+* National Science Foundation Graduate Research Fellowship Program, honorable mention
+
+## Data science consulting
+*(May 2011 to present)*
+
+I help organizations take advantage of data. Services include
+
+* Data strategy and architecture
+* Data visualization
+* Data warehousing, extract-transform-load (ETL), &c.
+* Data gastronomification and other visualization-alternatives
+* Design and development of end-user data analysis tools/apps
+* Training on data science and software engineering
+
+<!--
+* Connecting disparate datasets of inconsistent data formats
+-->
+
+I'm usually happy to travel pretty much anywhere, and I'm also quite
+good at collaborating remotely.
+
+### Technology
+I use a wide range of technologies as appropriate.
+I am *quite good* with dynamic programming languages,
+GNU/Linux system administration,
+web development, relational databases, NoSQL databases,
+data analysis software, &c.
+I have particularly *deep expertise* in R, Python, and Shell.
+
+### Projects
+Here are some projects I've done.
+
+**Anti-fraud**.
+[World Bank](http://worldbank.org/), Integrity Vice Presidency.
+(Washington, DC, USA, mostly remote; May 2014 to June 2014, half-time)
+I built a system for data-driven detection of suspicious behaviors in
+procurement processes.
+
+**Searching spreadsheets**.
+[Ontodia](http://www.ontodia.com/).
+(New York, NY, USA, on site; May 2014 to August 2014, half-time)
+I prototyped specialized data search tools for Ontodia's
+[Pediacities](http://nyc.pediacities.com/) data encyclopedia.
+
+**Venture capital**.
+[Vy Capital](http://vycapital.com/)
+(Menlo Park, CA, USA, all remote; February 2014 to April 2014, half-time)
+I developed large-scale data acquisition systems to drive
+investment decisions.
+
+<!--
+**Data analysis software**.
+[DataPad](http://datapad.io)
+(May 2013 to June 2013; San Francisco,
+ data analysis product
+-->
+
+**Teaching**.
+[Zipfian Academy](http://zipfianacademy.com).
+(San Francisco, CA, USA, on-site; August 2013 to November 2013, three to four days per week)
+I designed the data science curriculum and taught the first class of students.
+
+**Microfinance investments**.
+[Microfinance Information Exchange](http://mixmarket.org).
+(Washington, DC, USA, all remote; February 2012 to May 2012, one day per week)
+I mined the web for data to be used in an
+[analysis](http://www.themix.org/publications/mix-microfinance-world/2012/05/mapping-financial-sector-south-africa)
+of microfinance investment opportunities in South Africa.
+
+**Software engineering**.
+[ScraperWiki](https://scraperwiki.com).
+(Liverpool, UK, three-fourths remote; January 2012 to November 2012, four to five days per week)
+I worked on a new data processing
+infrastructure and build specialized data processing systems
+
+## Research interests
+
+**Presenting data for normal people**.
+I am a thought leader in the realm of data presentation.
+I employ novel data presentation paradigms and asses how they affect
+comprehension of quantitative data. I believe that
+[data visualization needs to die](http://small.dada.pink/gastronomification-big-data-talk/hacks-hackers-berlin-2014-08/data-visualization-needs-to-die.pdf),
+and I have been exploring multi-sensory
+media for presenting data, such as [music, and food](/sensing-data).
+
+**Sharing of datasets**.
+I investigate patterns in the publishing of disparate spreadsheets and have developed
+some tools to assist in searching across many different spreadsheets (2013--2014).
+[This video](https://www.youtube.com/watch?v=i10Fj0bZIis) summarizes my
+conclusions decently.
+
+**Toilets**.
+I am a world-renouned expert on human factors in the context of toilets.
+My most popular in this area is [The Hovering Cycle](/!/hovering-cycle/).
+
+## Selected talks
+* September 23, 2014.
+    [R for people who already know something about programming](http://www.meetup.com/Data-Rave/events/207607242/).
+    [Data Rave](http://www.meetup.com/).
+    <span class="webonly">([notes](http://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming))</span>
+* July 3, 2014. Sheetmusic: Making music from spreadsheets.
+    [European Spreadsheet Risks Interest Group 15th Annual Conference](http://www.eusprig.org/annual-conference.htm).
+* March 20, 2014. Statistics with Doodles.
+    [NYC Machine Learning](http://www.meetup.com/NYC-Machine-Learning/events/170546362/).
+    <span class="webonly">([slides and materials](http://thomaslevine.com/!/statistics-with-doodles-2014-03))</span>
+* April 9, 2013. Music Videos in R.
+    [New York Open Statistical Programming Meetup](http://www.meetup.com/nyhackr/events/111193682/).
+    <span class="webonly">([video](http://www.livestream.com/knerd/video?clipId=pla_a5d59285-9399-47dc-aaef-2b9a77142d5e))</span>
+
+## Selected articles
+* Thomas Levine (2014). [Web sites to data tables, in depth](http://thomaslevine.com/!/web-sites-to-data-tables-in-depth/)
+* Thomas Levine (2013). [How I parse PDF files](http://thomaslevine.com/!/parsing-pdfs).
+* Thomas Levine (2013). [R Spells for Data wizards](http://thomaslevine.com/!/r-spells-for-data-wizards).
+* Thomas Levine (2013). [What's in a table](http://www.datakind.org/blog/whats-in-a-table/). DataKind Blog.
+* Thomas Levine (2013). [Two meanings of "variable"](http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/). DataKind Blog.
+
+## Languages
+
+* English (native)
+* French
+* Mandarin Chinese (can't read)
+* Swedish (only a little)
+
+## More
+The present page is the shorter version; read more below.
+
+* [Long version](long)
+* [Press](press)
+

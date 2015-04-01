@@ -2,32 +2,12 @@
 [[!meta description="Curriculum vitae (long version)"]]
 [[!inline pages="__33__/curriculum-vitae/short" raw="yes"]]
 
-## Research interests
-**Sharing of datasets**.
-I am interested in patterns in the publishing of disparate spreadsheets and developed
-some tools to assist in searching across many different spreadsheets (2013--2014).
-[This video](https://www.youtube.com/watch?v=i10Fj0bZIis) summarizes my
-conclusions decently.
-
-**Presenting data for normal people**.
-I take interest in the how the presentation of quantitative data relateds
-to people's understanding of the data. I believe that
-[data visualization needs to die](http://small.dada.pink/gastronomification-big-data-talk/hacks-hackers-berlin-2014-08/data-visualization-needs-to-die.pdf),
-and I have been exploring multi-sensory
-media for presenting data, such as [music, and food](/sensing-data).
-
 ## Invited talks
 * October 2014. How I parse PDF files. [Free Software Kosovo](http://sfk.flossk.org/sfk14/).
-
-
-
-
 * September 23, 2014.
     [R for people who already know something about programming](http://www.meetup.com/Data-Rave/events/207607242/).
     [Data Rave](http://www.meetup.com/).
     <span class="webonly">([notes](http://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming))</span>
-
-
 * August 14, 2014. Data visualization needs to die. [Hacks/Hackers Berlin](http://www.meetup.com/Hacks-Hackers-Berlin/events/199099472/). ([slides](http://small.dada.pink/gastronomification-big-data-talk/hacks-hackers-berlin-2014-08/data-visualization-needs-to-die.pdf))
 * July 3, 2014. Sheetmusic: Making music from spreadsheets.
     [European Spreadsheet Risks Interest Group 15th Annual Conference](http://www.eusprig.org/annual-conference.htm).
