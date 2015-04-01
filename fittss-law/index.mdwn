@@ -1,1 +1,0 @@
-[[!map pages="__33__/fittss-law/* and ! __33__/fittss-law/*/*"]]
