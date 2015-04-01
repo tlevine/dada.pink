@@ -1,7 +1,7 @@
-[[!meta title="Do all "analysts" use Excel?"]]
+title: 'Do all "analysts" use Excel?"'
 created_at: 2012-07-23
+tags: ['scraperwiki']
 -------
-relationships: ['scraperwiki']
 
 We were wondering how common spreadsheets are as a platform for data analysis.
 It's not something I've really thought about in a while; I find it way easier

@@ -1,5 +1,6 @@
-[[!meta title="Tom's stuff"]]
-[[!meta description="Objects Tom has"]]
+title: "Tom's stuff"
+description: "Objects Tom has"
+-----------------------------
 
 Most of what I need to carry when I move house fits in a
 [Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)
