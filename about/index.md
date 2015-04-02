@@ -1,7 +1,7 @@
 About Thomas Levine
 =====================
 
-![A picture of Tom](/img/tram-thomas.jpg)
+![A picture of Tom](/static/tom-pictures/2014-12-11.jpg)
 
 I like to [sleep](/!/sleeping/), and I'm usually
 curious about why people do anything else.

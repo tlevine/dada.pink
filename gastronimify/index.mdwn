@@ -84,7 +84,7 @@ recipes <- gastronomify(
 print(recipes[1:30,])
 ```
 
-And [here](<%= @item.identifier %>math-tests.r)'s one of math test scores.
+And [here](math-tests.r)'s one of math test scores.
 ```
 #!/usr/bin/env Rscript
 library(plyr)
