@@ -1,11 +1,4 @@
-## 1. Belly dancing
-![Tom belly dancing]()
-
-Belly dancing feels so amazing! Despite its name, the dance really
-includes all parts of the body and involves movements that I had no
-idea were possible.
-
-## 2. Leggings
+## 1. Leggings
 ![Tom's legs wearing leggings]()
 
 I'm excited when fall comes around because it means I can start
@@ -17,21 +10,14 @@ Because of social conventions, I only wear these around the house
 and while belly dancing. Well, I might wear also them under long
 pants if it's really cold out, but that's not really the same thing.
 
-## 3. Nail polish
+## 2. Nail polish
 ![Tom's toes painted pink](toes.jpg)
 
 I had no idea how fun it would be to paint my nails. I paint them
 pink, of course. I only do my toes so that I can cover them when
 I'm around people who wouldn't want to see a man with painted nails.
 
-## 4. Skirts
-![Tom wearing a skirt]()
-
-Skirts are so much better than pants. They're easier to fit, they're
-not restrictive at all, and they're much nicer for warm weather.
-They're also fun for belly dancing.
-
-## 5. Burquas
+## 3. Burquas
 ![Tom wearing a hijab and abaya](/!/burqua/tom.jpg)
 
 It was a bit shocking how amazing it felt the first time I tried a burqua.
@@ -51,3 +37,11 @@ This sort of clothing has a special cultural significance that I don't
 really understand, and I have read that its various connotations make it
 difficult for even women to wear, in certain countries. So men aren't the
 only ones who are missing out!
+
+## 4. Belly dancing
+![Tom belly dancing]()
+
+Belly dancing feels so amazing! You might be surprised to learn that
+this dance really doesn't have anything to do with the body; it uses
+all parts of the body and involves movements that I had no
+idea were possible.
