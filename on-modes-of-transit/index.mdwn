@@ -1,0 +1,76 @@
+# On modes of transit
+I compare the merits of different modes of transit.
+
+## Basic modes
+
+
+### Airplane
+Good things
+
+* It's cheap.
+* I can go pretty much anywhere in the world within a couple days.
+* I usually go through immigration only at the origin country and
+    destination country. Sometimes I have to do it on a transfer.
+    This can be far fewer than I need to going over land.
+
+Bad things
+
+* Booking tickets is very difficult.
+* I need to prepare bags for security screening.
+* I must go to the airport.
+* I need to be careful of my speech so that people don't say I'm
+    a terrorist. (This probably applies more in the United States
+    than elsewhere.)
+
+### Train
+Good things
+
+* It's pretty fast.
+* Getting to the train station is usually easy.
+
+Bad things
+
+* It's expensive.
+* Booking tickets is sometimes difficult.
+* I need to pay attention so I don't miss my stop.
+
+### Bicycle
+Good things
+
+* Scheduling is very flexible.
+* I don't need to book tickets.
+
+Bad things
+
+* I need to carry a bicycle with me.
+* I need to carry bicycle tools and locks. This doubles the amount of
+    stuff (other than the bicycle itself) that I need to carry.
+
+### Car
+Good things
+
+* I can lock things inside a car.
+* If I choose the car appropriately, I can sleep in it.
+
+Bad things
+
+* I need to park the car.
+* Cars are expensive.
+* I need to get a driver's license.
+
+### Walking
+Good things
+
+* I don't have to carry much stuff.
+* I don't have to book travel tickets.
+* It's harder to break laws while walking.
+
+Bad things
+
+* Carrying stuff
+* For long distances of walking, I have to plan where I'm going to
+    sleep at night.
+* It usually takes much longer than other modes of transit.
+
+## My choice
+
