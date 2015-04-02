@@ -1,2 +1,2 @@
-redirect: /!/stuff/
+redirect: ../stuff/
 ----------------------

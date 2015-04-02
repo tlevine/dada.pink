@@ -1,2 +1,2 @@
-redirect: /!/silly-spreadsheets-2014-07/
+redirect: ../silly-spreadsheets-2014-07/
 ----------------------

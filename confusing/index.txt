@@ -1,2 +1,2 @@
-redirect: /!/i-like-people/
+redirect: ../i-like-people/
 ----------------------
