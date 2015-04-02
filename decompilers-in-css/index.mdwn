@@ -9,10 +9,3 @@ I wrote
 [markdown](http://openprism.thomaslevine.com/), and
 [LaTeX](https://github.com/tlevine/html2tex)
 decompilers in CSS.
-
-And now the tables on thomaslevine.com are styled as CSVs!
-
-column1 | column2 | column3
---------|---------|--------
-      1 |       2 |       3
-      4 |       5 |       6
