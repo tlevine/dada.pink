@@ -1,9 +1,7 @@
 # On modes of transit
 I compare the merits of different modes of transit.
 
-## Basic modes
-
-
+## Basic comparison of modes
 ### Airplane
 Good things
 
@@ -21,6 +19,7 @@ Bad things
 * I need to be careful of my speech so that people don't say I'm
     a terrorist. (This probably applies more in the United States
     than elsewhere.)
+* Ears feel weird for a few days after.
 
 ### Train
 Good things
@@ -32,7 +31,13 @@ Bad things
 
 * It's expensive.
 * Booking tickets is sometimes difficult.
-* I need to pay attention so I don't miss my stop.
+* I need to pay attention so I don't miss my train or my stop.
+
+### Bus
+Buses are usually a bit like trains but worse in a few ways.
+
+* Harder to book tickets
+* I feel sick afterwards.
 
 ### Bicycle
 Good things
@@ -45,6 +50,7 @@ Bad things
 * I need to carry a bicycle with me.
 * I need to carry bicycle tools and locks. This doubles the amount of
     stuff (other than the bicycle itself) that I need to carry.
+* Planning the route can be some work.
 
 ### Car
 Good things
@@ -56,7 +62,11 @@ Bad things
 
 * I need to park the car.
 * Cars are expensive.
-* I need to get a driver's license.
+* I need to have a driver's license.
+
+### Cruise ship
+Booking cruise ships seems especially time-consuming, and I haven't
+looked into them much beyond that.
 
 ### Walking
 Good things
@@ -71,6 +81,67 @@ Bad things
 * For long distances of walking, I have to plan where I'm going to
     sleep at night.
 * It usually takes much longer than other modes of transit.
+* Planning the route can be some work.
 
 ## My choice
+Based on the above reasoning, I had determined that cycling was the most
+convenient. However, it quickly gets inconvenient if I go places where
+bicycles aren't allowed or if I have to carry it on some other vehicle.
 
+If I take it in a car, I have to make it fit.
+
+If I take it on an airplane, I have to learn the airline's rules for
+transporting bicycles, fight with all the staff who don't know the rules,
+prepare the bicycle for transport, deal with whatever damage the
+airline causes to the bicycle, and ride or carry a broken bicycle until
+I fix the damage.
+
+If I take it on the train or bus, I still have to learn the train rules,
+though they're usually less annoying.
+
+So cycling is convenient, but only if I don't need to combine it with
+other modes of transit and your route is vaguely suitable for cycling.
+Walking is probably fine if the route is such that I can easily find
+places to sleep.
+
+With the above two exceptions, every mode of transit is ridiculously stressful.
+
+## If money weren't a concern
+I ponder how the considerations would change if money weren't a concern.
+
+Walking
+
+* If there are enough stores along the way,
+    I could wastefully buy anything I need (electronics, food, &c.)
+    and throw it away right after I use it.
+* Finding a place to stay at night would probably be a little easier.
+
+Cycling
+
+* I don't think cycling would change substantially.
+* I could buy nicer parts, hire all bicycle maintenance, and whimsically
+    throw parts away.
+* I would still need to do the work of finding shops to sell me things and
+    of fitting bicycles to my body.
+* When I need to move the bicycle long distances, I could hire a bike shop
+    to deal with the shipping for me.
+* I could stay in hotels every night.
+* Many of the inconveniences of cycling would go away with a folding mountain
+    bike, as it's easier to hide from people who don't like bicycles and it
+    can handle bad roads.
+
+Chauffeur
+
+* If I'm not driving the car, I don't need a driver's license.
+* I don't need to store the car.
+* Finding a person who would take me more than a day's drive would probably
+    be hard.
+
+Private jet
+
+* I'd have to acquire the jet.
+* No security screening, I think
+* I still have to get to the airport.
+
+I think cycling is best if I don't have to worry about money, followed by
+a combination of chauffeur and private jet.
