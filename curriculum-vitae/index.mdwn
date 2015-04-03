@@ -45,11 +45,12 @@ good at collaborating remotely.
 
 ### Technology
 I use a wide range of technologies as appropriate.
-I am *quite good* with dynamic programming languages,
+I am quite good with dynamic programming languages,
 GNU/Linux system administration,
 web development, relational databases, NoSQL databases,
 data analysis software, &c.
-I have particularly *deep expertise* in R, Python, and Shell.
+In particular, I have about ten years of experience in
+each of R, Python, and Shell.
 
 ### Projects
 Here are some projects I've done.
