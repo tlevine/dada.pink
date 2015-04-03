@@ -101,7 +101,7 @@ conflict? *If the person takes more than two seconds,* Answer or [see above]....
 Would anyone else like to add herself to the conflict? Raise your hand if you
 want to.
 
-There is now a conflict between [all of the people---list their names].
+There is now a conflict between [all of the people&mdash;list their names].
 Please line up, and I'll take a picture of all of you.
 *Take the picture.*
 You now have two minutes to gather your belongings and leave the hackerspace.

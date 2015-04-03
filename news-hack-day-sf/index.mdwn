@@ -75,7 +75,7 @@ Tim West made more awesome food all weekend long. Look at our Sunday breakfast.
 
 I even got to tackle one of the hardest problems in Computer Science. As I was
 working with one group, it became clear that the group wanted to make a clone
-of Needlebase. We had figured out the easier parts--what we want in general,
+of Needlebase. We had figured out the easier parts&mdash;what we want in general,
 what to do first, how to do it, &c. But what would we name it?
 
 >  "There are only two hard problems in Computer Science: cache invalidation and naming things."
