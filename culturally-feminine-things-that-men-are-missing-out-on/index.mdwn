@@ -1,4 +1,6 @@
 description: Fellow boys, you have no idea what you are missing.
+twitter_image: leggings-square-400px.jpg
+facebook_image: leggings-square-400px.jpg
 -------------------
 
 # Four culturally feminine things that men are missing out on
