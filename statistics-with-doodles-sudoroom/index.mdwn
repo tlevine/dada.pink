@@ -9,31 +9,6 @@ created_at: 2013-09-12
 twitter_image: doodle.jpg
 facebook_image: doodle.jpg
 ----------
-
-<style>
-  .control {
-    height: auto;
-    border: none;
-  }
-  img.control {
-    width: 9%;
-    max-width: 50px;
-    margin: 0;
-    margin-right: 1%;
-    padding: 0;
-  }
-  input[type=range].control {
-    width: 75%;
-    margin: 0;
-    height: 40px;
-  }
-  video {
-    margin: 0;
-    border: 0;
-    padding: 0;
-  }
-</style>
-
 A *statistic* is a number that describes a lot of other numbers.
 By reducing many numbers into one number, we make it easier to
 figure out what the numbers mean; we wouldn't be able to fit all
@@ -43,25 +18,10 @@ People usually explain statistics with symbols, but I like explaining
 statistics with drawings, 
 [I doodled about statistics](https://sudoroom.org/wiki/Today_I_Learned#July_20:_Statistics_through_doodles:_Geometric_computations_of_fundamental_statistical_concepts)
 one time in [Sudoroom](http://sudoroom.org/),
-and we took videos of it. Watch them here!
+and we took video of it.
 
-<div id="videos">
-  <video width="49%" class="back" src="http://bigdada.thomaslevine.com/til-statistics-back.webm"></video>
-  <video width="49%" class="above" src="http://bigdada.thomaslevine.com/til-statistics-above.webm"></video>
-</div>
-
-<div id="controls">
-  <a id="play" href="javascript:play()"><img class="control" alt="Play" src="play.jpg" /></a>
-  <a id="pause" href="javascript:pause()"><img class="control" alt="Pause" src="pause.jpg" /></a>
-  <input class="control" id="seek" type="range" min="0" max="1" value="0" step="0.01">
-</div>
-<p style="text-align: right;">
-  <a href="javascript:big()">Big videos</a> | 
-  <a href="javascript:small()">Small videos</a>
-</p>
-
-<script src="/js/_jquery-1.10.1.min.js" />
-<script>document.write('<script src="script.js?date=' + (new Date()).getTime() + '"><' + '/script>')</script>
+<a href="http://small.dada.pink/sudoroom-til-statistics-doodles/"
+   style="font-size: 3em; display: block; text-align: center; line-height: 1.5em;">Watch it here! (Click.)</a>
 
 The videos gloss over the reasons why we have these statistics,
 so I discuss those reasons below.
