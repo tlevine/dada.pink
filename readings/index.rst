@@ -1,5 +1,6 @@
 title: Readings
 description: Books and other readings Tom likes or wants to read or something
+----------------------------
 
 My favorite books
 --------------------
@@ -57,7 +58,7 @@ I guess they're books that one of us liked or thought the other would like.
 
 *Sitzhaltung, Sitzschaden, Sitzmöbel*, by Hanns Schoberth
     On chairs and posture and backs and stuff
-[Global Moves](http://inamerryhour.com/global-moves/), by [Caitlin McDonald](http://inamerryhour.com/)
+`Global Moves <http://inamerryhour.com/global-moves/>`_, by `Caitlin McDonald <http://inamerryhour.com/>`_
     On belly dancing
 `*Quiet* <http://www.thepowerofintroverts.com/>`, by Susan Cain
     On introversion
@@ -83,4 +84,4 @@ Something about neurolinguistic programming
 Other interesting books
 -------------------------
 
-`Don't sweat the small stuff <http://dontsweat.com/>`_
+Someone named Candace told me about `Don't sweat the small stuff <http://dontsweat.com/>`_
