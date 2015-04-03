@@ -50,6 +50,6 @@ is increasing the property tax.
 
 After doing all this, I noticed that the village already does a similar analysis.
 Look at the "CPI % Incr Yr to Yr" column on page 158 of the
-[2012--13 adopted budget](https://github.com/tlevine/scarsdale-data/blob/master/budget/2012-2013_adopted_budget.pdf?raw=true).
+[2012&ndash;13 adopted budget](https://github.com/tlevine/scarsdale-data/blob/master/budget/2012-2013_adopted_budget.pdf?raw=true).
 The analysis in the budget also finds that the tax rate increases relative the
 consumer price index.

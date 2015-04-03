@@ -31,5 +31,5 @@ mousing, or they can mouse on the side opposite the number pad.
 
 ## Papers and talks
 
-* Levine, T. (2008). "Effect of the Number Pad on Mousing Location". *Human Factors and Ergonomics Society Annual Meeting Proceedings*, 52 (19), pp. 1307--1311.
+* Levine, T. (2008). "Effect of the Number Pad on Mousing Location". *Human Factors and Ergonomics Society Annual Meeting Proceedings*, 52 (19), pp. 1307&ndash;1311.
 * []()

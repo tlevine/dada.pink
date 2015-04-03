@@ -109,7 +109,7 @@ media for presenting data, such as [music, and food](/sensing-data).
 
 **Sharing of datasets**.
 I investigate patterns in the publishing of disparate spreadsheets and have developed
-some tools to assist in searching across many different spreadsheets (2013--2014).
+some tools to assist in searching across many different spreadsheets (2013&ndash;2014).
 [This video](https://www.youtube.com/watch?v=i10Fj0bZIis) summarizes my
 conclusions decently.
 
