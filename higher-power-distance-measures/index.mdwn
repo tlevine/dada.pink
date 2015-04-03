@@ -70,41 +70,44 @@ I see the sum of points as the zero-order distance measure, the sum of lines
 as the one-order distance measure and sum of squares as the two-order distance
 measure. A general distance measure that includes all of these is the
 sum of n-dimensional volumes (Is there a better word for that?) of the
-n-dimensional hypercubes. Said more concisely,
+n-dimensional hypercubes. Said more concisely (in LaTeX),
 
-$$Distance_n=\sum_i \lvert x_i - c\rvert^n$$
+    Distance_n=\sum_i \lvert x_i - c\rvert^n
 
-where each $$i$$ corresponds to an observation (represented above by tick marks),
-$$n$$ is the number of dimensions, and $$c$$ represents that other number
+where each *i* corresponds to an observation (represented above by tick marks),
+*n* is the number of dimensions, and *c* represents that other number
 (represented above by the pink bar).
 
 ### Sum of squares
 The sum of squares is thus this.
 
-$$Distance_2=\sum_i \lvert x_i - c\rvert^2$$
+    Distance_2=\sum_i \lvert x_i - c\rvert^2
 
-The value of $$c$$ that minimizes $$Distance_2$$ is the **mean**.
+The value of *c* that minimizes <math><msub><mi>Distance</mi><mn>2</mn></msub></math>
+is the **mean**.
 
 ### Sum of lines
 The sum of lines is this.
 
-$$Distance_1=\sum_i \lvert x_i - c\rvert^1$$
+    Distance_1=\sum_i \lvert x_i - c\rvert^1
 
-The value of $$c$$ that minimizes $$Distance_1$$ is the **median**.
+The value of *c* that minimizes <math><msub><mi>Distance</mi><mn>1</mn></msub></math> is the **median**.
 
 ### Sum of points
-To make this work with the zero-order distance, I proclaim that $$0^0$$ equals 0.
+To make this work with the zero-order distance, I proclaim that
+<math><msup><mn>0</mn><mn>0</mn></msup></math> equals 0.
 The sum of points is this.
 
-$$Distance_0=\sum_i \lvert x_i - c \rvert ^0$$
+    Distance_0=\sum_i \lvert x_i - c \rvert ^0
 
-The quantity within the summation is zero if $$x_i$$ equals $$c$$ and one otherwise.
+The quantity within the summation is zero if
+<math><msub><mn>x</mn><mn>i</mn></msub></math> equals *c* and one otherwise.
 
-The value of $$c$$ that minimizes $$Distance_1$$ is the **mode**.
+The value of *c* that minimizes <math><msub><mi>Distance</mi><mn>0</mn></msub></math> is the **mode**.
 
 ## Higher-power distance measures emphasize more extreme values
 I see the mode, median and mean as different measures of the center of a
-distribution. (I labeled them $$c$$ for "center".)
+distribution. (I labeled them *c* for "center".)
 
 As we increase the power of the distance measure, we use more information from
 the tails to produce the measure of the center of the distribution.

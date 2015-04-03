@@ -25,7 +25,8 @@ of that.
 ![Rectangles](bounds.jpg)
 
 Correlation is how much of the aforedoodled rectangle is filled by the
-covariance; $$R$$ is the proportion along a side, and $$R^2$$ is the proportion
+covariance; <math><mi>R</mi></math> is the proportion along a side, and
+<math><msup><mi>R</mi><mn>2</mn></msup></math> is the proportion
 of the area. The dimensions of that rectangle and of three rectangles that it
 encloses are drawn below.
 

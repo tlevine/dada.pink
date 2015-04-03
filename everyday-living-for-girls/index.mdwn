@@ -89,7 +89,7 @@ It encourages such an education from a financial perspective.
 It is agreed that public demonstration of affection is always in bad taste and the wisdom of that done in secret is always to be questioned. *(page 386)*
 
 ## Reference
-Here's the reference, in $$Bib\TeX$$, so you can find the book.
+Here's the reference, in BibTeX, so you can find the book.
 
     @book{vanduzer,
     	title={Everyday Living for Girls: A Textbook in Personal Regimen},

@@ -127,7 +127,8 @@ first byte.
 
 Each byte is made of eight bits. Each bit can be on or off.
 If you have eight light switches, there are 256 different lighting
-combinations ($$2^8$$), and this is how we arrive at the aforementioned
+combinations (<math><msup><mn>2</mn><mn>8</mn></msup></math>),
+and this is how we arrive at the aforementioned
 range of byte values.
 
 To say it another way, the highest possible value for a byte is 255.
