@@ -11,6 +11,26 @@ about the financial crisis.
 <video src="http://dada.pink/gastronomification-big-data-talk/fms-symphony-1.webm"
        controls></video>
 
+Chords are daily movements (high/major = $$$ in, low/minor = $$$ out).
+
+Flourishes represent movements up and down (respectively) within a two month
+rolling window that are beyond 2.5 standard deviations from the mean.
+
+The left channel is distance to debt ceiling (higher notes means closer to the
+debt ceiling) and the right channel is interest rate.
+
+Chernoff faces mutate according to 15 principal components of 52 different
+categories of daily reciepts.
+
+<!--
+Watch the full version here. (It only works in Chrome.)
+http://fms.csvsoundsystem.com
+-->
+
+The data are Daily Treasury Statements from the
+[Financial Management Service](http://1.usa.gov/186jIhI). If you want to
+use these data, check out [treasury.io](http://treasury.io/).
+
 Read more here.
 
 * [Harmony Institute](http://harmony-institute.org/therippleeffect/2013/02/13/hi-data-analysts-make-music-at-bicoastal-datafest/)
