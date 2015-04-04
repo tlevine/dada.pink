@@ -6,7 +6,10 @@ created_at: 2013-07-31
 My band [CSV Soundsystem](http://csvsoundsystem.com) made a music video
 about the financial crisis.
 
-[![FMS Symphony](fms-symphony.png)](http://fms.csvsoundsystem.com)
+<!-- [![FMS Symphony](fms-symphony.png)](http://fms.csvsoundsystem.com) -->
+
+<video src="http://dada.pink/gastronomification-big-data-talk/fms-symphony-1.webm"
+       controls></video>
 
 Read more here.
 
