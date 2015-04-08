@@ -1,15 +1,11 @@
 title: Curriculum vitae
 description: Curriculum vitae (short version)
 ----
-<style>
-@media print {
-  .pageheader > .header { display: none; }
-}
-</style>
-
+<center>
 Thomas Kai Levine<br/>
 thomaslevine.com<br/>
 \_@thomaslevine.com
+</center>
 
 I like quiet places. Most American cities are too loud for me, but I have
 discovered lower volumes in other countries, like most of Europe. I want a
@@ -129,6 +125,5 @@ infrastructure and build specialized data processing systems
 ## More
 The present page is the shorter version; read more below.
 
-* [More talks and articles](more)
-* [Press](press)
-
+* [More talks and articles](more/)
+* [Press](press/)
