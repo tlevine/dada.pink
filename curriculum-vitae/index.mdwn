@@ -97,7 +97,7 @@ infrastructure and build specialized data processing systems
 ## Selected talks
 * September 23, 2014.
     [R for people who already know something about programming](http://www.meetup.com/Data-Rave/events/207607242/).
-    [Data Rave](http://www.meetup.com/).
+    [Data Rave](http://www.meetup.com/Data-Rave/).
     <span class="webonly">([notes](http://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming))</span>
 * July 3, 2014. Sheetmusic: Making music from spreadsheets.
     [European Spreadsheet Risks Interest Group 15th Annual Conference](http://www.eusprig.org/annual-conference.htm).
