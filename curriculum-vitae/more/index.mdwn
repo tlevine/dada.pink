@@ -1,6 +1,25 @@
-[[!meta title="Thomas Levine"]]
-[[!meta description="Curriculum vitae (long version)"]]
-[[!inline pages="__33__/curriculum-vitae/short" raw="yes"]]
+# Curriculum vitae
+*This is extra stuff; go [back](..) for the basic stuff.*
+
+## Research interests
+
+**Presenting data for normal people**.
+I am a thought leader in the realm of data presentation.
+I employ novel data presentation paradigms and asses how they affect
+comprehension of quantitative data. I believe that
+[data visualization needs to die](http://small.dada.pink/gastronomification-big-data-talk/hacks-hackers-berlin-2014-08/data-visualization-needs-to-die.pdf),
+and I have been exploring multi-sensory
+media for presenting data, such as [music, and food](/sensing-data).
+
+**Sharing of datasets**.
+I investigate patterns in the publishing of disparate spreadsheets and have developed
+some tools to assist in searching across many different spreadsheets (2013&ndash;2014).
+[This video](https://www.youtube.com/watch?v=i10Fj0bZIis) summarizes my
+conclusions decently.
+
+**Toilets**.
+I am a world-renouned expert on human factors in the context of toilets.
+My most popular article in this area is [The Hovering Cycle](/!/hovering-cycle/).
 
 ## Invited talks
 * October 2014. How I parse PDF files. [Free Software Kosovo](http://sfk.flossk.org/sfk14/).
