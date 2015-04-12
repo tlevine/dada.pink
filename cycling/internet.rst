@@ -1,3 +1,8 @@
+Rules
+===========
+
+* http://www.schweinfurt.army.mil/support/safety/bicycles.htm
+
 Places
 ==============
 
