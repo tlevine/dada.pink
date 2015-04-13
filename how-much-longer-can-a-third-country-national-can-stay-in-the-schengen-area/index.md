@@ -1,3 +1,5 @@
+# Determining how long you can stay in the Schengen Area
+
 When I search on the internet, it's pretty easy to find out that a
 third-country (such as the United States) national may stay in the
 [Schengen Area](https://en.wikipedia.org/wiki/Schengen_Area) for
