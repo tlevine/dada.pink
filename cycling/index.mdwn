@@ -18,7 +18,7 @@ finally get a driver's license, but cycling seemed easier once I realized
 I could cycle between cities. I previously hadn't realized that you could
 ride your bicycle when moving house, rather than carrying it.
 
-## Toys
+## Considering what type of bicycle to get
 I started looking at all sorts of cycling things on the internet and
 compiled a [bunch of links](internet). I determined that I should get an
 American bike because they're cheapest and that I should get a Surly
@@ -84,6 +84,15 @@ airport.
 Anyway, instead of paying $500 or $600 to have the bicycle for three weeks,
 I could have taken expensive taxis and trains every week.
 
+### Tools and supplies are big
+It had not occurred to me how much stuff I would need for cycling. Aside from
+the bike itself (which is quite big, by the way), I also need to carry locks,
+tools, and supplies like oil. These extra things approximately double the volume
+and triple the mass of all of my stuff.
+
+And that's ignoring all of the extra bags and the rack that I need to carry all
+of this in! Those aren't that heavy, but they are quite voluminous.
+
 ### On the Netherlands being good for cycling
 People often remark that the Netherlands has
 [outstanding cycling infrastructure](https://en.wikipedia.org/wiki/Cycling_in_the_Netherlands).
@@ -105,3 +114,81 @@ person, that person will actually do something about it!
 
 
 ## What bicycle I would get knowing what I know now
+I chose my present bicycle by reading on the internet about what other people
+use for touring and then getting very standard stuff.
+
+<h3 id="good-infrastructure">Bicycles are nearly pointless in western Europe</h3>
+I completely don't see the point of cycling between the cities that I have
+been cycling through (Netherlands and western Germany). Everything is so
+well connected that I could just *walk* (not public transit, just walking)
+between cities and still easily find a real bed to sleep on each night.
+
+It's also so well connected that I could take local public transit
+between cities. Or long-distance trains.
+
+### For places with good infrastructure
+As I indicate above, bicycles are nearly pointless in places that are well
+connected. But I did say "nearly" rather than "completely". I liked being
+able to cycle from one part of a city to another as I could do this faster
+than walking and without carrying stuff on my back. But I didn't do this
+very often as it was quite inconvenient to prepare for this.
+
+Here are the extra things that I would do surrounding such a trip.
+
+* Add and remove bags from bicycle
+* Lock and unlock the bicycle
+* Find a place to park the bicycle
+
+I think a bicycle, or something like it, could be convenient in places
+like this if the above difficulties could be removed.
+I think I could do this by having a bicycle that either is very
+cheap or that can quickly be made small enough to carry in a backpack.
+
+#### Cheap
+A bicycle that is very cheap is nice because I wouln't need as good of
+a lock or as many locks. Also, if it's a generally bad bicycle, I wouldn't
+care so much about keeping it in good shape, so I would be fine with not
+owning tools. Also, I wouldn't need to take it on airplanes as I could just
+buy a new one every time I go to a new place. On the other hand, buying stuff
+so often is a lot of work, and I would rather avoid that.
+
+#### Compact
+The other option is a bicycle that is so compact as to make it easy to carry.
+If it is so easy to carry, then locks are not necessary, as I can just take
+the bicycle with me rather than locking it. Also, I wouldn't need to carry
+tools, as I wouldn't need to disassemble it for transport, and I could just
+carry it to the nearest bike shop if it ever broke in some way (most likely
+a flat tire).
+
+Unfortunately, most folding bicycles are still too big to check on airplanes
+and trains as ordinary luggage. (They might not cost extra, but they're big
+enough that you need to check the policies.) Also, they are quite expensive,
+so it might be cheaper to take lots of taxis.
+
+### For places with bad infrastructure
+I had originally been thinking about using the bicycle in the United States.
+Maybe it would have made sense there, or in another developing country.
+
+### If I really really really need to camp
+The only reason I see to have a touring bike is so I can carry a lot of
+stuff, and the only reason I see to do this is if I plan on camping.
+I had figured that being able to camp would make travel more convenient,
+as I would have more flexibility as to where I sleep. I no longer think
+that is the case.
+
+As I mentioned [above](#good-infrastructure),  
+
+
+### If you don't use it very often
+I think a bicycle would be more convenient if I used it only infrequently
+and stored it in a consistent place when I wasn't using it. This way, I could
+use it only when I thought it would be helpful and not when I thought it would
+get in the way of things.
+
+But then I'd need to find a place to store it. Moreover, what's the point of
+having one if you don't use it very often? For the price of a bicycle, you
+could just take lots of taxis instead.
+
+## Relevants of my preferences to other people
+Lots of people are okay with maintaining a car. If you manage to do this,
+a bicycle should be a piece of cake.
