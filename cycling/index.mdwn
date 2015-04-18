@@ -20,14 +20,14 @@ ride your bicycle when moving house, rather than carrying it.
 
 ## Considering what type of bicycle to get
 I started looking at all sorts of cycling things on the internet and
-compiled a [bunch of links](internet). I determined that I should get an
+compiled a [bunch of links](internet/). I determined that I should get an
 American bike because they're cheapest and that I should get a Surly
 Long Haul Trucker, specifically. And then I checked Craigslist and
 happened to find a good deal on one of those that fit me pretty well.
 Woo!
 
-Here are some [things I was thinking about getting](want) and have mostly
-gotten. And here are some extended [notes on the wanting](want-notes).
+Here are some [things I was thinking about getting](want/) and have mostly
+gotten. And here are some extended [notes on the wanting](want-notes/).
 
 ## Remarks about cycling after getting a bicycle
 Not having cycled much before, I had a lot to learn about bicycles.
@@ -164,6 +164,19 @@ Unfortunately, most folding bicycles are still too big to check on airplanes
 and trains as ordinary luggage. (They might not cost extra, but they're big
 enough that you need to check the policies.) Also, they are quite expensive,
 so it might be cheaper to take lots of taxis.
+
+* http://www.slidingbike.com/models-12.html
+* http://www.nanoo.biz/the-nanoos-2/
+* http://www.strida.com/en/products/?method=detail&aid=142
+* http://www.fubi.com/ (maybe)
+* http://www.smartcog.co.jp/Products/koma.htm
+* http://www.smartcog.co.jp/Products/coolmint.htm
+* http://5links.jp/product.html
+* http://www.17bicycle.com/m2012.html
+
+I hear also that they're not good for long distances. But I heard that
+cycling long distances was hard in general, and that was very wrong, so
+I think they're at least worth a shot.
 
 ### For places with bad infrastructure
 I had originally been thinking about using the bicycle in the United States.
