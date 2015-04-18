@@ -84,6 +84,24 @@ airport.
 Anyway, instead of paying $500 or $600 to have the bicycle for three weeks,
 I could have taken expensive taxis and trains every week.
 
+### On the Netherlands being good for cycling
+People often remark that the Netherlands has
+[outstanding cycling infrastructure](https://en.wikipedia.org/wiki/Cycling_in_the_Netherlands).
+This remark ignores that the Netherlands has good transportation infrastructure
+in general.
+
+The Dutch have higher standards for quality of life than I am used to.
+An American might say that they are "spoiled". For example, to the Dutch,
+20 minutes is a long tram ride, and 1 hour is a ridiculous car ride.
+(Their trams and cars also move more slowly than I am used to, by the way.)
+The mother of one Dutch friend was distraught upon learning that her daughter
+was going to move 20 kilometers away from home for school.
+
+In the United States, one might classify such talk as whining and then ignore
+the talk. Not in the Netherlands! There, if you complain to the appropriate
+person, that person will actually do something about it!
+
+### OpenStreetMap and GPS is really awesome
 
 
 ## What bicycle I would get knowing what I know now
