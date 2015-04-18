@@ -62,6 +62,11 @@ for a few minutes in a train station is way more exhausting than riding it for
 a few hours on a road. I suppose my bicycle is designed more for the latter
 than for the former.
 
+Aside from the exhaustion from picking up the bicycle and walking up stairs,
+there is also the exhaustion of figuring out how to take the bicycle on a
+train. Different carriers have different policies, and very rarely are any
+of the policies clear.
+
 ### Carrying a bicycle is also expensive
 A bicycle appealed to me because I thought it would make it easier to get out
 of cities. One one hand, I have been able to go to places that weren't cities.
@@ -113,7 +118,16 @@ the talk. Not in the Netherlands! There, if you complain to the appropriate
 person, that person will actually do something about it!
 
 ### OpenStreetMap and GPS is really awesome
+The best thing I learned from cycling was that OpenStreetMap and GPS-based
+navigation thingies are really really awesome. I had never found OpenStreetMap
+to be that helpful when I used it on the website or on OSMAnd, but it was
+when I used it on the small GPS thingy I got (Garmin etrex 30). Also, it's
+way more fast and detailed and correct than any Google or Bing maps.
 
+Also, the GPS thingy is smaller than a smartphone, and the battery lasts longer.
+
+I don't particularly recommend this GPS thingy, as I didn't look very hard;
+I just went into an outdoors store (Bever) and chose from what they had there.
 
 ## What bicycle I would get knowing what I know now
 I chose my present bicycle by reading on the internet about what other people
@@ -167,6 +181,8 @@ and trains as ordinary luggage. (They might not cost extra, but they're big
 enough that you need to check the policies.) Also, they are quite expensive,
 so it might be cheaper to take lots of taxis.
 
+Here are the smallest bicycles I could find.
+
 * http://www.slidingbike.com/models-12.html
 * http://www.nanoo.biz/the-nanoos-2/
 * http://www.strida.com/en/products/?method=detail&aid=142
@@ -176,8 +192,16 @@ so it might be cheaper to take lots of taxis.
 * http://5links.jp/product.html
 * http://www.17bicycle.com/m2012.html
 
+These might be a bit too small.
+
+* http://www.a-bike.co.uk/
+* http://bikesrater.com/strida-lt-folding-bike-review/
+* http://bikesrater.com/kent-mini-8-folding-bike-reviews/
+
 I hear also that they're not good for long distances. But I heard that
-cycling long distances was hard in general, and that was very wrong, so
+cycling long distances was hard in general. The latter commend is wrong,
+so maybe the former comment is wrong too.
+
 I think they're at least worth a shot.
 
 ### For places with bad infrastructure
@@ -240,6 +264,15 @@ get in the way of things.
 But then I'd need to find a place to store it. Moreover, what's the point of
 having one if you don't use it very often? For the price of a bicycle, you
 could just take lots of taxis instead.
+
+### I probably won't get another bicycle soon
+All of the above bicycle options still seem like far too much hassle
+compared to walking, so I'll probably stick with that for now.
+
+To get between cities in Europe, I can easily walk and stay in hostels every
+night. Or use couchsurfing, which I still haven't ever done. The United States
+would need more planning and would probably require couchsurfing. And in either
+case, I can easily get on a train if I need to be somewhere quickly.
 
 ## Relevance of my preferences to other people
 Your preferences regarding bicycles might not match mine. In particular,
