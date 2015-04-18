@@ -71,17 +71,19 @@ Consider how much I spent just to have my bicycle with me for the past three wee
 * $59 to check the bicycle on the airplane
 * $59 to check all my other stuff, which wouldn't fit on carry-on because of
     all the bike tools
-* About $400 of repairs for stuff that got damaged on the flight
-* More money if I decide to take the bicycle
+* About $300 of repairs for stuff that got damaged on the flight
+* More money if I decide to take the bicycle back to where I came from
 
 (This excludes the purchase cost of the bicycle and small things like bicycle
 tickets on trains.)
 
-I might have saved $150 by putting the bicycle in a hard case. The case would
-have cost about $200, and I would have had to take a taxi or something to the
-airport.
+I might have saved $50 by putting the bicycle in a fancy hard case; the case
+would have cost about $200, and I would have had to take a taxi or something
+to the airport. This assumes, of course, that the hard case would have protected
+the bicycle, and I don't particularly think that it would have. And I would have
+had to assemble and disassemble the bicycle, which would take a while.
 
-Anyway, instead of paying $500 or $600 to have the bicycle for three weeks,
+Anyway, instead of paying about $500 to have the bicycle for three weeks,
 I could have taken expensive taxis and trains every week.
 
 ### Tools and supplies are big
@@ -181,8 +183,22 @@ I think they're at least worth a shot.
 ### For places with bad infrastructure
 I had originally been thinking about using the bicycle in the United States.
 Maybe it would have made sense there, or in another developing country.
+However, I don't see the reason for getting a road bike in places like this.
 
-### If I really really really need to camp
+Aside from major highways, which are usually in good shape, road quality
+is quite unpredictable in the United States. Also, decent bike paths are
+uncommon. This is to say that I would recommend against a road bike.
+
+Also, as you'll read [below](#camping), I don't think camping will make the
+trip any easier, so I would be fine with a bike that doesn't have much storage
+space.
+
+For long-distance travel in the United States, I would get some
+sort of mountain bike. Ideally, I would manage to fit all of my stuff
+in a frame bag, (See Jandd for examples.) but I likely would wind up
+with a front rack instead.
+
+<h3 id="camping">If I really really really need to camp</h3>
 The only reason I see to have a touring bike is so I can carry a lot of
 stuff, and the only reason I see to do this is if I plan on camping.
 My bike is quite prefect for such a ride. However, I find it rather
@@ -225,6 +241,8 @@ But then I'd need to find a place to store it. Moreover, what's the point of
 having one if you don't use it very often? For the price of a bicycle, you
 could just take lots of taxis instead.
 
-## Relevants of my preferences to other people
-Lots of people are okay with maintaining a car. If you manage to do this,
-a bicycle should be a piece of cake.
+## Relevance of my preferences to other people
+Your preferences regarding bicycles might not match mine. In particular,
+other people seem to be much better at carrying stuff.
+For example, lots of people are okay with maintaining a car.
+If you already manage to maintain a car, a bicycle should be a piece of cake.
