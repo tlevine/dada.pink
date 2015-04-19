@@ -5,7 +5,7 @@ tweet_link: https://twitter.com/thomaslevine/status/436748287102570497
 -----------
 
 I wrote
-[CSV](https://github.com/tlevine/csv.css),
+[CSV](http://dada.pink/css/csv/),
 [markdown](http://openprism.thomaslevine.com/), and
-[LaTeX](https://github.com/tlevine/html2tex)
+[LaTeX](http://dada.pink/css/latex/)
 decompilers in CSS.
