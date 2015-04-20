@@ -1,0 +1,49 @@
+I had been hearing a lot about metaphorical data mining, but I never
+knew much about the literal mining that the data were being compared to.
+So I went to the Ruhr to learn more.
+
+## Mining museum
+I took the scenic cycle route along the Rhine and the Ruhr rivers and
+watched the coal power plants pass by. Then I went to the
+[German mining museum](http://bergbaumuseum.de/) in Bochum. It was
+totally the best museum ever. There you can learn about the history of
+mining in the area and about how all of the mining tools work. They also
+have examples of the smaller machines and mine infrastructure and models
+of the bigger machines. (By "smaller", I mean things that can fit inside
+a building, so usually less than 10 meters long.)
+
+You can see all kinds of support systems, ride an elevator down a
+simulated kilometer, touch the cutters on tunnel-boring machines, see art
+about mining, stand inside an excavator bucket, and so much more.
+
+The main impression I got from this museum was that mining is really
+big and stupid, in all possible senses. To start, some forms of mining
+involve removing rock from a kilometer below the earth and replacing the
+rock with wooden supports (or with other rocks, if the rock being removed
+is coal).
+
+Also, mining contraptions all do the same few things; the newer ones
+are just faster and bigger and better and more safe. You have to dig to the
+coal, pump water out of the ground, cut the coal up, then move the coal
+to the power plant, and try to make this ridiculous endeavour slightly less
+dangerous.
+
+## Vocabulary
+I learned some German at the mining museum. For example,
+
+* schaufelradbagger
+* ...
+
+## Coal mine
+Then I went to the Tagebau Hambach and saw real-live bucket-wheel excavators!
+
+![Tom at the top of the Tagebau Hambach]()
+
+I also saw Old Manheim. It's mostly unoccupied now and being rebuild nearby as
+New Manheim; there's coal under Old Manheim, so Old Manheim and the surrounding
+land is going to be dug up entirely to expand the tagebau and get to the mine.
+The government also moved a highway so that the old highway could be dug up and
+added to the mine.
+
+I would love know what it was like when RWE first announce that it was going
+to make such a mine.
