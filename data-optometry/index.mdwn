@@ -1,0 +1,9 @@
+I want new glasses. I just got new short-distance glasses a few months
+ago, but my long-distance glasses are ten years old and are very scratched.
+I never previously gave much thought to glasses when purchasing them.
+Maybe open data can help me!
+
+Let's start by searching for datasets about glasses, lenses, frames,
+optometrists, and so on.
+
+* [](http://openprism.thomasl...
