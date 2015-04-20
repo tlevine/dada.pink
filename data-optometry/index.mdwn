@@ -1,9 +1,34 @@
+# Data glasses
 I want new glasses. I just got new short-distance glasses a few months
 ago, but my long-distance glasses are ten years old and are very scratched.
 I never previously gave much thought to glasses when purchasing them.
 Maybe open data can help me!
 
+## Searching
 Let's start by searching for datasets about glasses, lenses, frames,
 optometrists, and so on.
 
-* [](http://openprism.thomasl...
+* "[optometrist](http://openprism.thomaslevine.com/#/optometrist/1)"
+* "[glasses](http://openprism.thomaslevine.com/#/glasses/1)"
+* "[eyes](http://openprism.thomaslevine.com/#/eyes/1)"
+* "[lens](http://openprism.thomaslevine.com/#/lens/1)"
+* "[contact lenses](http://openprism.thomaslevine.com/#/contact lenses/1)"
+* "[lenses](http://openprism.thomaslevine.com/#/lenses/1)"
+
+## Results
+It was hard to find anything. Oh, the
+[difficulties of searching for data tables](/!/searching-data-tables/)!
+I did manage to find some vaguely relevant things.
+
+* [General Ophthalmic services workforce statistics](http://data.gov.uk/dataset/general_ophthalmic_services_workforce_statistics)
+* [Choosing And Caring For Contact Lenses](http://datahub.io/dataset/sylvest)
+
+## Anti-climax
+Oh fiddlesticks. I guess I'll go back to searching
+[all of the internet](https://duckduckgo.com/?q=choosing+glasses), not just
+the open data.
+
+On the plus side, the search for
+"[lenses](http://openprism.thomaslevine.com/#/lenses/1)"
+somehow led me to
+[this exciting dataset](http://www.opendata-hro.de/dataset/vornamen_von_neugeborenen_2013).
