@@ -1,3 +1,10 @@
+description: I used open data to look for glasses
+twitter_title: I used open data to look for glasses
+twitter_description: What do you think I found? Definitely not glasses data
+facebook_title: I used open data to look for glasses
+facebook_description: What do you think I found? Definitely not glasses data
+-------------------
+
 # Data glasses
 I want new glasses. I just got new short-distance glasses a few months
 ago, but my long-distance glasses are ten years old and are very scratched.
