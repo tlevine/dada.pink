@@ -7,7 +7,7 @@ Create a public remote git repository like so.
     publicgit
 
 That creates remotes at
-[git.thomaslevine.com](http://git.thomaslevine.com)
+[dada.pink](http://dada.pink)
 and [GitHub](https://github.com/tlevine) and sets them
 as origin.
 
@@ -24,17 +24,6 @@ it as the origin.
 (These functions are provided in the
 [profile](https://github.com/tlevine/profile).)
 
-No automatic repository creation is provided for
-[sensitive](/sensitive/) or [Branchable](https://branchable.com).
-
-## Enforce testing
-Add set the pre-push hook to run `make test` before pushing to master.
-
-    cd a-git-repository
-    gittest
-
 ## Switch keyboard layouts
 Type `aoeu` to switch to QWERTY, and
 type `asdf` to switch to Dvorak.
-
-## 

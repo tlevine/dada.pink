@@ -22,8 +22,8 @@ For Tom
 `./wiki/ <wiki>`_
     How this wiki works
 
-For Others
--------------
+For people other than Tom
+-----------------------------
 
 `./public-backups/ <public-backups>`_
     How to exchange backups with Tom
