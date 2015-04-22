@@ -19,9 +19,6 @@ For Tom
 `./filesystem/ <filesystem>`_
     How to organize filesystems
 
-`./wiki/ <wiki>`_
-    How this wiki works
-
 For people other than Tom
 -----------------------------
 
