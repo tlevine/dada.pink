@@ -1,5 +1,0 @@
-VoIP
-
-Data plan
-
-https://wiki.debian.org/Modem/3G

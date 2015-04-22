@@ -5,16 +5,15 @@ Base
 ^^^^^^
 Set up the home directory structure. ::
 
-    mkdir ~/{git,safe,history}
+    mkdir ~/{git,safe,nsa}
 
 SSH
 ^^^^^^
 Create an SSH key for the system and add it to the
 ``~/.ssh/authorized_keys`` file in the following places.
 
-* sensitive
+* "safe" backup computer(s)
 * GitHub
-* wiki.thomaslevine.com
 
 Clone the repository with most open SSH configurations. ::
 
@@ -87,15 +86,14 @@ The following links should be set.
 * The shell profile should source ``~/git/profile/profile`` and ``~/git/secrets-*/profile``.
 * In turn, ``~/git/profile/sources/*`` should be sourced.
 
-The following directories should be set in nsa.
+``~/dada.pink`` and ``~/big.dada.pink`` should be served publically over
+HTTP. (They can be symlinks to the actual directories.)
 
-`~/dadawarehouse.thomaslevine.com`
-    gets served publically over HTTP.
-`~/git.thomaslevine.com` gets served publically over HTTP.
-    It is also the home directory of another user with git ssh access,
-    and it should not be used for anything other than my special git thingy.
+A jail should be set up for sharing backups with other people. I presently
+use SFTP for this.
 
-Both of these directories should be backed up to Prudence.
+Configuration files for NSA are all stored in the ``secrets-nsa`` repository.
+Look at the Apache configuration in particular.
 
 Setting up systems for remote access
 ---------------------------------------
