@@ -1,3 +1,6 @@
+Permissions
+==================
+
 Concepts
 ----------
 There are four levels of security based on where data may be stored. Data storage that is appropriate for one of these groups is appropriate for all of the subsequent groups, and *not* vice-versa; when there is a breach at a particular level, subsequent levels will be compromised, and earlier levels will not be.

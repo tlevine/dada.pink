@@ -1,5 +1,6 @@
 Installing a new system
--------------------------
+=========================
+Installing a new Tom computer
 
 Base
 ^^^^^^
@@ -86,6 +87,9 @@ The following links should be set.
 * The shell profile should source ``~/git/profile/profile`` and ``~/git/secrets-*/profile``.
 * In turn, ``~/git/profile/sources/*`` should be sourced.
 
+
+For NSA, specifically
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ``~/dada.pink`` and ``~/big.dada.pink`` should be served publically over
 HTTP. (They can be symlinks to the actual directories.)
 
@@ -95,8 +99,4 @@ use SFTP for this.
 Configuration files for NSA are all stored in the ``secrets-nsa`` repository.
 Look at the Apache configuration in particular.
 
-Setting up systems for remote access
----------------------------------------
-
 * git bare hooks
-* Put the line "Port 443" in the sshd_config

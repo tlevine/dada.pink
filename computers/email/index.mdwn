@@ -1,3 +1,6 @@
+# Email
+This is how I manage my email.
+
 ## Services
 Let's walk through the path of an email that is sent to me. 
 
