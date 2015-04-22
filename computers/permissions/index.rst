@@ -54,6 +54,11 @@ so I don't count that as a backup.
 
 Laptop data are stored on the laptop, of course.
 
+Emails
+-----------
+Emails are classified as Home data initially, but individual emails can be
+converted to Public data through a [mailbox interface](../email/#permissions).
+
 If only one location is specified above
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Every piece of data should be stored in at least two places. One place is

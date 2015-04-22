@@ -9,5 +9,40 @@ How my email system works....
 
 what else....
 
+## Mailboxes
+Emails arrive in the Inbox mailbox. Imapfilter moves most of them to
+one of the following mailbox.
+
+* Lists (mailing lists)
+* Pulse (emails that I don't read but haven't figured out how to
+    disable, such as most things from Facebook, GitHub and LinkedIn)
+* Spam
+
+I read the emails that remain in Inbox.
+After I read the email, I preferably do something right away that allows
+me to never read the email again. If the email is just a newsletter,
+I don't have to do anything else. More likely, I wind up adding something
+to my calendar/to-do-list or responding to the email. Once I have fully
+addressed the email, I move it to one of these places
+
+* Archive (most emails)
+* Interesting (particularly interesting emails)
+
+If I want to do something about the email but keep not doing anything
+about it, I move it to the "Catharsis" mailbox. This makes it easier to
+look through the remaining things in Inbox.
+
+I read the emails in Lists and Catharsis when I'm bored.
+
+## Forwarding
 Pretty much any email address you might have for me forwards to
 [\_@thomaslevine.com](mailto:_@thomaslevine.com).
+
+## Permissions
+By default, I consider all emails I receive to contain private information.
+Within my [data classification scheme](../permissions/), I consider emails
+to be "home" level data.
+
+I can selectively decide to publish emails by moving them from to the "Public"
+mailbox. These emails get sent to the computer running the Dada Portal software,
+which indexes them for searching exposes them in the email endpoint.
