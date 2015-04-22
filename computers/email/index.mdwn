@@ -1,15 +1,49 @@
-How my email system works....
+## Services
+Let's walk through the path of an email that is sent to me. 
 
-* gandi
-  * forwarding
-* imapfilter
-* offlineimap
-* mutt
-  * aliases
+Pretty much any email address you might have for me forwards to
+[\_@thomaslevine.com](mailto:_@thomaslevine.com). This is an account
+on [Gandi](https://gandi.net)'s mail service.
 
-what else....
+Every minute or so, I connect to that email account with over IMAP
+with imapfilter. Imapfilter filters some emails into different
+[mailboxes](#mailboxes).
 
-## Mailboxes
+Next, I connect with offlineimap, to synchronize the computers between
+Gandi's server and my local computer. New emails that have arrived at
+Gandi get sent to my local computer, and new emails that I have written,
+or movements of emails from one mailbox to another, get sent from my
+local computer to the Gandi server.
+
+offlineimap stores emails in maildirs.
+I send these maildirs to a [backup server](../permissions/)
+over rsync.
+
+After the synchronization, I index the emails for searching with
+[notmuch](http://notmuchmail.org).
+
+Then I read and write emails in [mutt](http://mutt.org/).
+I search them with notmuch-mutt,
+and I record email addresses of frequent contacts as mutt
+aliases.
+These aliases are stored in a private git repository; you can read
+about how that gets stored in [permissions](../permissions/).
+
+All of the above steps can happen on either my "laptop" or on "home".
+Imapfilter, offlineimap, and notmuch are always running on home, but the
+computer I use for email reading depends on my internet connection.
+
+If I am not connected to the internet, I read and write emails on "laptop"
+and synchronize them later. If I am on a bad internet connection, I usually
+read and write things on "laptop", synchronize the drafts with "home", and
+then send them from "home". If I'm on a really bad internet connection,
+I don't synchronize them to laptop at all, because that takes more bandwith
+than just logging into "home" and doing everything there.
+
+Regardless of which computer I send the emails from, I send them through
+Gandi's SMTP server.
+
+<h2 id="mailboxes">Mailboxes</h2>
 Emails arrive in the Inbox mailbox. Imapfilter moves most of them to
 one of the following mailbox.
 
@@ -32,13 +66,12 @@ If I want to do something about the email but keep not doing anything
 about it, I move it to the "Catharsis" mailbox. This makes it easier to
 look through the remaining things in Inbox.
 
+I might also move an email to the "Public" mailbox, which makes them
+show up [on the public web](#permissions).
+
 I read the emails in Lists and Catharsis when I'm bored.
 
-## Forwarding
-Pretty much any email address you might have for me forwards to
-[\_@thomaslevine.com](mailto:_@thomaslevine.com).
-
-## Permissions
+<h2 id="permissions">Permissions</h2>
 By default, I consider all emails I receive to contain private information.
 Within my [data classification scheme](../permissions/), I consider emails
 to be "home" level data.
