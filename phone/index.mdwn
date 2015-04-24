@@ -1,11 +1,15 @@
-title: Calling Tom
--------
+# Calling Tom
 
 If you're in the United States, you probably want to call
 [+1 229 516 1541](tel:12295161541).
 
 If you're in another country or the above number is otherwise a long
 distance number, you can call [+883 51000 9902082](tel:883510009902082),
-which should be a local call. This can sometimes be treated erroneously
-as a long-distance call, so read [here](inum) for some tricks related to
-calling this number.
+which should be a local call. This is an iNum, which is supposed to be
+effectively a local numbers regardless of where you are in the world.
+Many providers don't implement that properly, however, so it doesn't
+always count as a local call. To ensure that it is local, you can use an
+[access number](http://www.inum.net/what-is-inum-2/local-access-numbers/)
+for the region you are calling me from. Here are
+[directions](http://www.inum.net/call-inum-from-your-cell-phone/)
+for saving the combined access number and iNum in your phone.
