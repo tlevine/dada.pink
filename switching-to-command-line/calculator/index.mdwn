@@ -1,5 +1,7 @@
-[[!meta title="Replacing the graphical calculator with a CLI"]]
-[[!meta description="It's kind of easy, but there are also some quirks."]]
+description: It's kind of easy, but there are also some quirks.
+------------
+
+# Replacing the graphical calculator with a CLI
 
 You might use a graphical calculator thingy and want to switch for a
 command-line calculator. Pretty much any language with a shell will

@@ -1,5 +1,6 @@
-[[!meta title="vim"]]
-[[!meta description="Replacing graphical text editors for web development"]]
+description: Replacing graphical text editors for web development
+------------
+# vim
 
 Ilda uses these 
 
