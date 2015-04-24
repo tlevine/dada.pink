@@ -76,9 +76,9 @@ common things are included in the "layout.html" file, which we don't see
 in the above example. Inside of this "layout.html" file is a "body" block
 that gets filled in differently for each of the different pages.
 
-This particular page lists links to users' "url[s]", using a loop.
-Consider writing this in simple Javascript or Python or whatever!
-If it doesn't look like a mess at the end, you will have rewritten
+This particular page lists links to users' `url` attributes, using a loop.
+Consider how you might do this if you didn't have a library like Jinja;
+if you manage to do it without making a mess, you will have rewritten
 a bunch of things that are already in these various templating languages.
 
 ### Partials
@@ -127,7 +127,7 @@ I usually hear this templating discussed in context of webby things.
 If you are assembling HTML pages with these templates, you might want
 some of the following features
 
-* If characters that mean something in HTML, like `<`, are included,
+* If characters that mean something in HTML, like "`<`", are included,
     escape them so that the HTML doesn't get messed up.
 * Allow HTML to be included, but don't allow potentially dangerous things
     like script tags. (In case you don't know why those would be dangerous,
