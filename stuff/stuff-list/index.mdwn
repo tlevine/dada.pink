@@ -1,5 +1,7 @@
-[[!meta title="Bicycle stuff"]]
-[[!meta description="Stuff related to cycling"]]
+description: Stuff related to cycling
+--------------
+
+# Bicycle stuff
 
 Here's what I'm carrying in January 2015. Most of it is the same as
 previous months, but a lot is new because
@@ -87,7 +89,3 @@ And here are the other things.
 * Books
   * Statistika Elementare
   * Fjalor Shqip Frëngjisht
-
-Old lists are here.
-
-[[!map pages="stuff/stuff-list/20*"]]

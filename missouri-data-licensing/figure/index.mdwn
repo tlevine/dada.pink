@@ -1,1 +1,0 @@
-[[!map pages="exclaim/missouri-data-licensing/figure/* and ! exclaim/missouri-data-licensing/figure/*/*"]]

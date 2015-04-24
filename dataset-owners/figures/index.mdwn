@@ -1,1 +1,0 @@
-[[!map pages="__33__/dataset-owners/figures/* and ! __33__/dataset-owners/figures/*/*"]]

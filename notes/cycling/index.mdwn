@@ -1,1 +1,0 @@
-[[!map pages="notes/cycling/* and ! notes/cycling/*/*"]]

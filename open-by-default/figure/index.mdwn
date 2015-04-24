@@ -1,1 +1,0 @@
-[[!map pages="exclaim/open-by-default/figure/* and ! exclaim/open-by-default/figure/*/*"]]

@@ -1,1 +1,0 @@
-[[!map pages="exclaim/r-curses-for-data-witches/figure/* and ! exclaim/r-curses-for-data-witches/figure/*/*"]]
