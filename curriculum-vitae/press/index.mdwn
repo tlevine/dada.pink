@@ -1,7 +1,7 @@
-[[!meta title="Thomas Levine"]]
-[[!meta description="Press about me"]]
+description: Press about Thomas Levine
+--------------
 
-## Press
+# Press
 
 * Sydney Arkin (2008). [Inside Risley's Castle](http://cornellsun.com/node/33124). Cornell Daily Sun.
 * Emily Badger (2013). [Visualizing the Impact of Mega-Storms on Transit](http://www.theatlanticcities.com/commute/2013/05/visualizing-impact-mega-storms-transit/5660/). The Atlantic Cities.
