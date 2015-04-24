@@ -1,1 +1,2 @@
-[[!meta redir="/__33__/hypermediated-conversation"]]
+redirect: /!/hypermediated-conversation/
+-----------

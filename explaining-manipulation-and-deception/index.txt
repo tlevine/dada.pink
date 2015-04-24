@@ -1,1 +1,2 @@
-[[!meta redir="/__33__/i-like-people"]]
+redirect: /!/i-like-people/
+-----------
