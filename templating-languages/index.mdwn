@@ -16,8 +16,8 @@ As I read in [Wikipedia](https://en.wikipedia.org/wiki/Template),
 > * a pre-developed page layout in electronic or paper media used to make new pages with a similar design, pattern, or style
 > * form letter, a predefined letter which retains its primary intent when individually customised with variable data or text
 
-Like with anything else, templating in the context of computers may mean
-any of the above things.
+Like with templating in any other context, templating in the context of
+computers can refer to any of the above things.
 
 ## Metaprogramming
 A "template language" is sometimes intended to produce a string of text that
