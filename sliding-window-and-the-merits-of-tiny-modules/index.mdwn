@@ -2,18 +2,26 @@ title: Sliding Window
 description: And the merits of tiny modules
 ------------
 
-## Sliding window
+<div>
+
+# Sliding window
 I once wanted to iterate over a thing in Python and have access to
 more than the current item. I found a few implementations of on
 [this webpage](http://stackoverflow.com/questions/6822725/rolling-or-sliding-window-iterator-in-python/6822761#6822761),
 but it seemed odd to me that I couldn't just import a module for this.
 
+</div>
+
+<div>
 So I made the module! I packaged one of the implementations from that
 webpage as [sliding_window](http://pypi.python.org/pypi/sliding_window),
 which you can get from PyPI like so.
 
     pip install sliding_window
 
+</div>
+
+<div>
 And then I used it like this.
 
     from sliding_window import window
@@ -27,7 +35,9 @@ And then I used it like this.
     # 47
     # 62
     # 79
+</div>
 
+<div>
 ## The merits of small modules
 I factor out small bits of code that I use often and publish them
 to appropriate package repositories so that I can more easily reuse
@@ -39,7 +49,9 @@ small things, and then I make one of the smaller things. Most likely,
 I don't wind up with the big thing, but I still have the most important
 or interesting of the small things. (You can call this "iterative development"
 if you like.)
+</div>
 
+<div>
 ## The use of standard packaging conventions
 Once in a while, I wind up making all of the smaller things. When this
 happens, the big complicated thing looks simple because it is just a tiny
@@ -47,12 +59,11 @@ package that imports all of the smaller things. By packaging things in
 standard modules, I can avoid documenting my procedures for installation
 and whatnot; if my packages follow conventions, I can figure out how my
 own stuff works by reading ordinary Python documentation.
+</div>
 
+<div>
 ## In summary
 1. [sliding_window](https://pypi.python.org/pypi/sliding_window) exists.
 2. Write tiny modules.
 3. If they're Python modules, publish them to PyPI.
-
-## Slides
-For my lightning talk on this matter, see the above notes formatted
-[as slides](slides).
+</div>
