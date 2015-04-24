@@ -1,4 +1,5 @@
 title: treasury.io
+redirect: https://source.opennews.org/en-US/articles/introducing-treasuryio/
 ----------
 
 http://dansinker.com/post/49856260511/opennews-code-sprints-do-some-spring-cleaning-on-data
