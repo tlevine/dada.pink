@@ -64,7 +64,10 @@ based on [Alexa data](http://techslides.com/io-domains-in-alexa-top-1-million)
 (I guess searches?) and [checked](https://pypi.python.org/pypi/io-whois)
 when the domains were registered.
 
-## Some other fun things I found along the way
+## Anti-conclusion
+I have no clear explanation yet, unfortunately.
+Instead, here are some other fun things I found along the way.
+
 Read about [how .co and .info thought about marketing](https://www.quora.com/How-did-the-co-TLD-become-so-popular).
 
 Google [doesn't consider](http://clay.io/blog/an-appeal-to-google-make-io-a-gcctld/)
