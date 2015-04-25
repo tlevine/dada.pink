@@ -1,5 +1,6 @@
-title: The goal of hiding things from others is often to hide things from ourselves.
------------------------------------------------------------
+tags: ['people']
+------------
+# The goal of hiding things from others is often to hide things from ourselves.
 
 The goal of hiding things from others is often to hide things from ourselves.
 Or so I think. Without going into much detail about how I came to this

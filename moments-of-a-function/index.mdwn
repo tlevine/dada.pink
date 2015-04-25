@@ -7,9 +7,11 @@ tweet_link: https://twitter.com/thomaslevine/status/364063019954745345
 facebook_link: https://www.facebook.com/perluette/posts/2511035939940
 twitter_image: biostatistics-ryan-gosling.jpg
 facebook_image: biostatistics-ryan-gosling.jpg
--------
----
+----------
+# Moments of a function
+
 I made this table years ago to help me understand what the moments of a function were.
+(I have since changed how my website renders math, so the table doesn't look right at all.)
 
 Name                | Formula                                                                               | $$\mu_{0}$$ | $$\mu_{1}$$ | $$\mu_{2}$$  | $$\mu_{3}$$  | $$\mu_{4}$$ 
 ------------------- | ------------------------------------------------------------------------------------- | ----------- | ----------- | ------------ | ------------ | ----------- --

@@ -1,3 +1,6 @@
+tags: ['learn']
+----------------
+# Learning data stuff
 Lots of people seem to want to learn computer-data-stuff
 from me. Here's a learning approach that I want to try.
 Please read below and then

@@ -1,5 +1,4 @@
-title: Jaywalking
--------
+# Jaywalking
 
 <img alt='A "JAYWALKING PROHIBITED" sign posted on a bus stop and a crowd of people across the street'
      src="sign.jpg" class="wide" />

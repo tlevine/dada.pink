@@ -1,3 +1,5 @@
+tags: ['people']
+------------
 It always seems like everyone doing computer stuff is a 25-year-old
 prodigy who is changing the world in the most important way possible.
 It took me a while to realize this because everyone's really good at

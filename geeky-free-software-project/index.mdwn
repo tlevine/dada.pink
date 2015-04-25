@@ -1,3 +1,6 @@
+tags: ['sharing']
+------------
+# Geeky free software project
 [Redon](http://skikuli.com) asked me to present a "geeky open source
 (and free software culture) related project [I] have done". This request
 seemed a bit odd at first because pretty much everything I do could be
@@ -8,7 +11,7 @@ Let's break this into three things.
 
 1. Cool things happen because people share information with me.
 2. Cool happen I can do because I share information.
-3. The interesting part about free software/culture is just sharing.
+3. The interesting part about free software/culture is simple sharing.
 
 ## People share with me
 Nice things happen when it's easy to exchange things and information.

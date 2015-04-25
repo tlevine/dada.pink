@@ -4,7 +4,9 @@ created_at: 2013-03-29
 -------
 
 I use [imapfilter](https://github.com/lefcha/imapfilter) to filter my mail.
-It's awesome.
+It's awesome. Here's something I wrote in March 2013, after I had been using
+imapfilter for a short while. I still use it, but my configuration has grown
+a bit.
 
 ## So simple
 I just wrote a `~/.imapfilter/config.lua` file and added `imapfilter`

@@ -1,5 +1,5 @@
 tags: ['open-data']
-title: Get Meta! (Hire me.)
+title: Get Meta!
 description: I want to study open data all day.
 twitter_title: Have you looked at the data about your open data?
 twitter_description: Tom wants to study open data all day.

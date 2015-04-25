@@ -1,8 +1,8 @@
 tags: ['computer']
-title: My personal computer infrastructure
 -------
-
-This is the architecture that runs my various sites and other services
+# My personal computer infrastructure
+This is the architecture ran my various sites and other services
+in 2012. It has changed since.
 
 ### Hardware
 
