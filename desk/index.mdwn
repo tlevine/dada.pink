@@ -1,4 +1,5 @@
-My desk will be a table top
+# Portable desk
+I had an idea to make a desk that was just a table top
 with stubs onto which disposible legs can be attached.
 
 ## Table
@@ -10,12 +11,13 @@ and it is sized in order that it just fits in my
 The stubs for legs are square-prism blocks of wood glued to the
 table top, with holes drilled through the blocks.
 
-The legs are cardboard tubes. I can easily acquire these anywhere
-I'm going to go.
+The legs are cardboard tubes or glass jars or metal cans or
+wood dowels. I can easily acquire these anywhere I'm going to go.
 
 To assemble the desk, I poke holes in the cardboard tubes, slide
 them over the stubs, and put some string or a dowel or screw or something
-through the holes to fix them in place.
+through the holes to fix them in place. Or I do something similarly
+simple if the legs are of one of the other materials.
 
 ## Chair
 The chair is the [BackJack](http://www.bjindustriesinc.com/backjack-chairs.htm),

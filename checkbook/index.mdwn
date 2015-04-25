@@ -1,18 +1,21 @@
 tags: ['learn']
-title: On balancing checkbooks
 --------------------------------------------------------
+# On balancing checkbooks
 
 Balancing checkbooks is one of those things that people say everyone should
 know how to do. It's also one of those should learn in school or whatnot. I
-jokingly arrogantly don't see why.
+jokingly and arrogantly don't see why.
 
+## What I do
 I had never learned to balance a checkbook, so when I wanted to account
-better for money, looked for accounting software on SourceForge and found that
+better for movements of money,
+I looked for accounting software on SourceForge and found that
 GnuCash had many downloads, recommendations, &c. Then I installed it and spent
 a Sunday afternoon skimming the
 [GnuCash tutorial](http://gnucash.org/docs/v2.4/C/gnucash-guide/index.html).
 This has been enough to satisfy me since.
 
+## Why not checkbooks
 This leads me to find it silly to learn/teach checkbook-balancing. First,
 imputing data on paper is
 silly these days because computers can transcribe things much more easily and
@@ -26,5 +29,6 @@ but here are a bunch of things that seem annoying to do in a checkbook:
 * Drawing graphs
 * Multiple accounts
 
+## Don't learn checkbooks
 In conclusion, I see no reason to teach people to balance their checkbooks;
 just use some proper computer-based accounting system.

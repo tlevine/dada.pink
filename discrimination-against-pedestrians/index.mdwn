@@ -1,5 +1,4 @@
-title: On discrimination against pedestrians
------------------------------------------------------------
+# On discrimination against pedestrians
 
 People often complain that things are designed in various ways that don't
 support cycling. When they say this, they probably mean that the environment

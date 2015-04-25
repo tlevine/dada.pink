@@ -1,7 +1,7 @@
 tags: ['ergonomics']
-title: Design for varied ability
 created_at: 2013-02-09
 --------------------------------------------------------
+# Design for varied ability
 
 The smoothies section of this menu from
 [Cherrywood Coffeehouse](http://cherrywoodcoffeehouse.com/) is designed for

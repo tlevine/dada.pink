@@ -1,10 +1,11 @@
 tags: ['things']
-title: Earmuffs
 created_at: 2013-07-06
 -------
 
+# Earmuffs
+
 Ear plugs get annoying, so I got a pair of ear muffs two and a half years ago on
-Christmas. thread:00000000000116c9
+Christmas. <!-- thread:00000000000116c9 -->
 They're the [Glock Peltor Hearing Protector Muffs AP60212](http://www.opticsplanet.com/glock-peltor-hearing-protector-muffs.html).
 
 They were pretty awesome. They're much more convenient than ear plugs, they don't
