@@ -8,8 +8,10 @@ I went to a [three-day party](http://mediaparty.hhba.info) in Buenos Aires this
 past month. The first two days were
 [talks and workshops](http://mediaparty.hhba.info/es/agosto2012/agenda/26/Agenda.htm),
 
-I gave a talk on [how awesome I am](http://talks.thomaslevine.com/hh-ba-media-party-keynote/) and a workshop on
-[cleaning data](http://mediaparty.hhba.info/es/agosto2012/talleres/56/Taller-18-De-la-web-al-spreadsheet-%C2%BFPara-qu%C3%A9-sirve-Scraper-Wiki.htm).
+I gave a talk on how we get all excited about quantitative data analysis
+but not about elephant in the room that is the cleaning of data. And then
+I gave a workshop
+[on this elephant](http://mediaparty.hhba.info/es/agosto2012/talleres/56/Taller-18-De-la-web-al-spreadsheet-%C2%BFPara-qu%C3%A9-sirve-Scraper-Wiki.htm).
 The latter involved no computers and no slides, so I held it outside!
 
 I modeled an analog version of the
