@@ -1,8 +1,7 @@
 tags: ['learn', 'convert']
-title: Websites to data tables, in depth
 description: Tom finally explains how he scrapes websites.
 --------------------------------------------------------
-
+# Websites to data tables, in depth
 
 Once you've read the
 [other article on converting websites to data tables](/!/web-sites-to-data-tables),
