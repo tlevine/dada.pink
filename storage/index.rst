@@ -1,4 +1,5 @@
 title: Storage services
+----------------
 
 Here are some attributes of different services. The more appealing services
 are earlier in the table.
@@ -23,7 +24,9 @@ Ship2Storage gives different prices for different box sizes and gives discounts
 for if you leave your stuff there longer. It seems to me that a long-term deal
 doesn't let you receive the box and then mail it back, so this isn't very appealing.
 The price I used is for the box size closest to the other box sizes and for
-month-to-month storage.
+month-to-month storage. Also, I get the impression that Ship2Storage went out of
+business, because their website hasn't been updated in a while and they didn't
+respond to my email.
 
 StorageByMail says in only one place on their site that the discounted shipping
 is a "limited-time" thing, so maybe I shouldn't trust that it'll stay there.

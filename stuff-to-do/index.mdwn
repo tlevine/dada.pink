@@ -32,7 +32,7 @@ and my mission to enlighten people to
 [control](https://www.brighttalk.com/webcast/9059/131047).
 
 Some other things can be seen as more direct manifestations of this aversion
-to work, such as [this recent (not finished) writing](/!/silly/).
+to work, such as [this recent (not finished) writing](/!/i-like-people/).
 
 The general pattern I see is that I get bored and frustrated when people take
 things seriously and that I react to such things by making them hilarious.
@@ -56,7 +56,7 @@ that it was a waste of time before I decided not to do much about it.
 I did quite a bit of work for an
 [environmental advocacy group](http://healthygulf.org),
 and what I did was apparently quite helpful, but I think it just fuels a silly
-quarrel among various players who insist on (bureaucratically) fighting each
+quarrel among various players who insist on bureaucratically fighting each
 other.
 
 More importantly, I compensate for all of the good I do for the world is with
@@ -67,7 +67,7 @@ want people to [sleep](/!/sleeping) more and work less. And this gets us
 back to the original issue of what I should do when I'm not sleeping.
 
 ## There's something related to teaching
-I like kind of like [teaching](/learn) people stuff when it
+I like kind of like [teaching](/search/?q=tag:learn) people stuff when it
 [isn't much work](/!/learning-data-stuff/) and when it seems worthwhile in
 a broader sense. For example, the
 [command-line workshop](/!/switching-to-command-line/) and these definitions of
@@ -99,8 +99,8 @@ things that I want to do are things that let me do fewer things.
 ## Or maybe the main thing is people
 The things that actually have interested me lately relate rather strongly
 to people. For example, computers
-[look for people I haven't emailed in a while](http://small.dada.pink/whom-to-email/README),
-[organize some of my personal data](http://small.dada.pink/dadawarehouse/README),
+[look for people I haven't emailed in a while](http://dada.pink/whom-to-email/README),
+[organize some of my personal data](http://dada.pink/dadawarehouse/README),
 [remember information about my friends](https://pypi.python.org/pypi/cbuh), and
 [conduct the repetitive parts of conversations](http://thomaslevine.com/!/geeky-free-software-project/).
 
@@ -111,11 +111,22 @@ serious, important, work-type things most of the time, and that leaves very
 little time for the time-consuming and unexciting things that I do for fun,
 like napping in the sun, sitting in coffee shops, and taking walks in the park.
 
+## A valiable way of doing nothing
+In April 2015 I finally discovered a worthwhile way of doing nothing:
+Occupy a beautiful forest that is going to be cut down for stupid reasons,
+like for strip mining. I can be helpful in such a context simply by keeping
+things in good order and acquiring or preparing food; other people can do
+the main activism of interfering with the mining company's plans.
+
+This still doesn't tell me what to do all day, but sitting around in a
+activist squat doing nothing sounds a bit more like an answer than sitting
+around a normal house doing nothing.
+
 ## So what do I do?
 It's like I have designed my life such that I don't have to do any unpleasant
 work. I have enough money that I can retire, I have little enough
 [stuff](/!/stuff/) that I can move easily, and I have even
-[transferred my consciousness into a computer](/!/geeky-free-software-project/)
+[transferred my consciousness into a computer](/!/hypermediated-conversation/)
 that takes care of the annoying parts of socializing.
 
 People supposedly do sometimes enjoy doing somethings other than nothing,
