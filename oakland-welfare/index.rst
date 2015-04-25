@@ -1,3 +1,5 @@
+Welfare in Oakland
+=============================
 I helped some friends in Oakland who were broke not pay money for things
 that the government could subsidize instead. And thus I learned a bit about
 welfare in Oakland.

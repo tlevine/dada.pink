@@ -1,6 +1,6 @@
-title: On the financial value of college
-description: 
+description: Some people did fancy research on this.
 -------
+# On the financial value of college
 
 A friend sent me an newspaper article by
 [Jeff Guo](http://www.washingtonpost.com/people/jeff-guo)
@@ -224,7 +224,7 @@ earnings!
 
 ### The usual problems with simplifying things
 This simplification of the world carries all of the usual cautions,
-as [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf)'s explain.
+as [Brad and Melissa](http://www.hamiltonproject.org/files/downloads_and_links/MajorDecisions-Appendix_001.pdf) explain.
 
 ## Another way of thinking about this
 It might seem strange that I could make more money by not working and not going
@@ -240,7 +240,7 @@ to move up economically, you need to get someone to give you money or something
 like money, such as a scholarship.
 
 ### Other things
-Life is more complex, of course. I didn't go to college,
+Life is more complex, of course. If I didn't go to college,
 I'd probably still earn more in a job than many other people would because
 of various prejudices against people without money and in favor of people
 with money.
