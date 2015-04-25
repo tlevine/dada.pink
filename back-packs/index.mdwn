@@ -1,3 +1,6 @@
+tags: ['stuff']
+----------
+# Which backpack?
 What backpack to get? I want a small one with lots of big pockets.
 
 * I have the Tom Bihn Synapse 19.
