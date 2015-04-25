@@ -1,3 +1,5 @@
+Preferences about where I live
+=================================
 It turns out that I do have preferences about where I live!
 I have grouped them into things that are very hard to change
 (like geology) and things that are less hard to change
@@ -27,16 +29,9 @@ Easy to get to other places
 Cheap
     ?
 
-Here are places that I should at least see.
+Here are places that Rachel (if I'm remembering her name correctly) said I should at least see.
 
 * https://en.wikipedia.org/wiki/Kennecott,_Alaska
 * Reunion
 * Southern France
 * Mauratius
-
-Courses
-
-* Landmark
-* Vipasana
-  * Dho..something
-* Rainbow family gatherings
