@@ -1,6 +1,4 @@
-title: A functional ergonomic analysis of public toilets
-----------
-
+# A functional ergonomic analysis of public toilets
 Thomas Levine, 2010
 
 I present a haphazard ergonomic analysis of the public toilet. I am concerned with the

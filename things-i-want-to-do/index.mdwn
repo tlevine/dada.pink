@@ -1,6 +1,7 @@
-title: Things I want to do
+tags: ['sleep']
 description: Some things that might be more exciting than sleep
 --------------------------------------------------------
+# Things I want to do
 
 ## Software things for other people
 
