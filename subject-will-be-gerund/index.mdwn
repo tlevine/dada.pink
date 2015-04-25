@@ -1,6 +1,6 @@
-title: (Subject) will be (gerund)
 description: Do people I know from university use this structure more than other people?
 --------------------------------------------------------
+# (Subject) will be (gerund)
 
 I get the feeling that people who went to
 [Cornell University](https://en.wikipedia.org/wiki/Cornell_University),

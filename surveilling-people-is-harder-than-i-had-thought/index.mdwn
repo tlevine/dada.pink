@@ -1,6 +1,6 @@
 tags: ['dadawarehouse']
-title: Surveilling people is harder than I had though
 ----------
+# Surveilling people is harder than I had though
 
 I've been collecting lots of data for the past ten years or so,
 and I've recently been connecting those data in my

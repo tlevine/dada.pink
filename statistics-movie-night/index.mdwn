@@ -1,8 +1,10 @@
+# Statistics move night
+I want to have a statistics movie night. We'll watch
+
 * [Bill Nye the Science Guy: Probability](https://www.youtube.com/watch?v=uck_xkJYuDU)
 * Bill Nye the Science Guy: Pseudoscience
 * The video on random sampling from jury duty
 * My statistics doodles video once I make it?
-
 
 ## About that random sampling video from jury duty
 I called the jury clerk, and he told me that it's called "Call to Serve" and
@@ -26,9 +28,11 @@ I spoke with Matt Sarago (msarago@fjc.gov) and learned the following.
 * The old video said something bad about real estate agents and got people upset,
     so there was an update to that.
 
-He'll send me
+He sent me
 
 * YouTube link to the old version of Call to Serve
 * YouTube link to a video for jurors in patent cases that might be interesting.
 * Information on the licensing of Call to Serve from its credits, so that I may
     look further into obtaining the video
+
+Unfortunately, none if these got me anyware.

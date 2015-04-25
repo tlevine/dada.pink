@@ -1,6 +1,7 @@
-title: Installing Selenium
+tags: ['learn']
 created_at: 2012-04-24
 ------------
+# Installing Selenium
 
 The Selenium Server documentation is unnecessarily painful;
 installing Selenium is not hard.

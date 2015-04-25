@@ -1,6 +1,6 @@
 I like sleeping.
 
-![Picture of Tom sleeping and looking happy.]()
+<!-- ![Picture of Tom sleeping]() -->
 
 Here's how you sleep for nine hours in a few different languages.
 
