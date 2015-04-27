@@ -13,16 +13,26 @@ First, determine whether a site uses GitHub Pages.
 
 I saved the above file as `~/bin/is-gh-pages`.
 
-`~/bin` is in my `PATH` because I have this in my `~/.bash_profile`.
+`~/bin` is in my `PATH` because I have this in my `~/.bash_profile`,
 
     export PATH="${PATH}:${HOME}/bin"
 
-Second, search for the source code. I called this next one
-`~/bin/find-gh-pages-repository`.
+so I can do this.
 
-    #!/bin/sh
-    domain="$1"
-    firefox "https://github.com/search?utf8=%E2%9C%93&q=in%3A%2F+$domain+filename%3ACNAME&type=Code&ref=searchresults"
+    is-gh-pages thomaslevine.com
+    is-gh-pages csv.nyc
+
+Second, search for the source code. This search will find you the appropriate
+files.
+
+> in:/ $domain filename:CNAME
+
+Here are the results for
+[thomaslevine.com](https://github.com/search?utf8=%E2%9C%93&q=in%3A%2F+thomaslevine.com+filename%3ACNAME&type=Code&ref=searchresults)
+and [csv.nyc](https://github.com/search?utf8=%E2%9C%93&q=in%3A%2F+csv.nyc+filename%3ACNAME&type=Code&ref=searchresults).
+
+Note that there are several resulting repositories for the `thomaslevine.com`
+even though none of them are served from GitHub pages; they used to be.
 
 ## Listing the sites to check.
 Then I needed to list which sites to check.
