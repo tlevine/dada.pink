@@ -11,17 +11,6 @@ First, determine whether a site uses GitHub Pages.
     domain="$1"
     curl --head "http://$domain/"|grep 'Server: GitHub.com' > /dev/null
 
-I saved the above file as `~/bin/is-gh-pages` and made it executable.
-
-`~/bin` is in my `PATH` because I have this in my `~/.bash_profile`,
-
-    export PATH="${PATH}:${HOME}/bin"
-
-so I can do this.
-
-    is-gh-pages thomaslevine.com
-    is-gh-pages csv.nyc
-
 Second, search for the source code. This search will find you the appropriate
 files.
 
@@ -57,9 +46,18 @@ I wrote up the GitHub stuff
 [more cleanly](http://dada.pink/find-static-websites/github.py).
 I installed it
 
-    wget -O ~/bin/find-gh-pages-repositories http://dada.pink/find-static-websites/github.py
-    chmod +x ~/bin/find-gh-pages-repositories
+    wget -O ~/bin/gh-pages-repositories http://dada.pink/find-static-websites/github.py
+    chmod +x ~/bin/gh-pages-repositories
 
-and then ran this.
+`~/bin` is in my `PATH` because I have this in my `~/.bash_profile`,
 
-    mutt-alias-domains | find-gh-pages-repositories > gh-pages.csv
+    export PATH="${PATH}:${HOME}/bin"
+
+so I can do this.
+
+    gh-pages-repositories thomaslevine.com
+    echo csv.nyc | gh-pages_repositories
+
+Finally, I ran this.
+
+    mutt-alias-domains | gh-pages-repositories > gh-pages.csv
