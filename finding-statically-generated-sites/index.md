@@ -11,7 +11,7 @@ First, determine whether a site uses GitHub Pages.
     domain="$1"
     curl --head "http://$domain/"|grep 'Server: GitHub.com' > /dev/null
 
-I saved the above file as `~/bin/is-gh-pages`.
+I saved the above file as `~/bin/is-gh-pages` and made it executable.
 
 `~/bin` is in my `PATH` because I have this in my `~/.bash_profile`,
 
@@ -31,18 +31,16 @@ Here are the results for
 [thomaslevine.com](https://github.com/search?utf8=%E2%9C%93&q=in%3A%2F+thomaslevine.com+filename%3ACNAME&type=Code)
 and [csv.nyc](https://github.com/search?utf8=%E2%9C%93&q=in%3A%2F+csv.nyc+filename%3ACNAME&type=Code).
 
+Note that there are several resulting repositories for thomaslevine.com
+even though none of them are served from GitHub pages; they used to be.
+
 You unfortunately can't do this from the API, as one is required to specify a
 [user, organization, or repository](https://developer.github.com/changes/#new-validation-rule).
 That is, the following query produces an error.
 
 > [https://api.github.com/search/code?q=in:/+csv.nyc+filename:CNAME](https://api.github.com/search/code?q=in:/+csv.nyc+filename:CNAME)
 
-So you need to do this instead.
-
-    h
-
-Note that there are several resulting repositories for thomaslevine.com
-even though none of them are served from GitHub pages; they used to be.
+The first result seems to be good enough.
 
 ## Listing the sites to check.
 Then I needed to list which sites to check.
@@ -54,23 +52,14 @@ This gets them from my shell alias file.
 
 Call it `~/bin/mutt-alias-domains`.
 
-Then I wanted to check all of them. I put this in `~/bin/is-gh-pages-many`.
+## Putting everything together
+I wrote up the GitHub stuff
+[more cleanly](http://dada.pink/find-static-websites/github.py).
+I installed it
 
-    #!/bin/sh
-    echo When a browser window opens, find the repository URL, and paste it here. > /dev/stderr
-    echo You probably want to direct STDOUT to a file, like this.
-    echo
-    echo '  is-gh-pages-many > repositories.csv'
-    echo
-    echo Hit enter when you are ready.
-    read
-    echo domain,repository
-    while test $# -gt 0; do
-      domain="$1"
-      if is-gh-pages "$domain"; then
-        find-gh-pages-repository "$domain"
-        read url
-        echo "$domain,$url" > /dev/stdout
-      fi
-      shift
-    done
+    wget -O ~/bin/find-gh-pages-repositories http://dada.pink/find-static-websites/github.py
+    chmod +x ~/bin/find-gh-pages-repositories
+
+and then ran this.
+
+    mutt-alias-domains | find-gh-pages-repositories > gh-pages.csv
