@@ -1,4 +1,4 @@
-# Examining source code of sites on GitHub Pages
+# Static site generator usage
 I wanted to find whether a site used a static site generator and, if so,
 which one it used.
 
@@ -28,10 +28,20 @@ files.
 > in:/ $domain filename:CNAME
 
 Here are the results for
-[thomaslevine.com](https://github.com/search?utf8=%E2%9C%93&q=in%3A%2F+thomaslevine.com+filename%3ACNAME&type=Code&ref=searchresults)
-and [csv.nyc](https://github.com/search?utf8=%E2%9C%93&q=in%3A%2F+csv.nyc+filename%3ACNAME&type=Code&ref=searchresults).
+[thomaslevine.com](https://github.com/search?utf8=%E2%9C%93&q=in%3A%2F+thomaslevine.com+filename%3ACNAME&type=Code)
+and [csv.nyc](https://github.com/search?utf8=%E2%9C%93&q=in%3A%2F+csv.nyc+filename%3ACNAME&type=Code).
 
-Note that there are several resulting repositories for the `thomaslevine.com`
+You unfortunately can't do this from the API, as one is required to specify a
+[user, organization, or repository](https://developer.github.com/changes/#new-validation-rule).
+That is, the following query produces an error.
+
+> [https://api.github.com/search/code?q=in:/+csv.nyc+filename:CNAME](https://api.github.com/search/code?q=in:/+csv.nyc+filename:CNAME)
+
+So you need to do this instead.
+
+    h
+
+Note that there are several resulting repositories for thomaslevine.com
 even though none of them are served from GitHub pages; they used to be.
 
 ## Listing the sites to check.
