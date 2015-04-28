@@ -35,3 +35,10 @@ Here are places that Rachel (if I'm remembering her name correctly) said I shoul
 * Reunion
 * Southern France
 * Mauratius
+
+
+If I am to commute to work in a city, I should make sure that I can find
+a seat on public transit during rush hour. This might involve living near
+the end of the public transit (bus, train, &c.) line.
+
+
