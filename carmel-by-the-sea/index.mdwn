@@ -1,5 +1,5 @@
 # Carmel-by-the-Sea
-I had a hunch a few years ago about how municpalities work.
+I had a hunch a about how municpalities work.
 
 I figured that any particular big city would have a wider variety of
 happenings, political views, social circles, &c. than a small town
@@ -16,7 +16,7 @@ look more systematically for places based on their character.
 I never determined whether my hunch was correct, but it contributed to
 the idea that I'm about to present.
 
-## Yoga
+## Ithaca
 I considered what was peculiar about Ithaca. Lots of things came to mind,
 but I focused on the things that were easy to articulate/test.
 
@@ -25,6 +25,7 @@ but I focused on the things that were easy to articulate/test.
 * Wacky stuff like yoga is popular.
 * People consider their ecological impacts.
 * There are lots of farms nearby.
+* Public transit is reasonably good, and the downtown is quite walkable.
 
 I search around for data related to the above things and other things
 and arrived at the
@@ -33,9 +34,50 @@ of the [Yoga Alliance](https://www.yogaalliance.org/).
 This directory included contact information for each of 40,000 teachers,
 often with full addresses. How interesting.
 
-## On Ithaca
-I eventually determined that Ithaca is rather typical of a college town
-in the United States. The college attracts money and crazy people to a
-relatively inexpensive area that would otherwise seem a bit remote.
-It winds up being a good place to do art, to express extreme politics,
-and to retire.
+## A brief aside about Ithaca
+A couple years later, I determined that Ithaca is rather typical of
+college towns in the United States. The college attracts money and
+crazy people to a relatively inexpensive area that would otherwise seem
+a bit remote. It winds up being a good place to do art, to express
+extreme politics, and to retire.
+
+## Yoga
+Back to Carmel and yoga. I obtained all of the
+[addresses](https://github.com/tlevine/quinoa-index/tree/master/collect/yoga)
+that were available in the teacher directory. The addresses had zip codes,
+so I also obtained
+[population figures by zip code](https://github.com/tlevine/quinoa-index/tree/master/collect/population)
+from the United States census.
+
+Then I divided the number of yoga teachers in each zip code by the number
+of people in each zip code, arriving at the number of yoga teachers per
+capita. The zip code with the highest rate of yoga teachers was 93921,
+which contains the town of Carmel-by-the-Sea. My expectation was that
+the town with the highest rate of yoga teachers would be sort of strange,
+simply because that's how outliers are. The
+[Wikipedia article about Carmel](http://en.wikipedia.org/wiki/Carmel-by-the-Sea,_California)
+met my expectation.
+
+In particular, I enjoyed that houses don't have street numbers; they have
+names instead.
+
+I also saw that it had a walk score of [94](http://www.walkscore.com/score/93921)),
+which is quite high.
+
+Here are two other places that scored pretty high.
+
+* [Aspen, CO, 81612](http://en.wikipedia.org/wiki/Aspen,_Colorado)
+    (walkscore: [0](http://www.walkscore.com/score/81611))
+* [Paia, HI, 96779](http://en.wikipedia.org/wiki/Paia,_Hawaii)
+    ([a "collest small town"](http://www.budgettravel.com/feature/10-coolest-small-towns-hawaii,5098/),
+    (walkscore: [6](http://www.walkscore.com/score/96779))
+
+Carmel seemed particularly odd, so I looked into it further. What's the yoga
+scene like in Carmel? It turned out that there's was big
+[yoga school](http://www.yogacentercarmel.org/) that
+[trains teachers](http://www.yogacentercarmel.org/training/Yoga%20Center%20of%20Carmel%20Teacher%20Training.pdf)
+and accounted for the majority of the teachers in my dataset.
+
+## Pernilla visits
+
+## Further conclusion on Ithaca
