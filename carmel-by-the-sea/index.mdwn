@@ -1,6 +1,9 @@
 # Carmel-by-the-Sea
-I had a hunch a about how municpalities work.
+I had a hunch a about how municpalities work. Based on this hunch,
+I collected data about many municpalities and tried to find a strange
+one. And I did. Here's the story.
 
+## The hunch
 I figured that any particular big city would have a wider variety of
 happenings, political views, social circles, &c. than a small town
 would. If this is the case, a particular person with particular preferences
@@ -61,16 +64,16 @@ met my expectation.
 In particular, I enjoyed that houses don't have street numbers; they have
 names instead.
 
-I also saw that it had a walk score of [94](http://www.walkscore.com/score/93921)),
+I also saw that it had a walk score of [94](http://www.walkscore.com/score/93921),
 which is quite high.
 
 Here are two other places that scored pretty high.
 
 * [Aspen, CO, 81612](http://en.wikipedia.org/wiki/Aspen,_Colorado)
-    (walkscore: [0](http://www.walkscore.com/score/81611))
+    (walkscore [0](http://www.walkscore.com/score/81611))
 * [Paia, HI, 96779](http://en.wikipedia.org/wiki/Paia,_Hawaii)
-    ([a "collest small town"](http://www.budgettravel.com/feature/10-coolest-small-towns-hawaii,5098/),
-    (walkscore: [6](http://www.walkscore.com/score/96779))
+    (a "[collest small town](http://www.budgettravel.com/feature/10-coolest-small-towns-hawaii,5098/)",
+    walkscore [6](http://www.walkscore.com/score/96779))
 
 Carmel seemed particularly odd, so I looked into it further. What's the yoga
 scene like in Carmel? It turned out that there's was big
@@ -78,12 +81,15 @@ scene like in Carmel? It turned out that there's was big
 [trains teachers](http://www.yogacentercarmel.org/training/Yoga%20Center%20of%20Carmel%20Teacher%20Training.pdf)
 and accounted for the majority of the teachers in my dataset.
 
+This was my conclusion on September 20, 2012.
+
 Perhaps it's worth noting that the presence of a yoga school should be seen
 only as an aspect of Carmel's craziness; I figured that places that have lots
 of yoga teachers might be interesting, but yoga isn't the only interesting thing.
 
 ## Visit
-One day I found myself riding around Silicon Valley in a car with two other
+Over a year later, on October 6, 2013,
+I found myself riding around Silicon Valley in a car with two other
 people. We passed by a sign that said "Carmel-by-the-Sea". Or maybe we didn't
 but I remarked that Carmel must be nearby. I hadn't been in the South Bay
 before, so I recounted the above analysis and insisted that we go. And we
@@ -95,9 +101,9 @@ went. Here we are at the beach.
 
 And here I am at the yoga school.
 
-![Tom at the Yoga Center of Carmel](yoga-center-of-carmel.jpg)
+<img alt="Tom at the Yoga Center of Carmel"
+     class="wide"
+     src="yoga-center-of-carmel.jpg" />
 
 What do you know;
 [it really exists](https://en.wikipedia.org/wiki/Ground_truth#Geographical_Information_Systems)!
-
-## Further conclusion on Ithaca
