@@ -8,27 +8,30 @@ would be more able to find things he prefers in a big city, just because
 it's more likely that such things are available. I started pondering how
 I might identify small towns that appeal to particular preferences.
 
-I had recently attended university in Ithaca, New York, which is a rather
-nice place. It bothered me that I could only determine what a place was
-like after having accidentally moved there; I wanted to look more
-systematically for places based on their character.
+I had recently attended university in Ithaca, New York, which is a
+(pleasantly) strange place. It bothered me that I could only determine
+what a place was like after having accidentally moved there; I wanted to
+look more systematically for places based on their character.
 
 I never determined whether my hunch was correct, but it contributed to
 the idea that I'm about to present.
 
 ## Yoga
+I considered what was peculiar about Ithaca. Lots of things came to mind,
+but I focused on the things that were easy to articulate/test.
 
-I was pondering how one could select a small town
-to visit or live in 
+* Seemingly everybody composts.
+* It has a three tertiary schools.
+* Wacky stuff like yoga is popular.
+* People consider their ecological impacts.
+* There are lots of farms nearby.
 
-My intuition is that a small town has less
-variety of stuff going on in it than a big city does, and I was wondering
-how I would
-
-had the following idea: Big cities probably have
-a bigger variety of things happening in them than small towns.
-
-https://www.yogaalliance.org/Directory?Type=Teacher
+I search around for data related to the above things and other things
+and arrived at the
+[teacher directory](https://www.yogaalliance.org/Directory?Type=Teacher)
+of the [Yoga Alliance](https://www.yogaalliance.org/).
+This directory included contact information for each of 40,000 teachers,
+often with full addresses. How interesting.
 
 ## On Ithaca
 I eventually determined that Ithaca is rather typical of a college town
