@@ -2,12 +2,15 @@ title: Curriculum vitae
 description: Curriculum vitae (short version)
 ----
 <center>
+<a class="webonly" href="javascript:window.print()">Print this page</a> to generate a PDF.
+<br class="webonly" />
+<br class="webonly" />
 Thomas Kai Levine<br/>
 thomaslevine.com<br/>
 \_@thomaslevine.com
 </center>
 
-I'm looking for a real job that I like, and I'm still available for
+I'm looking for a full-time job that I like, and I'm still available for
 consulting until I have a real job.
 
 ## Education
