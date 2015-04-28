@@ -1,6 +1,17 @@
 # Carmel-by-the-Sea
-A couple years ago, I decided that I wanted to find some particularly
-unusual in small towns. My intuition is that a small town has less
+I had a hunch a few years ago about how municpalities work.
+
+I figured that any particular big city would have a wider variety of
+happenings, political views, social circles, &c. than a small town
+would. If this is the case, a particular person with particular preferences
+would be more able to find things he prefers in a big city, just because
+it's more likely that such things are available. I started pondering how
+I might identify small towns that appeal to particular preferences.
+
+I was pondering how one could select a small town
+to visit or live in 
+
+My intuition is that a small town has less
 variety of stuff going on in it than a big city does, and I was wondering
 how I would
 
