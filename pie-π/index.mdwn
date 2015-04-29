@@ -1,5 +1,4 @@
-title: Pie π
--------
+# Pie π
 
 I made a pie π! No, not a [pypy](http://pypy.org),
 
