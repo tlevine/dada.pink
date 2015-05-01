@@ -1,0 +1,1468 @@
+<gpx
+ version="1.0"
+ creator="OSM Query - http://www.osmquery.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+    <metadata>
+        <name>Data from www.OSMQuery.com</name>
+    </metadata>
+    <wpt lat="58.05163" lon="14.34175">
+        <name>Visingsö Vandrarhem AB</name>
+    </wpt>
+    <wpt lat="58.30561" lon="14.29411">
+        <name>STF Vandrarhem Hjo</name>
+    </wpt>
+    <wpt lat="58.30990" lon="14.30323">
+        <name>Hjo Camping</name>
+    </wpt>
+    <wpt lat="58.22641" lon="14.65784">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="58.31064" lon="14.28121">
+        <name>Hammarskioskens stugby</name>
+    </wpt>
+    <wpt lat="58.23443" lon="14.65665">
+        <name>STF Vandrarhem Ödeshög/Hembygdsgården</name>
+    </wpt>
+    <wpt lat="58.31326" lon="14.27633">
+        <name>Hammarskioskens stugby</name>
+    </wpt>
+    <wpt lat="57.92557" lon="14.49117">
+        <name>Vandrarhemmet i Bunn</name>
+    </wpt>
+    <wpt lat="58.31075" lon="14.63581">
+        <name>Stocklycke vandrarhem</name>
+    </wpt>
+    <wpt lat="57.89461" lon="14.51571">
+        <name>STF Vandrarhem Åsens by</name>
+    </wpt>
+    <wpt lat="57.85827" lon="14.10688">
+        <name>Horstorps Gård</name>
+    </wpt>
+    <wpt lat="58.38201" lon="14.68111">
+        <name>Borghamns vandrarhem</name>
+    </wpt>
+    <wpt lat="58.32457" lon="14.80742">
+        <name>Tåkern vandrarhem</name>
+    </wpt>
+    <wpt lat="57.79446" lon="14.27083">
+        <name>STF Vandrarhem Jönköping/Huskvarna</name>
+    </wpt>
+    <wpt lat="57.77588" lon="14.19680">
+        <name>A6 Vandrarhem &amp; Hotell</name>
+    </wpt>
+    <wpt lat="57.77519" lon="14.58466">
+        <name>Brovillan</name>
+    </wpt>
+    <wpt lat="58.39321" lon="13.86082">
+        <name>Skövde Vandrarhem</name>
+    </wpt>
+    <wpt lat="58.40055" lon="13.81863">
+        <name>STF Vandrarhem Skövde</name>
+    </wpt>
+    <wpt lat="58.52455" lon="14.50468">
+        <name>Livslyckans vandrarhem</name>
+    </wpt>
+    <wpt lat="58.24076" lon="15.10207">
+        <name>Åsbogården</name>
+    </wpt>
+    <wpt lat="58.53519" lon="14.52785">
+        <name>STF Vandrarhem Karlsborg</name>
+    </wpt>
+    <wpt lat="58.44596" lon="14.89921">
+        <name>STF Vandrarhem Vadstena</name>
+    </wpt>
+    <wpt lat="57.71257" lon="14.12868">
+        <name>STF Vandrarhem Jönköping/Norrahammar</name>
+    </wpt>
+    <wpt lat="58.18034" lon="13.54785">
+        <name>STF Vandrarhem Falköping</name>
+    </wpt>
+    <wpt lat="57.88588" lon="13.64879">
+        <name>Årås kvarn vandrarhem</name>
+    </wpt>
+    <wpt lat="58.38582" lon="13.65398">
+        <name>Klostergården vandrarhem</name>
+    </wpt>
+    <wpt lat="58.32909" lon="15.12993">
+        <name>STF Vandrarhem Mjölby</name>
+    </wpt>
+    <wpt lat="58.58327" lon="14.43586">
+        <name>STF Vandrarhem Forsvik</name>
+    </wpt>
+    <wpt lat="57.94863" lon="15.16112">
+        <name>STF Vandrarhem Solviken/Tranås</name>
+    </wpt>
+    <wpt lat="58.52924" lon="13.87676">
+        <name>Öhns gård</name>
+    </wpt>
+    <wpt lat="58.43109" lon="13.63982">
+        <name>STF Vandrarhem Skara/Eggby</name>
+    </wpt>
+    <wpt lat="58.60825" lon="14.18892">
+        <name>STF Vandrarhem Tåtorp/Göta kanal</name>
+    </wpt>
+    <wpt lat="58.63362" lon="14.54159">
+        <name>Granvik</name>
+    </wpt>
+    <wpt lat="58.65867" lon="14.40126">
+        <name>Vandrarhem Undenäs</name>
+    </wpt>
+    <wpt lat="58.54661" lon="15.00799">
+        <name>Furulid</name>
+    </wpt>
+    <wpt lat="58.55293" lon="15.00530">
+        <name>STF Vandrarhem Motala/Varamon</name>
+    </wpt>
+    <wpt lat="58.38820" lon="13.42726">
+        <name>Skara vandrarhem</name>
+    </wpt>
+    <wpt lat="57.66904" lon="14.96867">
+        <name>STF vandrarhem Eksjö</name>
+    </wpt>
+    <wpt lat="58.54801" lon="15.06676">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="58.55015" lon="15.06841">
+        <name>STF Vandrarhem Motala Verkstad/Göta kanal</name>
+    </wpt>
+    <wpt lat="58.35545" lon="15.36196">
+        <name>STF Vandrarhem Lunnevad/Mantorp</name>
+    </wpt>
+    <wpt lat="57.80539" lon="13.42143">
+        <name>Nyboholm Hotell &amp; Vandrarhem</name>
+    </wpt>
+    <wpt lat="58.61540" lon="13.71336">
+        <name>STF vandrarhem Lungåsberget</name>
+    </wpt>
+    <wpt lat="58.73083" lon="14.12901">
+        <name>STF Vandrarhem Norrqvarn/Göta kanal</name>
+    </wpt>
+    <wpt lat="58.67198" lon="14.95931">
+        <name>STF Vandrarhem Medevi Brunn</name>
+    </wpt>
+    <wpt lat="58.03344" lon="15.54193">
+        <name>Öknehults vandrarhem i Kisa</name>
+    </wpt>
+    <wpt lat="58.75858" lon="14.59328">
+        <name>STF Vandrarhem Tivedstorp</name>
+    </wpt>
+    <wpt lat="58.50751" lon="13.36576">
+        <name>Kollängens vandrarhem</name>
+    </wpt>
+    <wpt lat="58.71092" lon="13.81998">
+        <name>STF Vandrarhem Mariestad</name>
+    </wpt>
+    <wpt lat="58.55907" lon="15.30390">
+        <name>STF Vandrarhem Borensberg/Glasbruket</name>
+    </wpt>
+    <wpt lat="58.45602" lon="15.45917">
+        <name>STF Vandrarhem Freja/Vreta Kloster</name>
+    </wpt>
+    <wpt lat="58.81077" lon="14.54760">
+        <name>Pensionat Tiveden</name>
+    </wpt>
+    <wpt lat="58.81487" lon="14.57803">
+        <name>Kolarkojorna Tived</name>
+    </wpt>
+    <wpt lat="58.63104" lon="13.43750">
+        <name>STF Vandrarhem Hällekis/Falkängen</name>
+    </wpt>
+    <wpt lat="58.40033" lon="15.58536">
+        <name>Mjellerumsgården</name>
+    </wpt>
+    <wpt lat="58.50517" lon="15.49316">
+        <name>Ljungsbro vandrarhem</name>
+    </wpt>
+    <wpt lat="58.13764" lon="15.69986">
+        <name>Liljeholmen Herrgård</name>
+    </wpt>
+    <wpt lat="58.13552" lon="15.70346">
+        <name>STF Vandrarhem Rimforsa/Kalvudden</name>
+    </wpt>
+    <wpt lat="58.48557" lon="15.53057">
+        <name>STF Vandrarhem Bergs slussar/Göta kanal</name>
+    </wpt>
+    <wpt lat="58.07664" lon="13.00642">
+        <name>Herrljunga vandrarhem</name>
+    </wpt>
+    <wpt lat="58.40852" lon="15.62340">
+        <name>Linköpings vandrarhem</name>
+    </wpt>
+    <wpt lat="57.49210" lon="13.67967">
+        <name>STF Vandrarhem Öreryd</name>
+    </wpt>
+    <wpt lat="58.78180" lon="14.97987">
+        <name>STF Vandrarhem Hargebaden</name>
+    </wpt>
+    <wpt lat="58.50251" lon="13.16142">
+        <name>STF Vandrarhem Lidköping</name>
+    </wpt>
+    <wpt lat="57.39782" lon="14.16762">
+        <name>Stiftsgården Tallnäs</name>
+    </wpt>
+    <wpt lat="58.25803" lon="12.96196">
+        <name>STF Vandrarhem Vara</name>
+    </wpt>
+    <wpt lat="57.39561" lon="14.69021">
+        <name>Sävsjö Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.43391" lon="15.07326">
+        <name>Kvarndammens vandrarhem</name>
+    </wpt>
+    <wpt lat="58.64360" lon="13.21125">
+        <name>Läckö Strand</name>
+    </wpt>
+    <wpt lat="58.02989" lon="12.83419">
+        <name>Vandrarhem Vårgårda</name>
+    </wpt>
+    <wpt lat="58.01707" lon="15.90531">
+        <name>STF Vandrarhem Björkfors</name>
+    </wpt>
+    <wpt lat="58.01622" lon="15.90618">
+        <name>Villa Rosenäng i Rimforsa</name>
+    </wpt>
+    <wpt lat="57.36046" lon="13.75249">
+        <name>Gnosjö Youth Hostel</name>
+    </wpt>
+    <wpt lat="57.36035" lon="13.75260">
+        <name>STF vandrarhem Gnosjö</name>
+    </wpt>
+    <wpt lat="57.31629" lon="13.97146">
+        <name>Svänö</name>
+    </wpt>
+    <wpt lat="57.73893" lon="12.93256">
+        <name>STF Vandrarhem Borås</name>
+    </wpt>
+    <wpt lat="58.97968" lon="14.62359">
+        <name>Laxå vandrarhem</name>
+    </wpt>
+    <wpt lat="58.98387" lon="14.09428">
+        <name>STF Vandrarhem Gullspång</name>
+    </wpt>
+    <wpt lat="57.26217" lon="13.87880">
+        <name>Lövö</name>
+    </wpt>
+    <wpt lat="57.31500" lon="15.11969">
+        <name>Vänhem Cafe &amp; Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.26806" lon="14.92526">
+        <name>Plymska Huset Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.55631" lon="15.71667">
+        <name>STF vandrarhem Lönneberga</name>
+    </wpt>
+    <wpt lat="58.50709" lon="15.97470">
+        <name>STF Vandrarhem Norsholm/Kapten Billes</name>
+    </wpt>
+    <wpt lat="57.20302" lon="14.07461">
+        <name>Bäckaskogs bed &amp; breakfast</name>
+    </wpt>
+    <wpt lat="59.06263" lon="14.29786">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="57.66914" lon="15.91432">
+        <name>Hörestadshults vandrarhem</name>
+    </wpt>
+    <wpt lat="58.99316" lon="15.09124">
+        <name>Talludden</name>
+    </wpt>
+    <wpt lat="57.19030" lon="14.03057">
+        <name>SVIF Vandrarhem Värnamo</name>
+    </wpt>
+    <wpt lat="57.18292" lon="14.65291">
+        <name>STF vandrarhem Asa</name>
+    </wpt>
+    <wpt lat="58.50831" lon="16.03236">
+        <name>STF Vandrarhem Brådtom Sluss/Göta kanal</name>
+    </wpt>
+    <wpt lat="57.16999" lon="14.57927">
+        <name>STF Vandrarhem Lammhult</name>
+    </wpt>
+    <wpt lat="57.41285" lon="15.61769">
+        <name>Bed &amp; Breakfast Järnforsen</name>
+    </wpt>
+    <wpt lat="58.73712" lon="15.82848">
+        <name>Lotorps vandrarhem</name>
+    </wpt>
+    <wpt lat="57.89085" lon="16.16623">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="57.89199" lon="12.54876">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="57.93263" lon="12.53073">
+        <name>STF Hostel</name>
+    </wpt>
+    <wpt lat="59.11677" lon="14.36604">
+        <name>Åtorps vandrarhem</name>
+    </wpt>
+    <wpt lat="59.11248" lon="14.54371">
+        <name>Svartå Herrgård</name>
+    </wpt>
+    <wpt lat="57.58977" lon="12.74994">
+        <name>Viskadalens Folkhögskola &amp; Kursgård</name>
+    </wpt>
+    <wpt lat="58.97348" lon="15.41194">
+        <name>Glottra skola</name>
+    </wpt>
+    <wpt lat="58.64481" lon="16.05750">
+        <name>Tallbackens Gård vandrarhem</name>
+    </wpt>
+    <wpt lat="57.31983" lon="15.57941">
+        <name>Virserums vandrarhem</name>
+    </wpt>
+    <wpt lat="58.89236" lon="15.69517">
+        <name>STF Vandrarhem Regna</name>
+    </wpt>
+    <wpt lat="57.31681" lon="15.58257">
+        <name>Bo hos Levisson</name>
+    </wpt>
+    <wpt lat="57.98875" lon="16.31371">
+        <name>STF Vandrarhem Överum</name>
+    </wpt>
+    <wpt lat="57.73701" lon="12.52608">
+        <name>Ekgården Kursgård och Vandrarhem</name>
+    </wpt>
+    <wpt lat="58.34949" lon="12.41173">
+        <name>Hunnebergs Gård</name>
+    </wpt>
+    <wpt lat="58.59344" lon="16.18152">
+        <name>A Marician Hostel</name>
+    </wpt>
+    <wpt lat="58.60069" lon="16.17534">
+        <name>STF Vandrarhem Norrköping/Turistgården</name>
+    </wpt>
+    <wpt lat="58.59629" lon="16.18301">
+        <name>Hostel Above</name>
+    </wpt>
+    <wpt lat="57.14632" lon="13.55776">
+        <name>STF vandrarhem Stora Segerstad</name>
+    </wpt>
+    <wpt lat="57.13798" lon="15.13647">
+        <name>STF Vandrarhem Klavreström</name>
+    </wpt>
+    <wpt lat="58.61984" lon="16.17884">
+        <name>Marieborgs kursgård</name>
+    </wpt>
+    <wpt lat="58.83035" lon="15.92538">
+        <name>Rejmyre vandrarhem</name>
+    </wpt>
+    <wpt lat="58.49138" lon="16.30658">
+        <name>Skeppsdockans Vandrarhem</name>
+    </wpt>
+    <wpt lat="58.66295" lon="16.17801">
+        <name>STF vandrarhem Norrköping/Åby</name>
+    </wpt>
+    <wpt lat="58.47813" lon="16.33387">
+        <name>STF Söderköping Mangelgården</name>
+    </wpt>
+    <wpt lat="58.60914" lon="16.27276">
+        <name>STF Vandrarhem Norrköping/Abborreberg</name>
+    </wpt>
+    <wpt lat="57.19964" lon="13.14580">
+        <name>Backa Loge</name>
+    </wpt>
+    <wpt lat="58.47908" lon="16.41380">
+        <name>Kanalmagasinet Mem</name>
+    </wpt>
+    <wpt lat="58.55862" lon="12.34851">
+        <name>Brålanda Vandrarhem</name>
+    </wpt>
+    <wpt lat="56.97536" lon="14.57210">
+        <name>STF Vandrarhem Kronobergshed</name>
+    </wpt>
+    <wpt lat="58.14533" lon="16.59999">
+        <name>Ekbacken</name>
+    </wpt>
+    <wpt lat="58.67523" lon="16.36446">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.31031" lon="14.51623">
+        <name>Karlskoga Folkhögskolas vandrarhem</name>
+    </wpt>
+    <wpt lat="59.32406" lon="14.48660">
+        <name>Boda borg</name>
+    </wpt>
+    <wpt lat="58.70790" lon="12.33924">
+        <name>Kroppefjäll</name>
+    </wpt>
+    <wpt lat="57.20742" lon="15.83260">
+        <name>STF vandrarhem Fågelfors</name>
+    </wpt>
+    <wpt lat="59.32699" lon="14.09196">
+        <name>Mariebergs Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.03261" lon="13.35140">
+        <name>Charlottenlunds vandrarhem</name>
+    </wpt>
+    <wpt lat="58.44710" lon="16.60034">
+        <name>Stegeborgsgården</name>
+    </wpt>
+    <wpt lat="56.91810" lon="14.00356">
+        <name>Lagans vandrarhem</name>
+    </wpt>
+    <wpt lat="59.27164" lon="15.19954">
+        <name>hagastrand 10</name>
+    </wpt>
+    <wpt lat="56.92140" lon="14.82152">
+        <name>STF Vandrarhem Växjö/Evedal</name>
+    </wpt>
+    <wpt lat="58.72439" lon="16.41610">
+        <name>Stavsjö vandrarhem</name>
+    </wpt>
+    <wpt lat="58.82202" lon="12.41270">
+        <name>Håveruds Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.47703" lon="12.38831">
+        <name>STF Vandrarhem Tostared/Lyngern</name>
+    </wpt>
+    <wpt lat="59.27695" lon="15.21892">
+        <name>STF Örebro/Livin&apos;</name>
+    </wpt>
+    <wpt lat="59.28486" lon="15.21969">
+        <name>Örebro city vandrarhem</name>
+    </wpt>
+    <wpt lat="57.90809" lon="16.69669">
+        <name>STF Vandrarhem Loftahammar</name>
+    </wpt>
+    <wpt lat="59.13180" lon="15.81023">
+        <name>Hjälmargården</name>
+    </wpt>
+    <wpt lat="57.66362" lon="12.12317">
+        <name>Wendelsbergs hotell &amp; vandrarhem</name>
+    </wpt>
+    <wpt lat="57.73218" lon="12.07067">
+        <name>Hotell &amp; Vandrarhem 10</name>
+    </wpt>
+    <wpt lat="58.22488" lon="11.92837">
+        <name>STF Vandrershem Ljungskile</name>
+    </wpt>
+    <wpt lat="58.97362" lon="16.21309">
+        <name>STF Vandrarhem Katrineholm</name>
+    </wpt>
+    <wpt lat="57.83586" lon="16.72934">
+        <name>Hasselö vandrarhem</name>
+    </wpt>
+    <wpt lat="57.73678" lon="12.02944">
+        <name>Kvibergs Vandrarhem &amp; stugby</name>
+    </wpt>
+    <wpt lat="56.84295" lon="13.95215">
+        <name>Vandrarhem Ljungby</name>
+    </wpt>
+    <wpt lat="58.36039" lon="16.80112">
+        <name>STF Vandrarhem S:t Anna</name>
+    </wpt>
+    <wpt lat="59.18822" lon="12.89062">
+        <name>Solhagen</name>
+    </wpt>
+    <wpt lat="58.33013" lon="11.90314">
+        <name>Gustavsberg Vandrarhem</name>
+    </wpt>
+    <wpt lat="59.12395" lon="15.98758">
+        <name>Minihotell Lindåsen</name>
+    </wpt>
+    <wpt lat="57.71321" lon="11.99200">
+        <name>KFUM</name>
+    </wpt>
+    <wpt lat="57.76136" lon="11.95277">
+        <name>Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.68905" lon="11.99435">
+        <name>Göteborgs Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.12816" lon="12.70745">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.38684" lon="13.48870">
+        <name>Karlstad Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.53455" lon="12.09804">
+        <name>Kungsbacka vandrarhem</name>
+    </wpt>
+    <wpt lat="58.05236" lon="11.81520">
+        <name>STF Vandrarhem Stenungsund</name>
+    </wpt>
+    <wpt lat="59.14868" lon="16.04543">
+        <name>STF Vandrarhem Julita</name>
+    </wpt>
+    <wpt lat="57.69066" lon="11.95251">
+        <name>Linnéplatsens Hotell &amp; Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.69832" lon="11.94619">
+        <name>Göteborgs Mini-Hotel</name>
+    </wpt>
+    <wpt lat="57.69433" lon="11.94836">
+        <name>Linné Hostel</name>
+    </wpt>
+    <wpt lat="57.69253" lon="11.94794">
+        <name>Slottsskogens Vandrahem &amp; Hotell</name>
+    </wpt>
+    <wpt lat="57.69824" lon="11.94236">
+        <name>Masthuggsterrassens Vandrarhem</name>
+    </wpt>
+    <wpt lat="58.93588" lon="12.28145">
+        <name>Kanalvillan</name>
+    </wpt>
+    <wpt lat="57.69922" lon="11.93754">
+        <name>STF Vandrarhem</name>
+    </wpt>
+    <wpt lat="56.83654" lon="15.21589">
+        <name>Bergdala Wärdshus</name>
+    </wpt>
+    <wpt lat="56.76984" lon="14.77374">
+        <name>STF Vandrarhem Osaby Säteri</name>
+    </wpt>
+    <wpt lat="56.91448" lon="15.56974">
+        <name>Målerås Vandrarhem och B&amp;B</name>
+    </wpt>
+    <wpt lat="58.63183" lon="16.79618">
+        <name>Gamla bygget</name>
+    </wpt>
+    <wpt lat="57.12493" lon="12.56341">
+        <name>Bokskogen Bed &amp; Breakfast</name>
+    </wpt>
+    <wpt lat="57.09665" lon="12.61233">
+        <name>Bråtadal</name>
+    </wpt>
+    <wpt lat="56.74027" lon="13.97031">
+        <name>Södra Ljunga Vandrarhem</name>
+    </wpt>
+    <wpt lat="58.47525" lon="16.94129">
+        <name>STF Vandrarhem Arkösund</name>
+    </wpt>
+    <wpt lat="57.26867" lon="16.44169">
+        <name>SVIF Tuppen</name>
+    </wpt>
+    <wpt lat="57.26307" lon="16.44549">
+        <name>STF vandrarhem Oskarshamn/Oscar</name>
+    </wpt>
+    <wpt lat="57.34190" lon="12.13625">
+        <name>STF Vandrarhem Åsa</name>
+    </wpt>
+    <wpt lat="59.49867" lon="15.07666">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.49877" lon="15.07645">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.49875" lon="15.07682">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.49886" lon="15.07666">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.49884" lon="15.07696">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.49888" lon="15.07685">
+        <name>Sundby stugby</name>
+    </wpt>
+    <wpt lat="59.49894" lon="15.07713">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.49898" lon="15.07686">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.49903" lon="15.07730">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.49909" lon="15.07700">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.49915" lon="15.07729">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.03505" lon="16.46002">
+        <name>STF Vandrarhem Sköldinge</name>
+    </wpt>
+    <wpt lat="59.51734" lon="15.04310">
+        <name>Nora tåghem</name>
+    </wpt>
+    <wpt lat="57.73338" lon="11.67728">
+        <name>Björkö hotell</name>
+    </wpt>
+    <wpt lat="57.57350" lon="11.77987">
+        <name>Kajkanten Vrångö</name>
+    </wpt>
+    <wpt lat="57.57349" lon="11.77986">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.60460" lon="14.51912">
+        <name>STF Vandrarhem Loka Brunn</name>
+    </wpt>
+    <wpt lat="59.39430" lon="15.83570">
+        <name>STF Vandrarhem Arboga</name>
+    </wpt>
+    <wpt lat="58.62624" lon="11.69666">
+        <name>Wauglen Kynnefjäll</name>
+    </wpt>
+    <wpt lat="56.84681" lon="15.76470">
+        <name>STF Vandrarhem Orrefors</name>
+    </wpt>
+    <wpt lat="57.70977" lon="11.66111">
+        <name>Nimbus</name>
+    </wpt>
+    <wpt lat="57.97020" lon="11.55440">
+        <name>Hav o Logi</name>
+    </wpt>
+    <wpt lat="57.97046" lon="11.55432">
+        <name>Hav  Logi</name>
+    </wpt>
+    <wpt lat="57.00628" lon="16.21878">
+        <name>Hornsögården</name>
+    </wpt>
+    <wpt lat="58.24771" lon="11.51582">
+        <name>Kärlingesunds Gård</name>
+    </wpt>
+    <wpt lat="57.69793" lon="11.64057">
+        <name>Havskattens Vandrarhem</name>
+    </wpt>
+    <wpt lat="58.50319" lon="11.56782">
+        <name>Ängens Gård</name>
+    </wpt>
+    <wpt lat="58.52920" lon="11.57016">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="58.74873" lon="17.00935">
+        <name>STF Nyköpings Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.04626" lon="12.35636">
+        <name>Moarnas Bed &amp; Breakfast</name>
+    </wpt>
+    <wpt lat="57.10713" lon="12.24031">
+        <name>Fästningens vandrarhem</name>
+    </wpt>
+    <wpt lat="58.07377" lon="11.46926">
+        <name>Emmas Kök &amp; Boende</name>
+    </wpt>
+    <wpt lat="57.06136" lon="12.31117">
+        <name>STF Vandrarhem Varberg</name>
+    </wpt>
+    <wpt lat="59.42966" lon="15.91409">
+        <name>Sörby Gårds vandrarhem</name>
+    </wpt>
+    <wpt lat="57.04817" lon="12.29171">
+        <name>Eja Märtas vandrarhem</name>
+    </wpt>
+    <wpt lat="59.06400" lon="16.71556">
+        <name>Gamla mejeriet</name>
+    </wpt>
+    <wpt lat="58.15387" lon="11.43063">
+        <name>Tofta Gård</name>
+    </wpt>
+    <wpt lat="59.66558" lon="14.01904">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.63585" lon="15.04682">
+        <name>Uskavigården</name>
+    </wpt>
+    <wpt lat="58.95046" lon="16.88874">
+        <name>Baggetorps vandrarhem</name>
+    </wpt>
+    <wpt lat="56.56800" lon="14.13264">
+        <name>Sjöstugans Vandrarhem</name>
+    </wpt>
+    <wpt lat="56.62534" lon="15.19803">
+        <name>STF Hotell &amp; Vandrarhem Korrö</name>
+    </wpt>
+    <wpt lat="56.73037" lon="15.70185">
+        <name>STF Vandrarhem Boda</name>
+    </wpt>
+    <wpt lat="56.89848" lon="12.52421">
+        <name>STF Vandrarhem Falkberget</name>
+    </wpt>
+    <wpt lat="58.11318" lon="11.36708">
+        <name>Vandrarhem Trollhummern</name>
+    </wpt>
+    <wpt lat="56.88428" lon="12.52806">
+        <name>B &amp; B Vandrarhem Strandskogen</name>
+    </wpt>
+    <wpt lat="59.19455" lon="12.10674">
+        <name>Alcatraz</name>
+    </wpt>
+    <wpt lat="56.88321" lon="12.51400">
+        <name>Skrea camping och vandrarhem</name>
+    </wpt>
+    <wpt lat="58.49200" lon="11.36420">
+        <name>Skärholmens vandrarhem</name>
+    </wpt>
+    <wpt lat="56.54023" lon="13.72586">
+        <name>STF Vandrarhem Strömsnäsbruk</name>
+    </wpt>
+    <wpt lat="56.73569" lon="15.91783">
+        <name>Nybro Vandrarhem</name>
+    </wpt>
+    <wpt lat="59.51371" lon="15.98395">
+        <name>STF Vandrarhem Köping/Tre Knektar</name>
+    </wpt>
+    <wpt lat="58.43174" lon="11.29914">
+        <name>Hunnebostrands vandrarheim</name>
+    </wpt>
+    <wpt lat="56.76733" lon="12.62969">
+        <name>Steninge Vandrarhem</name>
+    </wpt>
+    <wpt lat="59.75823" lon="14.78702">
+        <name>STF Vandrarhem Hjulsjö/Mårtensbo</name>
+    </wpt>
+    <wpt lat="59.32085" lon="16.55518">
+        <name>Stenkvistaskolan</name>
+    </wpt>
+    <wpt lat="56.57988" lon="15.44693">
+        <name>STF vandrarhem Långasjö</name>
+    </wpt>
+    <wpt lat="59.74658" lon="14.98839">
+        <name>Nyberget vandrarhem</name>
+    </wpt>
+    <wpt lat="59.35156" lon="16.51019">
+        <name>STF Vandrarhem Eskilstuna</name>
+    </wpt>
+    <wpt lat="56.66800" lon="12.86082">
+        <name>STF Vandrarhem Halmstad/Kaptenshamn</name>
+    </wpt>
+    <wpt lat="56.51302" lon="15.15494">
+        <name>Sjöviksgården</name>
+    </wpt>
+    <wpt lat="58.61447" lon="11.31183">
+        <name>Åsleröds Vandrarhem</name>
+    </wpt>
+    <wpt lat="56.66833" lon="12.82294">
+        <name>Knebildstorps gård</name>
+    </wpt>
+    <wpt lat="58.95061" lon="17.15819">
+        <name>Öster Malma</name>
+    </wpt>
+    <wpt lat="59.61467" lon="12.84767">
+        <name>Sandviken Garden</name>
+    </wpt>
+    <wpt lat="58.59642" lon="11.27674">
+        <name>Badholmens Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.23646" lon="17.05662">
+        <name>STF Vandrarhem Böda</name>
+    </wpt>
+    <wpt lat="58.76958" lon="17.38159">
+        <name>Horsvik</name>
+    </wpt>
+    <wpt lat="59.53141" lon="16.24408">
+        <name>Strömsholms vandrahem</name>
+    </wpt>
+    <wpt lat="56.47887" lon="15.23269">
+        <name>DaneCamp</name>
+    </wpt>
+    <wpt lat="58.80836" lon="17.36846">
+        <name>Bränneriet</name>
+    </wpt>
+    <wpt lat="58.69133" lon="11.25548">
+        <name>Grebbestads vandrarheim &amp; minihotell</name>
+    </wpt>
+    <wpt lat="57.14767" lon="17.01249">
+        <name>Vandrarhem</name>
+    </wpt>
+    <wpt lat="59.54595" lon="16.24858">
+        <name>Västerkvarns vandrahem</name>
+    </wpt>
+    <wpt lat="58.69462" lon="11.24852">
+        <name>GIF</name>
+    </wpt>
+    <wpt lat="56.39336" lon="14.31968">
+        <name>Lönsboda vandrarhem</name>
+    </wpt>
+    <wpt lat="59.06424" lon="17.15515">
+        <name>STF Vandrarhem Björnlunda</name>
+    </wpt>
+    <wpt lat="56.53188" lon="15.65040">
+        <name>Bussamåla Vandrarhem</name>
+    </wpt>
+    <wpt lat="58.77353" lon="17.47259">
+        <name>STF Vandrarhem Sävö</name>
+    </wpt>
+    <wpt lat="56.87785" lon="16.65936">
+        <name>tullgatan24.se</name>
+    </wpt>
+    <wpt lat="56.87173" lon="16.66624">
+        <name>STF Vandrarhem Borgholm Rosenfors</name>
+    </wpt>
+    <wpt lat="56.50994" lon="13.04445">
+        <name>STF Vandrarhem Laholm</name>
+    </wpt>
+    <wpt lat="56.49273" lon="12.94288">
+        <name>Solstickans vandrarhem</name>
+    </wpt>
+    <wpt lat="56.67257" lon="16.36785">
+        <name>Svanen</name>
+    </wpt>
+    <wpt lat="59.83595" lon="13.15385">
+        <name>Prostgården</name>
+    </wpt>
+    <wpt lat="56.30453" lon="14.21841">
+        <name>Högsma Bygdegård</name>
+    </wpt>
+    <wpt lat="58.86739" lon="17.54666">
+        <name>STF Vandrarhem Trosa/Lagnö Studio</name>
+    </wpt>
+    <wpt lat="59.80822" lon="15.73040">
+        <name>STF Vandrarhem Kolarbyn/Skinnskatteberg</name>
+    </wpt>
+    <wpt lat="59.27857" lon="17.08346">
+        <name>Skäggesta</name>
+    </wpt>
+    <wpt lat="59.89554" lon="15.28718">
+        <name>The Wilderness Lodge</name>
+    </wpt>
+    <wpt lat="58.89294" lon="17.54925">
+        <name>Vandrarhemmet Snipan</name>
+    </wpt>
+    <wpt lat="58.93887" lon="11.17759">
+        <name>STF VANDRARHEM STRÖMSTAD</name>
+    </wpt>
+    <wpt lat="58.94273" lon="11.18093">
+        <name>Roddaren Vårt Vandrarhem</name>
+    </wpt>
+    <wpt lat="59.70617" lon="16.21936">
+        <name>STF Vandrarhem Surahammar</name>
+    </wpt>
+    <wpt lat="59.33601" lon="17.05945">
+        <name>Malmgården STF Vandrarhem Strängnäs</name>
+    </wpt>
+    <wpt lat="59.98139" lon="14.17520">
+        <name>Esperanto-Gården</name>
+    </wpt>
+    <wpt lat="59.58002" lon="16.60626">
+        <name>Norra Björnö fritidsgård</name>
+    </wpt>
+    <wpt lat="59.62386" lon="16.50228">
+        <name>STF Vandrarhem Västerås</name>
+    </wpt>
+    <wpt lat="56.53009" lon="16.20173">
+        <name>Kolbodagården</name>
+    </wpt>
+    <wpt lat="56.62481" lon="16.50871">
+        <name>STF/HI Vandrarhem i Ölands Skogsby</name>
+    </wpt>
+    <wpt lat="59.50884" lon="11.82689">
+        <name>STF Vandrarhem Töcksfors</name>
+    </wpt>
+    <wpt lat="56.20702" lon="14.24907">
+        <name>Immelns Camping &amp; Vandrarhem</name>
+    </wpt>
+    <wpt lat="56.19259" lon="14.08558">
+        <name>Knislinge Rumsuthyrning</name>
+    </wpt>
+    <wpt lat="60.05167" lon="13.86526">
+        <name>Värmlandsgården</name>
+    </wpt>
+    <wpt lat="56.17313" lon="14.86782">
+        <name>Karlshamns Vandrarhem</name>
+    </wpt>
+    <wpt lat="56.38796" lon="16.08408">
+        <name>STF Vandrarhem Bergkvara</name>
+    </wpt>
+    <wpt lat="59.15624" lon="17.59610">
+        <name>Tvetagårdens Vandrarhem</name>
+    </wpt>
+    <wpt lat="56.20048" lon="15.28342">
+        <name>Ronneby Vandrarhem</name>
+    </wpt>
+    <wpt lat="56.15234" lon="13.74720">
+        <name>Hässleholmsgården</name>
+    </wpt>
+    <wpt lat="58.87661" lon="17.92597">
+        <name>Lövhagens vandrarhem</name>
+    </wpt>
+    <wpt lat="57.29237" lon="10.92457">
+        <name>Danhostel Læsø</name>
+    </wpt>
+    <wpt lat="59.95790" lon="16.01107">
+        <name>STF Vandrarhem Ängelsberg/Tallbacka</name>
+    </wpt>
+    <wpt lat="58.90723" lon="17.93848">
+        <name>Nickstabadet</name>
+    </wpt>
+    <wpt lat="60.10349" lon="15.21714">
+        <name>Räfsnäsgården</name>
+    </wpt>
+    <wpt lat="56.20564" lon="15.64849">
+        <name>Lyckåhem Logi</name>
+    </wpt>
+    <wpt lat="56.24233" lon="12.85669">
+        <name>Ängelholms vandrarhem i centrum</name>
+    </wpt>
+    <wpt lat="56.19240" lon="15.63405">
+        <name>Logi Gärskullen</name>
+    </wpt>
+    <wpt lat="57.72167" lon="10.56801">
+        <name>Danhostel Skagen</name>
+    </wpt>
+    <wpt lat="59.29191" lon="11.09056">
+        <name>Tuneheimen</name>
+    </wpt>
+    <wpt lat="59.62765" lon="17.09081">
+        <name>Enköpings Vandrarhem Bredsand</name>
+    </wpt>
+    <wpt lat="59.29244" lon="17.64631">
+        <name>Rastaholms vandrarhem</name>
+    </wpt>
+    <wpt lat="56.16539" lon="15.58866">
+        <name>Nya Karlskrona Trossö Hostel</name>
+    </wpt>
+    <wpt lat="56.07591" lon="13.73507">
+        <name>Lunnahöjagårdens Vandrarhem och camping</name>
+    </wpt>
+    <wpt lat="56.11630" lon="15.47817">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="56.23761" lon="12.65544">
+        <name>Jonstorp/Kullabygden</name>
+    </wpt>
+    <wpt lat="60.07232" lon="15.89668">
+        <name>Gruvbyn, STF Vandrarhem Norberg</name>
+    </wpt>
+    <wpt lat="60.07443" lon="15.89184">
+        <name>Klackbergsgården</name>
+    </wpt>
+    <wpt lat="56.11727" lon="15.52862">
+        <name>Drottningskär vandrarhem</name>
+    </wpt>
+    <wpt lat="59.90659" lon="16.57772">
+        <name>STF Sala Silvergruva</name>
+    </wpt>
+    <wpt lat="57.60021" lon="18.21673">
+        <name>Fridhem vandrarhem</name>
+    </wpt>
+    <wpt lat="59.91697" lon="16.57897">
+        <name>STF Vandrarhem Sala</name>
+    </wpt>
+    <wpt lat="56.01116" lon="14.84016">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="56.22530" lon="12.54194">
+        <name>Örestrand</name>
+    </wpt>
+    <wpt lat="57.54653" lon="18.23066">
+        <name>Gutestugan/Stenkumla vandrarhem</name>
+    </wpt>
+    <wpt lat="57.63599" lon="18.28557">
+        <name>Visby fängelse</name>
+    </wpt>
+    <wpt lat="56.21595" lon="12.54790">
+        <name>Höganäs Lågprishotell &amp; Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.43665" lon="10.53498">
+        <name>Danhostel Frederikhavn</name>
+    </wpt>
+    <wpt lat="60.26208" lon="14.97833">
+        <name>Grengehuset</name>
+    </wpt>
+    <wpt lat="57.62632" lon="18.33120">
+        <name>STF Vandrarhem Visby/Rävhagen</name>
+    </wpt>
+    <wpt lat="56.03828" lon="13.25430">
+        <name>Skäralid</name>
+    </wpt>
+    <wpt lat="57.39016" lon="18.19066">
+        <name>Pensionat Warfsholm</name>
+    </wpt>
+    <wpt lat="55.92599" lon="14.30238">
+        <name>Åhus Vandrarhem</name>
+    </wpt>
+    <wpt lat="55.97129" lon="13.51813">
+        <name>STF Vandrarhem Höör/Frostavallen</name>
+    </wpt>
+    <wpt lat="56.23799" lon="16.45329">
+        <name>Ottenby vandrarhem</name>
+    </wpt>
+    <wpt lat="57.33551" lon="10.50294">
+        <name>Danhostel Sæby</name>
+    </wpt>
+    <wpt lat="59.45174" lon="17.79437">
+        <name>Kallhällsbadet vandrarhem</name>
+    </wpt>
+    <wpt lat="60.15486" lon="16.14978">
+        <name>STF Vandrarhem</name>
+    </wpt>
+    <wpt lat="59.66306" lon="17.48627">
+        <name>STF Vandrarhem Biskops-Arnö</name>
+    </wpt>
+    <wpt lat="56.09231" lon="12.65028">
+        <name>KFUM Nyckelbo Vandrarhem</name>
+    </wpt>
+    <wpt lat="58.96813" lon="18.32639">
+        <name>Stf Vandrarhem Utö</name>
+    </wpt>
+    <wpt lat="59.30907" lon="18.01622">
+        <name>Liljeholmens Stadshotell</name>
+    </wpt>
+    <wpt lat="59.33762" lon="18.01538">
+        <name>Belman</name>
+    </wpt>
+    <wpt lat="59.31474" lon="18.04429">
+        <name>STF Vandrarhem Zinkensdamm</name>
+    </wpt>
+    <wpt lat="59.31704" lon="18.04604">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.33135" lon="18.03109">
+        <name>STF Fridhemsplan</name>
+    </wpt>
+    <wpt lat="59.31848" lon="18.04813">
+        <name>Lunda</name>
+    </wpt>
+    <wpt lat="60.08300" lon="16.54487">
+        <name>Möklintagården</name>
+    </wpt>
+    <wpt lat="59.32929" lon="18.04190">
+        <name>Lodge 32</name>
+    </wpt>
+    <wpt lat="60.08812" lon="16.54318">
+        <name>Pensionat Åsgården</name>
+    </wpt>
+    <wpt lat="59.33273" lon="18.04484">
+        <name>CityHostel</name>
+    </wpt>
+    <wpt lat="59.33089" lon="18.04847">
+        <name>3crown</name>
+    </wpt>
+    <wpt lat="59.33740" lon="18.04615">
+        <name>Crafoord Place</name>
+    </wpt>
+    <wpt lat="59.30850" lon="18.08000">
+        <name>Skanstulls vandrarhem</name>
+    </wpt>
+    <wpt lat="59.31713" lon="18.07603">
+        <name>Mosebacke</name>
+    </wpt>
+    <wpt lat="59.33590" lon="18.05526">
+        <name>City Backpackers</name>
+    </wpt>
+    <wpt lat="59.33313" lon="18.05902">
+        <name>City Lodge</name>
+    </wpt>
+    <wpt lat="59.32362" lon="18.07000">
+        <name>Archipelago</name>
+    </wpt>
+    <wpt lat="59.33767" lon="18.05624">
+        <name>InterHostel</name>
+    </wpt>
+    <wpt lat="59.33808" lon="18.05709">
+        <name>Hostel by Nordic</name>
+    </wpt>
+    <wpt lat="59.32293" lon="18.07469">
+        <name>2Kronor</name>
+    </wpt>
+    <wpt lat="56.04001" lon="12.70354">
+        <name>Helsingborgs Vandrarhem Centrum</name>
+    </wpt>
+    <wpt lat="56.04115" lon="12.69843">
+        <name>Cityvandrarhemmet</name>
+    </wpt>
+    <wpt lat="59.32462" lon="18.07535">
+        <name>Best Hostel Old Town</name>
+    </wpt>
+    <wpt lat="59.32478" lon="18.07652">
+        <name>Ånedin (ship) Hostel</name>
+    </wpt>
+    <wpt lat="57.83141" lon="18.60855">
+        <name>Ihre Gård</name>
+    </wpt>
+    <wpt lat="59.33713" lon="18.06370">
+        <name>Best Hostel City</name>
+    </wpt>
+    <wpt lat="59.34221" lon="18.05784">
+        <name>Bed and Breakfast</name>
+    </wpt>
+    <wpt lat="59.34506" lon="18.05573">
+        <name>2kronor Hostel</name>
+    </wpt>
+    <wpt lat="59.32540" lon="18.08021">
+        <name>Af Chapman STF Vandrarhem / Af Chapman Youth Hostel</name>
+    </wpt>
+    <wpt lat="59.32518" lon="18.08127">
+        <name>STF Vandrarhem Stockholm</name>
+    </wpt>
+    <wpt lat="57.18580" lon="18.24737">
+        <name>hablingbo vandrarhem</name>
+    </wpt>
+    <wpt lat="56.02196" lon="12.71754">
+        <name>Miatorps Vandrarhem</name>
+    </wpt>
+    <wpt lat="56.04805" lon="12.59815">
+        <name>Danhostel Helsingør Villa Moltke</name>
+    </wpt>
+    <wpt lat="57.73611" lon="18.60399">
+        <name>Gamla Jernvägshotellet</name>
+    </wpt>
+    <wpt lat="59.31212" lon="18.12725">
+        <name>Hostel Kvarnholmen</name>
+    </wpt>
+    <wpt lat="59.34138" lon="18.11141">
+        <name>STF Gärdet</name>
+    </wpt>
+    <wpt lat="55.82130" lon="14.07441">
+        <name>Degeberga Stugby</name>
+    </wpt>
+    <wpt lat="55.82054" lon="14.07569">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.43620" lon="10.67555">
+        <name>Moss Vandrerhjem Vansjøheimen</name>
+    </wpt>
+    <wpt lat="59.23519" lon="18.29917">
+        <name>STF Prinsvillan</name>
+    </wpt>
+    <wpt lat="59.13028" lon="18.40691">
+        <name>Vandrarhemmet Lotsen</name>
+    </wpt>
+    <wpt lat="60.45775" lon="14.72006">
+        <name>Länsmansgården</name>
+    </wpt>
+    <wpt lat="59.03259" lon="18.51832">
+        <name>Familjevillan</name>
+    </wpt>
+    <wpt lat="59.03176" lon="18.52059">
+        <name>Långhuset</name>
+    </wpt>
+    <wpt lat="59.03649" lon="18.51737">
+        <name>Fjärdlångs vandrarhem</name>
+    </wpt>
+    <wpt lat="59.27301" lon="10.40535">
+        <name>Tønsberg Vandrehjem</name>
+    </wpt>
+    <wpt lat="60.28762" lon="16.20607">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="60.28771" lon="16.20587">
+        <name>Garpgårdens logi</name>
+    </wpt>
+    <wpt lat="60.32046" lon="16.10381">
+        <name>Panget</name>
+    </wpt>
+    <wpt lat="57.79244" lon="18.78547">
+        <name>STF Lärbro Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.79330" lon="18.78864">
+        <name>STF Lärbro Vandrarhem</name>
+    </wpt>
+    <wpt lat="59.63979" lon="17.93887">
+        <name>Jumbo Stay</name>
+    </wpt>
+    <wpt lat="55.91330" lon="12.68850">
+        <name>Malvagården</name>
+    </wpt>
+    <wpt lat="59.64807" lon="17.92843">
+        <name>RestAndFly</name>
+    </wpt>
+    <wpt lat="55.90544" lon="12.72160">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="55.97949" lon="12.39430">
+        <name>Danhostel Fredensborg</name>
+    </wpt>
+    <wpt lat="59.39471" lon="18.28781">
+        <name>STF Bogesunds Vandrarhem</name>
+    </wpt>
+    <wpt lat="56.06144" lon="12.09171">
+        <name>Danhostel Tisvildeleje</name>
+    </wpt>
+    <wpt lat="55.72376" lon="14.19102">
+        <name>STF Vandarhem Haväng</name>
+    </wpt>
+    <wpt lat="57.58811" lon="9.94842">
+        <name>Danhostel Hirtshals</name>
+    </wpt>
+    <wpt lat="57.46292" lon="10.00584">
+        <name>Danhostel Hjørring</name>
+    </wpt>
+    <wpt lat="55.70991" lon="14.16955">
+        <name>Ängdala vandrarhem</name>
+    </wpt>
+    <wpt lat="59.85772" lon="17.64391">
+        <name>Hotell &amp; Vandrarhem Centralstationen</name>
+    </wpt>
+    <wpt lat="59.86044" lon="17.63950">
+        <name>Uppsala City Hostel</name>
+    </wpt>
+    <wpt lat="60.48984" lon="15.41220">
+        <name>Haga Vandrarhem</name>
+    </wpt>
+    <wpt lat="59.86655" lon="17.64898">
+        <name>STF Uppsala Kvarntorget</name>
+    </wpt>
+    <wpt lat="59.87384" lon="17.63675">
+        <name>Vandraren</name>
+    </wpt>
+    <wpt lat="59.40383" lon="18.35847">
+        <name>Kastellets Bed &amp; Breakfast</name>
+    </wpt>
+    <wpt lat="55.69001" lon="14.21167">
+        <name>Systrarna på Kivik</name>
+    </wpt>
+    <wpt lat="59.36676" lon="18.40621">
+        <name>Ljungbergsgården</name>
+    </wpt>
+    <wpt lat="55.68248" lon="14.22810">
+        <name>Hanöbris</name>
+    </wpt>
+    <wpt lat="57.33367" lon="18.70088">
+        <name>Vandrarhem Koburg</name>
+    </wpt>
+    <wpt lat="60.52988" lon="15.31506">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="55.92932" lon="12.34067">
+        <name>Danhostel Hillerød</name>
+    </wpt>
+    <wpt lat="57.32351" lon="18.71327">
+        <name>STF Vandrarhem Ljugarn</name>
+    </wpt>
+    <wpt lat="60.52684" lon="15.52840">
+        <name>Vassbo STF Vandrarhem</name>
+    </wpt>
+    <wpt lat="59.51748" lon="18.34262">
+        <name>Domarudden</name>
+    </wpt>
+    <wpt lat="57.85329" lon="19.03633">
+        <name>STF Bunge/Fårösund Vandrarhem</name>
+    </wpt>
+    <wpt lat="60.43414" lon="16.20577">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="55.70559" lon="13.19074">
+        <name>Winstrup Hostel</name>
+    </wpt>
+    <wpt lat="55.97190" lon="12.01309">
+        <name>Danhostel Frederiksværk</name>
+    </wpt>
+    <wpt lat="57.27559" lon="9.95047">
+        <name>Brønderslev Vandrerhjem</name>
+    </wpt>
+    <wpt lat="60.60563" lon="15.05873">
+        <name>Gagnefs IF:s klubbstuga</name>
+    </wpt>
+    <wpt lat="56.50384" lon="10.81680">
+        <name>Danhostel Gjerrild</name>
+    </wpt>
+    <wpt lat="57.47296" lon="9.79996">
+        <name>Rødovrehus</name>
+    </wpt>
+    <wpt lat="55.61571" lon="13.99624">
+        <name>STF Skåne-Tranås</name>
+    </wpt>
+    <wpt lat="55.61407" lon="13.99305">
+        <name>STF Vandrarhem Skåne Tranås</name>
+    </wpt>
+    <wpt lat="55.80348" lon="12.55867">
+        <name>Lyngby Vandrehjem / Danhostel Lyngby-Tårbæk</name>
+    </wpt>
+    <wpt lat="55.80348" lon="12.55867">
+        <name>Danhostel Lyngby-Taarbæk Vandrerhjem</name>
+    </wpt>
+    <wpt lat="60.28892" lon="16.89727">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="55.98491" lon="11.89503">
+        <name>Gallebjerggård</name>
+    </wpt>
+    <wpt lat="59.40670" lon="18.56456">
+        <name>Grinda Vandrarhem</name>
+    </wpt>
+    <wpt lat="59.40673" lon="18.56473">
+        <name>STF</name>
+    </wpt>
+    <wpt lat="59.40712" lon="18.56510">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.40706" lon="18.56538">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.40701" lon="18.56573">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="57.91522" lon="19.12697">
+        <name>Fårö kursgård</name>
+    </wpt>
+    <wpt lat="60.59015" lon="15.68187">
+        <name>Falu STF Vandrarhem</name>
+    </wpt>
+    <wpt lat="55.60823" lon="13.51479">
+        <name>Körsbärsdalen Bed &amp; Breakfast</name>
+    </wpt>
+    <wpt lat="59.39801" lon="18.64391">
+        <name>Gällnö</name>
+    </wpt>
+    <wpt lat="60.61191" lon="15.63440">
+        <name>Falu fängelse vandrarhem</name>
+    </wpt>
+    <wpt lat="55.55222" lon="14.34293">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="59.91703" lon="10.75773">
+        <name>Anker Hostel</name>
+    </wpt>
+    <wpt lat="59.94063" lon="10.78857">
+        <name>Haraldsheim</name>
+    </wpt>
+    <wpt lat="56.71928" lon="10.31948">
+        <name>Himmerlandsgården</name>
+    </wpt>
+    <wpt lat="60.63266" lon="15.76609">
+        <name>STF Vandrarhem Falun/Sundborn</name>
+    </wpt>
+    <wpt lat="55.51261" lon="14.34666">
+        <name>Vandrerhem</name>
+    </wpt>
+    <wpt lat="59.40601" lon="18.77605">
+        <name>Rydströmsvarv</name>
+    </wpt>
+    <wpt lat="59.90357" lon="10.60475">
+        <name>Holtekilen</name>
+    </wpt>
+    <wpt lat="55.68313" lon="12.58276">
+        <name>Generator Hostel</name>
+    </wpt>
+    <wpt lat="59.55452" lon="18.62330">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="55.69888" lon="12.50552">
+        <name>Danhostel Copenhagen Bellahøj</name>
+    </wpt>
+    <wpt lat="55.68679" lon="12.55053">
+        <name>Sleep in Heaven</name>
+    </wpt>
+    <wpt lat="55.59920" lon="13.01412">
+        <name>Henrik Smith Residence</name>
+    </wpt>
+    <wpt lat="57.05398" lon="9.87303">
+        <name>Danhostel Aalborg</name>
+    </wpt>
+    <wpt lat="55.49259" lon="14.27456">
+        <name>Gislövsdals Vandrarhem</name>
+    </wpt>
+    <wpt lat="55.59430" lon="13.02196">
+        <name>Rut &amp; Ragnars Vandrarhem AB</name>
+    </wpt>
+    <wpt lat="55.59787" lon="12.99707">
+        <name>STF Vandrarhem Malmö City</name>
+    </wpt>
+    <wpt lat="55.67595" lon="12.57424">
+        <name>Copenhagen Downtown Hostel</name>
+    </wpt>
+    <wpt lat="55.66789" lon="12.59679">
+        <name>Rent a Room</name>
+    </wpt>
+    <wpt lat="55.67094" lon="12.57655">
+        <name>Danhostel Copenhagen City</name>
+    </wpt>
+    <wpt lat="55.67170" lon="12.55324">
+        <name>City Public Hostel (Vesterbro Ungdomsgård)</name>
+    </wpt>
+    <wpt lat="55.58556" lon="13.01264">
+        <name>Andrahem</name>
+    </wpt>
+    <wpt lat="55.90074" lon="11.66744">
+        <name>Danhostel Nykøbing Sjælland</name>
+    </wpt>
+    <wpt lat="55.64247" lon="12.57409">
+        <name>Danhostel Copenhagen Amager</name>
+    </wpt>
+    <wpt lat="56.72141" lon="10.13344">
+        <name>Danhostel Hadsund</name>
+    </wpt>
+    <wpt lat="59.40834" lon="18.88650">
+        <name>STF Vandrarhem</name>
+    </wpt>
+    <wpt lat="57.25057" lon="9.62026">
+        <name>Danhostel Blokhus-Hune</name>
+    </wpt>
+    <wpt lat="59.47955" lon="18.82368">
+        <name>Utsikten</name>
+    </wpt>
+    <wpt lat="59.72473" lon="10.18736">
+        <name>DNT-cabin</name>
+    </wpt>
+    <wpt lat="59.18525" lon="9.59833">
+        <name>Skien Vandrerhjem</name>
+    </wpt>
+    <wpt lat="59.43827" lon="18.91473">
+        <name>Möja Gästhemmet</name>
+    </wpt>
+    <wpt lat="55.63258" lon="12.44653">
+        <name>Hostel Belægningen</name>
+    </wpt>
+    <wpt lat="55.49805" lon="13.00964">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="55.39434" lon="14.13320">
+        <name>Backåkra vandrarhem</name>
+    </wpt>
+    <wpt lat="55.61293" lon="12.36976">
+        <name>Ishøj Strand</name>
+    </wpt>
+    <wpt lat="55.38817" lon="14.14247">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="56.83234" lon="9.84423">
+        <name>Danhostel Rebild</name>
+    </wpt>
+    <wpt lat="59.75452" lon="18.69017">
+        <name>Hvilan STF Vandrarhem Norrtälje</name>
+    </wpt>
+    <wpt lat="55.64979" lon="12.07751">
+        <name>Roskilde Hostel</name>
+    </wpt>
+    <wpt lat="56.19167" lon="10.69113">
+        <name>Danhostel Ebeltoft</name>
+    </wpt>
+    <wpt lat="60.61390" lon="16.76757">
+        <name>Rum &amp; Konferens</name>
+    </wpt>
+    <wpt lat="60.62128" lon="16.75678">
+        <name>Not Named</name>
+    </wpt>
+    <wpt lat="56.29856" lon="10.48590">
+        <name>Rønde Vandrerhjem</name>
+    </wpt>
+    <wpt lat="59.63568" lon="18.92383">
+        <name>Blidö vandrarhem</name>
+    </wpt>
+    <wpt lat="55.71902" lon="11.70704">
+        <name>Danhostel Holbæk</name>
+    </wpt>
+    <wpt lat="55.41215" lon="12.94163">
+        <name>EFS Sommargård Höllvikstrand</name>
+    </wpt>
+    <wpt lat="55.39801" lon="12.94362">
+        <name>Lotsvillan</name>
+    </wpt>
+    <wpt lat="55.33862" lon="13.35264">
+        <name>Smygehuk Vandrarhem</name>
+    </wpt>
+    <wpt lat="55.28183" lon="14.76701">
+        <name>Sandvig Vandrerhjem  "Sjøljan"</name>
+    </wpt>
+    <wpt lat="56.63340" lon="9.81867">
+        <name>Danhostel Hobro</name>
+    </wpt>
+    <wpt lat="56.46495" lon="10.02817">
+        <name>Danhostel Randers</name>
+    </wpt>
+    <wpt lat="55.46933" lon="12.16141">
+        <name>Danhostel Køge</name>
+    </wpt>
+    <wpt lat="55.21301" lon="14.96901">
+        <name>Danhostel Gudhjem</name>
+    </wpt>
+    <wpt lat="55.17971" lon="14.70462">
+        <name>Hasle Vandrehjem</name>
+    </wpt>
+    <wpt lat="55.31030" lon="12.39494">
+        <name>Danhostel Store Heddinge</name>
+    </wpt>
+    <wpt lat="55.13155" lon="15.14811">
+        <name>Danhostel Svaneke</name>
+    </wpt>
+    <wpt lat="55.09132" lon="14.70049">
+        <name>Danhostel Rønne</name>
+    </wpt>
+</gpx>
