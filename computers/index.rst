@@ -1,9 +1,16 @@
 description: Tom documents his computer infrastructure.
--------------------
+--------------
+
 Tom's computers
 ===================
-Tom documents his computer infrastructure.
+Tom's knowledge management infrastructure is very wonderful. Here's a
+`video with very bad audio <https://youtu.be/JY4_8EiGwQE?t=24m49s>`_
+about how Tom uses his computers.
 
+Isn't that exciting? Read on to see how it all works.
+
+Generally more interesting
+---------------------------
 If you are not Tom, you might be particularly interested in this.
 
 `Public backups <public-backups/>`_
@@ -12,6 +19,8 @@ If you are not Tom, you might be particularly interested in this.
 `Configurations <configurations/>`_
     Things that you should do after installing a new computer, separated because they might be interesting to people other than Tom.
 
+Generally less interesting
+---------------------------
 If you are Tom, read these.
 
 `Permissions <permissions/>`_
