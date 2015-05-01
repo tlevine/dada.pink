@@ -1,10 +1,8 @@
 tags: ['learn', 'convert']
-title: How I parse PDF files
 created_at: 2013-02-13
 -------
-<style>
-article pre code { font-size: 0.7em; }
-</style>
+# How I parse PDF files
+
 Much of the world's data are stored in portable document format (PDF) files.
 This is not my preferred storage or presentation format, so I often convert
 such files into databases, graphs, or [spreadsheets](http://csvsoundsystem.com).
@@ -376,3 +374,11 @@ Materials are [here](https://github.com/tlevine/data-wranglers-dc-pdfs)
 
 If you are just interested in running a text search across many different PDF
 files, read [this](/!/techcamp-sarajevo-searching-lots-of-files/).
+
+And there are some notable softwares that I haven't used myself.
+
+* People talk a lot about [Tabula](http://tabula.technology/).
+* I have heard that some proprietary OCR softwares provide better parses than
+    the free ones, but I have yet to need them.
+* [PDF Tables](https://pdftables.com/) is proprietary, but I'm told that it
+    is otherwise quite good.
