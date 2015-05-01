@@ -1,1 +1,8 @@
 https://en.wikivoyage.org/wiki/Hiking_in_the_Nordic_countries
+
+Walk from Stockholm to the west
+http://www.sormlandsleden.se/hiking/sections-and-maps.aspx
+
+or to the north
+http://www.upplandsstiftelsen.se/hike-the-uppland-trail/trail-sections__5224
+http://www.svetur.se/en/Roslagen/Search/?q=roslagsleden
