@@ -8,3 +8,4 @@ http://www.upplandsstiftelsen.se/hike-the-uppland-trail/trail-sections__5224
 http://www.svetur.se/en/Roslagen/Search/?q=roslagsleden
 
 http://www.thelocal.se/20110609/34260
+http://www.visitsweden.com/sweden/Things-to-do/Adventure--Sports/Hiking/
