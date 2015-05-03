@@ -17,8 +17,12 @@ Kind of hard to change
 
 Quiet
     I like when it's quiet. That is, building systems, automobiles, and so on should be quiet; music shouldn't be turned up very high; and people should talk quietly.
-Varied demographics, especially age
-    I get scared when everyone seems the same.
+Varied ages of people
+    I prefer neighborhoods where people of many different ages are living. For example, I would prefer living among families than among young professionals or old retirees. (Even better, I would live among all three!)
+Easy to find places to do basic human things
+    I find it difficult to do much else when I am hungry, when I need to urinate/defecate, or when I'm tired. (By the way, it's interesting that there's no adjective for the middle of these.)
+    One way to have this is for my house to be right next to all the things I want to do.
+    Another way to have this is for bathrooms to be easy to find and for sleeping and eating in public places to be acceptable.
 
 Convenient things
 
