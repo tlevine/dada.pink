@@ -1,0 +1,11 @@
+Someone asked me,
+
+![Web form containing a question "In which city do you work?"](form-full.png)
+
+I looked for [mythical](https://en.wikipedia.org/wiki/List_of_mythological_places)
+cities with believable names. I wound up with four.
+
+* [Ys        ](https://en.wikipedia.org/wiki/Ys)
+* [Camelot, England](https://en.wikipedia.org/wiki/Camelot)
+* [Paititi, Brazil/Bolivia/Peru](https://en.wikipedia.org/wiki/Paititi)
+* [Themiscyra, Greece](https://en.wikipedia.org/wiki/Themiscyra_%28mythology%29)
