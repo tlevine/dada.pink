@@ -42,7 +42,7 @@ Here I list the straightforward things.
   * Empty plastic bags
   * Small paper notebook
 * Water bottle
-* Clothes (See the [more clothes section](#clothes) for further specifications.)
+* Clothes (See the [extra clothes section](#clothes) for further specifications.)
   * One pair of socks
   * One pair of underwear
   * One long-sleeved shirt of fancy plastic (EMS Techwick)
@@ -94,11 +94,9 @@ must not share one pocket.
 
 Trekking poles go in the trekking pole loop.
 
-<h3 id="clothes">More clothes</h3>
+<h3 id="clothes">Extra clothes</h3>
 I need more clothes if I don't want to do laundry every night or
 if I want more options.
-
-These can go go inside a [suitcase](#suitcases)
 
 All **materials** should be animal fibers, though fancy plastic (EMS Techwick)
 is also acceptable. Materials must be either animal fibers or fancy plastic.
@@ -206,15 +204,12 @@ hammock in either the day (front) bag or the camping (back) bag.
 
 ### Home stuff and spares
 There are things that I keep at home. Collectively, these things should have
-a volume of no more than about 40 liters.
-
-fit in one suitcase of airplane carry-on size, . I group them into two categories:
+a volume of no more than about 40 liters. I group them into two categories:
 spares and home things.
 
 #### Spares
 I have spares of all electrical chargers/cables/adapters, larger quantities
 of teeth and washing things, and spare water bottles.
-The spares are stored in an rolling suitcase of airline carry-on size.
 
 #### Organization
 Spares are special compared to the other groups in that I rarely access
@@ -230,7 +225,8 @@ items for which I should have a spare and whether
 * I have at least one spare, and it is in the suitcase.
 
 Teeth and washing things could spill and get messy, so they are stored in
-a water-tight box at the bottom (wheel end) of the suitcase. Everything else
+a water-tight box at the bottom (wheel end) of a suitcase during
+[transport](#moving-house). Everything else
 should be stored in small bags with the same groupings as are present in
 the day bag.
 
@@ -247,6 +243,8 @@ Here are things that I only use at home.
 * House shoes
 * Dremel
 * Electric screwdriver
+* Small fan for drying clothes
+* Clothes line
 
 If I require it for my internet connection, I also have a modem and a router
 and whatnot.
@@ -257,16 +255,27 @@ Other furniture includes chairs, rugs, couches, tables, and so on.
 Preferably, these are all either very inexpensive (found on the street,
 for example) or very easy to ship.
 
+It would be very cool if this stuff all fit in one bag that I can check
+on an airplane. It would be almost as cool if it fit in up to three
+bags; that just means I have to take two airplane trips. This is discussed
+further in the section on [moving house](#moving-house)
+
 For example, chairs may be meditation cushions, and tables may have
 legs that are easy to remove. Instead of rugs, I can simply have
 several pairs of house shoes that other people can use (and I guess
 a box to put the dirty house shoes so that people trust that the
 shoes they are wearing are clean).
 
-It would be very cool if this stuff all fit in one bag that I can check
-on an airplane.
+My thoughts on specific items are quite tentative at the moment, but
+here they are.
+
+* Four pairs of house shoes
+* Hamper for dirty house shoes
+
+Kitchen counter and kitchen appliances don't move.
 
 ## Details on items
+Here are some more preferences about specific items.
 
 <h3 id="containers">Portable containers</h3>
 Containers for liquids that I carry day-to-day must have between 10 and 30
@@ -304,5 +313,53 @@ Read the [Elumen FAQ](http://forums.longhaircommunity.com/showthread.php?t=87394
 at [Long Hair Community](http://forums.longhaircommunity.com)
 for directions on using the products.
 
-<h2 id="suitcases">Suitcases, and how to move house</h2>
+<h2 id="moving-house">Suitcases, and how to move house</h2>
+It is sort of obvious how you might move any of the things for which I have
+specified a bag; put it in the bag and carry it. Inexpensive furniture and
+home things may be given away instead of taken.
 
+What about everything else?
+
+### Theory
+The general theory is that I should be able to move everything with one trip
+on a train or plain, taking taxies to and from the train station or airport.
+I must be able to move it all by freight, and I should choose that if it will
+be cheaper than a train or plane.
+
+The camping backpack has almost enough space to fit the day bag and travel
+front pack inside it. That can go carry-on in the train or plane, with room
+for another small bag. I might be able to take one or two additional
+suitcases carry-on a train, but not on a train.
+
+Anything beyond this needs to be checked or shipped.
+
+### Details
+The extra clothes, home stuff, spares, and other furniture go in suitcases
+and get checked on the train/plane or get sent with freight service.
+
+### How many suitcases
+The extra clothes, home stuff and spares should all fit inside of one large
+suitcase, with room to spare. That much stuff is likely to go over the weight
+limit, however; it is better to fit it all in a small suitcase so that things
+don't move around so much.
+
+When packing this suitcase, I use the clothes as padding for everything else,
+and I put things in bags to preserve their conceputal groupings.
+
+What remains is furniture. Fewer bags is obviously better, but about how many
+bags should I have? Let's think of this in three ways.
+
+1. If I'm going to ship it freight, I can ship as many bags as I want and that
+    it will probably cost between $20 and $200 per bag, depending on the
+    specific trip.
+2. Amtrak, Eurostar, and Thalys (just examples) presently (May 2015) allow
+    a hand bag and two suitcases carry-on. So a limit of two suitcases would
+    be nice.
+3. Airlines usually charge substantially more for the third bag than the
+    second bag, so a limit of two suitcases on airplanes would also be nice.
+
+Weight is also an issue. Weight limits on airplanes are usually 50 pounds or
+23 kilograms. Weight limits on trains are usually higher.
+
+With some thought, fitting all the furniture in one bag should be quite doable.
+Fitting it all in three bags should be very easy.
