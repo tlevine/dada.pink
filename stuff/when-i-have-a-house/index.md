@@ -2,15 +2,23 @@ A benefit of having a house is that I don't have to carry all my stuff
 with me. Here is how I plan on organizing my stuff when I have a house.
 
 ## Overview
+My stuff is organized with the following principles.
+
+* Packing for most activities should involve simply bringing the appropriate
+    combination of bags with me, not packing bags specially for a particular
+    trip.
+* It should be convenient to bring my day bag when traveling; I should not
+    need to switch it for another bag, as that involves moving its contents
+    to another bag.
+* I should look normal when I am traveling.
+* I should look like I am traveling when I am moving house.
+
+## Descriptions of the groups
 I separate the stuff into a few groups. With each group I specify
 what container I store it in, how it is composed, and when I use it.
 
-## Descriptions of the groups
-
 ### Day bag
 I carry my day bag pretty much everywhere.
-
-#### Contents
 Here I list the straightforward things.
 
 * Teeth things
@@ -39,9 +47,9 @@ Here I list the straightforward things.
   * One pair of underwear
   * One long-sleeved shirt of fancy plastic (EMS Techwick)
   * Thin plastic windbreaker with lots of pockets
+* Trekking poles
 
 Here are some relatively expensive computer things it contains.
-I have [extras](#extras) of the chargers but not the main things.
 
 * Laptop (Acer Aspire One 725-0488) and power adapter
 * GPS (Garmin etrex 30), mini-USB cable, and AA batteries
@@ -55,7 +63,7 @@ few months.
 The backpack itself has these characteristics.
 
 * Loop to store trekking poles
-* No padding for things like laptops
+* No padding for things like laptops (to save space and weight)
 * Small size (about 20 liters) and weight overall
 * Easy to carry, with a hip belt and stuff
 * Maybe a frame, but the laptop can also act as a frame
@@ -67,6 +75,8 @@ The backpack itself has these characteristics.
 * There is an easy way to attach wet clothes to the outside for drying.
     I must be able to attach two socks (one pair), one long-sleeved shirt,
     and one pair of underwear.
+* Suitable for wearing on the front of the body (not just on the back, as
+    is usually done)
 
 #### Organization of the bag
 The laptop and clothes go in the big pocket.
@@ -82,12 +92,13 @@ separated from other toiletries because I need them more often.
 A group may be separated across more than one pockets, but two groups
 must not share one pocket.
 
+Trekking poles go in the trekking pole loop.
+
 <h3 id="clothes">More clothes</h3>
 I need more clothes if I don't want to do laundry every night or
 if I want more options.
 
-These go in a small **backpack**. Preferably, the backpack has one small pocket
-for socks and underwear and one big pocket for everything else.
+These can go go inside a [suitcase](#suitcases)
 
 All **materials** should be animal fibers, though fancy plastic (EMS Techwick)
 is also acceptable. Materials must be either animal fibers or fancy plastic.
@@ -109,7 +120,6 @@ And here's the list of the clothes.
 
 The clothes that I am wearing are *included* in the above list.
 
-
 <h3 id="travel">Travel</h3>
 If I go away for more than a day, I take with me the day bag and a few
 other things. These other things are
@@ -127,6 +137,7 @@ other things. These other things are
     I am going
 * Power adapters sufficient for charging one device (my laptop or phone)
     in North America, Britain, and Europe
+* House shoes
 
 To make this easier, I have a special bag of extra things just for travel.
 To prepare for travel, I simply grab this extra bag. If I know I won't need
@@ -141,6 +152,7 @@ and its contents are
 * One pair of socks
 * One long-sleeved shirt
 * One pair of leggings
+* One pair of slippers or house shoes
 * A larger stiff envelope containing
   * My passport
   * My birth certificate, and any
@@ -153,6 +165,7 @@ and its contents are
       I live, plus some extra cash of the place where I live
 * Ten AA batteries
 
+#### Organization
 These are stored like so.
 
 * The smaller stiff envelope goes in the left small pocket.
@@ -176,30 +189,82 @@ from the travel bag.
     usually not necessary.
 * Stiff envelopes go in the backpack.
 
----
-Supplies
+### Camping
+Rather than a normal bed, I have a hammock as my bed and hammock quilts as my
+blankets.
 
-Sunscreen
-    Blue Lizard
-Instant soup
-    Dried soup
+I use these for camping as well; I have a normal-size backpack (about 25 liters)
+containing the following items
 
-  * Two things of nail polish
+* Storage for water, either as water bottles on outside pouches or as a bladder
+    with a tube
+* Tarp for the hammock
 
+To prepare for camping, I take my day bag, my travel front pack, and my camping
+backpack. I use the day bag as a front pack. I put my travel front pack and my
+hammock in either the day (front) bag or the camping (back) bag.
 
+### Home stuff and spares
+There are things that I keep at home. Collectively, these things should have
+a volume of no more than about 40 liters.
 
-### Extras
-I have extras of almost everything in case I lose something.
-If I do not have an extra of something, I say so when I specify the
-thing above.
+fit in one suitcase of airplane carry-on size, . I group them into two categories:
+spares and home things.
 
-The extras are stored in an suitcase of airline carry-on size.
+#### Spares
+I have spares of all electrical chargers/cables/adapters, larger quantities
+of teeth and washing things, and spare water bottles.
+The spares are stored in an rolling suitcase of airline carry-on size.
 
-Extras are special compared to the other groups in that I rarely access
+#### Organization
+Spares are special compared to the other groups in that I rarely access
 them. Thus, it is important that they be very well catalogued, as I otherwise
 won't remember where everything is.
 
-Corresponding to every
+Pasted conspicuously in the suitcase should be a table listing each of the
+items for which I should have a spare and whether
+
+* I have no spares, even though I should have one
+* I have only one spare, and I am using it elsewhere in the house
+    (most relevant for teeth and washing things)
+* I have at least one spare, and it is in the suitcase.
+
+Teeth and washing things could spill and get messy, so they are stored in
+a water-tight box at the bottom (wheel end) of the suitcase. Everything else
+should be stored in small bags with the same groupings as are present in
+the day bag.
+
+### Home things
+Here are things that I only use at home.
+
+* Nail polish
+* Kitchen tools, preferably portable
+  * Frying pan
+  * Sauce pan
+  * Baking dish
+  * Four large plates
+  * Four small plates
+* House shoes
+* Dremel
+* Electric screwdriver
+
+If I require it for my internet connection, I also have a modem and a router
+and whatnot.
+
+### Other furniture
+The only furniture item that I have discussed so far is the hammock.
+Other furniture includes chairs, rugs, couches, tables, and so on.
+Preferably, these are all either very inexpensive (found on the street,
+for example) or very easy to ship.
+
+For example, chairs may be meditation cushions, and tables may have
+legs that are easy to remove. Instead of rugs, I can simply have
+several pairs of house shoes that other people can use (and I guess
+a box to put the dirty house shoes so that people trust that the
+shoes they are wearing are clean).
+
+It would be very cool if this stuff all fit in one bag that I can check
+on an airplane.
 
 ## Details on items
 
@@ -238,3 +303,6 @@ The other hair products are
 Read the [Elumen FAQ](http://forums.longhaircommunity.com/showthread.php?t=87394)
 at [Long Hair Community](http://forums.longhaircommunity.com)
 for directions on using the products.
+
+<h2 id="suitcases">Suitcases, and how to move house</h2>
+
