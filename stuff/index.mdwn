@@ -4,21 +4,21 @@ description: "Objects Tom has"
 
 Most of what I need to carry when I move house fits in a
 [Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)
-(I also have a storage unit for things that I didn't really need
-day-to-day, like my power tools and belly dancing costuming.)
 
+<!--
 I just recently (Decemeber 2014) got a bicycle, so now the stuff doesn't
 fit in the above backpack. (The bicycle is much bigger than the backpack,
 and I now have a few tools.) On the other hand, it all fits on the bike.
 Also, I might be able to empty the important parts of the storage unit onto
 the bike.
+-->
 
-I have listed the things I [have](stuff-list) and
-the things I [want](stuff-i-want).
+I have listed the things I [have](stuff-list/) and
+the things I [want](stuff-i-want/).
 And there are pictures of me unpacking the stuff.
 
 * [February 2014](http://small.dada.pink/stuff/2014-02/stuff-annotated.jpg)
-* [June 2014](stuff-2014-06)
+* [June 2014](stuff-2014-06/)
 * [November 2014](http://small.dada.pink/stuff/2014-11.webm)
 
 Relatedly, check out

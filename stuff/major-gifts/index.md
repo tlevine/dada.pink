@@ -7,3 +7,7 @@ two pairs earmuffs to Matt Senate and Dorothy Howard, respectively.
 I had an Aaxa P300 projector (with HDMI cable, and power adapter) that
 I had previously found useful but have removed from my bag to keep
 things small. And then I gave it to Anabel Church.
+
+My bicycle and most of the accessories
+[went](/!/cycling/)
+to [Chaosdorf](https://chaosdorf.de/).

@@ -1,4 +1,5 @@
-[[!meta title="February 2014"]]
+February 2014
+======================
 
 Three months ago, I noticed that everything in my apartment that
 I cared about fit in a big suitcase and a big backpack. That was

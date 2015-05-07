@@ -1,4 +1,5 @@
-[[!meta title="Stuff Tom might get"]]
+Stuff Tom might get
+=============================
 
 Clothes
 
@@ -19,15 +20,6 @@ Warbonnet [bridge hammock](http://www.campinghammockreviews.com/2013/06/24/bridg
 * [Lynx underquilt](http://www.warbonnetoutdoors.com/lynx-series-underquilts/)
 * [Mamba topquilt](http://www.warbonnetoutdoors.com/mamba-topquilts/)
 * An appropriate [tarp](https://store-2ieh8pn.mybigcommerce.com/tarps-101/)
-
-Bike
-
-* Pink or black handlebar tape
-* Mittens with lights for signaling
-* Pink or metal-colored waterbottle cages
-* A nice rain cover for the saddle, or just a bunch of shower caps
-* Adventure cycling maps
-* A Chinatown bag
 
 And other tools related to
 [things I want to do](/!/things-i-want-to-do/)

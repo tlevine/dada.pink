@@ -89,3 +89,8 @@ And here are the other things.
 * Books
   * Statistika Elementare
   * Fjalor Shqip Frëngjisht
+
+This stuff changed gradually until April 2015, at which point I decided
+that the bicycle was [too much hassle](/!/cycling/). Then I gave away the
+bicycle and most of the related stuff and went back to something similar
+to what I had had before.
