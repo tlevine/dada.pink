@@ -1,12 +1,7 @@
 tags: ['sleep']
 description: Some things that might be more exciting than sleep
 --------------------------------------------------------
-# Things I want to do
-
-## Software things for other people
-
-* Music for Roman's company
-* Wetlands information system for Scott and the Gulf Restoration Network
+# Things I want to make
 
 ## Letterpress and computers
 
@@ -26,6 +21,9 @@ description: Some things that might be more exciting than sleep
       on this and other things, and
       [this](https://gitorious.org/tlevine/casual_computing/source/42a9fe2ed6a2e54667172ef119e9a5d39f04ee24:literature_msd.tex)
       is as far as I got.
+
+## Scan my old papers and books
+Get a fast scanner, scan stuff I made 20 years ago, and study it in quantity.
 
 ## Software things that nobody cares about
 

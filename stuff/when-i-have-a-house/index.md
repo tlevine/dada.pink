@@ -2,6 +2,134 @@ A benefit of having a house is that I don't have to carry all my stuff
 with me. Here is how I plan on organizing my stuff when I have a house.
 
 ## Overview
-Stuff 
+I separate the stuff into a few groups. With each group I specify
+what container I store it in, how it is composed, and when I use it.
 
 ## Descriptions of the groups
+
+### Day bag
+I carry my day bag pretty much everywhere.
+
+The backpack itself has these characteristics.
+
+* Loop to store trekking poles
+* XXX pockets of fist size or larger
+* No padding for things like laptops
+* Small size (~20 liters) and weight overall
+* Easy to carry, with a hip belt and stuff
+* Maybe a frame, but the laptop can also act as a frame
+
+Here I list the straightforward things.
+
+* Teeth things
+  * Toothbrush
+  * Toothpaste
+  * Normal floss
+  * Floss for under my braces
+  * Retainer
+* Other
+  * Small paper notebook
+  * Pens
+  * Keys
+  * [Vapur Element](http://vapur.us/element) water bottle
+* Supplies stored in tiny cosmetic sample containers
+  * [Blue Lizard](http://www.bluelizard.net/) sunscreen
+  * Laundry powder (powder so I can bring it on a plane)
+* Supplies in slightly larger containers
+  * Elumin shampoo
+  * Two things of nail polish
+* Supplies stored with no special container
+  * Napkins
+  * Empty plastic bags
+
+
+
+Here are some relatively expensive computer things it contains.
+I have [extras](#extras) of the chargers but not the main things.
+
+* Laptop (Acer Aspire One 725-0488) and power adapter
+* GPS (Garmin etrex 30), mini-USB cable, and AA batteries
+* Cheap GSM phone (Nokia something) and power adapter
+
+For that plug into mains electricity, they should have the
+appropriate plug for any country that I might go to within the next
+few months.
+
+
+
+
+* Clothes (including the clothes I'm wearing)
+  * Three pairs of merino wool socks
+  * Two pairs of merino wool underwear
+  * One pair of plastic long pants
+  * One pair of jeans (long pants)
+  * Two plastic shirts (long-sleeved EMS Techwick with half-height zipper)
+  * One silk-linen-wool blend long-sleeved shirt
+  * One cotton dressy shirt
+  * Plastic windbreaker with lots of pockets
+  * Cashmere sweater
+  * Merino wool sweater
+  * Cotton leggings
+* Boots
+* Documents
+  * Passport
+  * A few blank cheques
+  * Public transit cards (MetroCard, Oyster Card, Tap Card, &c.)
+  * United States national identification (learner's permit)
+  * Ordinary wallet things
+* Empty space for food
+* An empty [Ribz Front Pack](http://www.ribzwear.com/ribz-front-pack/), small-size, for extra space in an emergency and for separating dirty laundry.
+* Various cables and EMG boards and an analog interface for my study on
+    [wrist-cracking](/!/wrist-cracking/)
+* Books
+  * Statistika Elementare
+  * Fjalor Shqip Frëngjisht
+
+
+
+Supplies
+
+Sunscreen
+    Blue Lizard
+Instant soup
+    Dried soup
+
+
+### More clothes
+I need more clothes if I don't want to do laundry every night or
+if I want more options. These go in a XXX.
+
+
+### Extras
+I have extras of almost everything in case I lose something.
+If I do not have an extra of something, I say so when I specify the
+thing above.
+
+The extras are stored in an suitcase of airline carry-on size.
+
+Extras are special compared to the other groups in that I rarely access
+them. Thus, it is important that they be very well catalogued, as I otherwise
+won't remember where everything is.
+
+Corresponding to every
+
+## Details on items
+
+### Hair products
+I prefer Elumin dye for my pink hair. Here are the relevant supplies.
+
+* [Applicator Set](https://www.brightonbeautysupply.com/goldwell-elumen-tools-applicator-set.aspx)
+* [Lock](http://www.brightonbeautysupply.com/goldwell-elumen-lock-6-7-oz.aspx)
+* [Prepare](http://www.brightonbeautysupply.com/goldwell-elumen-pre-pare-5-oz.aspx)
+* [PK@all](https://www.brightonbeautysupply.com/goldwellelumencolor-pickyourcolor67oz.aspx?variation=21602)
+* [Wash](http://www.brightonbeautysupply.com/Goldwell-Elumen-Wash-33.8-oz.aspx)
+
+The other hair products are
+
+* [L'Oreal Quick Blue Powder Lightener](https://www.brightonbeautysupply.com/l-oreal-quick-blue-powder-lightener-1-lb.aspx)
+* Conditioner
+* Wax
+
+Read the [Elumen FAQ](http://forums.longhaircommunity.com/showthread.php?t=87394)
+at [Long Hair Community](http://forums.longhaircommunity.com)
+for directions on using the products.
