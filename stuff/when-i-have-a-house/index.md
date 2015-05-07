@@ -13,25 +13,27 @@ I carry my day bag pretty much everywhere.
 #### Contents
 Here I list the straightforward things.
 
-* Toiletries
+* Teeth things
   * Toothbrush
   * Smallest size toothpaste tube I can find
   * Normal floss
   * Floss for under my braces
   * Mouthwash in a [portable liquid container](#containers)
-  * Retainer
-  * Elumin shampoo in a portable liquid container
   * [Blue Lizard](http://www.bluelizard.net/) sunscreen in a portable liquid container
-  * [Powder container](#containers) of laundry powder
+* Washing
+  * Elumin shampoo in a portable liquid container
   * Powder container of powdered/[grated](http://groceryshrink.com/2011/04/homemade-powdered-laundry-soap.html) soap
+  * [Powder container](#containers) of laundry powder
+* Unique things
+  * Wallet
+  * Retainer
 * Other
-  * Small paper notebook
   * Pens
   * Keys
-  * Water bottle
-* Supplies stored with no special container
   * Napkins
   * Empty plastic bags
+  * Small paper notebook
+* Water bottle
 
 Here are some relatively expensive computer things it contains.
 I have [extras](#extras) of the chargers but not the main things.
@@ -48,13 +50,23 @@ few months.
 The backpack itself has these characteristics.
 
 * Loop to store trekking poles
-* XXX pockets of fist size or larger
 * No padding for things like laptops
 * Small size (~20 liters) and weight overall
 * Easy to carry, with a hip belt and stuff
 * Maybe a frame, but the laptop can also act as a frame
+* At least two small internal pockets
+* Enough small outer pockets to organize the things as specified below
 
+Here is how stuff fits into pockets.
 
+Unique things, phone, and GPS must all go in small internal pockets.
+Minimally, they must be separated into two pockets, in which case the
+unique things are in one pocket and the phone and GPS are in the another.
+They may also be separated further.
+
+Teeth things and sunscreen, washing, water bottle, and other
+must all get their own external pockets. Teeth things are sunscreen are
+separated from other toiletries because I need them more often.
 
 ###
 * Clothes (including the clothes I'm wearing)
