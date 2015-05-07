@@ -233,14 +233,17 @@ the day bag.
 ### Home things
 Here are things that I only use at home.
 
-* Nail polish
 * Kitchen tools, preferably portable
   * Frying pan
   * Sauce pan
   * Baking dish
-  * Four large plates
-  * Four small plates
-* House shoes
+* Things for parties, one thing for each guest and me
+  * Large plate
+  * Small plate
+  * Large mug (doubles as a bowl)
+  * Wine glass (doubles as a normal cup)
+* Hair coloring products
+* Nail polish
 * Dremel
 * Electric screwdriver
 * Small fan for drying clothes
@@ -255,6 +258,7 @@ Other furniture includes chairs, rugs, couches, tables, and so on.
 Preferably, these are all either very inexpensive (found on the street,
 for example) or very easy to ship.
 
+#### Portability
 It would be very cool if this stuff all fit in one bag that I can check
 on an airplane. It would be almost as cool if it fit in up to three
 bags; that just means I have to take two airplane trips. This is discussed
@@ -266,13 +270,33 @@ several pairs of house shoes that other people can use (and I guess
 a box to put the dirty house shoes so that people trust that the
 shoes they are wearing are clean).
 
+#### Specific items
 My thoughts on specific items are quite tentative at the moment, but
 here they are.
 
-* Four pairs of house shoes
-* Hamper for dirty house shoes
+Some things are mainly for guests, and I have separated those things.
+Let's say I want to be able to have up to five guests at a time
+(six people including me). Here is what I would have.
 
-Kitchen counter and kitchen appliances don't move.
+Instead of a rug, I have six pairs of house shoes. To convince
+people that I clean the shoes after they are worn, have a hamper
+containing a seventh pair of house shoes.
+
+I have a dining table. In order that it be easy to ship and store,
+the table separates into three sections, and the legs are easy to
+remove. The table top is thin, and I have some way of switching
+the height between eating height and computering height.
+
+I have something like an sofa. This could be a normal sofa. More
+likely, it is a rug and either a bunch of large pillows or a mattress
+without a frame (maybe a futon). A mattress without a frame is appealing
+as a bed for guests.
+
+Kitchen counter and kitchen appliances are usually included in housing
+rentals and are often included in houses. If I am to have my own, it is
+not necessary that I be able to move them, as portable versions are
+usually cheap enough that shipping them is only slightly cheaper than
+buying new ones.
 
 ## Details on items
 Here are some more preferences about specific items.
@@ -283,8 +307,8 @@ milliliters of capacity and seal really really well. I have yet to find such
 a container.
 
 The best thing I have found is a cosmetic sample container. These are small
-enough, but they seal only slightly better than any other small container
-I have found.
+enough and seal slightly better than any other small container I have found,
+but the seal still isn't great.
 
 The portable liquid container might work just fine for powders as well.
 But in case I want something different, powders get portable powder containers.
