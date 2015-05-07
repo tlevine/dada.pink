@@ -1,8 +1,9 @@
 description: Stuff related to cycling
 --------------
 
-# Bicycle stuff
+# January 2015
 
+## Bicycle stuff
 Here's what I'm carrying in January 2015. Most of it is the same as
 previous months, but a lot is new because
 [I just got a bicycle](/!/bicycle). So I have separated them into
@@ -90,6 +91,7 @@ And here are the other things.
   * Statistika Elementare
   * Fjalor Shqip Frëngjisht
 
+## End of the bicycle stuff
 This stuff changed gradually until April 2015, at which point I decided
 that the bicycle was [too much hassle](/!/cycling/). Then I gave away the
 bicycle and most of the related stuff and went back to something similar

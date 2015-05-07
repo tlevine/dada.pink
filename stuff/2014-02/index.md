@@ -26,3 +26,9 @@ The larger things are
 
 I think I can get rid of some of the papers, some of the socks, and
 some of the underwear.
+
+The socks are
+Injinji mini-crew black original-weight ([a](socks-a.png), [b](socks-b.png))
+When I bought them, one could find them on the REI website as
+[this item](http://www.rei.com/product/711809/injinji-performance-series-original-weight-mini-crew-toesocks)
+and [this item](http://www.rei.com/product/728375/injinji-performance-series-original-weight-crew-toesocks).

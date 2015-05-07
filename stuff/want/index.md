@@ -1,19 +1,13 @@
 Stuff Tom might get
 =============================
 
-Clothes
+## Clothes
 
 * Pink glasses of strength for long distances
     (My current glasses are very worn.)
 * Pink fedora
 
-Toys
-
-* Fast scanner for old papers
-  * A book-scanner would be even better.
-* Snapfon ezTWO
-* Roll of fabric with my tools in nice pockets
-
+## Hammock
 Warbonnet [bridge hammock](http://www.campinghammockreviews.com/2013/06/24/bridge-hammock-battle/) setup
 
 * [Ridgerunner hammock](http://www.warbonnetoutdoors.com/ridgerunner-hammock/) with whoopie sling suspension and 
@@ -24,6 +18,7 @@ Warbonnet [bridge hammock](http://www.campinghammockreviews.com/2013/06/24/bridg
 And other tools related to
 [things I want to do](/!/things-i-want-to-do/)
 
+## Money
 I want a prepaid debit card, because normal debit cards are supposedly
 unsafe and normal credit cards confuse me too much. Here are some options.
 
