@@ -248,6 +248,7 @@ Here are things that I only use at home.
 * Electric screwdriver
 * Small fan for drying clothes
 * Clothes line
+* Tub for washing clothes
 
 If I require it for my internet connection, I also have a modem and a router
 and whatnot.
@@ -278,14 +279,18 @@ Some things are mainly for guests, and I have separated those things.
 Let's say I want to be able to have up to five guests at a time
 (six people including me). Here is what I would have.
 
-Instead of a rug, I have six pairs of house shoes. To convince
+Instead of carpets, I have six pairs of house shoes. To convince
 people that I clean the shoes after they are worn, have a hamper
-containing a seventh pair of house shoes.
+containing a seventh pair of house shoes. Maybe guests don't really
+need these, but I need at least one pair for myself.
 
 I have a dining table. In order that it be easy to ship and store,
 the table separates into three sections, and the legs are easy to
 remove. The table top is thin, and I have some way of switching
 the height between eating height and computering height.
+
+I have six chairs. Actually, maybe I have two benches, as this
+could be easier to assemble and disassemble.
 
 I have something like an sofa. This could be a normal sofa. More
 likely, it is a rug and either a bunch of large pillows or a mattress
@@ -385,5 +390,5 @@ bags should I have? Let's think of this in three ways.
 Weight is also an issue. Weight limits on airplanes are usually 50 pounds or
 23 kilograms. Weight limits on trains are usually higher.
 
-With some thought, fitting all the furniture in one bag should be quite doable.
-Fitting it all in three bags should be very easy.
+If the furniture is thoughtfully selected, it can definitely fit in three bags.
+One bag is also possible, but it might need more planning.
