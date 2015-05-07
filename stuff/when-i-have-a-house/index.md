@@ -10,39 +10,28 @@ what container I store it in, how it is composed, and when I use it.
 ### Day bag
 I carry my day bag pretty much everywhere.
 
-The backpack itself has these characteristics.
-
-* Loop to store trekking poles
-* XXX pockets of fist size or larger
-* No padding for things like laptops
-* Small size (~20 liters) and weight overall
-* Easy to carry, with a hip belt and stuff
-* Maybe a frame, but the laptop can also act as a frame
-
+#### Contents
 Here I list the straightforward things.
 
-* Teeth things
+* Toiletries
   * Toothbrush
-  * Toothpaste
+  * Smallest size toothpaste tube I can find
   * Normal floss
   * Floss for under my braces
+  * Mouthwash in a [portable liquid container](#containers)
   * Retainer
+  * Elumin shampoo in a portable liquid container
+  * [Blue Lizard](http://www.bluelizard.net/) sunscreen in a portable liquid container
+  * [Powder container](#containers) of laundry powder
+  * Powder container of powdered/[grated](http://groceryshrink.com/2011/04/homemade-powdered-laundry-soap.html) soap
 * Other
   * Small paper notebook
   * Pens
   * Keys
-  * [Vapur Element](http://vapur.us/element) water bottle
-* Supplies stored in tiny cosmetic sample containers
-  * [Blue Lizard](http://www.bluelizard.net/) sunscreen
-  * Laundry powder (powder so I can bring it on a plane)
-* Supplies in slightly larger containers
-  * Elumin shampoo
-  * Two things of nail polish
+  * Water bottle
 * Supplies stored with no special container
   * Napkins
   * Empty plastic bags
-
-
 
 Here are some relatively expensive computer things it contains.
 I have [extras](#extras) of the chargers but not the main things.
@@ -55,9 +44,19 @@ For that plug into mains electricity, they should have the
 appropriate plug for any country that I might go to within the next
 few months.
 
+#### Bag
+The backpack itself has these characteristics.
+
+* Loop to store trekking poles
+* XXX pockets of fist size or larger
+* No padding for things like laptops
+* Small size (~20 liters) and weight overall
+* Easy to carry, with a hip belt and stuff
+* Maybe a frame, but the laptop can also act as a frame
 
 
 
+###
 * Clothes (including the clothes I'm wearing)
   * Three pairs of merino wool socks
   * Two pairs of merino wool underwear
@@ -94,6 +93,7 @@ Sunscreen
 Instant soup
     Dried soup
 
+  * Two things of nail polish
 
 ### More clothes
 I need more clothes if I don't want to do laundry every night or
@@ -114,6 +114,23 @@ won't remember where everything is.
 Corresponding to every
 
 ## Details on items
+
+<h3 id="containers">Portable containers</h3>
+Containers for liquids that I carry day-to-day must have between 10 and 30
+milliliters of capacity and seal really really well. I have yet to find such
+a container.
+
+The best thing I have found is a cosmetic sample container. These are small
+enough, but they seal only slightly better than any other small container
+I have found.
+
+The portable liquid container might work just fine for powders as well.
+But in case I want something different, powders get portable powder containers.
+
+### Water bottle
+I haven't quite decided what the water bottle should be. It should be light
+and small, so the main contenders are disposible plastic bottles and the
+[Vapur Element](http://vapur.us/element).
 
 ### Hair products
 I prefer Elumin dye for my pink hair. Here are the relevant supplies.
