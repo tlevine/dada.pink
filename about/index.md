@@ -51,6 +51,10 @@ And you can use these websites if you do that.
 * [ScraperWiki](https://scraperwiki.com/profiles/tlevine)
 * [Gitorious](https://gitorious.org/tlevine)
 
+## Short version for when you want a paragraph bio of me
+Thomas Levine is a freelance dada artist and data scientist.
+He specializes in data acquisition, open data, and data gastronomification.
+
 ## Other things
 Here are some packages and writings and stuff.
 
