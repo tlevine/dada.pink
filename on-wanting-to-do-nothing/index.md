@@ -27,12 +27,9 @@ years and human civilization in general will probably be gone within like
 100,000 years. Most of what we do will be gone forgotten, and why do we
 care anyway whether it stays around or gets remembered?
 
-The Earth will be around longer than humans, and probably other animals
-on it will still be alive, so maybe it is worth preserving this wonderful
-planet for the other species. Nope. They'll figure it out as soon as we
-stop destroying it.
-
-Maybe it's good to make the world
+Maybe we should make the world a better place while we're here. That
+sounds like a nice idea to me. Unfortunately, I don't think there's much
+one can do about this.
 
 So I like things that are reward me *now*, or at least within the next few
 months. I think people call this "short-sighted". Or maybe they call it
