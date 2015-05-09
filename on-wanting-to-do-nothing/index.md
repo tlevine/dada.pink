@@ -74,18 +74,26 @@ Is a tiny reduction in environmental destruction worth years of stress
 to so many people?
 
 I actually feel sort of bad that I have so many computer articles up
-here. People really want data science and whatnot to be useful, but I
-don't think it really is; people just have to say it's useful because
-that's how they get grants and customers and jobs.
-
+here, because it supports the study of this stuff that I think is not
+worth learning. People really want data science and whatnot to be useful,
+but I don't think it really is; people just have to say it's useful
+because that's how they get grants and customers and jobs.
 
 ## Getting in the way of people
+Even though I see everything as pointless, I know that other people are
+doing very important things, and I don't want to get in their way.
+
+I think this is much of why I like being in nature. Unlike me, other
+people have jobs and school and other productive occupations. I ame
+reluctant to distract them from their important things or to get in
+their way literally.
 
 
-Maybe we should make the world a better place while we're here. That
-sounds like a nice idea to me. Unfortunately, I don't think there's much
-one can do about this.
 
+## Protestant ethic
+
+
+##
 So I like things that are reward me *now*, or at least within the next few
 months. I think people call this "short-sighted". Or maybe they call it
 "living in the moment".
