@@ -20,7 +20,24 @@ so I also need to find a place where napping is acceptable/legal. This is
 all a lot of work, so I usually don't do it and hope for the best.
 
 ## General apathy
-I see no point in most things
+I see no purpose in most productive/purposeful things.
+
+To start, nothing actually matters because I'll be dead in less than 100
+years and human civilization in general will probably be gone within like
+100,000 years. Most of what we do will be gone forgotten, and why do we
+care anyway whether it stays around or gets remembered?
+
+The Earth will be around longer than humans, and probably other animals
+on it will still be alive, so maybe it is worth preserving this wonderful
+planet for the other species. Nope. They'll figure it out as soon as we
+stop destroying it.
+
+Maybe it's good to make the world
+
+So I like things that are reward me *now*, or at least within the next few
+months. I think people call this "short-sighted". Or maybe they call it
+"living in the moment".
+
 
 ## Effects
 Let's start with me seeing no point in most things.
