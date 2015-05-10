@@ -50,10 +50,9 @@ features that it does not have.
 Making file access more concise
 ---------------------------------
 As I said earlier, it is important in certain circumstances that you be
-able to control the details of file access. You might need to be able to
-page through a large file, use nonstandard serializations, or check
-filesystem metadata about a file. Still, we can come up with something
-concise that works well most of the time.
+able to control the details of file access, and filesystem access needs
+to be verbose. In many circumstances, however, we can use something
+standard that works well most of the time. This is what I tried to do.
 
 > `Vlermv <https://pypi.python.org/pypi/vlermv>`
 
@@ -68,6 +67,21 @@ The present articles discusses the following.
 3. How it relates to testing and debugging
 4. Interesting parts of the implementation
 5. When to use other tools instead
+
+How vlermv works
+----------------------------------------------
+
+How I use it
+----------------------------------------------
+
+How it relates to testing and debugging
+----------------------------------------------
+
+Interesting parts of the implementation
+----------------------------------------------
+
+When to use other tools instead
+----------------------------------------------
 
 Related things
 ----------------
