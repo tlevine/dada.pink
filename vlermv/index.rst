@@ -204,9 +204,49 @@ Here's a very simple, contrived example of that. Define our function. ::
 
 What will this function do, ignoring the decorator? It will print
 "This is running for the first time." and then return whatever was passed
-to it. When we run it, this is what we get.
+to it. When we run it, this is what we get. ::
 
-Now for a more practical example.
+    In [1]: identity(3)                                               
+    This is running for the first time.
+    Out[1]: 3
+
+    In [2]: identity(3)
+    Out[2]: 3
+
+    In [3]: identity(3)
+    Out[3]: 3
+
+    In [4]: identity(8)
+    This is running for the first time.
+    Out[4]: 8
+
+On the first call, the decorated function checks the cache
+for ``3``. It finds nothing, so it runs
+the function and saves the result under the ``3``
+key. On the next next two calls, the decorated function does find
+``3`` in its cache, so it uses that rather than running the function.
+On the fourth call, the decorated function finds no ``8``, so it
+runs the function.
+
+> function.__name__
+
+By default, vlermv stores its files in a directory named after the function.
+For example, this goes in "identity". ::
+
+    @vlermv.cache()
+    def identity(x):
+        return x
+
+But you can change that. ::
+
+    @vlermv.cache('not-identity-directory')
+    def identity(x):
+        return x
+
+How I use it
+----------------------------------------------
+I use Vlermv through the ``cache`` decorator most of the time, and
+usually for downloading web pages.
 Let's say I'm download websites with simple GET
 requests (like typing the URL into your browser bar). ::
 
@@ -229,8 +269,34 @@ key. On the next run, the decorated function does find
 ``'https://thomaslevine.com'`` in its cache, so it uses that rather
 than running the function.
 
-How I use it
-----------------------------------------------
+Here is a more practical example. I often have several functions that
+I want to cache, and I want them all to go in the same directory. ::
+
+    DIR = '~/.usace-public-notices'
+    @cache(parent_directory = DIR)
+    def rss_feed(date, site, max = 100000):
+        # ...
+        return requests.get(url, params = params)
+
+    @cache(parent_directory = DIR)
+    def article(url):
+        return requests.get(url)
+
+In this example, files for ``rss_feed`` go in
+``~/.usace-public-notices/rss_feed/``,
+
+> ``rss_feed`` -> ``~/.usace-public-notices/rss_feed/``
+
+and files for ``article`` go in ``~/.usace-public-notices/article/``.
+
+> ``article`` -> ``~/.usace-public-notices/article/``
+
+The ``parent_directory`` flag allows me to still use the automatic naming
+by function name.
+I must say, I'm not particularly pleased with this interface, as I
+think it's a bit confusing, and am still looking for a better way to do this.
+
+
 
 How it relates to testing and debugging
 ----------------------------------------------
