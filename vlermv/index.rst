@@ -13,7 +13,7 @@ have to remember how my database works in order to look at my
 data.
 
 But accessing files is very verbose in Python!
-----------------
+----------------------------------------------------------
 
 Low-level APIs yay!
 ^^^^^^^^^^^^^^^^^^^
