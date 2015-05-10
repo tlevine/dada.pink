@@ -54,9 +54,9 @@ able to control the details of file access, and filesystem access needs
 to be verbose. In many circumstances, however, we can use something
 standard that works well most of the time. This is what I tried to do.
 
-> `Vlermv <https://pypi.python.org/pypi/vlermv>`
+> `Vlermv <https://pypi.python.org/pypi/vlermv>`_
 
-My solution is `Vlermv <https://pypi.python.org/pypi/vlermv>`,
+My solution is `Vlermv <https://pypi.python.org/pypi/vlermv>`_,
 an open source
 NoSQL database implemented as a Python library that lets me
 pretend that my filesystem is a dictionary.
@@ -182,6 +182,52 @@ That's all you need to know in order to write your own transformers,
 > Included transformers: vlermv.transformers
 
 and you can also use the included ones.
+
+As a cache
+^^^^^^^^^^^^^^
+A particular thing I often find myself wanting is to cache the results
+of calls to external services. It scares me when repeated calls of the
+same function give different results, so external services scare me.
+To deal with that, I store whatever I get from the service, and I use
+the ``cache`` decorator for this.
+
+> vlermv.cache
+
+Here's a very simple, contrived example of that. Define our function. ::
+
+    import vlermv
+
+    @vlermv.cache()
+    def identity(x):
+        print('This is running for the first time.')
+        return x
+
+What will this function do, ignoring the decorator? It will print
+"This is running for the first time." and then return whatever was passed
+to it. When we run it, this is what we get.
+
+Now for a more practical example.
+Let's say I'm download websites with simple GET
+requests (like typing the URL into your browser bar). ::
+
+    import vlermv, requests
+
+    @vlermv.cache()
+    def download_webpage(url):
+        return requests.get(url)
+
+Now, let's start downloading webpages. ::
+
+    r1 = download_webpage('https://thomaslevine.com')
+    r2 = download_webpage('https://thomaslevine.com')
+    r1 == r2
+
+On the first download, the decorated function checks the cache
+for ``'https://thomaslevine.com'``. It finds nothing, so it runs
+the function and saves the result under the ``'https://thomaslevine.com'``
+key. On the next run, the decorated function does find
+``'https://thomaslevine.com'`` in its cache, so it uses that rather
+than running the function.
 
 How I use it
 ----------------------------------------------
