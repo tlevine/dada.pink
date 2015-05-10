@@ -71,6 +71,118 @@ The present articles discusses the following.
 How vlermv works
 ----------------------------------------------
 
+Basic usage
+^^^^^^^^^^^^^^^^
+
+The most basic use of Vlermv goes something like this. ::
+
+    from vlermv import Vlermv
+    vlermv = Vlermv('/tmp/a-directory')
+
+``vlermv`` is now a dict-like object, so we can do things like this. ::
+
+    vlermv['filename'] = range(100)
+
+The keys correspond to file names, and the values get serialized to files.
+The default serialization is pickle. ::
+
+    import pickle
+    range(100) == pickle.load(open('/tmp/a-directory/filename', 'rb'))
+
+You can also get and delete things. ::
+
+    # Read
+    range(100) == vlermv['filename']
+
+    # Delete
+    del(vlermv['filename'])
+
+And remember that vlermv is a dict-like object, so things
+like this work too. ::
+
+    vlermv.items()
+    vlermv.update({'a': 1, 'b': 2})
+
+Pluggable architecture
+^^^^^^^^^^^^^^^^^^^^^^^^
+Vlermv has the concepts of "serializers" and "transformers". You can
+switch them or define your own.
+
+Serializers
+^^^^^^^^^^^^^^^^^^^^^^
+I already alluded to serializers earlier. If you do something like this, ::
+
+    from vlermv import Vlermv
+    vlermv = Vlermv('./')
+    vlermv['needle'] = True
+
+vlermv stores a file ``./needle`` that is a pickle of the value ``True``.
+You can switch this to JSON, for example. ::
+
+    import json
+    from vlermv import Vlermv
+    vlermv = Vlermv('./', serializer = json)
+    vlermv['needle'] = True
+
+Now ``./needle`` contains the JSON encoding of ``True``.
+Serializers are usually just anything with ``load`` and ``dump`` methods.
+More are available in this module.
+
+> vlermv.serializers
+
+They can optionally have two other attributes that relate to other
+features of Vlermv; you can read about this in the Vlermv documentation.
+
+Transformers
+^^^^^^^^^^^^^^^^^^^^^^
+The other pluggable thing is transformers. In the present example, ::
+
+    from vlermv import Vlermv
+    vlermv = Vlermv('./')
+    vlermv['needle'] = True
+
+``True`` is saved to ``./needle``. What happens if we change that? ::
+
+    vlermv['haystack/needle']
+    vlermv[('mango', 'apple', 'orange', 'banana')]
+    vlermv[datetime.date.today()]
+
+The transformer is what decides how to map dictionary keys to file names.
+The default magic transformer does this. 
+
+    vlermv = Vlermv('./')
+    vlermv['haystack/needle'] # ./haystack/needle
+    vlermv[('mango', 'apple', 'orange')] # ./mango/apple/orange
+    vlermv[datetime.date(2015,5,22)] # ./2015/5/22
+
+But you can change that! For example, this is what the ``slash``
+transformer does.
+
+    vlermv = Vlermv('./',
+        key_transformer = vlermv.transformers.slash)
+    vlermv['haystack/needle'] # ./haystack/needle
+    vlermv[('mango', 'apple', 'orange')] # error
+    vlermv[datetime.date(2015,5,22)] # error
+
+Transformers are objects with two methods.
+
+* ``to_path`` (key to path)
+* ``from_path`` (path to key)
+
+Internally, paths are stored as tuples of strings, ::
+
+    ('this', 'is', 'a', 'path')
+
+Keys can be whatever you want; it's your responsibility to convert them.
+
+> That's all there is to transformers!
+
+That's all you need to know in order to write your own transformers,
+
+> Included transformers: vlermv.transformers
+
+and you can also use the included ones.
+
 How I use it
 ----------------------------------------------
 
