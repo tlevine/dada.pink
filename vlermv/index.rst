@@ -299,17 +299,16 @@ something that is vaguely pronouncable.
 Let me show you how the name "Vlermv" specifically came about. I use
 the Dvorak keyboard.
 
-.. blockquote::
+.. quote::
     ',.pyfgcrl/=\
      aoeuidhtns-
      ;qjkxbmwvz
 
 My right hand was clearly a bit more energetic that day.
 
-.. blockquote::
-    ',.pyfgc**rl**/=\
-     ao**e**uidhtns-
-     ;qjkxb**m**w**v**z
+| ',.pyfgc\ **rl**/=\
+| ao\ **e**\ uidhtns-
+| ;qjkxb\ **m**\ w\ **v**\ z
 
 How I use it
 ----------------------------------------------
