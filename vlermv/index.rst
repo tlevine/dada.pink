@@ -297,18 +297,21 @@ something that is vaguely pronouncable.
 > picture of me smashing a keyboard?
 
 Let me show you how the name "Vlermv" specifically came about. I use
-the Dvorak keyboard.
+the Dvorak keyboard. ::
 
-.. quote::
+    Dvorak keyboard
+    ---------------
     ',.pyfgcrl/=\
      aoeuidhtns-
      ;qjkxbmwvz
 
-My right hand was clearly a bit more energetic that day.
+My right hand was clearly a bit more energetic that day. ::
 
-| ',.pyfgc\ **rl**/=\
-| ao\ **e**\ uidhtns-
-| ;qjkxb\ **m**\ w\ **v**\ z
+    "Vlermv"
+    ---------------
+            rl   
+       e        
+           m v 
 
 How I use it
 ----------------------------------------------
