@@ -1,3 +1,4 @@
+# whom-to-email
 I like to know what my friends lives are like, and they seem
 to like to know what mine is like, so I like to send them emails
 about what my life is like.
@@ -67,3 +68,26 @@ Two notes on the graphs
 2. When I was looking at these graphs, I plotted names on the graph rather
    then just point. I have removed the names because I think a lot of these
    people would rather not have their names in a graph on my website.
+
+## Did it work?
+Intuitively, I think this system did exactly what I wanted. It found me
+people whom I hadn't emailed in a while, I emailed them, and I usually got
+very wonderful responses. I didn't deliberately track whom I was emailing
+based on this system, unfortunately, so I can't give particularly clear
+figures about what came of it. But here is what I remember.
+
+I sent several emails in based on this system, mostly in August 2014.
+Many went to people I had not seen in several years. About half (very
+approximately) of the people responded. The responses that I did get
+were usually rather long.
+
+## Do you want this?
+Several people have expressed interest in running this on their own email.
+Do you want to do that? This system is very specially designed for my
+own [email system](/!/computers/email/), so it is unlikely to be of much
+use to you. On the other hand, I could write something that you would be
+able to use.
+
+Would you like a list of people you haven't written to in a while and would
+likely like to write to again? If enough people say yes, I might really
+write this.
