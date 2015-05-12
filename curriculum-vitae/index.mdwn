@@ -9,8 +9,15 @@ thomaslevine.com<br/>
 \_@thomaslevine.com
 </center>
 
-I'm looking for a full-time job that I like, and I'm still available for
-consulting until I have such a job.
+<!--
+I have a strong intuition for how data flow through systems and people
+
+Open-ended
+
+Collect the appropriate data (by assembling historical data or by
+instrumenting your system to collect new data), clean the data, and
+visualize or model the data as appropriate for the present need.
+-->
 
 ## Education
 Cornell University, Bachelor's of Science (May 2011, GPA 3.5)<br/>
@@ -31,13 +38,6 @@ I help organizations take advantage of data. Services include
 * Data gastronomification and other visualization-alternatives
 * Design and development of end-user data analysis tools/apps
 * Training on data science and software engineering
-
-<!--
-* Connecting disparate datasets of inconsistent data formats
--->
-
-I'm usually happy to travel pretty much anywhere, and I'm also quite
-good at collaborating remotely.
 
 ### Technology
 I use a wide range of technologies as appropriate.
