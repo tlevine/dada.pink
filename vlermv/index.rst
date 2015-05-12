@@ -3,8 +3,78 @@ description: Why I made it, how I use it, and what it has to do with dada
 Vlermv
 =========
 
-I like files
+About Tom
+------------
+
+    Python for ten years
+
+I have been writing Python for about ten years.
+
+    Traveling but not sight-seeing
+
+I'm traveling around Europe for a couple months, but I find that
+I prefer computering over sight-seeing.
+
+    First Python conference
+
+PyGrunn is my first Python conference! I think.
+
+Dada
+^^^^^^^^^^^^
+One day, I read the Dada Manifesto. It spoke to me. From then on, I have
+been a dada artist rather than a data scientist.
+
+Here I am making CSV files by hand on letterpress. This is how they made
+computer-readable spreadsheets in the good-old analog days.
+
+.. image:: /!/print-formaldehyde/csv-print.jpg
+
+I also make music from spreadsheets.
+
+.. image:: /!/sheetmusic/sheetmusic-side-by-side-highlighted-rowbeat.png
+
+Each beat in the music corresponds to a row in the spreadsheet.
+
+Just one more dada. Here we plot data as döner kebabs.
+
+.. image:: /!/geom_doner/geom_doner.jpg
+
+Each kebab is a make of car. Their positions form a scatterplot;
+the x-axis is highway milage, and the y-axis is city milage.
+The two in the bottom-left are spicy; this means that they have
+automatic transmission. The one to the bottom-left is in bread,
+rather than in a box; this means that it has four-wheel drive.
+
+    Multisensory and multivariate
+
+This plot uses all of the senses to convey multivariate data.
+From this plot, we can taste, see, feel, smell, and hear that
+manual transmission and two-wheel drive are associated with better
+milage.
+
+Data
+^^^^^^^^^^^^^^^^
+Dada art doesn't pay, of course, so I still do other stuff too.
+As you'll see later on, much of my work involves acquiring
+data from various sources and using it in ways that weren't
+intended. Here are some projects
+
+    Anti-fraud
+
+I looked for signs of fraud in projects financed by a bank
+
+    Human interfaces for data cleaning
+
+I built software tools to help an environmental organization collect,
+clean, and link regulatory information.
+
+Why Vlermv
 ----------------
+Now, on with the show. I'm going to tell you about my library Vlermv.
+Let's start with the motivation behind it.
+
+I like files
+^^^^^^^^^^^^^^^^
 
 I like to store my data as ordinary files whenever I can. This
 way, I'm not locked into a particular database software, I can
@@ -13,15 +83,16 @@ have to remember how my database works in order to look at my
 data.
 
 But accessing files is very verbose in Python!
-----------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Python exposes many low-level APIs for writing files.
+Here are some implications of that.
 
 Low-level APIs yay!
 ^^^^^^^^^^^^^^^^^^^
 Python has lots of wonderful low-level APIs for manipulating files,
-and that allows us to design very systems with very specialized,
+and that allows us to design complex systems with very specialized,
 high-performance file access, with the appropriate trade-offs for our
 application.
-
 
 Low-level APIs boo!
 ^^^^^^^^^^^^^^^^^^^
@@ -46,6 +117,8 @@ features that it does not have.
 2. Serialization (pickle, json, &c.)
 3. Handling filenames that contain slashes
 4. Composing filenames and checking whether paths exist (os.path or pathlib)
+
+I want to have all these things with less code than my sloppy version.
 
 Making file access more concise
 ---------------------------------
@@ -179,7 +252,9 @@ Keys can be whatever you want; it's your responsibility to convert them.
 
 That's all you need to know in order to write your own transformers,
 
-> Included transformers: vlermv.transformers
+::
+
+    vlermv.transformers
 
 and you can also use the included ones.
 
@@ -208,7 +283,9 @@ And then I abstracted this as the cache decorator.
 To deal with that, I store whatever I get from the service, and I use
 the ``cache`` decorator for this.
 
-> vlermv.cache
+::
+
+    vlermv.cache
 
 Here's a very simple, contrived example of that. Define our function. ::
 
@@ -281,11 +358,6 @@ They're
 2. Naming things
 
 I have already discussed the first of these. Let's talk about the second.
-
-> Data
-
-One day, I read the Dada Manifesto. It spoke to me. From then on, I have
-been a dada artist rather than a data scientist.
 
 > Dada
 
