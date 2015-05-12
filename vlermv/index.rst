@@ -183,11 +183,28 @@ That's all you need to know in order to write your own transformers,
 
 and you can also use the included ones.
 
-As a cache
-^^^^^^^^^^^^^^
+As a cache/archive
+----------------------
 A particular thing I often find myself wanting is to cache the results
 of calls to external services. It scares me when repeated calls of the
 same function give different results, so external services scare me.
+
+I first wrote an early version of Vlermv in February 2014. It had only
+the dictionary interface. To implement caching/archiving, I found myself
+doing this a lot. ::
+
+    v = Vlermv('/tmp/dir')
+    def f(x):
+        # ...
+        if key not in v:
+            return v[key]
+        else:
+            # ...
+            v[key] = something
+            return something
+
+And then I abstracted this as the cache decorator.
+
 To deal with that, I store whatever I get from the service, and I use
 the ``cache`` decorator for this.
 
@@ -242,6 +259,57 @@ But you can change that. ::
     @vlermv.cache('not-identity-directory')
     def identity(x):
         return x
+
+Nota bene
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+> ``cache`` needs a better name
+
+Note that "cache" is a misleading name, as it implies that the result
+changes. Perhaps "archive" is a better name. Tell me if you have suggestions.
+
+An aside: Two hard things
+--------------------------------
+Before we talk about how I use Vlermv, let's talk about something totally
+unrelated.
+
+There are two hard things in computers, and I have addressed both of them
+with Vlermv. Do you know what the two hard things in computers are?
+They're
+
+1. Cache invalidation
+2. Naming things
+
+I have already discussed the first of these. Let's talk about the second.
+
+> Data
+
+One day, I read the Dada Manifesto. It spoke to me. From then on, I have
+been a dada artist rather than a data scientist.
+
+> Dada
+
+I write new packages all the time, and naming them is a lot of work.
+I have adopted the dadaist practice of making up words. It is so much
+easier. I just bang on the keyboard and tweak the results until I get
+something that is vaguely pronouncable.
+
+> picture of me smashing a keyboard?
+
+Let me show you how the name "Vlermv" specifically came about. I use
+the Dvorak keyboard.
+
+.. blockquote::
+    ',.pyfgcrl/=\
+     aoeuidhtns-
+     ;qjkxbmwvz
+
+My right hand was clearly a bit more energetic that day.
+
+.. blockquote::
+    ',.pyfgc**rl**/=\
+     ao**e**uidhtns-
+     ;qjkxb**m**w**v**z
 
 How I use it
 ----------------------------------------------
