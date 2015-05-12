@@ -52,4 +52,18 @@ computer support discussions on mailing lists.
 I don't have any good way of testing whether I am finding the right
 people; all I can tell is that I am not finding the wrong people.
 I made some graphs like the the ones below to check that I was finding
-the sort of people whom I wanted to find.
+the sort of people whom I wanted to find. Each point on either graph is
+a person (an email address in my mutt alias file), so I check the graph
+to see whether people have the scores that I would expect them to have.
+
+![](weights.png)
+![](changes.png)
+
+Two notes on the graphs
+
+1. These graphs say "weight" rather than "score" because they are
+   from the earliest versions of the system, where I was saying "weight"
+   instead of "score".
+2. When I was looking at these graphs, I plotted names on the graph rather
+   then just point. I have removed the names because I think a lot of these
+   people would rather not have their names in a graph on my website.
