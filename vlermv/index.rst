@@ -112,11 +112,16 @@ Here's what it looks like if you do it sloppily. ::
 As I said, this is the code for the *sloppy* version; here are some
 features that it does not have.
 
-1. Recovery from incomplete writes (if the program is killed during
-   ``fp.write``)
-2. Serialization (pickle, json, &c.)
-3. Handling filenames that contain slashes
-4. Composing filenames and checking whether paths exist (os.path or pathlib)
+1. Incomplete writes
+2. Serialization
+3. Filenames with slashes
+4. Paths
+
+First, it doesn't know how to recovery from incomplete writes
+(if the program is killed during ``fp.write``).
+Second, it can only serialize strings; it doesn't know about pickle or json.
+Third, it can't handle filenames that contain slashes.
+Fourh, it can't composing filenames or checking whether paths exist (os.path or pathlib).
 
 I want to have all these things with less code than my sloppy version.
 
@@ -229,7 +234,7 @@ The default magic transformer does this.
     vlermv[datetime.date(2015,5,22)] # ./2015/5/22
 
 But you can change that! For example, this is what the ``slash``
-transformer does.
+transformer does. ::
 
     vlermv = Vlermv('./',
         key_transformer = vlermv.transformers.slash)
@@ -411,37 +416,92 @@ key. On the next run, the decorated function does find
 ``'https://thomaslevine.com'`` in its cache, so it uses that rather
 than running the function.
 
-Here is a more practical example. I often have several functions that
-I want to cache, and I want them all to go in the same directory. ::
+Here is a more practical example. Here I have an RSS feed that I
+download every day. I also have a bunch of articles; I download
+each article once ever; I never download a second version of the
+same article.
 
-    DIR = '~/.usace-public-notices'
-    @cache(parent_directory = DIR)
+    @cache('~/.usace-public-notices/rss_feed')
     def rss_feed(date, site, max = 100000):
         # ...
         return requests.get(url, params = params)
 
-    @cache(parent_directory = DIR)
+    @cache('~/.usace-public-notices/article')
     def article(url):
         return requests.get(url)
 
-In this example, files for ``rss_feed`` go in
-``~/.usace-public-notices/rss_feed/``,
-
-> ``rss_feed`` -> ``~/.usace-public-notices/rss_feed/``
-
-and files for ``article`` go in ``~/.usace-public-notices/article/``.
-
-> ``article`` -> ``~/.usace-public-notices/article/``
-
-The ``parent_directory`` flag allows me to still use the automatic naming
-by function name.
-I must say, I'm not particularly pleased with this interface, as I
-think it's a bit confusing, and am still looking for a better way to do this.
-
-
-
 How it relates to testing and debugging
 ----------------------------------------------
+As I said earlier, impure functions scare me. That is, I don't like functions
+that can give you different answers when you run this twice. Because of this,
+I am scared of external services. Vlermv helps me cope with this.
+
+Inspecting inputs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Suppose we have an error in a function that depends on external data.
+In debugging the error, it is usually nice to see the input data that
+caused the error.
+
+If you want to look at the contents of a vlermv in the console, open Python
+shell and import the vlermv. Consider the following (abridged) exception
+
+.. code-block:: python
+   :emphasize-lines: 3
+
+   Traceback (most recent call last):
+     File "/home/tlevine/git/scott2/usace/public_notices/__init__.py", line 11, in public_notices
+       for link in parse.feed(download.feed(str(site))):
+     File "/home/tlevine/git/scott2/usace/public_notices/parse.py", line 10, in feed
+       rss = parse_xml_fp(StringIO(response.text))
+     File "/usr/lib/python3.4/xml/etree/ElementTree.py", line 1187, in parse
+       tree.parse(source, parser)
+     File "/usr/lib/python3.4/xml/etree/ElementTree.py", line 598, in parse
+       self._root = parser._parse_whole(source)
+   xml.etree.ElementTree.ParseError: syntax error: line 1, column 0
+
+I happen to know, because I wrote the program that generated the traceback,
+that :samp:`feed`,
+from :samp:`for link in parse.feed(download.{feed}(str(site)))`
+is a function cached with vlermv and that it is defined in the module
+:samp:`usace.public_notices.download` as :samp:`feed`.
+
+To inspect the vlermv, open another console, and type this. ::
+
+    from usace.public_notices.download import feed
+
+:samp:`feed` is a vlermv, so now I can look at the data however I like. ::
+
+    print(list(feed.keys()))
+
+This query is wound up uncovering the problem. ::
+
+    print(feed[('461',)])
+
+You can also open the file in normal Python. ::
+
+    with open('~/usace-public-noties/feed', 'rb') as fp:
+        response = json.load(fp)
+
+Either way, the point is that we can easily access the crucial
+data input.
+
+Mocking external services
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+All of your responses from external services can instantly become quick
+features for your tests. It's also good to write very simplified features
+manually, but actual responses are good for checking that all of your
+edge cases are covered.
+
+When something breaks in the program because it received unexpected data,
+find the appropriate file in the vlermv directory, copy it to a fixtures
+directory, and load it in your tests like this. ::
+
+    with open(os.path.join('package_name', 'test', 'fixtures', 'web-page'), 'rb') as fp:
+        response = pickle.load(fp)
+
+Now find whatever function failed at processing the ``response``, write
+a test for that function with this fixture, and then figure out what's wrong.
+
 
 Interesting parts of the implementation
 ----------------------------------------------
