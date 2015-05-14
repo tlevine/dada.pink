@@ -191,6 +191,12 @@ I already alluded to serializers earlier. If you do something like this, ::
     vlermv['needle'] = True
 
 vlermv stores a file ``./needle`` that is a pickle of the value ``True``.
+
+::
+
+    >>> open('needle', 'rb').read()
+    b'\x80\x03\x88.'
+
 You can switch this to JSON, for example. ::
 
     import json
@@ -199,6 +205,12 @@ You can switch this to JSON, for example. ::
     vlermv['needle'] = True
 
 Now ``./needle`` contains the JSON encoding of ``True``.
+
+::
+
+    >>> open('needle', 'rb').read()
+    b'true'
+
 Serializers are usually just anything with ``load`` and ``dump`` methods.
 More are available in this module. ::
 
@@ -215,14 +227,18 @@ The other pluggable thing is transformers. In the present example, ::
     vlermv = Vlermv('./')
     vlermv['needle'] = True
 
-``True`` is saved to ``./needle``. What happens if we change that? ::
+``True`` is saved to ``./needle``.
+
+    "needle" -> "./needle"
+
+The transformer is responsible for deciding that this is how the key
+turns into a file. Here are some other keys. ::
 
     vlermv['haystack/needle']
     vlermv[('mango', 'apple', 'orange', 'banana')]
     vlermv[datetime.date.today()]
 
-The transformer is what decides how to map dictionary keys to file names.
-The default magic transformer does this. 
+Here's how the default magic transformer handles these keys. :: 
 
     vlermv = Vlermv('./')
     vlermv['haystack/needle'] # ./haystack/needle
@@ -338,14 +354,6 @@ But you can change that. ::
     def identity(x):
         return x
 
-Nota bene
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-    ``cache`` needs a better name
-
-Note that "cache" is a misleading name, as it implies that the result
-changes. Perhaps "archive" is a better name. Tell me if you have suggestions.
-
 An aside: Two hard things
 --------------------------------
 Before we talk about how I use Vlermv, let's talk about something totally
@@ -422,6 +430,8 @@ Here is a more practical example. Here I have an RSS feed that I
 download every day. I also have a bunch of articles; I download
 each article once ever; I never download a second version of the
 same article.
+
+::
 
     @cache('~/.usace-public-notices/rss_feed')
     def rss_feed(date, site, max = 100000):
@@ -503,6 +513,33 @@ directory, and load it in your tests like this. ::
 
 Now find whatever function failed at processing the ``response``, write
 a test for that function with this fixture, and then figure out what's wrong.
+
+Mocking your database
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Because a vlermv looks like a dictionary, you can mock vlermvs with
+dictionaries. Consider the following query. ::
+
+    def mean_field(db, field, keys):
+        xs = (db[key].get(field) for key in keys)
+        return sum(filter(None, xs)) / len(keys)
+
+Ordinarily, we might use it like this. ::
+
+    db = Vlermv('db')
+    people = ['Tom', 'Suzie', 'Carol']
+    print(mean_field(db, 'shoe-size', people))
+
+It would be nice not to create so many files in our tests, so we can
+mock the database like this. ::
+
+    db = {'Tom': {'shoe-size': 43},
+          'Suzie': {'shoe-size': 39},
+          'Carol': {},
+          'Chris': {'shoe-size': 46}}
+
+    def test_mean_field():
+        people = ['Tom', 'Suzie', 'Carol']
+        assert mean_field(db, 'shoe-size', people) == 41
 
 Interesting parts of the implementation
 ----------------------------------------------
@@ -727,6 +764,19 @@ If not,
 you can just use files.
 
     use files (or vlermv).
+
+
+Roadmap
+--------------------
+Here are some future changes that I see for Vlermv.
+
+First of all, I think the "cache" decorator needs a better name.
+
+    ``vlermv.cache`` needs a better name
+
+"cache" is a misleading name, as it implies that the result changes.
+Perhaps "archive" is a better name. Tell me if you have suggestions.
+
 
 Review
 ---------------
