@@ -617,11 +617,16 @@ a decorator. ::
 
     decorate = meta_decorate('This function is wrapped.')
 
+``decorate`` is now a decorator. ::
+
     @decorate
     def f(x):
         return x + 3
 
-    # Or just
+We can do this a bit more concisely, of course; instead of sending the
+arguments in one line and decorating in another, we can do both in the
+same line. ::
+
     @meta_decorate('This function is wrapped.')
     def f(x):
         return x + 3
@@ -719,24 +724,32 @@ Fanyc databases are good for storing and accessing complicated data really quick
 
     Good if you need speed and complex queries on non-tables
 
-Let's consider Mongo, a popular database that shares many similarities with
-Vlermv.
+Let's consider Mongo,
 
-    Mongo, a popular fany database
+    Mongo is popular.
 
-It can handle complex data and complex queries at high speeds.
+a popular database that shares many similarities with Vlermv.
 
-    Fast and stuff
+    Mongo is fast and stuff.
 
-However, I believe that its popularity compared to other databases
-is more about the ease of creating a new mongo database. It's really easy. ::
+It can handle complex data and complex queries at high speeds, but
+I think that's not the reason why it's so popular.
+
+    Why is Mongo so popular?
+
+I think its popularity has a lot to do with the ease of creating a new mongo
+database.
+
+    Easy to start using
+
+It's really easy. ::
 
     mongo [database name]
 
 If you don't care for the speed or the complex queries, files are probably
 easier to deal with. So why do people use Mongo?
 
-    Why use Mongo unnecessarily?
+    Why people use Mongo unnecessarily
 
 I classify Mongo as a "fancy" database. Using it makes me feel fancy.
 
@@ -766,7 +779,18 @@ you can just use files.
     use files (or vlermv).
 
 
-Roadmap
+
+Review
+---------------
+
+
+Alternatives
+^^^^^^^^^^^^^^^
+* shelve, pickledb
+* pathlib
+* sqlite, leveldb
+
+Roadmap for Vlermv
 --------------------
 Here are some future changes that I see for Vlermv.
 
@@ -778,12 +802,12 @@ First of all, I think the "cache" decorator needs a better name.
 Perhaps "archive" is a better name. Tell me if you have suggestions.
 
 
-Review
----------------
+End
+-------------
 
-
-Alternatives
-^^^^^^^^^^^^^^^
-* shelve, pickledb
-* pathlib
-* sqlite, leveldb
+::
+    $ pip install vlermv
+    $
+    $ # https://thomaslevine.com
+    $ # _@thomaslevine.com
+    $ pip install tlevine
