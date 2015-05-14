@@ -134,7 +134,7 @@ able to control the details of file access, and filesystem access needs
 to be verbose. In many circumstances, however, we can use something
 standard that works well most of the time. This is what I tried to do.
 
-> `Vlermv <https://pypi.python.org/pypi/vlermv>`_
+    `Vlermv <https://pypi.python.org/pypi/vlermv>`_
 
 My solution is `Vlermv <https://pypi.python.org/pypi/vlermv>`_,
 an open source
@@ -206,9 +206,9 @@ You can switch this to JSON, for example. ::
 
 Now ``./needle`` contains the JSON encoding of ``True``.
 Serializers are usually just anything with ``load`` and ``dump`` methods.
-More are available in this module.
+More are available in this module. ::
 
-> vlermv.serializers
+    vlermv.serializers
 
 They can optionally have two other attributes that relate to other
 features of Vlermv; you can read about this in the Vlermv documentation.
@@ -255,7 +255,7 @@ Internally, paths are stored as tuples of strings, ::
 
 Keys can be whatever you want; it's your responsibility to convert them.
 
-> That's all there is to transformers!
+    That's all there is to transformers!
 
 That's all you need to know in order to write your own transformers,
 
@@ -327,9 +327,9 @@ the function and saves the result under the ``3``
 key. On the next next two calls, the decorated function does find
 ``3`` in its cache, so it uses that rather than running the function.
 On the fourth call, the decorated function finds no ``8``, so it
-runs the function.
+runs the function. ::
 
-> function.__name__
+    function.__name__
 
 By default, vlermv stores its files in a directory named after the function.
 For example, this goes in "identity". ::
@@ -347,7 +347,7 @@ But you can change that. ::
 Nota bene
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-> ``cache`` needs a better name
+    ``cache`` needs a better name
 
 Note that "cache" is a misleading name, as it implies that the result
 changes. Perhaps "archive" is a better name. Tell me if you have suggestions.
@@ -366,14 +366,14 @@ They're
 
 I have already discussed the first of these. Let's talk about the second.
 
-> Dada
+    Dada
 
 I write new packages all the time, and naming them is a lot of work.
 I have adopted the dadaist practice of making up words. It is so much
 easier. I just bang on the keyboard and tweak the results until I get
 something that is vaguely pronouncable.
 
-> picture of me smashing a keyboard?
+    (picture of me smashing a keyboard?)
 
 Let me show you how the name "Vlermv" specifically came about. I use
 the Dvorak keyboard. ::
