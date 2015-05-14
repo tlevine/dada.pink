@@ -2,6 +2,8 @@ description: Why I made it, how I use it, and what it has to do with dada
 -------------------
 Vlermv
 =========
+Here's a script and [slides](?slides) about
+[vlermv](https://pypi.python.org/pypi/vlermv).
 
 About Tom
 ------------
@@ -390,7 +392,13 @@ My right hand was clearly a bit more energetic that day. ::
        e        
            m v 
 
-How I use it
+And this is how I wound up with the name "vlermv".
+
+    Back to the show
+
+Thanks for indulging me in this tangent. Let's get back to the main event.
+
+How I use Vlermv
 ----------------------------------------------
 I use Vlermv through the ``cache`` decorator most of the time, and
 usually for downloading web pages.
@@ -501,7 +509,6 @@ directory, and load it in your tests like this. ::
 
 Now find whatever function failed at processing the ``response``, write
 a test for that function with this fixture, and then figure out what's wrong.
-
 
 Interesting parts of the implementation
 ----------------------------------------------
