@@ -2,8 +2,8 @@ description: Why I made it, how I use it, and what it has to do with dada
 -------------------
 Vlermv
 =========
-Here's a script and [slides](?slides) about
-[vlermv](https://pypi.python.org/pypi/vlermv).
+Here's a script and `slides <?slides>`_ about
+`vlermv <https://pypi.python.org/pypi/vlermv>`_.
 
 About Tom
 ------------
@@ -29,7 +29,7 @@ been a dada artist rather than a data scientist.
 Here I am making CSV files by hand on letterpress. This is how they made
 computer-readable spreadsheets in the good-old analog days.
 
-.. image:: /!/print-formaldehyde/csv-print.jpg
+.. image:: /!/print-formaldehyde/csv-print-square.jpg
 
 I also make music from spreadsheets.
 
@@ -47,8 +47,6 @@ The two in the bottom-left are spicy; this means that they have
 automatic transmission. The one to the bottom-left is in bread,
 rather than in a box; this means that it has four-wheel drive.
 
-    Multisensory and multivariate
-
 This plot uses all of the senses to convey multivariate data.
 From this plot, we can taste, see, feel, smell, and hear that
 manual transmission and two-wheel drive are associated with better
@@ -57,18 +55,14 @@ milage.
 Data
 ^^^^^^^^^^^^^^^^
 Dada art doesn't pay, of course, so I still do other stuff too.
+
+* Acquire data
+* Model/predict/learn stuff
+* Present findings
+
 As you'll see later on, much of my work involves acquiring
 data from various sources and using it in ways that weren't
-intended. Here are some projects
-
-    Anti-fraud
-
-I looked for signs of fraud in projects financed by a bank
-
-    Human interfaces for data cleaning
-
-I built software tools to help an environmental organization collect,
-clean, and link regulatory information.
+intended.
 
 Why Vlermv
 ----------------
