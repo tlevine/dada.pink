@@ -513,11 +513,128 @@ a test for that function with this fixture, and then figure out what's wrong.
 Interesting parts of the implementation
 ----------------------------------------------
 
+``__call__``
+^^^^^^^^^^^^^^^^^^^^^^
+
+Parametrized decorators
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+``vlermv.cache`` is a function that creates a decorator. We could call
+it a "parametrized decorator".
+Every explanation I have seen of parametrized decorators makes them more
+complicated than they need to be.
+
+A decorator is simply a function that takes a function and returns a
+new function. ::
+
+    def decorate(func):
+        def wrapper(*args, **kwargs):
+            print('This %s function is wrapped.' % func.__name__)
+            return func(*args, **kwargs)
+
+    @decorate
+    def f(x):
+        return x + 3
+
+To parametrize the decorator, we simply write a function that returns
+a decorator. ::
+
+    def meta_decorate(msg):
+        def decorator(func):
+            def wrapper(*args, **kwargs):
+                print(msg)
+                return func(*args, **kwargs)
+        return decorator
+
+    decorate = meta_decorate('This function is wrapped.')
+
+    @decorate
+    def f(x):
+        return x + 3
+
+    # Or just
+    @meta_decorate('This function is wrapped.')
+    def f(x):
+        return x + 3
+
 When to use other tools instead
 ----------------------------------------------
+Other things are often more appropriate than Vlermv. Let's review Vlermv's
+main features and then discuss other tools that provide similar things.
 
-Related things
-----------------
+1. Easily serialize Python objects.
+2. Produce a legible filesystem.
+3. Navigate directories simply.
+4. It's a "database" but doesn't run its own process.
 
+Other libraries, even standard Python libraries, provide some of these features.
+
+Serialize with shelve
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Shelve is a key-value store, where the values are Python objects that
+can be pickled. It's not dictionary, but it's quite similar. ::
+
+    # Example of shelve
+
+A main difference between shelve and vlermv is that shelve stores everything
+in one file. This has implications for performance, durability, and thread
+safety.
+
+Compose paths with pathlib
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+I only just recently learned of pathlib. It is so much easier to use than
+``os.path``. ::
+
+    pathlib
+
+Vlermv abstracts path manipulation for you. If you want to compose paths
+easily but don't care for this abstraction, try pathlib.
+
+Databases without servers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Vlermv stores complicated stuff and can access the stuff from other processes;
+it's a "database", maybe.
+
+Many databases run another service, which you might not like for whatever
+reason. The reason is often that you don't want another thing to think about,
+and that's totally reasonable.
+
+    Databases with servers: PostgreSQL, MongoDB
+
+Vlermv doesn't run its own server, and other databases do this too.
+
+    Database without servers: SQLite, LevelDB
+
+So consider SQLite and LevelDB if you just want a database without a server.
+There are lots of reasons to choose these over Vlermv.
+
+    Vlermv is slow
+    
+I did not try very hard to make Vlermv fast. This is the most obvious reason
+to prefer something else.
+
+    Vlermv is a Python library, only
+
+Other databases have libraries in several languages. Vlermv is only in
+Python. You can still access the files from other languages, but you might
+wind up writing your own library to assist in that.
+
+The advantage that Vlermv might have over these other databases is that
+it might be easier to use.
+
+    SQLite and LevelDB APIs may be less convenient.
+
+Do use Vlermv if it is exactly what you want, but consider other things
+if it isn't quite what you want.
+
+
+Review
+---------------
+
+
+Alternatives
+^^^^^^^^^^^^^^^
+* shelve, pickledb
 * pathlib
-* shelve
+* sqlite, leveldb
