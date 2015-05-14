@@ -222,7 +222,7 @@ Here are all of the external materials that I referenced
 ### Reading the Grammar of Graphics
 I disliked the order in which the Grammar of Graphics was presented;
 consider reading it in the order of
-[this outline](grammar-of-graphics-outline.mdwn).
+[this outline](grammar-of-graphics-outline/).
 
 ### Grammar of Graphics versus ggplot2
 The Grammar of Graphics breaks things up into six command types.
