@@ -515,6 +515,34 @@ Interesting parts of the implementation
 
 ``__call__``
 ^^^^^^^^^^^^^^^^^^^^^^
+In Python we define a function like this. ::
+
+    def f(x):
+        pass
+
+And then we run them like this. ::
+
+    f(8)
+
+Interestingly, this is the same way that we instantiate an object. ::
+
+    class g:
+        pass
+
+    g(8)
+
+How does Python know what to do when it sees the parantheses?
+Python checks the ``__call__`` method of an object. Functions and
+types/classes have a ``__call__`` method. Ordinary objects don't,
+but you can define one. ::
+
+    class MetaFunction:
+        def __call__(self, x):
+            return x + 3
+
+    function = MetaFunction()
+    function(8)
+    # 11
 
 posixpath, macpath, ntpath
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
