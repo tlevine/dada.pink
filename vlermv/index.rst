@@ -667,6 +667,72 @@ it might be easier to use.
 Do use Vlermv if it is exactly what you want, but consider other things
 if it isn't quite what you want.
 
+On the overuse of fancy databases
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+People talk about fancy databases a lot. Nowadays it's usually something
+like Mongo, previously it might have been MySQL. While they can be mildly
+annoying, they are very helpful in the appropriate context.
+
+    Fancy databases are powerful
+
+They are highly optimized monsters that can handle lots of connections at
+once without breaking or slowing down too much.
+
+    Do you really need the power?
+
+These optimizations are helpful if you care for them, but you often don't
+need them. Fancy databases add complexity to your software, and simpler
+software is easier to maintain.
+
+Fanyc databases are good for storing and accessing complicated data really quickly.
+
+    Good if you need speed and complex queries on non-tables
+
+Let's consider Mongo, a popular database that shares many similarities with
+Vlermv.
+
+    Mongo, a popular fany database
+
+It can handle complex data and complex queries at high speeds.
+
+    Fast and stuff
+
+However, I believe that its popularity compared to other databases
+is more about the ease of creating a new mongo database. It's really easy. ::
+
+    mongo [database name]
+
+If you don't care for the speed or the complex queries, files are probably
+easier to deal with. So why do people use Mongo?
+
+    Why use Mongo unnecessarily?
+
+I classify Mongo as a "fancy" database. Using it makes me feel fancy.
+
+    Fanciness
+
+Why is it so fancy?
+
+1. Popular
+2. Heavy marketing
+3. New
+
+Well, it's pretty popular, it's marketed pretty heavily, and it's reasonably
+new. When you combine these, it's easy to feel pressure to use it.
+
+    If you need high speed, distributed access, &c.,
+
+If you need the fancy features,
+
+    use a fancy database like Mongo.
+
+If not,
+
+    If you don't need high speeds, distributed access, &c.,
+
+you can just use files.
+
+    use files (or vlermv).
 
 Review
 ---------------
