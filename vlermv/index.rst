@@ -516,6 +516,17 @@ Interesting parts of the implementation
 ``__call__``
 ^^^^^^^^^^^^^^^^^^^^^^
 
+posixpath, macpath, ntpath
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I had heard of ``os.path`` but not of ``posixpath``, ``macpath``, ``ntpath``.
+``os.path`` is simply an alias for the path library that is appropriate for
+your system. ::
+
+    >>> # On my (POSIX) computer
+    >>> import os, posixpath
+    >>> os.path == posixpath
+    True
+
 Parametrized decorators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ``vlermv.cache`` is a function that creates a decorator. We could call
