@@ -9,7 +9,7 @@ totally different. And perhaps you are wondering what you should
 learn, how to get a job, how to market yourself, &c. I have assembled
 some advice for you!
 
-## Why do you want a job?
+## What do you want out of a job?
 There are all kinds of reasons why the career that interests you would
 appeal to you. The nominal reason is often that you want to be able to
 afford to live, or at least pay off your student debt. But there are so
@@ -50,7 +50,7 @@ And if you want to pay back your student debt,
 Here are some things that took me way too long to learn and might apply
 to you if you care at all about making money.
 
-### Pretending
+<h3 id="pretending">Pretending</h3>
 In the real world, everyone is pretending that she or he belongs there and
 that she or he knows what she or he is doing. This should explain why everyone
 seems to like his or her job and to be making more money than you.
@@ -74,8 +74,9 @@ better.
 all of your colleagues probably do too, and that's a lot of fighting. If you
 really want to do good work, find another place to work.
 
-I find it much easier to run away from conflict. I would make only light
-suggestions, avoid getting very stressed out about the mismanagement, and
+I find it much easier to run away from conflict. If you recieve unproductively
+hostile responses to your work/recommendations, it's fine to give up. Make only
+light suggestions, avoid getting very stressed out about the mismanagement, and
 make some money. If you really care about doing good design or whatever,
 you can quit your job to do that and live off the money you saved while working.
 
@@ -104,9 +105,11 @@ change is usually that less being accomplished.
 Even if working harder does improve how much is accomplished, you are
 unlikely to be appropriately rewarded for it. Your pay is based on what
 seems like a normal amount to pay someone, rather than on what work you
-did for the people.
+did for the company.
 
-### Profit and greed are the least of motivations in business
+<h3 id="profitandgreedaretheleastofmotivationsinbusiness">
+  Profit and greed are the least of motivations in business
+</h3>
 People sometimes say that God says that we shouldn't kill each
 other and still decide to go to Israel to fight a holy war. Similarly,
 people sometimes say that they are in the business of making money and
@@ -122,14 +125,14 @@ short-sighted money profit, this stuff would happen much less.
 
 These typical examples just scratch the surface.
 
-Here's a more nuanced non-profit phenomenon.
-I think that much of "data science" is people with advanced degrees who
-didn't find jobs in academia but want to feel like they're still doing
-"research". It can be really fun to use the fancy stuff that you read in a
-paper, but I very rarely manage to find situations where any of the fancy
-things I read in fancy books and journals is practical; I think that people
-say they need their analysis, science, &c. skills because they want to feel
-like researchers, not because it is particularly helpful for the business.
+Here's a more nuanced phenomenon that isn't about profit.
+The defining feature of a "data scientist" is that he or she couldn't find
+a job in academia but want to feel like he or she is still doing
+"research". We data scientists look for excuses to use the fancy stuff that
+we read about in fancy books and journals so that they can feel like
+researchers; we say that businesses need our analysis, science, &c. skills
+because we want to feel like researchers, not because it is particularly
+helpful for the businesses.
 
 If people actually wanted to make money, things would work a lot differently.
 
@@ -361,7 +364,7 @@ order to convince yourself that you know a lot about career stuff.
 
 I quite enjoy saying outrageous things as if they're totally normal and
 am also rather frustrated by how much of the advice I have been given is
-totally irrelevant. My career advice [above](#tomscareeradvice) can be
+totally irrelevant. My career advice above can be
 summarized as "Tom used to believe common wisdoms, so he is surprised,
 frustrated, and amused when he finds that they are totally wrong.
 He also likes being outrageous."

@@ -57,7 +57,7 @@ They are "[vetting](http://www.opendata500.com/about/#about-vetted)" companies,
 but this sounds like just a conversation with the submitters to check that they
 understood the questionnaire properly.
 
-### Comprehensive call sampling strategy
+<h3 id="comprehensive-call-sampling-strategy">Comprehensive call sampling strategy</h3>
 The Open Data 500 uses a sampling strategy that they term "comprehensive call".
 That sounds really complicated, but it's actually quite simple.
 
@@ -479,7 +479,7 @@ contains(@class, "preview-company")     | Is the company part of the "Preview" c
 contains(@class, "survey-company")      | Did the company submit the questionnaire, or were its data collected by undocumented means?
 a/@href                       | Link to a page on the Open Data 500 site with more information from the questionnaire about the company
 
-## Loading into R
+<h2 id="loading-into-r">Loading into R</h2>
 You can load the data into R like so.
 
     system('npm install r-open-data-500')
@@ -531,7 +531,7 @@ that none of the non-survey companies are in the preview set.
 Well maybe. Given what I'm about to say in the next section, I'm starting
 to wonder whether there was a mistake in the HTML version.
 
-## Which companies are in the preview?
+<h2 id="which-companies-are-in-the-preview">Which companies are in the preview?</h2>
 I still haven't resolved which companies are considered to be the preview
 companies.
 
@@ -669,7 +669,7 @@ One member of the Team told me that this was just a big number as a challenge
 to themselves. Another told me that they expected, based on Joel Gurin's
 network, that there were about 500 companies that would respond.
 
-## Key points and recommendations
+<h2 id="key-points-and-recommendations">Key points and recommendations</h2>
 That was a lot of details of the Open Data 500 data. Let's see if I can
 summarize my conclusions about the structure of the study and the data.
 

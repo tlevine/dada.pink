@@ -125,7 +125,7 @@ have at least one externally stored dataset.
 
 That's a big difference.
 
-### Link types and liveliness by catalog
+<h3 id="link-types-and-liveliness-by-catalog">Link types and liveliness by catalog</h3>
 Rather than looking at just whether there are any externally stored datasets at all,
 let's now look at what proportion of the datasets are stored externally.
 

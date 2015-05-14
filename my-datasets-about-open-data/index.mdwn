@@ -136,7 +136,7 @@ I'll refer to this "metadata file" quite a bit in the sections below.
 If we want just the source data, we have to remove these derivative
 datasets. I'll explain removing federated data later.
 
-### Not removing duplicates
+<h3 id="not-removing-duplicates">Not removing duplicates</h3>
 At first, I
 [didn't remove duplicates](/!/socrata-summary#acquiring-the-data).
 I just searched browsed through all of the search results, followed
@@ -227,7 +227,7 @@ could be written that does this. I think the site does some AJAXy something
 that I haven't figured out yet, but would be easy to parse this with
 something like Selenium, PhantomJS, or jsdom that renders the whole page.
 
-## Dealing with federation
+<h2 id="dealing-with-federation">Dealing with federation</h2>
 We can deal with federation by looking at the network of federation from the
 portal hope pages. Each portal's homepage has a box like this that says
 which portals it federates.

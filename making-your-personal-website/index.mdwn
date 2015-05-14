@@ -255,7 +255,7 @@ I just explained how my site works, but you are probably not a clone
 of me. Starting with my ideas might not be a bad idea, but try to come
 up with something that suits you better.
 
-## Repeat
+<h2 id="repeat">Repeat</h2>
 It's not like each of these steps only happens once.
 I still have at least half a lifetime of stuff that I've written about, 
 photographed, &c. but haven't published on my website. I periodically

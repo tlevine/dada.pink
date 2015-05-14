@@ -1,5 +1,8 @@
-title: Should I do a computer bootcamp?
 description: I explain the various benefits of these bootcamp courses so you can decide whether to take one.
+------------------------
+
+Should I do a computer bootcamp?
+=====================================
 
 You may have heard of computer "bootcamps", informal schools that are
 structured a bit like university semesters or like continuing education
@@ -10,8 +13,7 @@ But they're a lot of work, they take time, they cost money, and your present
 knowledge might be too little. Or, you might not know which one
 to take. I hope the present writing will resolve some of your wonderings.
 
-Reasons to take a bootcamp course
------------------------------
+<h2 id="reasonstotakeabootcampcourse">Reasons to take a bootcamp course</h2>
 I find that people take bootcamps for these reasons.
 
 1. They feel like they need to be doing a thing with a name, rather than
@@ -105,7 +107,7 @@ I should remind you that money isn't the only thing in life and that a bootcamp
 might still be good for you, even though you shouldn't expect it to help you
 financially.
 
-## Bootcamp business models
+<h2 id="bootcampbusinessmodels">Bootcamp business models</h2>
 The business model of a specific bootcamp is related to many of the things
 I discussed above.
 

@@ -88,7 +88,7 @@ The end-of-day meeting is inspired by "stand-up" meetings. I quite enjoy such
 meetings when the meeting doesn't run long. (But stand-up meetings always run
 long if I'm not the one running them.)
 
-### First day
+<h3 id="firstday">First day</h3>
 As mentioned above, the ten-minute meetings will run a bit differently on
 the first day.
 

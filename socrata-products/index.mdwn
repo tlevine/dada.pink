@@ -271,7 +271,7 @@ I think that the "Has form" variable tells us whether the client has purchased
 at least the basic plan of DataCollect, and the number of forms doesn't tell us
 much more about the product that the client has purchased.
 
-### Validation
+<h3 id="validation">Validation</h3>
 I've heard from Socrata employees that four-fifths of Socrata's data are private,
 so this is a very low estimate. It would nice to get some
 idea as to how wrong this is.

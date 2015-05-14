@@ -7,7 +7,7 @@ other_source: https://github.com/tlevine/open-data-500
 
 I recently took a stab at documenting the
 [Open Data 500](http://www.opendata500.com) data format,
-but my [work thus far](/!/open-data-500-data-dictionary)
+but my [work thus far](/!/open-data-500-data-dictionary/)
 leaves much to be desired. I looked at it a bit more over the weekend,
 and I think I have a pretty good idea about it now.
 Collecting all of my findings about the data format,
@@ -139,7 +139,7 @@ companies with zero datasets.
 I separate the data collection methods for the Open Data 500 into two methods.
 
 1. Convenience-sampled questionnaire responses
-    ("[comprehensive call](#comprehensive-call-sampling-strategy)")
+    ("[comprehensive call](/!/open-data-500-data-dictionary#comprehensive-call-sampling-strategy)")
 2. Undocumented data collection
 
 Data from both sorts of data collection are included in the companies dataset,

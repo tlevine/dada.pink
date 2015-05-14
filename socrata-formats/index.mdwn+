@@ -52,7 +52,7 @@ Some day, I'll look more at federation, probably by
 reading the federation information from home pages of the portals
 or by following the links in the `/data.json` file.
 
-### Cutoff at 1000?
+<h3 id="cutoff-at-1000">Cutoff at 1000?</h3>
 I find it highly suspicious the following nine portals have exactly 1000
 datasets and no portals have more than 1000 datasets.
 
@@ -101,7 +101,8 @@ a major example. Other times, people upload or link to
 files that could be tables but don't specify that they are tables; those are called
 "external links". Read more on dataset types [here](/!/open-by-default#types-of-visualizations-on-socrata-portals).
 
-Data formats are represented in two fields, `format` and `distribution`. `distribution`{#distribution}
+Data formats are represented in two fields, `format` and `distribution`.
+<code id="distribution">distribution</code>
 seems to contain all of the different available formats. If the data are imported as
 tabular data, it contains CSV, JSON, XML, &c., all served from the Socrata site.
 And if the data are external links, it will contain a few external links, still
@@ -126,7 +127,7 @@ It is also my [preferred file format](http://csvsoundsystem.com).
 
 Everything that is not CSV appears to be an external link.
 
-## CSV
+<h2 id="csv">CSV</h2>
 Most datasets are CSV (8143 of 15699).
 I was curious as to how this varies by portal and over time, and the following image
 addresses that.
