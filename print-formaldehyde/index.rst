@@ -1,6 +1,8 @@
 tags: ['letterpress']
 title: print(Formaldehyde)
 description: The formaldehyde dataset printed on letterpress in CSV format
+facebook_image: csv-print-square.jpg
+twitter_image: csv-print-square.jpg
 -------
 
 .. image:: csv-chase.jpg
