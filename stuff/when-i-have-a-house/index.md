@@ -92,9 +92,12 @@ Minimally, they must be separated into two pockets, in which case the
 unique things are in one pocket and the phone and GPS are in the another.
 They may also be separated further.
 
-Teeth things and sunscreen, washing, water bottle, stimulus attenuation,
-glasses, and other
-must all get their own external pockets. Teeth things are sunscreen are
+Teeth things and sunscreen, water bottle, stimulus attenuation, and
+glasses must all get their own external pockets. Washing, glasses,
+and other should get their own external pockets, but they could also
+go inside.
+
+Teeth things are sunscreen are
 separated from other toiletries because I need them more often.
 A group may be separated across more than one pockets, but two groups
 must not share one pocket.
