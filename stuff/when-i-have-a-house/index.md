@@ -35,6 +35,11 @@ Here I list the straightforward things.
 * Unique things
   * Wallet (money and cards of day-to-day relevance)
   * Retainer
+* Stimulus attenuation
+  * Earplugs
+  * Eye cover thingy
+* Glasses
+  * Glasses case that fits both pairs of glasses and carries my other pair of glasses
 * Other
   * Pens
   * Keys
@@ -70,6 +75,7 @@ The backpack itself has these characteristics.
 * At least two small internal pockets
   * It would be benefitial for [travel](#travel) purposes to have a third
       internal pocket.
+* At least six small external pockets
 * Enough small outer pockets to organize the things as specified below
 * Resists rain
 * There is an easy way to attach wet clothes to the outside for drying.
@@ -86,7 +92,8 @@ Minimally, they must be separated into two pockets, in which case the
 unique things are in one pocket and the phone and GPS are in the another.
 They may also be separated further.
 
-Teeth things and sunscreen, washing, water bottle, and other
+Teeth things and sunscreen, washing, water bottle, stimulus attenuation,
+glasses, and other
 must all get their own external pockets. Teeth things are sunscreen are
 separated from other toiletries because I need them more often.
 A group may be separated across more than one pockets, but two groups
