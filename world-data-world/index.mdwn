@@ -1,5 +1,6 @@
 tags: ['sensing-data']
 title: World -> Data -> World
+secret: True
 ----------
 
 To me, it is common sense that data could be extracted from a pair

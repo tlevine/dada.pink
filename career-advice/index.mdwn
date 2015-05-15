@@ -1,4 +1,5 @@
 title: Career advice from Tom
+secret: True
 --------------------------------------------------------
 
 *These started as notes for a talk at [Cyber Wizard Institute](http://cyber.wizard.institute/). A video might come eventually.*

@@ -1,5 +1,6 @@
 title: Curriculum vitae
 description: Curriculum vitae (short version)
+secret: True
 ----
 <center>
 <p class="webonly"><a href="javascript:window.print()">Print this page</a> to generate a PDF.</p>

@@ -1,5 +1,6 @@
 tags: ['sleep']
 description: Some things that might be more exciting than sleep
+secret: True
 --------------------------------------------------------
 # Things I want to make
 

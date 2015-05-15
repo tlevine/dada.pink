@@ -1,4 +1,5 @@
 description: Things you might want to know if you asked me a hard question
+secret: True
 ---------------------
 # Asking me questions
 

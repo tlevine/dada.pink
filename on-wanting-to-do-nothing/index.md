@@ -1,3 +1,5 @@
+secret: True
+--------------
 # On wanting to do nothing
 I often say that I want to do "nothing". Here I contemplate what that
 means, why I say that, how it affects my conduct, and how it came to be

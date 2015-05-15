@@ -1,3 +1,5 @@
+secret: True
+-------------------
 # Curriculum vitae
 *This is extra stuff; go [back](..) for the basic stuff.*
 

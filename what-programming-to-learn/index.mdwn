@@ -1,4 +1,4 @@
-title: What I think people who want to learn programming
+title: What I think people who want to learn programming should learn
 ----------
 
 Some people want to learn programming for the sake of it

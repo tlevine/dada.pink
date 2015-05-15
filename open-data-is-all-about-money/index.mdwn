@@ -1,7 +1,8 @@
 tags: ['open-data']
 title: Open data is all about money.
 description: Don't believe those free knowledge hippie weirdos; open data is all about money.
--------
+secret: True
+--------------
 
 Open data is all about money, and despite all the wishful thinking of
 [transparency](http://opengovernmentdata.org/) and

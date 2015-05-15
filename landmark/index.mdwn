@@ -1,3 +1,5 @@
+secret: True
+-----------------
 # Sloppy notes from a hilarious evening
 I'm sitting in this Landmark thingy guest....
 November 26, 2014 in Seattle
