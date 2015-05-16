@@ -62,3 +62,5 @@ go underneath.
 
 Since I don't need much space, it could just be a hat.
 I'm thinking I could make something with an external frame
+
+<iframe src="hatpack.svg" style="height: 900px; background-color: white;"></iframe>
