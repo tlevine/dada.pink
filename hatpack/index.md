@@ -7,3 +7,6 @@ Or should I call it a "headpack"? Hmm no "hatpack" sounds nicer.
 
 Oh, this is already
 [a thing](https://commons.wikimedia.org/wiki/Category:Headcarrying).
+
+Maybe I want a
+[ring](https://commons.wikimedia.org/wiki/Category:Rings_for_headcarrying).
