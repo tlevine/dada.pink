@@ -1,7 +1,23 @@
 tags: ['stuff']
 ----------
-# Which backpack?
-What backpack to get? I want a small one with lots of big pockets.
+# Backpack
+What backpack will satisfy my desires?
+My backpack must meet these criteria.
+
+* Comfortable (easy to carry)
+* At least one big pocket with at least three small internal pockets
+* At least six small external pockets
+* Loops for trekking poles
+* Acceptable for carriage on public transport
+
+Also, it should meet these criteria.
+
+* Facilitate the carriage of stuff in the front
+
+Now that I know what I want, let's find it.
+
+## Can I buy it?
+Let's look at some off-the-shelf backpacks.
 
 * I have the Tom Bihn Synapse 19.
 * [Haglöfs Tight XS](http://www.haglofs.com/gb/en/gb/en/Backpacks-and-Bags/TIGHT-XS/p/293001.2LT) has only one pocket but has compression strap, nice for clothes, and comes in pink.
@@ -18,14 +34,14 @@ What backpack to get? I want a small one with lots of big pockets.
 * Deuter Trans Alpine 26 (24?)
 * Deuter Futura 22 or 18
 
-Something with a frame would be nice. I could buy or make one.
+But I also want it to be easy to carry.
 Here are ideas.
 
 * [StackPack](http://www.luxurylite.com/stackpackindex.html)
 * [MetroWild](http://www.metrowild.com/)
 * Deuter Futura 22 or 18
 
-I might have to make my own.
+Maybe I can modify one, or just add store-bought pockets?
 
 * [Adding pockets](http://sectionhiker.com/adding-pockets-to-ultralight-backpacks/)
 * [Shoulder strap pockets](http://www.mountainlaureldesigns.com/shop/product_info.php?cPath=46&products_id=71)
@@ -35,3 +51,5 @@ I might have to make my own.
 I want pockets in the front. This stuff looks good.
 
 * [List of pocket add-ons](http://gearjunkie.com/backpack-hip-pockets-and-pouches)
+
+But I'm still not pleased.
