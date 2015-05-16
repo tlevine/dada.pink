@@ -1,4 +1,4 @@
-[[!meta title="May 2014"]]
+# May 2014 Stuff
 
 ## Bags
 I recently got a [Tom Bihn Synapse 19](),
