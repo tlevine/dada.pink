@@ -14,12 +14,13 @@ the bike.
 -->
 
 I have listed the things I [have](2015-01/) and
-the things I [want](stuff-i-want/).
-And there are pictures of me unpacking the stuff.
+the things I [want when I have a house](when-i-have-a-house/).
+Here are some old lists and pictures
 
-* [February 2014](http://small.dada.pink/stuff/2014-02/stuff-annotated.jpg)
-* [June 2014](stuff-2014-06/)
 * [November 2014](http://small.dada.pink/stuff/2014-11.webm)
+* [October 2014](2014-10/)
+* [June 2014](2014-06/)
+* [February 2014](http://small.dada.pink/stuff/2014-02/stuff-annotated.jpg)
 
 Relatedly, check out
 [hackpacks](https://sudoroom.org/wiki/Hackpack)
