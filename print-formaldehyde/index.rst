@@ -49,10 +49,11 @@ As summarized in the R help,
 The references are proprietary, so I didn't manage to trace the source
 any further, but this sounds like
 `NIOSH method 3500 <http://www.cdc.gov/niosh/docs/2003-154/pdfs/3500.pdf>`_
-(`mirror <3500.pdf>`_)) for formaldehyde analysis.
+(`mirror <3500.pdf>`_) for formaldehyde analysis.
 
 Encoding error
 ------------------
-"6" was swapped for the highlighted "5"
-because I ran out of 6s; in the original dataset, the fifth value
+I chose this dataset because it was very small. Alas, it was still too
+big. I ran out of 6s, so I swapped one "6" was swapped for the
+highlighted "5"; in the original dataset, the fifth value
 of "optden" is 0.62\ **6** instead of 0.625.
