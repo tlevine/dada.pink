@@ -282,6 +282,14 @@ That's all you need to know in order to write your own transformers,
 
 and you can also use the included ones.
 
+
+Review so far
+----------------
+
+1. A
+2. B
+3. C
+
 As a cache/archive
 ----------------------
 A particular thing I often find myself wanting is to cache the results
@@ -348,6 +356,8 @@ runs the function. ::
 
     function.__name__
 
+(XXX I need to explain this more.)
+
 By default, vlermv stores its files in a directory named after the function.
 For example, this goes in "identity". ::
 
@@ -360,6 +370,9 @@ But you can change that. ::
     @vlermv.cache('not-identity-directory')
     def identity(x):
         return x
+
+(XXX Aside from this, ``cache`` has all of
+the same arguments as vlermv, so we can pass any vlermv arguments to it.)
 
 An aside: Two hard things
 --------------------------------
