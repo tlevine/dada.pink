@@ -16,7 +16,13 @@ of the following terms
 
 ## The field of data
 
-## Quanitative skills
+## Skills
+Two defining components of data science are quantitative abilities and
+an interest or ability to do research. Before we discuss the different
+sorts of people who work in data science, we need to discuss these key
+skills.
+
+### Quanitative abilities
 Data science is big on quantitative skills, and people who work in data science
 are classified based on their quantitative skills.
 A person is considered to have strong quantitative skills if most he or she
@@ -27,6 +33,8 @@ meets most of the following criteria.
 * He is male, or she conducts herself very masculinely.
 * He or she presents her work in ways that are difficult for most
   people to understand.
+
+### Research
 
 ## People in data
 Now that I have discussed the general field of data, I can tell you
@@ -101,3 +109,13 @@ In contrast to the software/data engineer,
 * He or she presents her work in ways that broad audiences can understand it.
 * He or she is less concerned about the sophistication/complexity of her work
   than a data scientist would be.
+
+## The future
+The trend towards more data will continue, and the field of data will
+thus be around in some form for a reasonably long time. The people in this
+field, on the other hand, may change somewhat as data science becomes
+established as a formal academic discipline. People who work as data
+scientists really want to work as academic researchers. When data science
+becomes a formal academic discipline and data scientists finally find
+jobs as academics, we might have to come up with a new name for the people
+who want to be academics but can't find work.
