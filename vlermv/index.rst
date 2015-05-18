@@ -2,8 +2,12 @@ description: Why I made it, how I use it, and what it has to do with dada
 -------------------
 Vlermv
 =========
-Here's a script and `slides <?slides>`_ about
-`vlermv <https://pypi.python.org/pypi/vlermv>`_.
+Here are some notes for a talk I gave on
+`vlermv <https://pypi.python.org/pypi/vlermv>`_,
+originally at `PyGrunn <http://www.pygrunn.org/>`_ on
+May 22, 2015.
+
+There are also `slides <?slides>`_.
 
 About Tom
 ------------
@@ -15,7 +19,9 @@ I have been writing Python for about ten years.
     Traveling but not sight-seeing
 
 I'm traveling around Europe for a couple months, but I find that
-I prefer computering over sight-seeing.
+I prefer computering over sight-seeing. While walking through beautiful
+Swedish woods a few weeks ago, I realized that I would rather be sitting
+in a hackerspace.
 
     First Python conference
 
@@ -54,7 +60,8 @@ milage.
 
 Data
 ^^^^^^^^^^^^^^^^
-Dada art doesn't pay, of course, so I still do other stuff too.
+Dada art doesn't pay, of course. If I'm making money, I'm doing
+`data </!/data/>`_.
 
 * Acquire data
 * Model/predict/learn stuff
@@ -806,6 +813,7 @@ End
 -------------
 
 ::
+
     $ pip install vlermv
     $
     $ # https://thomaslevine.com
