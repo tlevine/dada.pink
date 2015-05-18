@@ -570,95 +570,6 @@ mock the database like this. ::
 Review so far
 ^^^^^^^^^^^^^^^^
 
-Interesting parts of the implementation
-----------------------------------------------
-
-``__call__``
-^^^^^^^^^^^^^^^^^^^^^^
-In Python we define a function like this. ::
-
-    def f(x):
-        pass
-
-And then we run them like this. ::
-
-    f(8)
-
-Interestingly, this is the same way that we instantiate an object. ::
-
-    class g:
-        pass
-
-    g(8)
-
-How does Python know what to do when it sees the parantheses?
-Python checks the ``__call__`` method of an object. Functions and
-types/classes have a ``__call__`` method. Ordinary objects don't,
-but you can define one. ::
-
-    class MetaFunction:
-        def __call__(self, x):
-            return x + 3
-
-    function = MetaFunction()
-    function(8)
-    # 11
-
-posixpath, macpath, ntpath
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I had heard of ``os.path`` but not of ``posixpath``, ``macpath``, ``ntpath``.
-``os.path`` is simply an alias for the path library that is appropriate for
-your system. ::
-
-    >>> # On my (POSIX) computer
-    >>> import os, posixpath
-    >>> os.path == posixpath
-    True
-
-Parametrized decorators
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-``vlermv.cache`` is a function that creates a decorator. We could call
-it a "parametrized decorator".
-Every explanation I have seen of parametrized decorators makes them more
-complicated than they need to be.
-
-A decorator is simply a function that takes a function and returns a
-new function. ::
-
-    def decorate(func):
-        def wrapper(*args, **kwargs):
-            print('This %s function is wrapped.' % func.__name__)
-            return func(*args, **kwargs)
-
-    @decorate
-    def f(x):
-        return x + 3
-
-To parametrize the decorator, we simply write a function that returns
-a decorator. ::
-
-    def meta_decorate(msg):
-        def decorator(func):
-            def wrapper(*args, **kwargs):
-                print(msg)
-                return func(*args, **kwargs)
-        return decorator
-
-    decorate = meta_decorate('This function is wrapped.')
-
-``decorate`` is now a decorator. ::
-
-    @decorate
-    def f(x):
-        return x + 3
-
-We can do this a bit more concisely, of course; instead of sending the
-arguments in one line and decorating in another, we can do both in the
-same line. ::
-
-    @meta_decorate('This function is wrapped.')
-    def f(x):
-        return x + 3
 
 When to use other tools instead
 ----------------------------------------------
@@ -751,7 +662,7 @@ software is easier to maintain.
 
 Fanyc databases are good for storing and accessing complicated data really quickly.
 
-    Good if you need speed and complex queries on non-tables
+    Good if you need speed and complex queries
 
 Let's consider Mongo,
 
@@ -807,6 +718,112 @@ you can just use files.
 
     use files (or vlermv).
 
+
+Review so far
+^^^^^^^^^^^^^^^^
+
+Interesting parts of the implementation
+----------------------------------------------
+
+``__call__``
+^^^^^^^^^^^^^^^^^^^^^^
+In Python we define a function like this. ::
+
+    def f(x):
+        pass
+
+And then we run them like this. ::
+
+    f(8)
+
+Interestingly, this is the same way that we instantiate an object. ::
+
+    class g:
+        pass
+
+    g(8)
+
+How does Python know what to do when it sees the parantheses?
+Python checks the ``__call__`` method of an object. Functions and
+types/classes have a ``__call__`` method. Ordinary objects don't,
+but you can define one. ::
+
+    class MetaFunction:
+        def __call__(self, x):
+            return x + 3
+
+    function = MetaFunction()
+    function(8)
+    # 11
+
+posixpath, macpath, ntpath
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I had heard of ``os.path`` but not of ``posixpath``, ``macpath``, ``ntpath``.
+``os.path`` is simply an alias for the path library that is appropriate for
+your system. ::
+
+    >>> # On my (POSIX) computer
+    >>> import os, posixpath
+    >>> os.path == posixpath
+    True
+
+Parametrized decorators
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+``vlermv.cache`` is a function that creates a decorator. We could call
+it a "parametrized decorator".
+Every explanation I have seen of parametrized decorators makes them more
+complicated than they need to be.
+
+A decorator is simply a function that takes a function and returns a
+new function. ::
+
+    def decorate(func):
+        def wrapper(*args, **kwargs):
+            print('This %s function is wrapped.' % func.__name__)
+            return func(*args, **kwargs)
+
+    @decorate
+    def f(x):
+        return x + 3
+
+The at-sign syntax is equivalent to this. ::
+
+    def f(x):
+        return x + 3
+    f = decorate(f)
+
+This made sense to me, but it took me a while to understand a parametrized
+decorator. ::
+
+    @meta_decorate('blah', 'blah', 'blah')
+    def f(x):
+        return x + 3
+
+To parametrize the decorator, we simply write a function that returns
+a decorator. ::
+
+    def meta_decorate(msg):
+        def decorator(func):
+            def wrapper(*args, **kwargs):
+                print(msg)
+                return func(*args, **kwargs)
+        return decorator
+
+    decorate = meta_decorate('This function is wrapped.')
+
+``decorate`` is now a decorator. ::
+
+    @decorate
+    def f(x):
+        return x + 3
+
+We can do this a bit more concisely, of course; instead of sending the
+arguments in one line and decorating in another, we can do both in the
+same line. ::
+
+    @meta_decorate('This function is wrapped.')
+    def f(x):
+        return x + 3
 
 
 Review
