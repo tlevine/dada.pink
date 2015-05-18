@@ -15,15 +15,21 @@ of the following terms
 * data engineer
 
 ## The field of data
-"Big data", "data science", and plain "data" all allude to a recent phenomenon
-related to a decrease in the cost of computers. As computation and digital
-storage gets cheaper, we can more whimsically put insane amounts of computing
-power towards studies of how the world works.
-
+As computation and digital storage gets cheaper, we can more whimsically put
+insane amounts of computing power towards studies of how the world works.
 The various practices of the contemporary data field stem from this happening.
 
+"Big data", "data science", and plain "data" all refer to the practice of
+putting using this insane degree of computing power to study stuff. These terms
+in fact mean different things to different people, but they consistently allude
+to this recent perspective on research that stems from a decrease in the cost
+of computers.
+
+The various practices/values within the data field all follow naturally from
+this defining feature. I discuss some of these practices/values below.
+
 ### Store everything
-Storage is cheap, so you should store everything that is easy to collect.
+Storage is cheap, so aim to store everything that is easy to collect.
 In data science, we instinctively store data in the most raw form that is
 convenient, and don't worry very much about how or even whether we're going
 to analyze it. One of the aspects of data science is the collection and
@@ -32,26 +38,19 @@ looking at it.
 
 ### Anything can be quantified
 Everything can be turned into a number, and computers can compute numbers
-much more cheaply than humans can. After we have quantified things, we can
-process them with our powerful and cheap computers In data science, we look
+much more cheaply than humans can. In data science, we look
 for numbers in everything, because we need to turn stuff into numbers in
 order for our computers to process them.
 
-### Boring work should be sent to robots
-Within the context of data analysis, there are some much more practical reasons
-for this. A typical boring task might be drawing a new graph every time some
-dataset is updated. A robot will do this with substantially more
-consistency/accuracy and for a substantially lower cost.
-
-So here are some mindsets that follow from the aforementioned data science mindset.
+### Repetitive tasks should be automated
+Data science is all about replacing expensive human thought with inexpensive
+computers. In data science, we make the following sorts of decisions.
 
 * Data collection should be automatic and unobtrusive; questionnaires and lab
     studies are too much work.
-* I don't need a full-fleged research plan before you start collecting data;
-    I'll record everything that is convenient, and I'll store it in the most raw form.
+* Collect any data that might be useful later or that are just easy to collect.
+    Don't wait until you have a full-fleged research plan.
 * All analyses should be scripted.
-
-To say this more explosively, I value laziness.
 
 ### Focus on connecting datasets rather than on tuning models
 In a conventional statistics class, you'll learn a lot about how to choose
@@ -63,31 +62,6 @@ worth worrying so much about making the best use out of one dataset; it's better
 to use a range of datasets, and especially to connect one dataset to lots of
 other datasets. To use machine learning speak, you should focus more on collecting
 features rather than on tuning your model.
-
-Relating this to the earlier point that you should store everything, here are
-some of my mindsets that follow from the original mindset.
-
-* When I'm asked a question about the world, I adapt the question so that it can
-    be approximately answered with an existing and convenient dataset.
-* I look for opportunities to use existing stores of data in unintended ways.
-
-## Tools
-Since I have the aforementioned mindset and the consequential mindsets, I wind
-up learning a bunch of tools that align with that mindset. For example, I know
-how to collect lots of data continuously, how to store it, how to get it out of
-storage, how to have a computer analyze datasets that I can't fit in my head,
-how to convert paper documents into data tables, how to get the computer to tell
-me something that I and other people understand, and how to make all of this run
-fast enough that I don't get tired of waiting.
-
-Properly discussing these relevant tools would take a while, but here's a small
-thought: You don't need to know much math to do data science. Loads of wonderful
-algorithms have already been implemented for you, and simple algorithms work quite
-well. The more important tools are "plumbing" that connects different datasets and systems.
-
-
-
-
 
 ## Skills
 Two defining components of data science are quantitative abilities and
@@ -108,6 +82,11 @@ meets most of the following criteria.
   people to understand.
 
 ### Research
+Data science involves research 
+
+novel discoveries
+
+disseminating knowledge
 
 ## People in data
 Now that I have discussed the general field of data, I can tell you
@@ -117,7 +96,7 @@ about the different sorts of people that we find within the field.
 The main personification of the field of data science is the data scientist.
 
 Data scientists are people who want to feel like they are conducting
-novel research (by their own definitions of "research"), were unable
+novel research, were unable
 to get jobs in academia, managed to find work in the field of data,
 and are considered to posess strong quantitative skills.
 
