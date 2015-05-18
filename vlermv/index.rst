@@ -284,7 +284,7 @@ and you can also use the included ones.
 
 
 Review so far
-----------------
+^^^^^^^^^^^^^^^^
 
 1. A
 2. B
@@ -420,6 +420,10 @@ And this is how I wound up with the name "vlermv".
 
 Thanks for indulging me in this tangent. Let's get back to the main event.
 
+
+Review so far
+^^^^^^^^^^^^^^^^
+
 How I use Vlermv
 ----------------------------------------------
 I use Vlermv through the ``cache`` decorator most of the time, and
@@ -477,6 +481,8 @@ caused the error.
 If you want to look at the contents of a vlermv in the console, open Python
 shell and import the vlermv. Consider the following (abridged) exception
 
+.. Fix this.
+
 .. code-block:: python
    :emphasize-lines: 3
 
@@ -512,7 +518,7 @@ This query is wound up uncovering the problem. ::
 You can also open the file in normal Python. ::
 
     with open('~/usace-public-noties/feed', 'rb') as fp:
-        response = json.load(fp)
+        response = pickle.load(fp)
 
 Either way, the point is that we can easily access the crucial
 data input.
@@ -560,6 +566,9 @@ mock the database like this. ::
     def test_mean_field():
         people = ['Tom', 'Suzie', 'Carol']
         assert mean_field(db, 'shoe-size', people) == 41
+
+Review so far
+^^^^^^^^^^^^^^^^
 
 Interesting parts of the implementation
 ----------------------------------------------
