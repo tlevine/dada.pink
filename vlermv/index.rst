@@ -43,21 +43,6 @@ I also make music from spreadsheets.
 
 Each beat in the music corresponds to a row in the spreadsheet.
 
-Just one more dada. Here we plot data as döner kebabs.
-
-.. image:: /!/geom_doner/geom_doner.jpg
-
-Each kebab is a make of car. Their positions form a scatterplot;
-the x-axis is highway milage, and the y-axis is city milage.
-The two in the bottom-left are spicy; this means that they have
-automatic transmission. The one to the bottom-left is in bread,
-rather than in a box; this means that it has four-wheel drive.
-
-This plot uses all of the senses to convey multivariate data.
-From this plot, we can taste, see, feel, smell, and hear that
-manual transmission and two-wheel drive are associated with better
-milage.
-
 Data
 ^^^^^^^^^^^^^^^^
 Dada art doesn't pay, of course. If I'm making money, I'm doing
@@ -167,6 +152,7 @@ The most basic use of Vlermv goes something like this. ::
 The keys correspond to file names, and the values get serialized to files.
 The default serialization is pickle. ::
 
+    # vlermv['filename'] -> '/tmp/a-directory/filename'
     import pickle
     range(100) == pickle.load(open('/tmp/a-directory/filename', 'rb'))
 
@@ -285,10 +271,16 @@ and you can also use the included ones.
 
 Review so far
 ^^^^^^^^^^^^^^^^
+So far, I have been telling you how vlermv works.
 
-1. A
-2. B
-3. C
+    How vlermv works
+
+The main concepts are
+
+
+* Dict-like Vlermv
+* Serializers
+* Transformers
 
 As a cache/archive
 ----------------------
@@ -346,33 +338,9 @@ to it. When we run it, this is what we get. ::
     This is running for the first time.
     Out[4]: 8
 
-On the first call, the decorated function checks the cache
-for ``3``. It finds nothing, so it runs
-the function and saves the result under the ``3``
-key. On the next next two calls, the decorated function does find
-``3`` in its cache, so it uses that rather than running the function.
-On the fourth call, the decorated function finds no ``8``, so it
-runs the function. ::
+vlermv.cache takes the usual vlermv.Vlermv arguments
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-    function.__name__
-
-(XXX I need to explain this more.)
-
-By default, vlermv stores its files in a directory named after the function.
-For example, this goes in "identity". ::
-
-    @vlermv.cache()
-    def identity(x):
-        return x
-
-But you can change that. ::
-
-    @vlermv.cache('not-identity-directory')
-    def identity(x):
-        return x
-
-(XXX Aside from this, ``cache`` has all of
-the same arguments as vlermv, so we can pass any vlermv arguments to it.)
 
 An aside: Two hard things
 --------------------------------
@@ -424,6 +392,12 @@ Thanks for indulging me in this tangent. Let's get back to the main event.
 Review so far
 ^^^^^^^^^^^^^^^^
 
+1. How vlermv works
+2. **How I use it**
+3. How it relates to testing and debugging
+4. Interesting parts of the implementation
+5. When to use other tools instead
+
 How I use Vlermv
 ----------------------------------------------
 I use Vlermv through the ``cache`` decorator most of the time, and
@@ -450,22 +424,6 @@ key. On the next run, the decorated function does find
 ``'https://thomaslevine.com'`` in its cache, so it uses that rather
 than running the function.
 
-Here is a more practical example. Here I have an RSS feed that I
-download every day. I also have a bunch of articles; I download
-each article once ever; I never download a second version of the
-same article.
-
-::
-
-    @cache('~/.usace-public-notices/rss_feed')
-    def rss_feed(date, site, max = 100000):
-        # ...
-        return requests.get(url, params = params)
-
-    @cache('~/.usace-public-notices/article')
-    def article(url):
-        return requests.get(url)
-
 How it relates to testing and debugging
 ----------------------------------------------
 As I said earlier, impure functions scare me. That is, I don't like functions
@@ -481,10 +439,7 @@ caused the error.
 If you want to look at the contents of a vlermv in the console, open Python
 shell and import the vlermv. Consider the following (abridged) exception
 
-.. Fix this.
-
-.. code-block:: python
-   :emphasize-lines: 3
+::
 
    Traceback (most recent call last):
      File "/home/tlevine/git/scott2/usace/public_notices/__init__.py", line 11, in public_notices
@@ -499,15 +454,21 @@ shell and import the vlermv. Consider the following (abridged) exception
 
 I happen to know, because I wrote the program that generated the traceback,
 that :samp:`feed`,
-from :samp:`for link in parse.feed(download.{feed}(str(site)))`
+
+::
+
+    # The response that caused the error is in this vlermv
+    usace.public_notices.download.feed
+
+from ``for link in parse.feed(download.{feed}(str(site)))``
 is a function cached with vlermv and that it is defined in the module
-:samp:`usace.public_notices.download` as :samp:`feed`.
+``usace.public_notices.download`` as ``feed``.
 
 To inspect the vlermv, open another console, and type this. ::
 
     from usace.public_notices.download import feed
 
-:samp:`feed` is a vlermv, so now I can look at the data however I like. ::
+``feed`` is a vlermv, so now I can look at the data however I like. ::
 
     print(list(feed.keys()))
 
@@ -570,6 +531,11 @@ mock the database like this. ::
 Review so far
 ^^^^^^^^^^^^^^^^
 
+1. How vlermv works
+2. How I use it
+3. How it relates to testing and debugging
+4. **When to use other tools instead**
+5. Interesting parts of the implementation
 
 When to use other tools instead
 ----------------------------------------------
@@ -587,9 +553,10 @@ Serialize with shelve
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Shelve is a key-value store, where the values are Python objects that
-can be pickled. It's not dictionary, but it's quite similar. ::
+can be pickled. ::
 
-    # Example of shelve
+    d = shelve.open(filename)
+    d[key] = data
 
 A main difference between shelve and vlermv is that shelve stores everything
 in one file. This has implications for performance, durability, and thread
@@ -601,7 +568,10 @@ Compose paths with pathlib
 I only just recently learned of pathlib. It is so much easier to use than
 ``os.path``. ::
 
-    pathlib
+    from pathlib import Path
+    p = Path('/etc')
+    q = p / 'init.d' / 'reboot'
+    print(list(p.glob('**/*.py')))
 
 Vlermv abstracts path manipulation for you. If you want to compose paths
 easily but don't care for this abstraction, try pathlib.
@@ -722,6 +692,12 @@ you can just use files.
 Review so far
 ^^^^^^^^^^^^^^^^
 
+1. How vlermv works
+2. How I use it
+3. How it relates to testing and debugging
+4. When to use other tools instead
+5. **Interesting parts of the implementation**
+
 Interesting parts of the implementation
 ----------------------------------------------
 
@@ -802,13 +778,6 @@ decorator. ::
 To parametrize the decorator, we simply write a function that returns
 a decorator. ::
 
-    def meta_decorate(msg):
-        def decorator(func):
-            def wrapper(*args, **kwargs):
-                print(msg)
-                return func(*args, **kwargs)
-        return decorator
-
     decorate = meta_decorate('This function is wrapped.')
 
 ``decorate`` is now a decorator. ::
@@ -817,36 +786,82 @@ a decorator. ::
     def f(x):
         return x + 3
 
-We can do this a bit more concisely, of course; instead of sending the
-arguments in one line and decorating in another, we can do both in the
-same line. ::
+Said otherwise, these two are the same thing! ::
 
-    @meta_decorate('This function is wrapped.')
+    @meta_decorate('blah', 'blah', 'blah')
     def f(x):
         return x + 3
 
+    decorate = meta_decorate('This function is wrapped.')
+    @decorate
+    def f(x):
+        return x + 3
+
+This is what the definition of ``meta_decorate`` might look like. ::
+
+    def meta_decorate(msg):
+        def decorator(func):
+            def wrapper(*args, **kwargs):
+                print(msg)
+                return func(*args, **kwargs)
+        return decorator
 
 Review
 ---------------
+We talked about
 
+1. How vlermv works
+2. How I use it
+3. How it relates to testing and debugging
+4. Interesting parts of the implementation
+5. When to use other tools instead
 
-Alternatives
-^^^^^^^^^^^^^^^
+Alternatives to consider
+
 * shelve, pickledb
 * pathlib
 * sqlite, leveldb
+
+Some cool things I learned
+
+* ``__call__``
+* ``os.path``
+* parametrized decorators
 
 Roadmap for Vlermv
 --------------------
 Here are some future changes that I see for Vlermv.
 
-First of all, I think the "cache" decorator needs a better name.
+I think the "cache" decorator needs a better name.
 
     ``vlermv.cache`` needs a better name
 
 "cache" is a misleading name, as it implies that the result changes.
 Perhaps "archive" is a better name. Tell me if you have suggestions.
 
+I also think I could add some error messages to make debugging easier
+
+    Debugging
+
+But mainly, I just want to try using it in a few projects
+
+    I want to use vlermv more.
+
+I have gotten quite good at finding places where vlermv can make code
+simpler.
+
+    Can I put vlermv in your project?
+
+I want to try putting vlermv in more projects, so that I may refine the
+API further and develop more transformers and serializers. Do you have
+a project that vlermv might help with? I would love to try putting vlermv in.
+
+Roadmap for Tom
+---------------------
+
+    Looking for a place to sleep
+
+I haven't figured out where I'm sleeping tonight, so tips are welcome.
 
 End
 -------------
@@ -858,3 +873,75 @@ End
     $ # https://thomaslevine.com
     $ # _@thomaslevine.com
     $ pip install tlevine
+
+
+
+
+Appendix
+====================
+
+An example of vlermv.cache use
+----------------------------------
+Here is a more practical example. Here I have an RSS feed that I
+download every day. I also have a bunch of articles; I download
+each article once ever; I never download a second version of the
+same article.
+
+::
+
+    @cache('~/.usace-public-notices/rss_feed')
+    def rss_feed(date, site, max = 100000):
+        # ...
+        return requests.get(url, params = params)
+
+    @cache('~/.usace-public-notices/article')
+    def article(url):
+        return requests.get(url)
+
+cache
+------------
+On the first call, the decorated function checks the cache
+for ``3``. It finds nothing, so it runs
+the function and saves the result under the ``3``
+key. On the next next two calls, the decorated function does find
+``3`` in its cache, so it uses that rather than running the function.
+On the fourth call, the decorated function finds no ``8``, so it
+runs the function. ::
+
+    function.__name__
+
+(XXX I need to explain this more.)
+
+By default, vlermv stores its files in a directory named after the function.
+For example, this goes in "identity". ::
+
+    @vlermv.cache()
+    def identity(x):
+        return x
+
+But you can change that. ::
+
+    @vlermv.cache('not-identity-directory')
+    def identity(x):
+        return x
+
+(XXX Aside from this, ``cache`` has all of
+the same arguments as vlermv, so we can pass any vlermv arguments to it.)
+
+dada
+--------
+
+Just one more dada. Here we plot data as döner kebabs.
+
+.. image:: /!/geom_doner/geom_doner.jpg
+
+Each kebab is a make of car. Their positions form a scatterplot;
+the x-axis is highway milage, and the y-axis is city milage.
+The two in the bottom-left are spicy; this means that they have
+automatic transmission. The one to the bottom-left is in bread,
+rather than in a box; this means that it has four-wheel drive.
+
+This plot uses all of the senses to convey multivariate data.
+From this plot, we can taste, see, feel, smell, and hear that
+manual transmission and two-wheel drive are associated with better
+milage.
