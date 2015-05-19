@@ -14,6 +14,10 @@ of the following terms.
 * software engineer (in the context of data science)
 * data engineer
 
+I seek to produce descriptive definitions of these terms. I am describing
+how I see these terms used; if you use these terms differently, your usage
+is perfectly acceptable, and my definitions are incomplete.
+
 ## The field of data
 As computation and digital storage gets cheaper, we can more whimsically put
 insane amounts of computing power towards studies of how the world works.
@@ -87,21 +91,35 @@ In data science, research is implicitly *scientific* research.
 > explanation of the nature and the properties of the world. It makes practical
 > applications possible.
 
-### Quanitative abilities
-Data science is big on quantitative skills, and people who work in data science
-are classified based on their quantitative skills.
+In data science we are usually concerned with addressing very specific issues,
+such as the specific practices of a particular company, rather than making
+general conclusions about the world at large, so we do not need the same degree
+as rigor as we would in an academic setting; we aim instead for speed and
+cost-effectiveness in our research.
 
-People usually define quantitative ability as having something to with a
-person's ability to do math and otherwise reason about numbers. This is the
-rhetoric, but in practice, a person is considered to have strong quantitative
-skills if most he or she meets most of the following criteria.
+### Quanitative abilities
+In data science, we talk a lot about quantitative skills. The idealized
+data science work is thought to involve lots of math. We thus use phrases
+like "quantitative ability" or "analysis skills" to talk about a person's
+social status within the context of data science.
+
+Within the context of data science, people with higher social status are
+considered to have higher quantitative ability. ("Quantitative ability"
+might have a different meaning in other fields.)
+
+Within the context of data science, a person is considered to have high
+quantitative abilities if he or she meets most of the following criteria.
 
 * He is male, or she conducts herself very masculinely.
-* She believes that her work is very sophisticated or complicated.
-* He or she presents her work in ways that are difficult for most
-  people to understand.
 * He or she has a masters or doctoral degree in a science, technology,
   engineering, or math (STEM) field
+* She believes that her work is very sophisticated or complicated.
+* He or she presents her work to people of high social class.
+
+To be clear, anyone who is working in the field of data needs to have some
+understanding of numbers in order to be useful, and that is *not* what people
+are talking about when they discuss "quantitative ability";
+"quantitative ability" is the data science jargon for social class.
 
 ## People in data
 Now that I have discussed the general field of data, I can tell you
@@ -111,57 +129,54 @@ about the different sorts of people that we find within the field.
 The main personification of the field of data science is the data scientist.
 
 Data scientists are people who want to feel like they are conducting
-novel research, were unable
-to get jobs in academia, managed to find work in the field of data,
-and are considered to possess strong quantitative skills.
+novel research, failed to find work in academia, managed to find work
+in the data field, and are of high quantitative ability (social class).
 
 The specific work that they do is quite varied, but it usually gets
 packaged as the creation of new knowledge, rather than as the creation
-of new software.
+of new software. They present their work to small groups of high-class
+people, such as managers or executives within a company.
 
 ### Data visualization developer
 A data visualization developer is person who meets all of the
 above criteria for being a data scientist except that he or she is
-thought to lack the quantitative skills necessary for data scientist. That is,
+of lower social class. That is,
 
 * He or she is female.
 * He or she presents her work in ways that broad audiences can understand it.
 * He or she is less concerned about the sophistication/complexity of her work
   than a data scientist would be.
 
-A data visualization developer packages his or her work as novel research,
-just like a data scientist, but the work usually gets distributed to a wide
-and distant audience. For example, while a data scientist would report his
-findings to a small committee within a company, a data visualization developer
-would report her findings to the public at large.
+A data visualization developer may package his or her work as novel research,
+similar to the data scientist, except that his or her work considered to be
+of a lower grade (less classy or less quantitative) than that of the data
+scientist. His or her work usually gets distributed to people of lower social
+class, such as the public at large. He or she must work with a data scientist
+if his or her work is to be distributed to a group of high social status.
 
 ### Software engineers
 Software engineers are people who work in data and have strong quantitative
 skills but did not previously consider work in academia or do not feel the
-need to conduct novel research.
+need to conduct novel research. They may have a range of social classes
+(quantitative abilities).
 
-### Data engineers
-An additional *data engineer* role is sometimes present. It describes
-someone who writes software to support the data scientists' work.
+### Data engineers and big data engineers
+An additional *data engineer* or *big data engineer* role is sometimes
+present. These two terms describe someone who writes software to support
+the data scientists' work.
 
 If a company has both software engineers and data engineers, then the
-data engineers usually develop tools for data scientists or data analysts,
+(big) data engineers usually develop tools for data scientists or data analysts,
 and the software engineers focus on developing the core product.
+
+The term "data engineer" is more common in small companies, and the term
+"big data engineer" is more common in large companies.
 
 ### Data visualization engineer
 An additional *data visualization engineer* role is sometimes present.
-A data visualization engineer is person who meets all of the
-criteria for being a software/data engineer except that he or she is
-thought to lack the quantitative skills necessary for data engineer.
-In contrast to the software/data engineer,
-
-* His work is intended to be viewed by a larger audience. If the company
-  produces a software product, data scientists might work more on business
-  analysis, and data engineers might work more on product features that
-  customers use.
-* He or she is more likely to be female, though he is probably still male.
-* He or she is less concerned about the sophistication/complexity of her work
-  than a data scientist would be.
+A data visualization engineer is a software engineer who focuses on the
+creation of graphs (plots) as a feature of a data analysis software
+product. That is, the graph itself is a core part of the product.
 
 ## The future
 The trend towards more data will continue, and the field of data will
