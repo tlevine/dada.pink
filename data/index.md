@@ -143,7 +143,7 @@ A data engineer is usually the same as a software engineer, but with
 different branding. The name "software engineer" alludes to a time before
 the recent interest in data, and the name "data engineer" alludes to recent
 times. Data engineers are often younger than software engineers and tend to
-conduct themselves less conservatively than data engineers. Software
+conduct themselves less conservatively than software engineers. Software
 engineers bring wisdom from a earlier times, and data engineers bring
 youthful creativity and aspirations.
 
@@ -163,7 +163,7 @@ and the software engineers focus on developing the core product.
 ### Data visualization engineer
 A data visualization engineer is person who meets all of the
 criteria for being a software/data engineer except that he or she is
-thought to lack the quantitative skills necessary for data scientist.
+thought to lack the quantitative skills necessary for data engineer.
 In contrast to the software/data engineer,
 
 * His work is intended to be viewed by a larger audience. If the company
