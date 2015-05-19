@@ -13,6 +13,7 @@ of the following terms.
 * data visualization engineer
 * software engineer (in the context of data science)
 * data engineer
+* big data engineer
 
 I seek to produce descriptive definitions of these terms. I am describing
 how I see these terms used; if you use these terms differently, your usage
