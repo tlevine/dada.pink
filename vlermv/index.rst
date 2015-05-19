@@ -340,7 +340,14 @@ to it. When we run it, this is what we get. ::
 
 vlermv.cache takes the usual vlermv.Vlermv arguments
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+For example, I can pass transformers. ::
 
+    @vlermv.cache(DIR, 'directory', key_transformer = int_transformer)
+    def directory(timestamp):
+        url = 'http://spaceapi.net/directory.json'
+        return requests.get(url, headers = HEADERS)
+
+(``int_transformer`` is a custom transformer.)
 
 An aside: Two hard things
 --------------------------------
