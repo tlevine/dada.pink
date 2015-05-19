@@ -52,7 +52,9 @@ And you can use these websites if you do that.
 * [Gitorious](https://gitorious.org/tlevine)
 
 ## Short version for when you want a paragraph bio of me
-Thomas Levine is a freelance dada artist and data scientist.
+Thomas Levine is a freelance
+[dada artist](/!/dada/) and
+[data scientist](/!/data/).
 He specializes in data acquisition, open data, and data gastronomification.
 
 ## Other things

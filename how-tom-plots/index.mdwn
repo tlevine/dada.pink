@@ -1,3 +1,6 @@
+secret: True
+----------
+
 How I think about plotting data
 ================================
 Have you seen plots of data that are ridiculously explanatory and you
