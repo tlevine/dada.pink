@@ -1,9 +1,9 @@
 # What is data, and what is a data scientist?
-Data science is a very new field that we are still figuring out how to
-talk about. As such, it has taken a little while for us to make sense of
-all of the. Having worked in data science for a few years, I finally think
+Data science is a very new field that we are still figuring out what exactly
+it is and how to talk about it.
+Having worked in data science for a few years, I finally think
 I have a good understanding of the field, and I present for you my definitions
-of the following terms
+of the following terms.
 
 * data
 * big data
@@ -90,13 +90,18 @@ In data science, research is implicitly *scientific* research.
 ### Quanitative abilities
 Data science is big on quantitative skills, and people who work in data science
 are classified based on their quantitative skills.
-A person is considered to have strong quantitative skills if most he or she
-meets most of the following criteria.
+
+People usually define quantitative ability as having something to with a
+person's ability to do math and otherwise reason about numbers. This is the
+rhetoric, but in practice, a person is considered to have strong quantitative
+skills if most he or she meets most of the following criteria.
 
 * He is male, or she conducts herself very masculinely.
 * She believes that her work is very sophisticated or complicated.
 * He or she presents her work in ways that are difficult for most
   people to understand.
+* He or she has a masters or doctoral degree in a science, technology,
+  engineering, or math (STEM) field
 
 ## People in data
 Now that I have discussed the general field of data, I can tell you
@@ -137,30 +142,14 @@ need to conduct novel research.
 
 ### Data engineers
 An additional *data engineer* role is sometimes present. It describes
-someone that is between a software engineer and a data scientist.
-
-A data engineer is usually the same as a software engineer, but with
-different branding. The name "software engineer" alludes to a time before
-the recent interest in data, and the name "data engineer" alludes to recent
-times. Data engineers are often younger than software engineers and tend to
-conduct themselves less conservatively than software engineers. Software
-engineers bring wisdom from a earlier times, and data engineers bring
-youthful creativity and aspirations.
-
-Data engineers are sometimes more like data scientists, however.
-This is most likely to happen if the data scientist had previously
-aspired to work in
-computer science, or another field with "computer" in the name. If the
-person previously sought out academic work in ecology, for example,
-he or she is most likely to be considered a data scientist; if the
-person previously sought out academic work in computer science, however,
-there is a chance that he or she would be considered a data engineer.
+someone who writes software to support the data scientists' work.
 
 If a company has both software engineers and data engineers, then the
 data engineers usually develop tools for data scientists or data analysts,
 and the software engineers focus on developing the core product.
 
 ### Data visualization engineer
+An additional *data visualization engineer* role is sometimes present.
 A data visualization engineer is person who meets all of the
 criteria for being a software/data engineer except that he or she is
 thought to lack the quantitative skills necessary for data engineer.
