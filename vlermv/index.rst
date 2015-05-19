@@ -460,7 +460,7 @@ shell and import the vlermv. Consider the following (abridged) exception
    xml.etree.ElementTree.ParseError: syntax error: line 1, column 0
 
 I happen to know, because I wrote the program that generated the traceback,
-that :samp:`feed`,
+that ``feed``,
 
 ::
 
