@@ -370,7 +370,7 @@ I have adopted the dadaist practice of making up words. It is so much
 easier. I just bang on the keyboard and tweak the results until I get
 something that is vaguely pronouncable.
 
-    (picture of me smashing a keyboard?)
+    (Imagine Tom pounding on his keyboard.)
 
 Let me show you how the name "Vlermv" specifically came about. I use
 the Dvorak keyboard. ::
