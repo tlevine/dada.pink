@@ -1,9 +1,20 @@
 # What is data, and what is a data scientist?
-Data science is a very new field that we are still figuring out what exactly
-it is and how to talk about it.
-Having worked in data science for a few years, I finally think
-I have a good understanding of the field, and I present for you my definitions
-of the following terms.
+You may have heard something about data science. You may have even heard
+that Tom is a data scientist. Perhaps you are wondering what data science is.
+Unfortunately, it is hard to get a clear answer.
+
+Data science is a very new field, and different people have their own ideas
+about what data science should be. Also, data science is a very hot field, so
+people often rebrand their existing work as being data science.
+
+Even with all this chaos, it turns out that there is some consistency in
+the data science terminology. I have worked in data science for a few years
+in multiple organizations. I have met data scientists from several countries
+and have read even more of their work on the internet. Everyone has his or her
+on idea as to what data science is, but some clear trends emerge.
+
+Based on the patterns I have seen, I have come up with definitions of the
+following terms.
 
 * data
 * big data
@@ -15,9 +26,11 @@ of the following terms.
 * data engineer
 * big data engineer
 
-I seek to produce descriptive definitions of these terms. I am describing
-how I see these terms used; if you use these terms differently, your usage
-is perfectly acceptable, and my definitions are incomplete.
+I seek to produce descriptive definitions of these terms, rather than
+prescriptive definitions. I am trying to come up with a "common denominator"
+definition that matches most of the different definitions that I have seen.
+If you use these terms differently, your usage is perfectly acceptable, and
+my definitions are incomplete.
 
 ## The field of data
 As computation and digital storage gets cheaper, we can more whimsically put
