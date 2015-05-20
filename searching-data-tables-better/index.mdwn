@@ -190,7 +190,7 @@ these often aren't the ones who are looking very analytically at the spreadsheet
 Their jobs is to talk to get other people to put data on the data catalog; they're
 not running experiments or making models or otherwise studying the
 data substantially.
-And the open data initative is probably just a small part of their job.
+And the open data initiative is probably just a small part of their job.
 If you want to know whether a city
 publishes a particular dataset, these are the people you want to ask.
 

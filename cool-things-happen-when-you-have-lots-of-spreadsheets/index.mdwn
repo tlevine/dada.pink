@@ -215,7 +215,7 @@ to get the metadata documents.
 an example of one such metadata file.
 
 Most datasets on CKAN catalogs link to other websites for the main "data"
-files, and the links are stored in the matadata files.
+files, and the links are stored in the metadata files.
 
 #### Junar
 In Junar, it's hard to get a list of all of the datasets. You can do a
@@ -287,7 +287,7 @@ is using which data. Here are two aspects of the difficulty.
 #### Search method
 We search for prose by typing prose into a search bar; why don't
 we search for spreadsheets by typing spreadsheets into a search bar?
-Aside frorm finding datasets that contain particular keywords, here
+Aside from finding datasets that contain particular keywords, here
 are some other ways we could search.
 
 * Datasets that were produced by the same program as this dataset
@@ -369,7 +369,7 @@ It's only 13 datasets.
 
 <img src="/!/data-updatedness/figure/updates_2013_url.png" alt="Those 13 datasets, by portal" class="wide" />
 
-Data are probably being updated thorugh other means,
+Data are probably being updated through other means,
 
 * Adding new data as a separate dataset (a 2011 dataset and a 2012 dataset)
 * Deleting the old dataset and adding a new one
@@ -379,7 +379,7 @@ but these aren't as good because they don't preserve URIs.
 
 ### Causal inferences: How things work
 It would be great to tie the release of spreadsheets to outcomes that people really
-care about, like levels of corruption, life expectancies, and employment rates.
+care about, like levels of corruption, life expediencies, and employment rates.
 But that's hard, so I'm starting simpler; we can start by seeing what different
 software products do.
 

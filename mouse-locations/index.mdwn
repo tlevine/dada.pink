@@ -19,7 +19,7 @@ couldn't find anyone who had actually checked whether that would happen.
 To see whether it does, I videoed people and measured the locations in which
 they place mice as a function of whether the keyboard they were using had a
 number pad. What do you know? People placed the mouse farther from the body when
-the keyboard had a number pad. It seems that the presense of a number pad
+the keyboard had a number pad. It seems that the presence of a number pad
 affects mousing location and in turn encourages relatively awkward posture.
 
 <!-- result image/plot -->

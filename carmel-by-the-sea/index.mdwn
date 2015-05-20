@@ -2,8 +2,8 @@
 
 ![Sun at the beach](sun.jpg)
 
-I had a hunch a about how municpalities work. Based on this hunch,
-I collected data about many municpalities and tried to find a strange
+I had a hunch a about how municipalities work. Based on this hunch,
+I collected data about many municipalities and tried to find a strange
 one. And I did. Here's the story.
 
 ## The hunch
@@ -78,7 +78,7 @@ Here are two other places that scored pretty high.
 * [Aspen, CO, 81612](http://en.wikipedia.org/wiki/Aspen,_Colorado)
     (walkscore [0](http://www.walkscore.com/score/81611))
 * [Paia, HI, 96779](http://en.wikipedia.org/wiki/Paia,_Hawaii)
-    (a "[collest small town](http://www.budgettravel.com/feature/10-coolest-small-towns-hawaii,5098/)",
+    (a "[coolest small town](http://www.budgettravel.com/feature/10-coolest-small-towns-hawaii,5098/)",
     walkscore [6](http://www.walkscore.com/score/96779))
 
 Carmel seemed particularly odd, so I looked into it further. What's the yoga

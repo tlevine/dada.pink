@@ -6,7 +6,7 @@ created_at: 2011-06-27
 Some people grew very concerned about the sanitation of bathrooms in
 [my dorm](http://en.wikipedia.org/wiki/Risley_Residential_College) in the
 2010&ndash;11 school year. Rather than unproductively join the circular argument
-that my dormmates were having, I looked around and talked to people.
+that my dorm-mates were having, I looked around and talked to people.
 
 [<img alt="Plot of chance that a particular toilet has urine on it by day over four days, with an overall chance of two-thirds"
       src="urine_by_day.png"
@@ -18,7 +18,7 @@ identify components of the concept of bathroom sanitation. I then performed
 more structured observations sent questionnaires to residents. I also reviewed
 emails related to bathroom sanitation.
 
-[<img alt="Plot of acceptability ratings and prevalance of six bathroom sanitation issues indicating low acceptability and high incidence of urine on toilets"
+[<img alt="Plot of acceptability ratings and prevalence of six bathroom sanitation issues indicating low acceptability and high incidence of urine on toilets"
       src="acceptability.png"
       class="wide" />
 ](src/acceptability.pdf)

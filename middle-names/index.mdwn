@@ -54,7 +54,7 @@ and came up with this plot.
 ](cornell_middle_names_by_school.png)
 
 Based on discussions with some of the students in that census,
-I suspected that students underreport rather than
+I suspected that students under-report rather than
 [overreport](http://www.youtube.com/watch?v=OJgaaAfhR5I&t=7m51s)
 middle names and that the under-reporting is generally an accident.
 

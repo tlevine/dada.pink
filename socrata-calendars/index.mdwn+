@@ -182,7 +182,7 @@ a day, a week or a month. I didn't look very hard, but seven clusters seems okay
 <img src="figure/clusters.png" alt="plot of chunk clusters" class="wide" />
 
 So the meeting durations seem clustered around these durations.
-(The paranthetical durations are the mean durations for the corresponding clusters.)
+(The parenthetical durations are the mean durations for the corresponding clusters.)
 <!-- sort(10^clusterings[[7]]$centers) -->
 
 1. An hour (1.03 hours)

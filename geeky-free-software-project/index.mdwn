@@ -34,7 +34,7 @@ things. In fact, I don't even have to keep backups because other people
 keep backups for me! I even have a
 [program that lists what programs I've made](https://pypi.python.org/pypi/tlevine).
 
-I am very relucant to learn new things, so I only do that when I know
+I am very reluctant to learn new things, so I only do that when I know
 that what I learn will stay useful. That is, I only spend much time learning
 computer software if it is stable, good, and free.
 
@@ -57,7 +57,7 @@ why people still use them!
 ## I share with people
 I'm in a reasonably strange situation wherein I'm not worried about what
 the government will do to me if it knows everything about me, so I feel
-comfortable with posting tons of things publically on my website. There's
+comfortable with posting tons of things publicly on my website. There's
 
 * [All](http://small.dada.pink) [sorts](http://big.dada.pink)
     of files I want to save
@@ -70,7 +70,7 @@ Two notable categories of things that aren't public are
 * things restricted by contracts, like music I have bought
 
 ### Practical reasons for sharing everything you can
-It is *so* much easier to store personal things publically.
+It is *so* much easier to store personal things publicly.
 
 * I don't need to remember passwords and the like.
 * I can find the things with an ordinary web search
@@ -79,7 +79,7 @@ It is *so* much easier to store personal things publically.
     the thing is, and they can search for it!
 
 I need a *really* good reason to convince me to store something privately;
-when I put things publically, other people do the cataloging work for me!
+when I put things publicly, other people do the cataloging work for me!
 
 ### Facilitating communication
 Simplicity of storage is only the beginning of the benefits of sharing

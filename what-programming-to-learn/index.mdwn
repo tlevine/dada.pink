@@ -50,7 +50,7 @@ more formatting
 People use all sorts of hip new softwares for copying files between computers,
 but I find the old-fashioned stuff to be way easier. Learn to use any of SCP,
 SSH, SFTP, or rsync, and you won't need to deal with DropBoxes, Google Drives,
-or huge email attachements.
+or huge email attachments.
 
 ### Email things
 All of the free-of-cost email services that I have tried are pretty bad, and

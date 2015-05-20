@@ -41,7 +41,7 @@ could sample letters at various points within the postal system and find their
 destinations, return addresses and route through the postal system. There
 might be tools to assist this data collection, but someone would still have
 to take part in the data collection. Today, we already have all of our emails,
-Twitter posts and other internet presense in reasonably standard digital
+Twitter posts and other internet presence in reasonably standard digital
 formats, so this process is much more automatic. I thus propose that automation
 of data collection is part of the big data thing.
 
@@ -65,11 +65,11 @@ analyses on the overall document sets, but even the search has already been
 valuable. Their team is, of course 'data journalism', 
 
 The quantitative analyses that do happen are often quite simple. Consider
-the FourSquare checkin analyses that a couple people from FourSquare showed at
-DataGotham. It was mostly scatterplots of checkins on top of a map and
+the FourSquare check-in analyses that a couple people from FourSquare showed at
+DataGotham. It was mostly scatterplots of check-ins on top of a map and
 sometimes played over time. They touched on the models they were using to
 guess the location to which someone wanted to check in, but the main points of
-their talks were the knowledge that we gain by looking at checkin histories,
+their talks were the knowledge that we gain by looking at check-in histories,
 and these simple plots were more helpful for conveying this.
 
 In other cases, 'data science' simply implies 'machine learning'. Compared to

@@ -75,7 +75,7 @@ better.
 all of your colleagues probably do too, and that's a lot of fighting. If you
 really want to do good work, find another place to work.
 
-I find it much easier to run away from conflict. If you recieve unproductively
+I find it much easier to run away from conflict. If you receive unproductively
 hostile responses to your work/recommendations, it's fine to give up. Make only
 light suggestions, avoid getting very stressed out about the mismanagement, and
 make some money. If you really care about doing good design or whatever,
@@ -98,7 +98,7 @@ This is an extension of the previous one, and it is especially relevant
 when your pay is based on time you worked rather than on the completion
 of a project.
 
-I think that working "hard" is more about creating a feeling of comradery,
+I think that working "hard" is more about creating a feeling of comradely,
 where a group of colleagues are making sacrifices towards a greater goal;
 it doesn't usually change how much is accomplished, and if it does, the
 change is usually that less being accomplished.
@@ -260,7 +260,7 @@ you must have evaluated all of these different softwares very methodically
 in order to come up with such an opinionated opinion*.
 There is a diversity of experiences in the human
 condition, so most of these softwares are probably just fine, but briefly
-suspend this reasonability while you act like you're all experienced and shit.
+suspend this reasonableness while you act like you're all experienced and shit.
 
 #### Act smart in meetings.
 [This guide](https://medium.com/conquering-corporate-america/10-tricks-to-appear-smart-during-meetings-27b489a39d1a) is pretty good.
@@ -326,7 +326,7 @@ provide for their parents or for their (future) children.
 
 ### Discrimination
 Many people say that my career advice above applies only to people of
-very priviliged backgrounds and that it won't work if you are
+very privileged backgrounds and that it won't work if you are
 discriminated against.
 
 ### Career motivations change throughout life

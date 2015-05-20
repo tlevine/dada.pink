@@ -270,9 +270,9 @@ check whether those new data show up in the dataset. But that would
 be a lot of work, so let's start with something simpler.
 
 ### Keep it simple
-Rather than worring about the exact time period, let's address a simpler
+Rather than worrying about the exact time period, let's address a simpler
 issue. I've heard complaints that some data get uploaded data once and
-never updated, ever. Rather than worring about the exact time since update,
+never updated, ever. Rather than wiring about the exact time since update,
 let's just check whether the dataset has been updated ever.
 
 I'm going to use the format of *datasets older than X that have been updated since*
@@ -504,7 +504,7 @@ our daily importer is working, we check every day that the
 resulting dataset is up-to-date.
 
 We know from experience that
-the file doesn't always come out on time; that is, we might only recieve
+the file doesn't always come out on time; that is, we might only receive
 today's statement two days from now. On the other hand, we've
 rarely (never?) seen it take longer than that. Our daily updatedness
 test checks how far behind the data are, and it sends us an email
@@ -530,7 +530,7 @@ Rather than just presenting a bunch of raw statistics as in the previous
 sketch, we could aggregate these so that you can look at just one thing
 to get a quick idea of whether a dataset or group of datasets is in good
 shape. For example, we could have icons for the general health of a dataset:
-Sad face for bad, smily face for good, and big smiley face for awesome.
+Sad face for bad, smiley face for good, and big smiley face for awesome.
 
 <img src="mockups/datasets.jpg" alt="" class="wide" />
 

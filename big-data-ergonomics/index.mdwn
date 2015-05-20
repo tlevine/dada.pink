@@ -42,7 +42,7 @@ interventions of ergonomic interest.
 ## Brainstorming a simple big data ergonomic study
 I wanted to make a simple something that would explain my concept of
 "big data ergonomics" and see whether it made sense. This would be a study
-of sorts, preferrably with the following properties
+of sorts, preferably with the following properties
 
 * The data would have many rows, probably collected over time, so I have big data.
 * The data would have few columns to keep things simple.

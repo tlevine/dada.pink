@@ -35,7 +35,7 @@ It seems that they don't.
 ## Conclusions
 
 It seems that Excel is a lot more common than I'd realized. Moreover, it seems
-that "analyst" is basically synonmous with "person who uses Excel".
+that "analyst" is basically synonymous with "person who uses Excel".
 
 Having investigated this and concluded that "analyst" is synonymous with
 "person who uses Excel", I personally am going to stop saying that I "analyze"

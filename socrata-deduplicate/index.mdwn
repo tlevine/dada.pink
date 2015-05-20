@@ -82,7 +82,7 @@ First, here's the graph of dataset counts from the new data.
 
 <img src="histogram.png" alt="Histogram of dataset counts by portal" class="wide" />
 
-My [first version](/!/socrata-summary/#sizes), also below, includes both types of deplication.
+My [first version](/!/socrata-summary/#sizes), also below, includes both types of duplication.
 
 <img src="/!/socrata-summary/figure/big_portals_datasets.png" alt="Old histogram" class="wide" />
 

@@ -75,7 +75,7 @@ files have only the first 1000 datasets, and I haven't figured out how to look
 at the next pages, so I'll focus the present analysis on portals with fewer
 than 1000 datasets.
 
-## My curiousity about file formats
+## My curiosity about file formats
 I've recently become curious about what formats the datasets come from. When
 tabular data get loaded into a Socrata data portal, they get converted to a
 tabular representation within the portal software. From that, they get converted

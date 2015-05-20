@@ -15,7 +15,7 @@ reading them and a computerized tax bill simulator.
 </a>
 
 Your house is assessed to determine its Assessed Total Value, then
-excemptions are subtracted to it to produce the Assessed Taxable Value.
+exemptions are subtracted to it to produce the Assessed Taxable Value.
 This times the tax rate (in permil) produces your Tax Amount.
 
 If you add up the county, village and school tax rates, it comes to about

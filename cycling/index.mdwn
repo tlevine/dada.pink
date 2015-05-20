@@ -51,7 +51,7 @@ Let me say that more precisely. If I walk with only a few things in my bag
 and take breaks periodically, I will be unpleasantly tired after three hours.
 On the other hand, I can cycle all day with 40 pounds of baggage (still with
 periodic breaks). I'll be tired at the end, but it won't be as bad as three
-hours of walking. And I'll also have travelled much further.
+hours of walking. And I'll also have traveled much further.
 
 ### Carrying a bicycle is exhausting
 It took me a while to decide on getting a bicycle because I didn't want to carry
@@ -140,13 +140,13 @@ person, that person will actually do something about it!
 ### The right way to lock bicycles
 I read that the right way to lock bicycles is to put a U-lock around
 the back wheel and a cable around the front wheel and frame. And both
-locks go around a pole or bick rack or something. For quick stops
+locks go around a pole or bike rack or something. For quick stops
 where you don't want to spend a long time locking and unlocking the
 bike, you put a cable lock around the frame and a pole.
 
 These methods are very slow. I quite liked what I saw in the
 Netherlands; pretty much everybody has a lock around the back wheel,
-locking it to the frame, and a chain wrapped around the seatpost.
+locking it to the frame, and a chain wrapped around the seat post.
 For quick stops, you just turn the key to lock the back wheel.
 For longer stops, you chain the frame to something. With a chain
 rather than a U lock, it's easier to find an appropriate place to
@@ -196,7 +196,7 @@ I think I could do this by having a bicycle that either is very
 cheap or that can quickly be made small enough to carry in a backpack.
 
 #### Cheap
-A bicycle that is very cheap is nice because I wouln't need as good of
+A bicycle that is very cheap is nice because I wouldn't need as good of
 a lock or as many locks. Also, if it's a generally bad bicycle, I wouldn't
 care so much about keeping it in good shape, so I would be fine with not
 owning tools. Also, I wouldn't need to take it on airplanes as I could just

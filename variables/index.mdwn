@@ -96,12 +96,12 @@ equation to predict China's life expectency.
 >
 > *y* &#8776; 71
 
-We thus predict China's life expectency to be 71 years.
+We thus predict China's life expectancy to be 71 years.
 The actual value is 75, so that's pretty close.
 
 Let's get back to why these two senses of variable are the same
 thing. Our fitted model is an equation with two variables, income per
-person and life expectency. Each of these variables corresponds
+person and life expectancy. Each of these variables corresponds
 to a column in our data table.
 
 In the first data table I presented, we knew the values of all
@@ -110,7 +110,7 @@ expectancy for each of the three countries.
 
 In the second table, we didn't only knew the value for one of
 the two variables (income per person). In order to predict the value
-for the other variable (life expectency), we plugged in the
+for the other variable (life expectancy), we plugged in the
 variable that we did know into our equation, and we solved
 it for the variable that we didn't know.
 

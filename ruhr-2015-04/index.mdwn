@@ -25,7 +25,7 @@ is coal).
 Also, mining contraptions all do the same few things; the newer ones
 are just faster and bigger and better and more safe. You have to dig to the
 coal, pump water out of the ground, cut the coal up, then move the coal
-to the power plant, and try to make this ridiculous endeavour slightly less
+to the power plant, and try to make this ridiculous endeavor slightly less
 dangerous.
 
 ## Vocabulary

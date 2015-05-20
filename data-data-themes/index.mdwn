@@ -51,7 +51,7 @@ we took advantage of the structure that is present in spreadsheets? I think we
 can improve our search by looking at the numerical relationships among different
 spreadsheets. 
 
-People always complain about the inadequete quality of metadata, so I don't
+People always complain about the inadequate quality of metadata, so I don't
 expect metadata to be useful. We can build search tools that can figure out
 the metadata that we wished we had.
 

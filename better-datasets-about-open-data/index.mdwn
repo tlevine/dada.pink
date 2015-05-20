@@ -52,7 +52,7 @@ The `downloads` directory contains a few git submodules, and most of the
 stuff that gets downloaded winds up in these submodules.
 
 The `reports` directory contains lots of English and R rather than Python.
-Each report has an R script (named something `.r`) that renders an Rmarkdown
+Each report has an R script (named something `.r`) that renders an RMarkdown
 file (named something `.Rmd`). There are other small files too, but I don't
 have a system as to why they go where they do.
 

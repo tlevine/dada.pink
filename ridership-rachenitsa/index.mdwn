@@ -13,7 +13,7 @@ for the past few years.
 
 ## Music
 Each musical beat is a day, as is each vertical line. One musical instrument
-represents the daily ridership of Chicago buses, and the other represens the daily
+represents the daily ridership of Chicago buses, and the other represents the daily
 ridership of New York subways. (Both are measured at fare collection points.)
 
 ## Video

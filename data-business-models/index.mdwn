@@ -52,7 +52,7 @@ thus easier for people who wouldn't otherwise do this themselves.
 Tools like Tableau, ScraperWiki, RStudio (combined with its tangential R
 services) also fall into this category. You still have to do your analysis, but
 they let you do all of your analysis in one place, and connections between that
-place, your data sources and your presentatino media are easy. Well that's the
+place, your data sources and your presentation media are easy. Well that's the
 idea at least.
 
 ## Internal data analysis
@@ -68,7 +68,7 @@ current discussion, I see these as similar sorts of people.
 
 I was pondering distinguishing between analysis that affects businessy
 decisions from models that get written into software. Since I'm just
-categorising business models and these things could both be produced by the
+categorizing business models and these things could both be produced by the
 same guy working inside a company with lots of data, I chose not to distinguish
 between them.
 
@@ -80,7 +80,7 @@ trades when that happens." rather than "If you market to these people, you
 might sell more products."
 
 This has some interesting implications. For one thing, you could have a whole
-company doing quantative finance. On a similar note, I suspect that analyses
+company doing quantitative finance. On a similar note, I suspect that analyses
 can be more complicated because the analyses might only need to be conveyed to
 people with quantitative literacy; in the other categories, it might be more
 important to convey insights to non-technical managers.

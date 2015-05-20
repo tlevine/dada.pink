@@ -138,7 +138,7 @@ The minor currencies in England and America are pence and cents, respectively. I
 everyday speech, a candy might cost 20 "p" in England or 35 "cents" in America.
 
 An English duvet is the same thing as an American comforter, but the word is
-less unusual; the word **duvet** is used in English where the word **blacket**
+less unusual; the word **duvet** is used in English where the word **blanket**
 would be used in American.
 
 <!-- Check this one.

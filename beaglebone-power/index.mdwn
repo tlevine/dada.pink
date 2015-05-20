@@ -53,7 +53,7 @@ Powering the BeagleBones over [USB might work](http://beagleboard.org/support/fa
 If it does, it would substantially increase power consumption; Revision 0.0 of the 
 [BeagleBone Rev A5 System Reference Manual](http://beagleboard.org/static/BONESRM_latest.pdf)
 (February 2, 2012) analyzes the "power consumption of the board in ...
-various scenarious" in this table.
+various scenarios" in this table.
 
 ![Table of power usage indicating that plugging in the only USB cable
   uses about three-halves the power of plugging in only the DC cable

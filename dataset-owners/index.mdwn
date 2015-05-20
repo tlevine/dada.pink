@@ -536,7 +536,7 @@ original reason for including the feature. They both had the same answer
 for me: Socrata wants it to be clear that Socrata's client (the city,
 country, &c.) owns and manages the data, not Socrata, and the owner contact
 thingy was designed as it was to communicate this ownership; contrary to my
-suspicians, no particular client had specifically requested the feature.
+suspicions, no particular client had specifically requested the feature.
 
 ## Relevance
 Are you looking for information about a dataset? On one hand, you might be

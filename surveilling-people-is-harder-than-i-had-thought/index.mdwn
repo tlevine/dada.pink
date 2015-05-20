@@ -133,7 +133,7 @@ twice.
 I figured that I could use the dates and times of emails and web visits
 to associate email addresses (and, in turn, people) with web visitors.
 
-For example, consider than I may have recived two emails from the same
+For example, consider than I may have received two emails from the same
 email address, one in the evening of September 2 and one in the morning
 of September 24. Consider further that my website may have received visits
 from a particular IP address or from a person with the same cookie on
@@ -205,7 +205,7 @@ Alternatively, if someone mentioned something on my website to me, it's
 probably something that's *actually* worth reading, so even more people
 are probably reading the link, and it is even harder to figure out who is who.
 
-Perhaps I could get somewhere if I modeled the connenctions as probabilities.
+Perhaps I could get somewhere if I modeled the connections as probabilities.
 But that's more work, and the point was just that I had expected this to be
 really easy.
 

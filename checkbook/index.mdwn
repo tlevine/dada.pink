@@ -9,7 +9,7 @@ jokingly and arrogantly don't see why.
 ## What I do
 I had never learned to balance a checkbook, so when I wanted to account
 better for movements of money,
-I looked for accounting software on SourceForge and found that
+I looked for accounting software on Source Forge and found that
 GnuCash had many downloads, recommendations, &c. Then I installed it and spent
 a Sunday afternoon skimming the
 [GnuCash tutorial](http://gnucash.org/docs/v2.4/C/gnucash-guide/index.html).

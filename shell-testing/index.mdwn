@@ -65,7 +65,7 @@ shell comments. Rather than just testing status codes or stdout, you can also
 test environment characteristics, and you can test multiple properties of one
 command. [rvm](https://github.com/wayneeseguin/rvm-test) uses it.
 
-There are some language-agnostic protocals with assertion libraries in multiple
+There are some language-agnostic protocols with assertion libraries in multiple
 languages. The idea is that you can combine test results from several
 languages. I guess this is more of a big deal for shell than for other
 languages because shell is likely to be used for a small component of a project
@@ -109,7 +109,7 @@ but I think most of the other similarities can be seen as stemming from the
 file basis of test cases.
 
 Here's one particularly cool feature that might not be obvious.
-Earlier, I mentioned some protocals for testing in multiple languages. I found
+Earlier, I mentioned some protocols for testing in multiple languages. I found
 them somewhat strange because I see shell as the standard interface between
 languages. In Urchin and cmdtest, test cases are just files, so you can
 actually use these frameworks to test code written in any language.

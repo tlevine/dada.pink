@@ -38,7 +38,7 @@ emails that I send are either to mailing lists or to work colleagues
 that I don't know particularly well. I managed to come up with a rather
 simple function that worked pretty well.
 
-The function requires two numbers that describe the entirity of my
+The function requires two numbers that describe the entirety of my
 interactions with that email address.
 
 * The number of emails I sent to it before 16 weeks ago

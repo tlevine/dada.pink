@@ -1,6 +1,6 @@
 # Portable desk
 I had an idea to make a desk that was just a table top
-with stubs onto which disposible legs can be attached.
+with stubs onto which disposable legs can be attached.
 
 ## Table
 The table top is made of

@@ -21,7 +21,7 @@ I acquired the data the same way any ordinary person could have,
 except that I had substantial assistance from robot scripts.
 You can see the general workflow below.
 
-[![A flow chart diagraming how the program works](architecture.jpg)](architecture.jpg)
+[![A flow chart diagramming how the program works](architecture.jpg)](architecture.jpg)
 
 ### Listing the portals
 First, I get a list of Socrata portals from the Socrata [status page](http://status.socrata.com).

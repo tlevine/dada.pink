@@ -1,3 +1,3 @@
 I don't really do what this says I do.
 
-<a href="bunnies.pdf"><img src="bunnies-raster.png" alt="i club bunnies, and i've spayed puppies for diamonds." class="wide" /></a>
+<a href="bunnies.pdf"><img src="bunnies-raster.png" alt="i club bunnies, and I've spayed puppies for diamonds." class="wide" /></a>

@@ -6,7 +6,7 @@ other_source: https://github.com/tlevine/scarsdale-data
 -------------
 
 I took some [information](https://github.com/tlevine/scarsdale-data/blob/master/budget/appendix_a1-tax.csv)
-out of the Scarsdale budgets and noticed that the property tax rate increases quite consisently.
+out of the Scarsdale budgets and noticed that the property tax rate increases quite consistently.
 
 <img alt="Tax rate over time"
      src="tax_rate_by_year.png"
@@ -29,7 +29,7 @@ Consumer Price Index. (This tries to adjust for inflation.)
      src="tax_rate_by_inflation.png"
      class="wide" />
 
-This doesn't look that different from the previous plot becauses the value of
+This doesn't look that different from the previous plot because the value of
 a dollar changes quite consistently. I didn't find it that helpful for figuring
 out whether inflation explained the changes.
 

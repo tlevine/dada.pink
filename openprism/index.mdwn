@@ -27,7 +27,7 @@ once private. I suggest that this is a model that should be taken further. To de
 of this model, OpenPrism lets you search for datasets across more than 100 open data portals,
 encouraging the common person to explore and utilize the vast troves of open data.
 
-I am lucky enough not to be noticibly persecuted by any government, so I can use my life as an experiment in
+I am lucky enough not to be noticeably persecuted by any government, so I can use my life as an experiment in
 extreme openness. I post information as openly as I conveniently can, and I am personally quite
 comforted by the knowledge that everyone is reading it. This allows people to recognize my
 accomplishments, build on my work, and take action if I suddenly get kidnapped. 

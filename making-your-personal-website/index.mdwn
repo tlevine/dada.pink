@@ -1,5 +1,5 @@
 tags: ['learn']
-tweet_text: Here's the lazy proces I went through for making my fancy website. http://thomaslevine.com/!/making-your-personal-website/
+tweet_text: Here's the lazy process I went through for making my fancy website. http://thomaslevine.com/!/making-your-personal-website/
 description: Making your own personal website might seem daunting, but it's not hard if you break it into smaller steps.
 twitter_description: Because New Years resolutions are a thing
 created_at: 2014-01-01
@@ -66,7 +66,7 @@ is that it doesn't have to be fancy.
 I had already been doing this to some degree as I was recording
 things in my 60-page LaTeX book and in my SmugMug galleries.
 
-Most of everything else was already publically accessible on the web,
+Most of everything else was already publicly accessible on the web,
 so I mostly made a list of all of the links to them. I did this
 as a [webpage](https://github.com/tlevine/www.thomaslevine.com/blob/c1e1302b2fe43bbe98902a08367bb4d01feea66e/content/index.html),
 but you could do it in an email or blog post or whatever.
@@ -174,7 +174,7 @@ and just changing things in the `content/!` directory and in the
 `content/index.haml` file. Get something working, and worry later
 about making it look pretty.
 
-### Notable featurues
+### Notable features
 If you don't want to use it, you still might take some inspiration
 from some of the decisions I made
 

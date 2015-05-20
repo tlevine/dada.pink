@@ -34,7 +34,7 @@ The EMG, video, and audio data were all stored in a single video container file.
 
 ## Experiment design
 Each trial involved performing the wrist-cracking motion twice, once with the
-goal of iliciting a crack and once with the goal of performing the same motion
+goal of eliciting a crack and once with the goal of performing the same motion
 except just barely avoiding making the crack. The order of these two subtrials
 (crack and no crack) was randomized.
 

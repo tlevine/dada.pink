@@ -91,7 +91,7 @@ Don't just wing it startup-style
 
 > Complex business models
 
-Tagebau Hambach is profitible only because of it combines its primary
+Tagebau Hambach is profitable only because of it combines its primary
 income as a power utility with several alternative business models.
 
 * Government subsidies
@@ -112,7 +112,7 @@ and the activists will only get more and more disruptive.
 
 > (video or picture)
 
-Activists will not stop us if we are vigilent. As activism becomes more
+Activists will not stop us if we are vigilant. As activism becomes more
 developed, we need to recognize that it is happening.
 
 > Budget for sabotage

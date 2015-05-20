@@ -73,7 +73,7 @@ make you collect the empirical data.
 ### Three (really two) investment choices
 Because they adjusted for inflation, we can think of Brad and Melissa's
 lifetime earnings figures as lump sums of money that you
-recieve when you stop working. Because you probably spent all of your
+receive when you stop working. Because you probably spent all of your
 college money within a few years (rather than across a lifetime), let's
 think of that as money that you invest when you are 20 and get some
 yearly return on.

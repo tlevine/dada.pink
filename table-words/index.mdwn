@@ -73,7 +73,7 @@ and the second box contains the life expectancy for that country,
 and the third contains the income per person.
 
 Thus, all of the values in a given column are about the same sort of thing.
-For example, the second column contains all of the life expectencies.
+For example, the second column contains all of the life expediencies.
 
 Country | Life expectancy (years) | Income Per Person
 ------- | ----------------------- | -----------------

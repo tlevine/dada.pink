@@ -441,7 +441,7 @@ Choose an open data catalog from this list.
 * [Utah](http://www.utah.gov/open)
 * [New Hampshire](http://nhopengov.org)
 * [Louisville, Kentucky](http://portal.louisvilleky.gov/service/data)
-* [Philidelphia, Pennsylvania](http://www.opendataphilly.org) (It runs [this software](https://github.com/azavea/Open-Data-Catalog/).)
+* [Philadelphia, Pennsylvania](http://www.opendataphilly.org) (It runs [this software](https://github.com/azavea/Open-Data-Catalog/).)
 
 First, diagram how a person could manually download all of the datasets.
 You want to get the most raw form available, not the sort of aggregates

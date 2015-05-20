@@ -66,7 +66,7 @@ I set the user agent to this.
     https://pypi.python.org/pypi/delaware
 
 That's a webpage that has documentation about the whole system
-and has my contact infromation. I did not get blocked even though
+and has my contact information. I did not get blocked even though
 I was using this user agent.
 
 ## Some specific numbers
@@ -114,7 +114,7 @@ to make separate purchases for separate companies.
 And there are some
 [other](http://www.corp.delaware.gov/remoteagts.shtml)
 [forms](http://www.corp.delaware.gov/faqs.shtml)
-of access that I don't fully undersand.
+of access that I don't fully understand.
 
 I'm not really sure how this all works, and Delaware's
 [answer to my question](delaware-questions)

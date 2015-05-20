@@ -109,7 +109,7 @@ First, it doesn't know how to recovery from incomplete writes
 (if the program is killed during ``fp.write``).
 Second, it can only serialize strings; it doesn't know about pickle or json.
 Third, it can't handle filenames that contain slashes.
-Fourh, it can't composing filenames or checking whether paths exist (os.path or pathlib).
+Fourth, it can't composing filenames or checking whether paths exist (os.path or pathlib).
 
 I want to have all these things with less code than my sloppy version.
 
@@ -368,7 +368,7 @@ I have already discussed the first of these. Let's talk about the second.
 I write new packages all the time, and naming them is a lot of work.
 I have adopted the dadaist practice of making up words. It is so much
 easier. I just bang on the keyboard and tweak the results until I get
-something that is vaguely pronouncable.
+something that is vaguely pronounceable.
 
     (Imagine Tom pounding on his keyboard.)
 
@@ -637,7 +637,7 @@ These optimizations are helpful if you care for them, but you often don't
 need them. Fancy databases add complexity to your software, and simpler
 software is easier to maintain.
 
-Fanyc databases are good for storing and accessing complicated data really quickly.
+Fancy databases are good for storing and accessing complicated data really quickly.
 
     Good if you need speed and complex queries
 
@@ -654,7 +654,7 @@ I think that's not the reason why it's so popular.
 
     Why is Mongo so popular?
 
-I think its popularity has a lot to do with the ease of creating a new mongo
+I think its popularity has a lot to do with the ease of creating a new Mongo
 database.
 
     Easy to start using
@@ -726,7 +726,7 @@ Interestingly, this is the same way that we instantiate an object. ::
 
     g(8)
 
-How does Python know what to do when it sees the parantheses?
+How does Python know what to do when it sees the parentheses?
 Python checks the ``__call__`` method of an object. Functions and
 types/classes have a ``__call__`` method. Ordinary objects don't,
 but you can define one. ::

@@ -64,7 +64,7 @@ in the government reads the comments and considers them, but the
 proposals always pass anyway, even when they break rules; there is no
 oversight.
 
-I think that the environment-pretecting only happens because the group
+I think that the environment-protecting only happens because the group
 gets a bunch of people to all be really really annoying to the government
 for a long time. And then the public servants have to be really really
 annoying back. We might finally agree to be ever-so-slightly less
@@ -86,7 +86,7 @@ Even though I see everything as pointless, I know that other people are
 doing very important things, and I don't want to get in their way.
 
 I think this is much of why I like being in nature. Unlike me, other
-people have jobs and school and other productive occupations. I ame
+people have jobs and school and other productive occupations. I am
 reluctant to distract them from their important things or to get in
 their way literally.
 

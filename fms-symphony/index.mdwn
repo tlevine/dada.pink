@@ -20,7 +20,7 @@ The left channel is distance to debt ceiling (higher notes means closer to the
 debt ceiling) and the right channel is interest rate.
 
 Chernoff faces mutate according to 15 principal components of 52 different
-categories of daily reciepts.
+categories of daily deposits and withdrawals.
 
 <!--
 Watch the full version here. (It only works in Chrome.)

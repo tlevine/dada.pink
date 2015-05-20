@@ -9,13 +9,13 @@ I want to perform a play on the internet. People seem to like the idea.
 
 ## Concept
 Characters/actors post in an internet channel instead of acting on a stage.
-These internet channels provide a wide variation of connnotations, media,
+These internet channels provide a wide variation of connotations, media,
 and privacy allowing complex situations to be conveyed.
 
 I got to this idea by pondering the blurring of the distinction between fiction
 and reality through games that link to internet social media stuff (and
 "gamification") and through movies that link to social media stuff (like those
-expermiental HTML5 movies from Google).
+experimental HTML5 movies from Google).
 
 ## Proposal
 Let's choose a particularly well-known play and adapt it to the internet.

@@ -51,7 +51,7 @@ Storage is cheap, so aim to store everything that is easy to collect.
 In data science, we instinctively store data in the most raw form that is
 convenient, and don't worry very much about how or even whether we're going
 to analyze it. One of the aspects of data science is the collection and
-management of huge quantitaties of data, before we even consider really
+management of huge quantities of data, before we even consider really
 looking at it.
 
 ### Anything can be quantified
@@ -67,7 +67,7 @@ computers. In data science, we make the following sorts of decisions.
 * Data collection should be automatic and unobtrusive; questionnaires and lab
     studies are too much work.
 * Collect any data that might be useful later or that are just easy to collect.
-    Don't wait until you have a full-fleged research plan.
+    Don't wait until you have a full-fledged research plan.
 * All analyses should be scripted.
 
 ### Focus on connecting datasets rather than on tuning models
@@ -111,7 +111,7 @@ general conclusions about the world at large, so we do not need the same degree
 as rigor as we would in an academic setting; we aim instead for speed and
 cost-effectiveness in our research.
 
-### Quanitative abilities
+### Quantitative abilities
 In data science, we talk a lot about quantitative skills. The idealized
 data science work is thought to involve lots of math. We thus use phrases
 like "quantitative ability" or "analysis skills" to talk about a person's

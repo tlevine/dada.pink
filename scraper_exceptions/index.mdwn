@@ -16,7 +16,7 @@ I would generally try to prevent the exception
 from coming up in the first place,
 but catching the exception might make sense.
 
-Example 1: Inconsistant date formats
+Example 1: Inconsistent date formats
 ------
 Let's say we're parsing dates.
 
@@ -108,7 +108,7 @@ might help.
 This function tries thrice to download the page.
 On the first two fails, it waits 42 seconds and tries again.
 On the third failure, it raises the error.
-On a success, it returs the content of the page.
+On a success, it returns the content of the page.
 
 Example 3: Logging errors rather than raising them
 -----------

@@ -52,7 +52,7 @@ with [vlermv](https://pypi.python.org/pypi/vlermv).
 (This is from 
 [`download.py`](http://small.dada.pink/acpr-banque-de-france/acpr/download.py)
 in [`acpr`](https://pypi.python.org/pypi/acpr),
-except that I switched the obselete ``picklecache`` for ``vlermv``.)
+except that I switched the obsolete ``picklecache`` for ``vlermv``.)
 
 ## Parse functions
 Write parser functions that accept `Response`

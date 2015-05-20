@@ -21,7 +21,7 @@ I define "plotting" thusly.
 
 Data are abstract and do not have a fundamental representation in the real
 world. We map abstract data onto concrete things in the real world so that
-we can undersand the abstract data. **In order to make good plots, we have
+we can understand the abstract data. **In order to make good plots, we have
 to choose mappings that people understand**.
 
 Some people think of data tables and histograms (for example) as pure, true
@@ -63,7 +63,7 @@ writings and watch their videos.
 
 My definition of plotting is based largely on ggplot2 and the Grammar
 of Graphics, by Hadley Wickham and Leland Wilkinson, respectively.
-My insistance on representing many dimensions comes largely from
+My insistence on representing many dimensions comes largely from
 Edward Tufte and from experiment design theory. And my views on making
 graphics that are visually interesting, coherent, and generally "good"
 come largely from Edward Tufte and Timothy Samara.
@@ -172,7 +172,7 @@ the rules and then break one or two.
 You can read *Design Elements*, by Timothy Samara, or you can just read
 this [summary](http://www.behance.net/gallery/Book-Layout-Timothy-Samaras-20-Rules-of-Good-Design/7616553)
 of the rules.
-Then try appling these design elements to your plots.
+Then try applying these design elements to your plots.
 
 There are some special rules for visual displays of quantitative information.
 You can read about them in any of Edward Tufte's books, such as
@@ -254,7 +254,7 @@ Here are some plots that I didn't spend much time on but am reasonably
 proud of, with links to the articles that I took them from.
 
 <a href="https://thomaslevine.com/!/risley-toilets/">
-  <img alt="Plot of acceptability ratings and prevalance of six bathroom sanitation issues indicating low acceptability and high incidence of urine on toilets"
+  <img alt="Plot of acceptability ratings and prevalence of six bathroom sanitation issues indicating low acceptability and high incidence of urine on toilets"
        class="wide"
        src="https://thomaslevine.com/!/risley-toilets/acceptability.png" />
 </a>
