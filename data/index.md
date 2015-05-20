@@ -192,6 +192,16 @@ A data visualization engineer is a software engineer who focuses on the
 creation of graphs (plots) as a feature of a data analysis software
 product. That is, the graph itself is a core part of the product.
 
+### Other terms
+I have focused on the terms for people who work closely in the data aspects
+of the data field. Roles that are present in other fields, such as
+salesperson or executive, don't have special definitions within the context
+of data.
+
+I have left out any discussion of "designers" in the above discussion.
+In at least some cases, designers cat be thought of as they would in other
+field, but it may be that they have a special place in data.
+
 ## The future
 The trend towards more data will continue, and the field of data will
 thus be around in some form for a reasonably long time. The people in this
