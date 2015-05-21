@@ -131,11 +131,17 @@ The present articles discusses the following.
 1. How vlermv works
 2. How I use it
 3. How it relates to testing and debugging
-4. Interesting parts of the implementation
-5. When to use other tools instead
+4. When to use other tools instead
+5. Interesting parts of the implementation
 
 How vlermv works
 ----------------------------------------------
+
+Install
+^^^^^^^^^^^^^^^^
+Install it from PyPI. ::
+
+    pip install vlermv
 
 Basic usage
 ^^^^^^^^^^^^^^^^
@@ -198,6 +204,13 @@ You can switch this to JSON, for example. ::
     vlermv['needle'] = True
 
 Now ``./needle`` contains the JSON encoding of ``True``.
+
+A serializer needs a dump and load method.
+
+* dump
+* load
+
+They work like they do in the json or pickle modules.
 
 ::
 
@@ -295,12 +308,13 @@ doing this a lot. ::
     v = Vlermv('/tmp/dir')
     def f(x):
         # ...
-        if key not in v:
+        if key in v:
             return v[key]
         else:
             # ...
-            v[key] = something
-            return something
+            value = do_something(x)
+            v[key] = value
+            return value
 
 And then I abstracted this as the cache decorator.
 
@@ -615,7 +629,7 @@ wind up writing your own library to assist in that.
 The advantage that Vlermv might have over these other databases is that
 it might be easier to use.
 
-    SQLite and LevelDB APIs may be less convenient.
+    (Vlermv might be easier to use.)
 
 Do use Vlermv if it is exactly what you want, but consider other things
 if it isn't quite what you want.
@@ -634,16 +648,20 @@ once without breaking or slowing down too much.
     Do you really need the power?
 
 These optimizations are helpful if you care for them, but you often don't
-need them. Fancy databases add complexity to your software, and simpler
+need them.
+
+    Fancy databases are sometimes annoying.
+
+Fancy databases add complexity to your software, and simpler
 software is easier to maintain.
 
 Fancy databases are good for storing and accessing complicated data really quickly.
 
-    Good if you need speed and complex queries
+    Good if you need speed, complex queries, and centralized architecture
 
 Let's consider Mongo,
 
-    Mongo is popular.
+    Consider Mongo.
 
 a popular database that shares many similarities with Vlermv.
 
@@ -693,8 +711,7 @@ If not,
 
 you can just use files.
 
-    use files (or vlermv).
-
+    use simple files.
 
 Review so far
 ^^^^^^^^^^^^^^^^
@@ -845,6 +862,12 @@ I think the "cache" decorator needs a better name.
 
 "cache" is a misleading name, as it implies that the result changes.
 Perhaps "archive" is a better name. Tell me if you have suggestions.
+
+Next, Vlermv is really good for batch jobs, but it's not great for
+broad analysis of the stuff in the vlermv. I want to add a feature for
+exporting to other systems.
+
+    Export to other databases
 
 I also think I could add some error messages to make debugging easier
 
