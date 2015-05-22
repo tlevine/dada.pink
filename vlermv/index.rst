@@ -19,7 +19,12 @@ I have been writing Python for about ten years.
     Traveling but not sight-seeing
 
 I'm traveling around Europe for a couple months, but I find that
-I prefer computering over sight-seeing. While walking through beautiful
+I prefer computering over sight-seeing.
+
+* Getting tired of it though
+* Just about ready for a job hint hint
+
+While walking through beautiful
 Swedish woods a few weeks ago, I realized that I would rather be sitting
 in a hackerspace.
 
