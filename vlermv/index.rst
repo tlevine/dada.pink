@@ -181,48 +181,38 @@ like this work too. ::
     vlermv.items()
     vlermv.update({'a': 1, 'b': 2})
 
-Pluggable architecture
+Two more parameters
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Vlermv has the concepts of "serializers" and "transformers". You can
-switch them or define your own.
+Vlermv has the concepts of "serializers" and "transformers", which you can set
+when you initialize a vlermv.
+
+* serializer
+* key transformer
+
+You can switch them or define your own.
 
 Serializers
 ^^^^^^^^^^^^^^^^^^^^^^
-I already alluded to serializers earlier. If you do something like this, ::
-
-    from vlermv import Vlermv
-    vlermv = Vlermv('./')
-    vlermv['needle'] = True
-
-vlermv stores a file ``./needle`` that is a pickle of the value ``True``.
-
-::
-
-    >>> open('needle', 'rb').read()
-    b'\x80\x03\x88.'
-
+I already alluded to serializers earlier. By default, Vlermv serializes
+objects as pickles. We can change that to JSON. ::
 You can switch this to JSON, for example. ::
 
     import json
     from vlermv import Vlermv
     vlermv = Vlermv('./', serializer = json)
     vlermv['needle'] = True
+    print(open('needle', 'rb').read())
+    # b'true'
 
 Now ``./needle`` contains the JSON encoding of ``True``.
 
-A serializer needs a dump and load method.
+Serializers are usually just anything with ``load`` and ``dump`` methods.
 
 * dump
 * load
 
-They work like they do in the json or pickle modules.
+These methods must work like they do in the json or pickle modules.
 
-::
-
-    >>> open('needle', 'rb').read()
-    b'true'
-
-Serializers are usually just anything with ``load`` and ``dump`` methods.
 More are available in this module. ::
 
     vlermv.serializers
@@ -240,7 +230,7 @@ The other pluggable thing is transformers. In the present example, ::
 
 ``True`` is saved to ``./needle``.
 
-    "needle" -> "./needle"
+    Key "**needle**" -> filename "**./needle**"
 
 The transformer is responsible for deciding that this is how the key
 turns into a file. Here are some other keys. ::
@@ -265,26 +255,13 @@ transformer does. ::
     vlermv[('mango', 'apple', 'orange')] # error
     vlermv[datetime.date(2015,5,22)] # error
 
-Transformers are objects with two methods.
-
-* ``to_path`` (key to path)
-* ``from_path`` (path to key)
-
-Internally, paths are stored as tuples of strings, ::
-
-    ('this', 'is', 'a', 'path')
-
-Keys can be whatever you want; it's your responsibility to convert them.
-
-    That's all there is to transformers!
-
-That's all you need to know in order to write your own transformers,
+More transformers are here,
 
 ::
 
     vlermv.transformers
 
-and you can also use the included ones.
+and you can write your own.
 
 
 Review so far
@@ -465,21 +442,8 @@ caused the error.
 If you want to look at the contents of a vlermv in the console, open Python
 shell and import the vlermv. Consider the following (abridged) exception
 
-::
-
-   Traceback (most recent call last):
-     File "/home/tlevine/git/scott2/usace/public_notices/__init__.py", line 11, in public_notices
-       for link in parse.feed(download.feed(str(site))):
-     File "/home/tlevine/git/scott2/usace/public_notices/parse.py", line 10, in feed
-       rss = parse_xml_fp(StringIO(response.text))
-     File "/usr/lib/python3.4/xml/etree/ElementTree.py", line 1187, in parse
-       tree.parse(source, parser)
-     File "/usr/lib/python3.4/xml/etree/ElementTree.py", line 598, in parse
-       self._root = parser._parse_whole(source)
-   xml.etree.ElementTree.ParseError: syntax error: line 1, column 0
-
-I happen to know, because I wrote the program that generated the traceback,
-that ``feed``,
+Let's say that an error occurs when I process some data that was returned
+by the ``feed`` function. This function is cached with vlermv.
 
 ::
 
@@ -490,25 +454,13 @@ from ``for link in parse.feed(download.{feed}(str(site)))``
 is a function cached with vlermv and that it is defined in the module
 ``usace.public_notices.download`` as ``feed``.
 
-To inspect the vlermv, open another console, and type this. ::
-
-    from usace.public_notices.download import feed
-
 ``feed`` is a vlermv, so now I can look at the data however I like. ::
-
-    print(list(feed.keys()))
-
 This query is wound up uncovering the problem. ::
 
+    from usace.public_notices.download import feed
     print(feed[('461',)])
 
-You can also open the file in normal Python. ::
-
-    with open('~/usace-public-noties/feed', 'rb') as fp:
-        response = pickle.load(fp)
-
-Either way, the point is that we can easily access the crucial
-data input.
+Either way, the point is that we can easily access the data.
 
 Mocking external services
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -523,6 +475,8 @@ directory, and load it in your tests like this. ::
 
     with open(os.path.join('package_name', 'test', 'fixtures', 'web-page'), 'rb') as fp:
         response = pickle.load(fp)
+    def test_something():
+        assert something(response) == 8
 
 Now find whatever function failed at processing the ``response``, write
 a test for that function with this fixture, and then figure out what's wrong.
@@ -617,6 +571,8 @@ Vlermv doesn't run its own server, and other databases do this too.
 
     Database without servers: SQLite, LevelDB
 
+Why to use SQLite or LevelDB instead
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 So consider SQLite and LevelDB if you just want a database without a server.
 There are lots of reasons to choose these over Vlermv.
 
