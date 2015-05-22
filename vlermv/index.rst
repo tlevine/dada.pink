@@ -70,6 +70,11 @@ use ordinary file manipulation tools for debugging, and I don't
 have to remember how my database works in order to look at my
 data.
 
+::
+
+    $ ls ~/.spaceapi/directory/
+    1431506400  1431507000  1432154400
+
 But accessing files is very verbose in Python!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Python exposes many low-level APIs for writing files.
