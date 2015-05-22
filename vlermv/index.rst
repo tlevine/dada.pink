@@ -87,6 +87,9 @@ Here are some implications of that.
 
 Low-level APIs yay!
 ^^^^^^^^^^^^^^^^^^^
+
+    We can tune our system to do exactly what we want.
+
 Python has lots of wonderful low-level APIs for manipulating files,
 and that allows us to design complex systems with very specialized,
 high-performance file access, with the appropriate trade-offs for our
@@ -130,7 +133,7 @@ able to control the details of file access, and filesystem access needs
 to be verbose. In many circumstances, however, we can use something
 standard that works well most of the time. This is what I tried to do.
 
-    `Vlermv <https://pypi.python.org/pypi/vlermv>`_
+    (That's Vlermv.)
 
 My solution is `Vlermv <https://pypi.python.org/pypi/vlermv>`_,
 an open source
@@ -528,7 +531,7 @@ Other things are often more appropriate than Vlermv. Let's review Vlermv's
 main features and then discuss other tools that provide similar things.
 
 1. Easily serialize Python objects.
-2. Produce a legible filesystem.
+2. Produce a filesystem with meaningful file names.
 3. Navigate directories simply.
 4. It's a "database" but doesn't run its own process.
 
@@ -606,7 +609,7 @@ People talk about fancy databases a lot. Nowadays it's usually something
 like Mongo, previously it might have been MySQL. While they can be mildly
 annoying, they are very helpful in the appropriate context.
 
-    Fancy databases are powerful
+    Fancy complicated databases are powerful
 
 They are highly optimized monsters that can handle lots of connections at
 once without breaking or slowing down too much.
@@ -621,9 +624,11 @@ need them.
 Fancy databases add complexity to your software, and simpler
 software is easier to maintain.
 
+    I like files.
+
 Fancy databases are good for storing and accessing complicated data really quickly.
 
-    Good if you need speed, complex queries, and centralized architecture
+    Fancy databases are good if you need speed, complex queries, and centralized architecture
 
 Let's consider Mongo,
 
