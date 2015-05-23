@@ -111,7 +111,7 @@ general conclusions about the world at large, so we do not need the same degree
 as rigor as we would in an academic setting; we aim instead for speed and
 cost-effectiveness in our research.
 
-### Quantitative abilities
+<h3 id="quantitative-abilities">Quantitative abilities<h3>
 In data science, we talk a lot about quantitative skills. The idealized
 data science work is thought to involve lots of math. We thus use phrases
 like "quantitative ability" or "analysis skills" to talk about a person's
@@ -175,9 +175,8 @@ need to conduct novel research. They may have a range of social classes
 (quantitative abilities).
 
 ### Data engineers and big data engineers
-An additional *data engineer* or *big data engineer* role is sometimes
-present. These two terms describe someone who writes software to support
-the data scientists' work.
+A *data engineer* or *big data engineer* role is someone who writes software
+to support the data scientists' work.
 
 If a company has both software engineers and data engineers, then the
 (big) data engineers usually develop tools for data scientists or data analysts,
@@ -202,6 +201,39 @@ I have left out any discussion of "designers" in the above discussion.
 In at least some cases, designers cat be thought of as they would in other
 field, but it may be that they have a special place in data.
 
+## Advancing to a higher-class role
+One advances to a higher-class role by becoming closer to people of that
+role. The means of advance can be broken into two components.
+
+1. Become more quantitative, as discussed in the section on
+    [quantitative skills](#quantitative-abilities)
+2. Make friends with people in the higher social class.
+
+The highest class is the data scientist, so people usually want to become
+closer to that. For example, if you are a software engineer and you want to
+advance, your next step is to become a (big) data engineer. Depending on where
+you're starting from in terms of quantitative skills, you may need to do some
+of the following.
+
+* Conduct yourself more [masculinely](https://en.wikipedia.org/wiki/Masculinity).
+* Get a degree in a field that is more "quantitative".
+* Take a corporate training in data science.
+* Convince yourself that the work you do is more sophisticated.
+* Present your work to people of higher class.
+
+You will also need to associate with data engineers or data scientists. Here
+are some ways of doing that.
+
+* Take a corporate training in data science.
+* Write about data science on the internet.
+* Speak at a data conference.
+
+Advance along these two components happens iteratively. For example, as you
+conduct yourself more masculinely or get further training, you become more
+comfortable with the idea of associating with data scientists. Similarly, as
+you associate with more data scientists, you become more convinced that your
+work is very sophisticated.
+
 ## The future
 The trend towards more data will continue, and the field of data will
 thus be around in some form for a reasonably long time. The people in this
@@ -211,3 +243,11 @@ scientists really want to work as academic researchers. When data science
 becomes a formal academic discipline and data scientists finally find
 jobs as academics, we might have to come up with a new name for the people
 who want to be academics but can't find work.
+
+## See also
+
+* [Social Class in the United States](https://en.wikipedia.org/wiki/Social_class_in_the_United_States),
+    by Wikipedia Contributors.
+* [The 3-ladder system of social class in the U.S.](https://michaelochurch.wordpress.com/2012/09/09/the-3-ladder-system-of-social-class-in-the-u-s/),
+    by Michael O Church. I have no idea how Michael comes up with stuff like
+    this, but it always sounds so right.
