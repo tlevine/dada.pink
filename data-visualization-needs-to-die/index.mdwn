@@ -1,3 +1,4 @@
+secret: True
 title: Data Visualization Needs to Die
 -----------
 
