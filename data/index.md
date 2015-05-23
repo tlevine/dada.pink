@@ -239,14 +239,14 @@ within the field of data) or other high-class people, such as business
 executives, politicians, or rich people.
 
 In the case of a software engineer becoming a data engineer, a good route is 
-associate with data engineers or data scientists. Here
-are some ways of doing that.
+to associate with data engineers or data scientists. Here are some common ways
+to do that.
 
 * Take a corporate training in data science.
 * Write about data science on the internet.
 * Speak at a data conference.
 
-Advance along these two components happens iteratively. For example, as you
+Advance along these two components happens in small steps. For example, as you
 conduct yourself more masculinely or get further training, you become more
 comfortable with the idea of associating with data scientists. Similarly, as
 you associate with more data scientists, you become more convinced that your
@@ -273,8 +273,9 @@ less knowledgeable data scientists give these trainings? I see a few reasons.
 
 1. It turns out that trainings by less prominent data scientists are starting
     to happen, as several data science bootcamps are springing up.
-2. There isn't really much demand for [data scientists](#data-scientists),
-    so it's cheap and easy to hire the most prominent ones.
+2. While people want to be [data scientists](#data-scientists), there isn't
+    much business demand for them. Thus, it's cheap and easy to hire the most
+    prominent ones.
 3. The main purpose of the training is to associate students with the
     high-class instructor; the learning is secondary.
 4. If you are coming from a completely different field, it's hard to
