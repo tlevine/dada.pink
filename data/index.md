@@ -139,7 +139,7 @@ are talking about when they discuss "quantitative ability";
 Now that I have discussed the general field of data, I can tell you
 about the different sorts of people that we find within the field.
 
-### Data scientists
+<h3 id="data-scientists">Data scientists</h3>
 The main personification of the field of data science is the data scientist.
 
 Data scientists are people who want to feel like they are conducting
@@ -259,6 +259,19 @@ people who want to advance towards the high-class data science role. These
 could be lower-class data professionals, university students, or non-data
 professionals who want to move into data.
 
+It's a bit odd that such introductory trainings are given by such knowledgable
+data scientists. Aren't they too busy doing data science themselves? Why can't
+less knowledgeable data scientists give these trainings? I see a few reasons.
+
+1. It turns out that trainings by less prominent data scientists are starting
+    to happen, as several data science bootcamps are springing up.
+2. There isn't really much demand for [data scientists](#data-scientists),
+    so it's cheap and easy to hire the most prominent ones.
+3. The main purpose of the training is to associate students with the
+    high-class instructor; the learning is secondary.
+4. If you are coming from a completely different field, it's hard to
+    distinguish real stuff from complete hogwash. In such a case, taking a
+    course from a very prominent and well respected instructor is a decent idea.
 
 ## The future
 The trend towards more data will continue, and the field of data will
@@ -269,6 +282,10 @@ scientists really want to work as academic researchers. When data science
 becomes a formal academic discipline and data scientists finally find
 jobs as academics, we might have to come up with a new name for the people
 who want to be academics but can't find work.
+
+Also, I imagine that these dynamics within data science exist in other hot
+fields, so we can probably forsee the changes in data science by looking at
+patterns in other fields.
 
 ## See also
 
