@@ -211,7 +211,10 @@ role. The means of advance can be broken into two components.
 
 The highest class is the data scientist, so people usually want to become
 closer to that. For example, if you are a software engineer and you want to
-advance, your next step is to become a (big) data engineer. Depending on where
+advance, your next step is to become a (big) data engineer.
+
+### Advancing in quantitative ability
+Depending on where
 you're starting from in terms of quantitative skills, you may need to do some
 of the following.
 
@@ -221,7 +224,14 @@ of the following.
 * Convince yourself that the work you do is more sophisticated.
 * Present your work to people of higher class.
 
-You will also need to associate with data engineers or data scientists. Here
+### Associating with higher class people
+In order to advance within the data field, you must associate with higher-class
+people. These higher-class people could be data scientists (the highest class
+within the field of data) or other high-class people, such as business
+executives, politicians, or rich people.
+
+In the case of a software engineer becoming a data engineer, a good route is 
+associate with data engineers or data scientists. Here
 are some ways of doing that.
 
 * Take a corporate training in data science.
@@ -233,6 +243,22 @@ conduct yourself more masculinely or get further training, you become more
 comfortable with the idea of associating with data scientists. Similarly, as
 you associate with more data scientists, you become more convinced that your
 work is very sophisticated.
+
+## Data science trainings
+Prominent data scientists (like me?) usually give a lot of introductory
+data science trainings, and I get the sense that this makes up a substantial
+chunk of their income.
+
+I'm slightly different from the type that I put forth above. I give trainings,
+but they serve more as marketing; after seeing one of my trainings or reading
+one of my tutorials, people sometimes contact me about consulting work of
+various sorts.
+
+Perhaps it's obvious, but the audience for such trainings is lower-class
+people who want to advance towards the high-class data science role. These
+could be lower-class data professionals, university students, or non-data
+professionals who want to move into data.
+
 
 ## The future
 The trend towards more data will continue, and the field of data will
