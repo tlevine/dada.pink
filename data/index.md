@@ -3,16 +3,19 @@ You may have heard something about data science. You may have even heard
 that Tom is a data scientist. Perhaps you are wondering what data science is.
 Unfortunately, it is hard to get a clear answer.
 
+**Data science is chaotic.**
 Data science is a very new field, and different people have their own ideas
 about what data science should be. Also, data science is a very hot field, so
 people often rebrand their existing work as being data science.
 
+**But it also has order!**
 Even with all this chaos, it turns out that there is some consistency in
 the data science terminology. I have worked in data science for a few years
 in multiple organizations. I have met data scientists from several countries
 and have read even more of their work on the internet. Everyone has his or her
 on idea as to what data science is, but some clear trends emerge.
 
+## Things I discuss in this article
 Based on the patterns I have seen, I have come up with definitions of the
 following terms.
 
@@ -31,6 +34,11 @@ prescriptive definitions. I am trying to come up with a "common denominator"
 definition that matches most of the different definitions that I have seen.
 If you use these terms differently, your usage is perfectly acceptable, and
 my definitions are incomplete.
+
+After defining these terms, which are mostly roles within an organization,
+I will discuss how people move between roles.
+
+I'll end with a thought on how data science is going to change in the future.
 
 ## The field of data
 As computation and digital storage gets cheaper, we can more whimsically put
@@ -111,7 +119,7 @@ general conclusions about the world at large, so we do not need the same degree
 as rigor as we would in an academic setting; we aim instead for speed and
 cost-effectiveness in our research.
 
-<h3 id="quantitative-abilities">Quantitative abilities<h3>
+<h3 id="quantitative-abilities">Quantitative abilities</h3>
 In data science, we talk a lot about quantitative skills. The idealized
 data science work is thought to involve lots of math. We thus use phrases
 like "quantitative ability" or "analysis skills" to talk about a person's
@@ -197,9 +205,9 @@ of the data field. Roles that are present in other fields, such as
 salesperson or executive, don't have special definitions within the context
 of data.
 
-I have left out any discussion of "designers" in the above discussion.
-In at least some cases, designers cat be thought of as they would in other
-field, but it may be that they have a special place in data.
+I have left out any discussion of "designers" in the above discussion. In at
+least some cases, designers in the field of data are like designers outside
+of the field of data, but it may be that they have a special place in data.
 
 ## Advancing to a higher-class role
 One advances to a higher-class role by becoming closer to people of that
