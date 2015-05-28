@@ -123,8 +123,12 @@ infrastructure and build specialized data processing systems
 * Mandarin Chinese (can't read)
 * Swedish (only a little)
 
+<!--
+
 ## More
 The present page is the shorter version; read more at the webpages below.
 
 * [More talks and articles](http://thomaslevine.com/!/curriculum-vitae/more/)
 * [Press](http://thomaslevine.com/!/curriculum-vitae/press/)
+
+-->
