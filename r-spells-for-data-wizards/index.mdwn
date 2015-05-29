@@ -73,7 +73,7 @@ specifying the level order manually.
 
 And you rename a level or levels like so.
 
-    levels(OrchardSprays<reatment)[3:5] <- c('X', 'Y', 'Z')
+    levels(OrchardSprays$treatment)[3:5] <- c('X', 'Y', 'Z')
 
 ## Concatenating text
 This is how you concatenate text.
@@ -106,7 +106,7 @@ Also, in general, **use ggplot**. Base R graphics are
 [more work than they're worth](http://www.livestream.com/knerd/video?clipId=pla_a5d59285-9399-47dc-aaef-2b9a77142d5e),
 except maybe if you're
 [making](http://www.youtube.com/watch?v=rLZDvXPIDa0)
-[music](http://fms.csvsoundsystem.com)
+[music](/!/fms-symphony/)
 [videos](http://www.youtube.com/watch?v=tcnoBL0tvpc).
 
 That said, if you do use base R graphics, try using `locator`
@@ -168,7 +168,7 @@ ProjectTemplate is kind of okay too.
     library(ProjectTemplate)
 
 
-Use `str` to find out something's type.
+Use `str` to find out something's type. It stands for "structure".
 
     str(ChickWeight)
 
