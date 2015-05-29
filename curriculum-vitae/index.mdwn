@@ -10,15 +10,9 @@ thomaslevine.com<br/>
 \_@thomaslevine.com
 </center>
 
-<!--
-I have a strong intuition for how data flow through systems and people
-
-Open-ended
-
-Collect the appropriate data (by assembling historical data or by
-instrumenting your system to collect new data), clean the data, and
-visualize or model the data as appropriate for the present need.
--->
+I have a strong intuition for how large scales of data flow through computer
+systems and people. I enjoy building robust systems to collect, process,
+display, and analyse data in order to solve problems that people care about.
 
 ## Education
 Cornell University, Bachelor's of Science (May 2011, GPA 3.5)<br/>
