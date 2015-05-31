@@ -19,23 +19,29 @@ You are going to write a letter with these parts.
 
 1. Explanation of what you want to happen
 2. Your current configuration files
-3. 
+3. What is happening now
+4. A request for a very tiny bit of help
 
-explain what you want to happen, provide your presen
-
-If you haven't configured a web server before, your configuration is probably
-pretty simple. Most of it can be expressed
+The hardest part is the explanation of what you want to happen. If you
+don't know how to do this, it will take you a while to write, and it still
+won't make sense to anyone. Let's talk about that!
 
 ## Come up with examples
-Come up with examples of what you want to happen when you open the website.
-Answer the following questions for each example.
+If you are trying to configure something very complicated, your explanation
+won't make sense even if you do know what you're doing. Fortunately, you are
+probably setting up something quite typical, and you can probably explain
+what you want by anwering three simple questions.
+
+You are going to come up with a few examples to explain how your site should
+work. Each example is a thing that happens when you type something into your
+web browser; for each example, you must answer these questions.
 
 1. What URL do I type into my browser? This should be the full URL, not just
   the domain name.
 2. Should I get redirected to a different URL? If yes, to what URL?
 3. If I shouldn't be redirected, what file or application should be served?
    * If it's a file, there's a good chance that it will have an extension like
-       "html", "php", "js", or "css".
+       "html", "js", or "css".
    * Applications are really files too, so determine the directory or file
        that the application is in and mention what languages and libraries
        it uses.
@@ -48,6 +54,9 @@ that there should be no redirect.
 
 If the behavior you desire is more complicated, you must still include these
 things. After that, you should add further explanation of what you want.
+
+Come up with enough examples that you think people will understand what you
+want. It is quite likely that one example will be enough.
 
 ## Template
 Fill out this template, and send it to whomever you're asking the question
