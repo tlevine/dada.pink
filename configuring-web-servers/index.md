@@ -96,6 +96,9 @@ of what is presently happening can be short. If it is absent,
 the person(s) you're asking will probably get annoyed, and if it is short,
 there's a chance the person(s) won't get annoyed.
 
+(Here would be a good place for me to include here an example of an
+effective letter.)
+
 ## Where to ask
 There are so many places that you could ask people. There's obviously
 the Apache and Nginx IRC channels, mailing lists, &c., but you could probably
