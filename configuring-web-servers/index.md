@@ -41,11 +41,14 @@ web browser; for each example, you must answer these questions.
   the domain name.
 2. Should I get redirected to a different URL? If yes, to what URL?
 3. If I shouldn't be redirected, what file or application should be served?
-   * If it's a file, there's a good chance that it will have an extension like
-       "html", "js", or "css".
-   * Applications are really files too, so determine the directory or file
-       that the application is in and mention what languages and libraries
-       it uses.
+
+Some specifics about the third question:
+
+* If it's a file, there's a good chance that it will have an extension like
+    "html", "js", or "css".
+* Applications are really files too, so determine the directory or file
+    that the application is in and mention what languages and libraries
+    it uses.
 
 To show the example to other people, you can probably just write out your
 answers to the questions. You can sometimes make your answer more concise
