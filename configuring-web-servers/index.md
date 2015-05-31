@@ -15,8 +15,27 @@ he or she will get very annoyed if you don't. The present article explains
 how to ask for help without being annoying.
 
 ## The theory
+You are going to come up with 
 
-## Examples to give
+If you haven't configured a web server before, your configuration is probably
+pretty simple. Most of it can be expressed
+
+## Come up with examples
+Come up with examples of what you want to happen when you open the website.
+Answer the following questions for each example.
+
+* What URL do I type into my browser? This should be the full URL, not just
+  the domain name.
+* Should I get redirected to a different URL? If yes, to what URL?
+* If I shouldn't be redirected, what file or application should be served?
+  * If it's a file, there's a good chance that it will have an extension like
+      "html", "php", "js", or "css".
+  * Applications are really files too, so determine the directory or file
+      that the application is in and mention what languages and libraries
+      it uses.
+
+If the behavior you desire is more complicated, you must still include these
+things. After that, you should add further explanation of what you want.
 
 ## Template
 Fill out this template, and send it to whomever you're asking the question
