@@ -103,6 +103,12 @@ ask on pretty much any forum for communication about free software.
 And you can ask people in person. As mentioned above, provide the above
 letter even if you are asking in person.
 
+If you get help on a mailing list, be sure to respond when you figure out what
+was going. Other people with the same problem you have will search the internet
+and find your post; reporting as to whether the fix worked tells these people
+whether it's worth trying.
+And responding to a helpful answer is also just nice.
+
 ## In case this doesn't work
 I'll be very impressed if you followed all of these directions and manage
 not get a response; if that happens, please [ask me](mailto:_@thomaslevine.com)!
