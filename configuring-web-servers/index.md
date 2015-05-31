@@ -6,7 +6,8 @@ Do you want to host a website? If yes, you might wind up configuring a
 web server, like Apache or Nginx. Unfortunately, you are going to get it
 wrong the first 100 times you try, and you are going to have no idea why.
 Fortunately, someone else will know exactly why you got it wrong and can
-tell you the magic incantation that will do what you want.
+tell you the magic incantation that will instruct your server to do what
+you want.
 
 If you're having trouble configuring your webserver, give up at figuring
 it out yourself, and ask someone for help. Give the person lots of
@@ -24,9 +25,9 @@ You are going to write a letter with these parts.
 
 The hardest part is the explanation of what you want to happen. If you
 don't know how to do this, it will take you a while to write, and it still
-won't make sense to anyone. Let's talk about that!
+won't make sense to anyone. So now I'm going to tell you how to write that.
 
-## Come up with examples
+## Explain what you want
 If you are trying to configure something very complicated, your explanation
 won't make sense even if you do know what you're doing. Fortunately, you are
 probably setting up something quite typical, and you can probably explain
@@ -83,7 +84,9 @@ to. Send it even if you're asking the person in person.
 >     [Include any error messages that you see.]
 >
 > Could you tell me what I'm doing wrong or at least point me to an
-> appropriate section of the manual? Thanks
+> appropriate section of the manual?
+>
+> Thanks
 >
 > **[Name]**
 
@@ -99,3 +102,9 @@ the Apache and Nginx IRC channels, mailing lists, &c., but you could probably
 ask on pretty much any forum for communication about free software.
 And you can ask people in person. As mentioned above, provide the above
 letter even if you are asking in person.
+
+## In case this doesn't work
+I'll be very impressed if you followed all of these directions and manage
+not get a response; if that happens, please [ask me](mailto:_@thomaslevine.com)!
+If I can't help you configure your web server, I'll at least try to help you
+ask for help with configuring your web server!
