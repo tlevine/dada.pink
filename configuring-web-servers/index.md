@@ -15,7 +15,13 @@ he or she will get very annoyed if you don't. The present article explains
 how to ask for help without being annoying.
 
 ## The theory
-You are going to come up with 
+You are going to write a letter with these parts.
+
+1. Explanation of what you want to happen
+2. Your current configuration files
+3. 
+
+explain what you want to happen, provide your presen
 
 If you haven't configured a web server before, your configuration is probably
 pretty simple. Most of it can be expressed
@@ -49,7 +55,7 @@ to. Send it even if you're asking the person in person.
 
 > Hi [person],
 >
-> I am having trouble configuring [Apache/Nginx/whatever]. This is what
+> I am having trouble configuring **[Apache/Nginx/whatever]**. This is what
 > I want to happen.
 >
 > * When I go to http://thomaslevine.com, I should be redirected to
@@ -58,19 +64,19 @@ to. Send it even if you're asking the person in person.
 >     /blah/blah/index.html should be served.
 > * ...
 >
-> In my present configuration, this is happening instead. [Explain, explain].
->
->     (Include any error messages that you see.)
->
-> Here are the relevant configuration files.
+> Here are my present versions of the relevant configuration files.
 >
 >     # apache.conf, nginx.conf, &c. goes here.
 >     # ...
 >
+> With this configuration, this **[explain, explain]** is happening instead.
+>
+>     [Include any error messages that you see.]
+>
 > Could you tell me what I'm doing wrong or at least point me to an
 > appropriate section of the manual? Thanks
 >
-> [Name]
+> **[Name]**
 
 If you don't feel like writing the whole letter, write it anyway.
 If you insist on not writing the whole letter, then the explanation
