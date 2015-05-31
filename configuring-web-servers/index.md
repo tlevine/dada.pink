@@ -24,15 +24,21 @@ pretty simple. Most of it can be expressed
 Come up with examples of what you want to happen when you open the website.
 Answer the following questions for each example.
 
-* What URL do I type into my browser? This should be the full URL, not just
+1. What URL do I type into my browser? This should be the full URL, not just
   the domain name.
-* Should I get redirected to a different URL? If yes, to what URL?
-* If I shouldn't be redirected, what file or application should be served?
-  * If it's a file, there's a good chance that it will have an extension like
-      "html", "php", "js", or "css".
-  * Applications are really files too, so determine the directory or file
-      that the application is in and mention what languages and libraries
-      it uses.
+2. Should I get redirected to a different URL? If yes, to what URL?
+3. If I shouldn't be redirected, what file or application should be served?
+   * If it's a file, there's a good chance that it will have an extension like
+       "html", "php", "js", or "css".
+   * Applications are really files too, so determine the directory or file
+       that the application is in and mention what languages and libraries
+       it uses.
+
+To show the example to other people, you can probably just write out your
+answers to the questions. You can sometimes make your answer more concise
+by omitting question two. If the answer to the second question is "no", you
+don't have to mention redirects; by answering the third question, you imply
+that there should be no redirect.
 
 If the behavior you desire is more complicated, you must still include these
 things. After that, you should add further explanation of what you want.
@@ -47,9 +53,9 @@ to. Send it even if you're asking the person in person.
 > I want to happen.
 >
 > * When I go to http://thomaslevine.com, I should be redirected to
->   https://thomaslevine.com.
-> * When I go to https://thomaslevine.com/blah, files should be served
->   from /blah/blah.
+>     https://thomaslevine.com.
+> * When I go to https://thomaslevine.com/blah, the file
+>     /blah/blah/index.html should be served.
 > * ...
 >
 > In my present configuration, this is happening instead. [Explain, explain].
