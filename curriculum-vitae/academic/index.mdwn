@@ -120,12 +120,39 @@ infrastructure and build specialized data processing systems
     [New York Open Statistical Programming Meetup](http://www.meetup.com/nyhackr/events/111193682/).
     <span class="webonly">([video](http://www.livestream.com/knerd/video?clipId=pla_a5d59285-9399-47dc-aaef-2b9a77142d5e))</span>
 
+
 ## Selected articles
+
 * Thomas Levine (2014). [Web sites to data tables, in depth](http://thomaslevine.com/!/web-sites-to-data-tables-in-depth/)
+* Thomas Levine (2014). Open data had better be data-driven. Open Innovation, winter 2014.
+* Thomas Levine (2013). [Two meanings of "variable"](http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/). DataKind Blog.
+* Thomas Levine (2013). [Searching lots of inconveniently formatted files at once](http://communityboostr.org/resource/searching-lots-inconveniently-formatted-files-once). Community Boost\_r Resources.
 * Thomas Levine (2013). [How I parse PDF files](http://thomaslevine.com/!/parsing-pdfs).
 * Thomas Levine (2013). [R Spells for Data wizards](http://thomaslevine.com/!/r-spells-for-data-wizards).
 * Thomas Levine (2013). [What's in a table](http://www.datakind.org/blog/whats-in-a-table/). DataKind Blog.
 * Thomas Levine (2013). [Two meanings of "variable"](http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/). DataKind Blog.
+* Thomas Levine (2013). [My Visit to Socrata, and Data Analysis About Data Analysis](http://www.socrata.com/blog/my-visit-to-socrata-and-data-analysis-about-data-analysis/). Socrata.
+* Thomas Levine (2013). [What's in a table](http://www.datakind.org/blog/whats-in-a-table/). DataKind Blog.
+* Thomas Levine (2013). [Socrata summary](http://thomaslevine.com/!/socrata-summary).
+* Thomas Levine (2013). [Socrata products](http://thomaslevine.com/!/socrata-products).
+* Thomas Levine (2013). [Open data licensing](http://thomaslevine.com/!/open-data-licensing).
+* csv soundsystem (2013). [Introducing treasury.io](https://source.opennews.org/en-US/articles/introducing-treasuryio/). OpenNews Source Blog.
+* Thomas Levine (2013).
+    [The Hovering Cycle](http://www.phlush.org/2013/02/23/the-hovering-cycle/).
+    Phlush Blog.
+* Thomas Levine (2012).
+    [The New British Invasion: Scraper Wiki hits the Big Apple](http://datadrivenjournalism.net/news_and_analysis/scraperwiki_new_york_data_camp).
+    Data Driven Journalism.
+* Thomas Levine (2012). [Beaglebone power supplies](http://thomaslevine.com/!/beaglebone-power).
+* Thomas Levine (2011). [Unsanitary conditions in the Risley Hall bathrooms](http://thomaslevine.com/!/risley-toilets/).
+* Thomas Levine (2009). How do people position keyboards?. International Ergonomics Association World Congress Proceedings, 17.
+* Thomas Levine (2008). Effect of the number pad on mousing location. Human Factors and Ergonomics Society Annual Meeting Proceedings, 52, 1307-1311.
+
+## Professional service
+I have reviewed submissions to
+
+* [csv conf](http://csvconf.com/)
+* [Ergonomics](http://www.tandfonline.com/loi/terg20)
 
 ## Languages
 
