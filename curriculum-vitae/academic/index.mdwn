@@ -53,22 +53,28 @@ environmental advocacy efforts by developing and maintaining an
 end-user system for gathering, refining, and integrating data on
 wetlands in Louisiana.
 
-**Data collection service**
-February 2013 to December 2013.
-As part of [csv soundsystem](http://csvsoundsystem.com),
-I did engineering and product management on [treasury.io](http://treasury.io)
+**Anti-fraud**.
+[World Bank](http://worldbank.org/), Integrity Vice Presidency.
+Washington, DC, USA. June 2015.
+I extended a system for data-driven detection of suspicious behaviors in
+procurement processes based on new data.
+
+**Process improvements for database reporting**.
+New York, NY, USA. December 2014.
+I build a language parser to programmatically analyze hundreds of database
+reporting scripts for a healthcare firm and delivered an analysis of the
+functions and relationships between different reporting scripts.
+
+**Natural language processing**
+Los Angeles, CA, USA. May 2014.
+I extracted structured information about legal briefs from unstructured
+descriptions of legal briefs, to support legal research.
 
 **Anti-fraud**.
 [World Bank](http://worldbank.org/), Integrity Vice Presidency.
 Washington, DC, USA. May 2014, June 2014.
 I built a system for data-driven detection of suspicious behaviors in
 procurement processes.
-
-**Anti-fraud**.
-[World Bank](http://worldbank.org/), Integrity Vice Presidency.
-Washington, DC, USA. June 2015.
-I extended a system for data-driven detection of suspicious behaviors in
-procurement processes based on new data.
 
 **Searching spreadsheets**.
 [Ontodia](http://www.ontodia.com/).
@@ -81,6 +87,11 @@ I prototyped specialized data search tools for Ontodia's
 Menlo Park, CA, USA. February 2014 to April 2014.
 I developed large-scale data acquisition systems to drive
 investment decisions.
+
+**Data collection service**
+February 2013 to December 2013.
+As part of [csv soundsystem](http://csvsoundsystem.com),
+I did engineering and product management on [treasury.io](http://treasury.io)
 
 **Data analysis software**.
 [DataPad](http://datapad.io).
