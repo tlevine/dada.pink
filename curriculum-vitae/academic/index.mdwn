@@ -110,20 +110,68 @@ infrastructure and build specialized data processing systems
 
 * May 22, 2015. Data acquisition with Vlermv database.
     [PyGrunn](http://pygrunn.org/).
-* October 24, 2014. Parsing PDFs. Software Freedom Kosovo 2014.
+* November 1, 2014. A huge meta-project about exploring outrageous degrees of freedom.
+    Wiki Weekend Tirane. OpenLabs.
+* October 24, 2014. How I parse PDF files. [Free Software Kosovo](http://sfk.flossk.org/sfk14/).
+* October 23, 2014. Plotting Data with Music and Food. BarCamp Gjilan.
+* October 22, 2014. Plotting Data with Music and Food. BarCamp Gjakova.
+* October 21, 2014. Plotting Data with Music and Food. BarCamp Prizren.
 * September 23, 2014.
     [R for people who already know something about programming](http://www.meetup.com/Data-Rave/events/207607242/).
-    [Data Rave](http://www.meetup.com/Data-Rave/).
+    [Data Rave](http://www.meetup.com/).
     <span class="webonly">([notes](http://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming))</span>
+* August 14, 2014. Data visualization needs to die. [Hacks/Hackers Berlin](http://www.meetup.com/Hacks-Hackers-Berlin/events/199099472/). ([slides](http://small.dada.pink/gastronomification-big-data-talk/hacks-hackers-berlin-2014-08/data-visualization-needs-to-die.pdf))
 * July 3, 2014. Sheetmusic: Making music from spreadsheets.
     [European Spreadsheet Risks Interest Group 15th Annual Conference](http://www.eusprig.org/annual-conference.htm).
-* March 20, 2014. Statistics with Doodles.
-    [NYC Machine Learning](http://www.meetup.com/NYC-Machine-Learning/events/170546362/).
-    <span class="webonly">([slides and materials](http://thomaslevine.com/!/statistics-with-doodles-2014-03))</span>
+* April 2, 2014. [Parsing PDFs](http://www.meetup.com/Data-Wranglers-DC/events/160592492/).
+    Data Wranglers DC.
+* March 20, 2014. Statistics with Doodles. [NYC Machine Learning](http://www.meetup.com/NYC-Machine-Learning/events/170546362/).
+    [slides and materials](http://thomaslevine.com/!/statistics-with-doodles-2014-03).
+* February 24, 2014. Cool things happen when you look at lots of spreadsheets. OpenAustin.
+* February 18, 2014. Data cleaning. Berekely RUG.
+* December 2, 2013. What I learned from 100,000 open data across 100 portal, NYC Open Data.
+* November 8, 2013. Data-Driven Music for Big Data Analysis, PyData 2013.
+    [video](https://vimeo.com/79859345).
+* September 16, 2013. Social Media Data as a Public Data Resource.
+  [Association of Public Data Users, 2013](http://apdu.org/events/conference/apdu-2013/).
+    [slides](https://github.com/tlevine/social-media-public-data).
+* August 23, 2013. Meta data science.
+    [Socrata](http://www.socrata.com/) tech talk.
+    [slides](https://github.com/tlevine/meta-data-science-socrata).
+    [non-slides](http://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/).
+* July 20, 2013. Statistics with doodles.
+  [Today I learned](https://sudoroom.org/wiki/Today_I_Learned#July_20:_Statistics_through_doodles:_Geometric_computations_of_fundamental_statistical_concepts)
+  at [sudoroom](https://sudoroom.org).
+  [video and materials](http://thomaslevine.com/!/statistics-with-doodles-sudoroom).
+* July 2, 2013. Multisensory data.
+    [Zipfian Academy](http://zipfianacademy.com) guest lecture.
+    [slides](https://github.com/tlevine/multisensory-data-zipfian).
+* April 16, 2013. <!-- ???? --> [Urchin](https://github.com/scraperwiki/urchin),
+    New York University Association for Computing Machinery chapter.
 * April 9, 2013. Music Videos in R.
     [New York Open Statistical Programming Meetup](http://www.meetup.com/nyhackr/events/111193682/).
     <span class="webonly">([video](http://www.livestream.com/knerd/video?clipId=pla_a5d59285-9399-47dc-aaef-2b9a77142d5e))</span>
+* April 4, 2013. Interactive Data,
+    Cornell University Sustainable Design Symposium.
+* April 2, 2013. Geometric computations of fundamental statistical concepts,
+    New York University Association for Computing Machinery chapter.
+* March 21, 2013. Data Scientist Panel. [data io](http://www.meetup.com/data-io/events/109303752/).
+* November 3, 2012. Screen-scraping workshop. [The Big Clean 2012](http://bigclean.techlib.cz/en/805-workshop/).
+* October 2, 2012. Cleaning Gritty Data to tell a story in the News Room or the Board Room.
+    [Strata London 2012](http://strataconf.com/strataeu/public/schedule/detail/25890).
+* August 31, 2012. Web Scraping. [Hacks/Hackers Buenos Aires Media Party 2012](http://www.mediaparty.info/).
 
+## Short courses on data science
+I often give short courses on assorted data science topics.
+Here are some audiences for which I've given them.
+
+* National Institute for Computer-Assisted Reporting annual meeting 2012, St Louis
+* Cindy Royal Advanced Online Media, Austin
+* News Hack Day SF
+* ScraperWiki Data Camp New York
+* ScraperWiki Data Camp DC
+* Hacks/Hackers DC
+* Cyber Wizard Institute, Oakland
 
 ## Selected articles
 
