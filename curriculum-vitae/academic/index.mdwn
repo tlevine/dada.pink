@@ -12,7 +12,7 @@ thomaslevine.com<br/>
 
 I have a strong intuition for how large scales of data flow through computer
 systems and people. I enjoy building robust systems to collect, process,
-display, and analyse data in order to solve problems that people care about.
+display, and analyze data in order to solve problems that people care about.
 
 ## Education
 Cornell University, Bachelor's of Science (May 2011, GPA 3.5)<br/>
@@ -367,7 +367,7 @@ Libraries
 * `aamoer`: Format open data dumps for reporting.
 * `bashful-fs`: A filesystem for [bashful](https://github.com/substack/bashful), implementing `fs.exists`, `fs.createReadStream` and `fs.createWriteStream`
 * `battleship-search`: maximize an n-dimensional landscape using the [battleship search algorithm](http://opensourceecology.org/wiki/Anthony_Repetto/Concept_Log#Binary_Search)
-* `battleship`: Battleship: Generalized Binary Searh
+* `battleship`: Battleship: Generalized Binary Search
 * `blizzard`: Find similar schemas across datasets.
 * `compress-opening-times`: Compress weekly opening time schedules.
 * `cons.sql`: I implemented cons cells in Postgres and then built functional data structures on top of them.
