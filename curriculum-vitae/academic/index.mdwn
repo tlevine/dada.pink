@@ -443,7 +443,6 @@ ScraperWiki web scrapers
 * `alafia_network_parse`
 * `alafia_network`
 * `amfikenya`
-* `annual_trend_in_gender_ratio_of_pilgrams_to_sant_1`
 * `argentinacompra`
 * `bancomoc`
 * `bank_of_kigali`
