@@ -1,0 +1,135 @@
+title: Curriculum vitae
+description: Curriculum vitae (really long version)
+secret: True
+----
+<center>
+<p class="webonly"><a href="javascript:window.print()">Print this page</a> to generate a PDF.</p>
+<hr class="webonly"/>
+Thomas Kai Levine<br/>
+thomaslevine.com<br/>
+\_@thomaslevine.com
+</center>
+
+I have a strong intuition for how large scales of data flow through computer
+systems and people. I enjoy building robust systems to collect, process,
+display, and analyse data in order to solve problems that people care about.
+
+## Education
+Cornell University, Bachelor's of Science (May 2011, GPA 3.5)<br/>
+Design & Environmental Analysis (Concentration in Human Factors & Ergonomics)
+
+## Awards
+* Hunter R. Rawlings III Cornell Presidential Research Scholar
+* National Science Foundation Graduate Research Fellowship Program, honorable mention
+
+## Data science consulting
+*(May 2011 to present)*
+
+I help organizations take advantage of data. Services include
+
+* Data strategy and architecture
+* Data visualization
+* Data warehousing, extract-transform-load (ETL), &c.
+* Data gastronomification and other visualization-alternatives
+* Design and development of end-user data analysis tools/apps
+* Training on data science and software engineering
+
+### Technology
+I use a wide range of technologies as appropriate.
+I am quite good with dynamic programming languages,
+GNU/Linux system administration,
+web development, relational databases, NoSQL databases,
+data analysis software, &c.
+In particular, I have about ten years of experience in
+each of R, Python, and Shell.
+
+### Projects
+Here are some projects I've done.
+
+**Data management platform**.
+New Orleans, Louisiana. May 2012 to present (two days per month).
+I assist [Gulf Restoration Network](https://healthygulf.org/)'s
+environmental advocacy efforts by developing and maintaining an
+end-user system for gathering, refining, and integrating data on
+wetlands in Louisiana.
+
+**Data collection service**
+February 2013 to December 2013.
+As part of [csv soundsystem](http://csvsoundsystem.com),
+I did engineering and product management on [treasury.io](http://treasury.io)
+
+**Anti-fraud**.
+[World Bank](http://worldbank.org/), Integrity Vice Presidency.
+Washington, DC, USA. May 2014, June 2014.
+I built a system for data-driven detection of suspicious behaviors in
+procurement processes.
+
+**Anti-fraud**.
+[World Bank](http://worldbank.org/), Integrity Vice Presidency.
+Washington, DC, USA. June 2015.
+I extended a system for data-driven detection of suspicious behaviors in
+procurement processes based on new data.
+
+**Searching spreadsheets**.
+[Ontodia](http://www.ontodia.com/).
+New York, NY, USA. May 2014 to August 2014.
+I prototyped specialized data search tools for Ontodia's
+[Pediacities](http://nyc.pediacities.com/) data encyclopedia.
+
+**Venture capital**.
+[Vy Capital](http://vycapital.com/).
+Menlo Park, CA, USA. February 2014 to April 2014.
+I developed large-scale data acquisition systems to drive
+investment decisions.
+
+**Data analysis software**.
+[DataPad](http://datapad.io).
+San Francisco, CA, USA. May 2013 to June 2013.
+I did engineering on the data analysis product, mainly on the user
+authentication module.
+
+**Teaching**.
+[Zipfian Academy](http://zipfianacademy.com).
+San Francisco, CA, USA. August 2013 to November 2013.
+I designed the data science curriculum and taught the first class of students.
+
+**Microfinance investments**.
+[Microfinance Information Exchange](http://mixmarket.org).
+Washington, DC, USA. February 2012 to May 2012.
+I mined the web for data to be used in an
+[analysis](http://www.themix.org/publications/mix-microfinance-world/2012/05/mapping-financial-sector-south-africa)
+of microfinance investment opportunities in South Africa.
+
+**Software engineering**.
+[ScraperWiki](https://scraperwiki.com).
+Liverpool, UK. January 2012 to November 2012.
+I worked on a new data processing
+infrastructure and build specialized data processing systems
+
+## Selected talks
+* September 23, 2014.
+    [R for people who already know something about programming](http://www.meetup.com/Data-Rave/events/207607242/).
+    [Data Rave](http://www.meetup.com/Data-Rave/).
+    <span class="webonly">([notes](http://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming))</span>
+* July 3, 2014. Sheetmusic: Making music from spreadsheets.
+    [European Spreadsheet Risks Interest Group 15th Annual Conference](http://www.eusprig.org/annual-conference.htm).
+* March 20, 2014. Statistics with Doodles.
+    [NYC Machine Learning](http://www.meetup.com/NYC-Machine-Learning/events/170546362/).
+    <span class="webonly">([slides and materials](http://thomaslevine.com/!/statistics-with-doodles-2014-03))</span>
+* April 9, 2013. Music Videos in R.
+    [New York Open Statistical Programming Meetup](http://www.meetup.com/nyhackr/events/111193682/).
+    <span class="webonly">([video](http://www.livestream.com/knerd/video?clipId=pla_a5d59285-9399-47dc-aaef-2b9a77142d5e))</span>
+
+## Selected articles
+* Thomas Levine (2014). [Web sites to data tables, in depth](http://thomaslevine.com/!/web-sites-to-data-tables-in-depth/)
+* Thomas Levine (2013). [How I parse PDF files](http://thomaslevine.com/!/parsing-pdfs).
+* Thomas Levine (2013). [R Spells for Data wizards](http://thomaslevine.com/!/r-spells-for-data-wizards).
+* Thomas Levine (2013). [What's in a table](http://www.datakind.org/blog/whats-in-a-table/). DataKind Blog.
+* Thomas Levine (2013). [Two meanings of "variable"](http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/). DataKind Blog.
+
+## Languages
+
+* English (native)
+* French
+* Mandarin Chinese (can't read)
+* Swedish (only a little)
