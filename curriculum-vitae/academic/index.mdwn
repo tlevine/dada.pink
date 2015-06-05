@@ -191,6 +191,7 @@ Here are some audiences for which I've given them.
 
 ## Selected articles
 
+<!-- occupar -->
 <!-- copy (select '* Thomas Levine (201X). [' || title || '](https://thomaslevine.com/!/' || endpoint || '/)' from articles_article) to '/tmp/articles.csv' -->
 
 * csv soundsystem (2013). [Introducing treasury.io](https://source.opennews.org/en-US/articles/introducing-treasuryio/). OpenNews Source Blog.
@@ -361,6 +362,382 @@ Here are some audiences for which I've given them.
 * Daniel Sinker (2013). [OpenNews: Code Sprints do some spring cleaning on data](http://dansinker.com/post/49856260511/opennews-code-sprints-do-some-spring-cleaning-on-data).
 * Melissa Smolensky (2013). [Chartio Takes Over the Big Apple](http://chartio.com/blog/2013/03/chartiosheadstonyc). Chartio.
 * [Time capsule to be opened in 2065 preserves Cornell history](http://news.cornell.edu/stories/2012/11/time-capsule-preserves-cornell-history-until-2065). Cornell University.
+
+## Notable software
+Libraries
+
+* `dicti`: A case-insensitive dictionary
+* `scraperwiki_local`: ScraperWiki local client
+* `dumptruck`: SQLite3 interface for Python
+* `treasuryio`: TreasuryIO client for Python
+* `ddpy`: Data-driven music for Python
+* `juliadown`: Markup language for DataKind blog posts
+* `get-cached`: Cached web requests
+* `mailfest-scoreboard`: Track progress for email sprints
+* `craigsgenerator`: Export data from Craigslist
+* `sliding_window`: Windowed/lagged iterators in Python
+* `randomsleep`: Sleep a random amount of time.
+* `jumble`: Run things in parallel but in non-deterministic order.
+* `sheetmusic`: Music synthesizer for spreadsheet
+* `to_function`: Convert a Python callable to a function.
+* `blizzard`: Find similar schemas across datasets.
+* `vlermv`: Python dictionary-file mapper
+* `compress-opening-times`: Compress weekly opening time schedules.
+* `cons.sql`: I implemented cons cells in Postgres and then built functional
+    data structures on top of them.
+* `aamoer`: Format open data dumps for reporting.
+* `shrebx`: Manage secrets in Python, usually for Django
+* `bashful-fs`: bashful-fs
+    A filesystem for [bashful](https://github.com/substack/bashful),
+    implementing `fs.exists`, `fs.createReadStream` and `fs.createWriteStream`
+* `battleship`: Battleship: Generalized Binary Searh
+* `battleship-search`: maximize an n-dimensional landscape using the [battleship search algorithm](http://opensourceecology.org/wiki/Anthony_Repetto/Concept_Log#Binary_Search)
+* `scraperwikify`: Drop-in replacements and wrappers some scraperwiki functions
+* `geom_doner`: Plot data as döner
+* `geom_taco`: Turn data into tacos.
+* `geom_tacofancy`: Turn data into tacos with tacofancy.
+* `htmltable2matrix`: Reify an HTML table as a list of lists in Python
+* `pickle-warehouse`: Pickle Warehouse makes it easy to save Python objects to files with meaningful identifiers.
+* `picklecache`: Cache the results of a function.
+* `ddpy`: Data music for big data analysis
+* `pytreasuryio`: treasuryio client in Python
+* `Rtreasuryio`: Access treasuryio in R
+* `treasury.io`: Portal to treasury data
+* `treasuryiojs`: treasuryio client in Javascript
+
+
+ScraperWiki web scrapers
+
+* `absa`
+* `active_scraperwikians`
+* `african_bank`
+* `al_jazeera_headlines`
+* `alafia_network_parse`
+* `alafia_network`
+* `amfikenya`
+* `annual_trend_in_gender_ratio_of_pilgrams_to_sant_1`
+* `argentinacompra`
+* `bancomoc`
+* `bank_of_kigali`
+* `banque_commerciale_du_rwanda_ltd`
+* `banque_populaire_du_rwanda_ltd`
+* `bell_county_court_dockets_example`
+* `benin_financial_information`
+* `better_shortline_bus`
+* `bettercoach_schedules`
+* `bidvest_bank`
+* `bis_school_absenses`
+* `blue_financial_services`
+* `brisbane_current_weather`
+* `broadband_coverage_birmingham`
+* `burundimicrofinanceinstitutes`
+* `canada_elections_contributers`
+* `capitec_bank`
+* `cast`
+* `ccof_directory`
+* `census`
+* `central_bank_of_kenya`
+* `check_whether_the_ftc_rn_site_is_up`
+* `chicago_is_the_world`
+* `coach_usa_routes`
+* `coal_mining_glossary`
+* `commercial_property_in_edinburgh`
+* `cornell_gifting`
+* `cornell_police_daily_crime_log`
+* `country-code`
+* `cp_prima_news`
+* `crunchbase_newly_funded`
+* `csv2sw_example`
+* `csv2sw`
+* `dc_sex_offenders`
+* `drupal_project_usage`
+* `dsp`
+* `ealing_tree_preservation_orders_map`
+* `ecobank_branches`
+* `edna`
+* `enda`
+* `eventbrite`
+* `faa-tailnums`
+* `finabank_cash`
+* `fnb_south_africa`
+* `french_companies_informations`
+* `ft_twitter_followers`
+* `gbsbank`
+* `global_ships_db`
+* `gmail-attachment-downloader`
+* `gmail`
+* `gp_surgeries_staff`
+* `gsa`
+* `hiztegia`
+* `hpkcc_youth_programs_database`
+* `hsph_faculty`
+* `htmltable2matrix`
+* `htmltable2matrixrb`
+* `individual-insolvency-register`
+* `italy_air_pollution`
+* `ithaca_art_trail_artists`
+* `ithala_finance_corporates_-_branches`
+* `jdcdc_guest_list`
+* `jdcdc_stream_c_python_pdfs`
+* `jdcdc_stream_c_python`
+* `jdcdc_stream_c_ruby`
+* `jdnyc_stream_c_python`
+* `jdnyc_stream_c_ruby`
+* `jobs_for_youth_chicago`
+* `keyify`
+* `kforge-cave-data`
+* `khula`
+* `klimaschutzschulenatlas`
+* `landbank_branches`
+* `landbank_satellite_branches`
+* `libraries_to_install`
+* `liverpool_council_spending_500`
+* `marang_offices`
+* `mashed_potatoes`
+* `meetup`
+* `mix_scraper_spreadsheets`
+* `movie_theatres2`
+* `movie_theatres`
+* `national_bank_of_rwanda_microfinance_institutions`
+* `national_bank_of_rwanda`
+* `ncr`
+* `nedbank_branches`
+* `new_mexico_state_audits_opinion_changes`
+* `new_mexico_state_audits_parse`
+* `new_mexico_state_audits`
+* `new_york_law_scraper_status`
+* `new_york_law`
+* `nicar_stream_c_python`
+* `nicar_stream_c_ruby`
+* `nursing_homes_in_illinois`
+* `nyc_lobbyist_directory_browser`
+* `nyc_lobbyist_directory_status`
+* `nyda`
+* `nys_legislator_data`
+* `nytm_sos_attendees`
+* `occupy_tweets_network_graph`
+* `open_book_new_york`
+* `options`
+* `php-jumps-when-pasting-bug`
+* `pilgrams`
+* `postliste-nrk`
+* `postsecret`
+* `randomsleep`
+* `rifidec`
+* `romney_v_obama`
+* `rwandamicrofinance`
+* `saccos`
+* `safaricom`
+* `sasfin`
+* `sasra`
+* `sd-state-employee`
+* `senator_district_offices`
+* `senegal_financial_agreements`
+* `south_africa_geocoding_validation`
+* `south_africa_nominatim_geocoding_validation`
+* `south_africa_postbank`
+* `south_dakota_lobbyists`
+* `spine_lci_data`
+* `sqf`
+* `standardbank`
+* `suffolk_county_restaurant_inspections`
+* `tahrirsupplies_map`
+* `tcamp_tweets`
+* `tebabank_atm`
+* `tebabank_branch`
+* `thacker_-_emendas_parlamentares`
+* `thai_stock_exchange_news_feed`
+* `thuthukani_financial_services`
+* `tom_birthday_emails`
+* `tractorseat`
+* `transparency_camp_2013_tweets`
+* `transparency_camp_attendees`
+* `twitter_search`
+* `uk_lottery_details`
+* `uk_visas`
+* `unionreports`
+* `unionreportspy`
+* `uob`
+* `uruguay`
+* `us_senators_backup`
+* `us_zip_codes`
+* `usda_nop_certified_operators`
+* `usps_lookup`
+* `vbsmutual`
+* `watup`
+* `wellcommons`
+* `wheel_tractor-scrapers`
+* `yoga_teachers_per_capita`
+* `youtube_view_counts`
+
+End-user tools
+
+* `special_snowflake`: Infer table schemas
+* `scarsdale-property-inquiry`: Export Scarsdale property data
+* `tlevine`: Download tlevine's project metadata.
+* `pluplusch`: Download open data across many different data portals.
+* `commasearch`: Search for spreadsheets.
+* `cloud-beds`: Search apartment listings.
+* `friendly_brief`: Parse amicus brief titles.
+* `austin-data-catalog`: Download Austin data catalog data.
+* `wbcontractawards`: Download World Bank Contract Awards data.
+* `acpr`: Download data from ACPR.
+* `at-hackerspace`: Hackerspace status tracker.
+* `muckrock`: Download data from Muckrock.
+* `scarsdale-trustees`: Download Scarsdale trustees data.
+* `circular`: Plot circular things on pen plotters.
+* `historian`: Manage your computer's shell history.
+* `ejnug`: Streamline email publishing workflows.
+* `twister`: List tongue twisters.
+* `immaterial-digital-labor`: Archive an online discussion group.
+* `nyc-crime-map`: Collect data on New York City crime.
+* `cbuh`: Address book with high-performance search capabilities
+* `maildir-featurizer`: Create features from maildir email files very quickly.
+* `spacestatus-export`: Export data from the space status service.
+* `spaceapi`: Download data from Space API endpoints.
+* `better_coach`: Better coach bus schedules
+* `unkommittee`: Nonlinear discussion cotemporal Kommittee
+* `comma-chant`: Robot MC for csv soundsystem shows
+* `ticketchecker`: A web-based system for issuing and verifying electronic tickets
+* Simple Webcam: A webcam application for Chrome
+* `status_jukebox`: Donate your twitter status to charity.
+* `unishare`: Share study materials within universities.
+* `maze-robot`: Robot that teaches people how to program
+* `print2web`: I don't have a printer. This system uses a cgi script and pdftk to compile into one pdf things that I've printed to pdf so that I can print them all at once in computer labs.
+* `regression`: Calculate ordinary least squares regression geometrically
+* `cubes`: Cubes - Online Analytical Processing Framework for Python
+* `change_indent`: These scripts convert indentation size. Use them like so
+* `dada-portal`: Dada Portal: Door to the dada
+* `plan-things`: Like notecards-on-a-table, but portable, digitized, scriptable and in a git repository
+* `deadpeoplebornonmybirthday`: deadpeoplebornonmybirthday is a website that is compiled from my
+[names dataset](https://github.com/tlevine/united-states-middlenames),
+which comes, in turn, from the Social Security Death Master File.
+* `hssas`: A SAS parser/interpreter in Haskell
+* `hue-toy`: Play with Hue lights.
+* `instant-runoff`: write e-mails in groff.
+* `io-whois`: Check when popular .io domains were registered.
+* `match-companies`: The present package produces a data table about the entities who have bid on contracts for projects funded by the World Bank Group.
+* `medial_temporal_lobe`: The Medial Temporal Lobe remembers websites for you.
+* `meetup-email`: Change Meetup email settings
+* `nvm`: Version manager for node programming language
+* `tompkins-trust-exporter`: The Tompkins Trust History Exporter downloads your Tompkins Trust history in OFX format.
+* `treegit`: an off-the-self cgit server with some helpers.
+* `urchin`: Urchin is a test framework for shell. It is implemented in
+    portable /bin/sh and should work on GNU/Linux, Mac OS X, and
+    other Unix platforms.
+* `usace-regulatory`: Download and parse US Army Corps of Engineers regulatory
+    public notices.
+* `voipms`: Send text messages through https://voip.ms
+* `web-browser-dvorak`: Type in Dvorak in your web browser.
+* `whom-to-email`: I like to know what my friends lives are like, and they seem
+    to like to know what mine is like, so I like to send them emails
+    about what my life is like.
+* `wsync`: **wsync** downloads and versions a url. It downloads the file, saves it with a
+    timestamp and links a current version to the timestamped version. If a
+    timestamped version already exists, wsync checks for differences between the new
+    file and the old file and does nothing if the new file is the same as the
+    previous version.
+* `zoetrope`: Zoetrope Produce video from a bunch of frames.
+* `_.thomaslevine.com`: My alternative to Twitter that actually works
+* AppGen: **AppGen** generates and serves big apps for New York City's Big Apps competition.
+
+Other
+
+* `dataset_owners`: Analyze Socrata dataset owner survey data.
+* `netwaves`: Encode arbitrary music and audio data in the same file.
+* `krounq`: Data music in R
+
+* `hardware_steno`: Embedded software for a USB stenotype
+* `nyc-bills-cleaning`: Clean up data from NYC bills
+* `hardware_steno-dictionaries`: My steno dictionaries
+* `hardware_steno-lib`: Libraries for the hardware steno project
+* `alongatag`: Prototype of a social connections service
+* `fc_newchapters`: Create new Students for Free Culture chapters
+* `nyclu`: Analysis of stop and frisk data
+* `historical_weather_download`: Download weather data.
+* `casual_computing`: Faro Arm data collection tools for a study on the use of
+    portable computing technology
+* `fb_friends_online`: Check which Facebook friends are online
+* `new_mexico_audits`: Download data about New Mexico audits
+* `postsecret_scraper`: Archive postcards from post secret.
+* `air_pollutants`: Collect data about air pollutants
+* `theatres`: scrape theatre contact information
+* `ptv2fcp`: Convert Pitivi save files to Final Cut XML.
+* `jsntp`: In-browser time synchronization similar to the Network Time Protocol
+* `burst_and_rename`: Rename PDF files.
+* `middlenames`: What proportion of people has middle names?
+* `cornell_library_checkout`: Scripts to scrape books from the Cornell Library website and automatically send requests.
+* `12daysplot`: Plots of the gifts my true love gave to me on the twelve days of Christmas
+* `hip_symmetry`: Are hips symmetrically placed on wheeled mobility devices, and what factors influence that symmetry?
+* `randomperson`: Software for selecting a random student from the Cornell electronic directory and announcing it automatically
+* `chainsaw`: Web scraping tools
+* `al-keyboard`: Keyboards for Albanian language in Dvorak and Colemak styles.
+* `amciv`: Historical trading data from [American Civics Exchange](http://amciv.com/)
+* `amtrak-stations`: Where are all the Amtrak stations?
+* `anyhttp`: anyhttp provides a generic layer to use existing http clients.
+* `audio-cable-power-controller`: Monitor audio cable signal to change speaker power
+* `awttje`: Determine whether a column contains nominal, ordinal, interval, or ratio data.
+* `axis-ticks`: Where should ticks be for a given plot?
+* `cgitrepos`: This tool helps you edit a cgitrepos file.
+* `clipper-card-history`: Parse your clipper card history.
+* `csvschema`: **csvschema** is a way of specifying a schema for tabular data.
+    It's built on top of CSV files.
+* `cu-police-daily`: Get the Cornell Police Daily Crime Log,
+    inspired by [Jonathan's](https://scraperwiki.com/scrapers/cornell_police_daily_crime_log/)
+* `data-guacamole`: A gastronomification of 
+    [New York City math test scores](https://data.cityofnewyork.us/Education/Math-Test-Results-2006-2012-District-All-Students/7yig-nj52)
+* `delete-email`: Delete all of the emails in a directory in an email account.
+* `ekg2-logsqlite-analysis`:
+    Analyze status activity from an EKG2 logsqlite database.
+* `fallos`: * Parse data from Fallos de Argentina
+* `featured-spreadsheets`: Download datasets from opendatasoft
+* `ggvideogame`: Plot plots to Hackerspace Bremen's videogame.
+* `guacamole`: Guacamole
+    Based on the prices of guacamole ingredients in New York over time, I generate
+    guacamole consistently priced guacamole recipes by month, which adapt a
+    standard guacamole recipe to the changes in ingredient prices.
+* `history-analysis`: Tom analyzes his history files
+* `names-tables`: Find data about middle names, and do fun things with them.
+* `human-trafficking`: Mine classified listings for potential human trafficking incidents.
+* `instead-of-ogrinspect`: Import GIS metadata
+* `ny-history-regents`: Download the history regents and convert them into a format useful for
+prediction of answers.
+* `nypd-xy`: how to convert NYPD X/Y to lat/lng?
+* `openlawoakland`: Parse Oakland's law.
+* `openlawsf`: Open San Francisco's law!
+* `openprism`: Type your search in one search bar, and get results from all of the Socrata and CKAN portals.
+* `philippines-cash-infrastructure`: Mine data about the Philippines cash infrastructure.
+* `phone-numbers`: Select phone numbers randomly and cost-effectively.
+* `php-heroku-proxy`: Proxy a website through Heroku.
+* `plots`: Plots for your shell
+* `plotter-plots`: Plot plots on a plotter.
+* `profile`: Tom's shell profile
+* `red-flags`: Quantify red flags of suspicious activities.
+* `redirect.thomaslevine.com`: Web domain redirects API.
+* `rripeatlas`: Query RIPE Atlas data from R
+* `scott`: **Scott**'s goal is to automate the tedious parts of
+    [Scott](http://healthygulf.org/who-we-are/staff/)'s
+    job so that he has time to do the important parts.
+* `socrata-metrics-api`: Download from the Socrata [site metrics API](http://thomaslevine.com/!/socrata-metrics-api/) and look at the results.
+* `socrata-nominate`: Suggest that analytics opened on Socrata portals.
+* `space-forecast`: Predict whether/when a hackerspace will be open today based on
+    Space API (http://spaceapi.net) data.
+* `spaceapi`: Archive data from the space API. I put it in my crontab like this. ::
+* `spacestatus-export`: Download historical Space API data from http://spacestatus.bastinat0r.de/
+    and emit it as CSV.
+* `spd-middle-names`: How many Seattle Police Department employees have middle names?
+* `sql-statistics`: These are some simple statistics implemented in SQL as understood by SQLite3.
+in multiple scripts. Nothing to see here.
+* `tzara`: Features for which to check distributions about columns
+* `united-states-middlenames`: United States Middle Names
+* `unwatermark`: Unwatermark removes Yahoo SiteBuilder's watermarks
+* `usaid-reporting`: How can we figure out how consistent reporting is?
+* `wetlands`: Army Corps 404 Website Scraper
+* `sparse-data-sonification`: Ambient music as a paridigm for sparse data sonification
+* `transit-ridership`: This is a data music video about the ridership of Chicago buses and New York subways for the past few years.
+* `treasuryiorb`: Ruby client for treasuryio
+* `fms-symphony`: FMS Symphony video
+* `fms-treasury-statements`: FMS Treasury Statement Parser
 
 ## Professional service
 I have reviewed submissions to
