@@ -361,20 +361,55 @@ Here are some audiences for which I've given them.
 * [Time capsule to be opened in 2065 preserves Cornell history](http://news.cornell.edu/stories/2012/11/time-capsule-preserves-cornell-history-until-2065). Cornell University.
 
 ## Notable software
-Libraries
 
-* `Rtreasuryio`: Access treasuryio in R
+### Rtreasuryio
+Rtreasuryio is an R client library for downloading data from the treasury.io
+data service and reifying them as data frames, R's standard representation of
+data tables.
+
+###
 * `aamoer`: Format open data dumps for reporting.
-* `bashful-fs`: A filesystem for [bashful](https://github.com/substack/bashful), implementing `fs.exists`, `fs.createReadStream` and `fs.createWriteStream`
-* `battleship-search`: maximize an n-dimensional landscape using the [battleship search algorithm](http://opensourceecology.org/wiki/Anthony_Repetto/Concept_Log#Binary_Search)
-* `battleship`: Battleship: Generalized Binary Search
-* `blizzard`: Find similar schemas across datasets.
-* `compress-opening-times`: Compress weekly opening time schedules.
-* `cons.sql`: I implemented cons cells in Postgres and then built functional data structures on top of them.
-* `craigsgenerator`: Export data from Craigslist
-* `ddpy`: Data music for big data analysis
-* `ddpy`: Data-driven music for Python
-* `dicti`: A case-insensitive dictionary
+
+### bashful-fs
+`bashful-fs` is a low-level component of a the bashful interpreter.
+The bashful interpreter is an implementation of the bash programming language
+that can run inside of web browsers. `bashful-fs` implements a conventional
+filesystem for, allowing for the manipulation of files inside of bashful.
+
+### blizzard
+Blizzard is a tool for surfacing similarities between disparate datasets.
+It infers the data schemas of various datasets and constructs a similarity
+graph between the datasets. This allows us to infer which datasets are
+similar in structure to which other datasets.
+
+### compress-opening-times
+compress-opening-times is a specialized compression algorithm for data about
+the opening times of brick-and-mortar businesses. It is implemented in
+Javascript, so it can be used for compression of data inside of websites.
+
+### cons.sql
+`cons.sql` implements the linked list data structure in the PostgreSQL
+database. This is a primitive language component that is necessary for
+more certain algorithms.
+
+### craigsgenerator
+Craigsgenerator is a Python library for export data from Craigslist.
+People use it to import data from Craigslist inside of Python programs.
+
+### ddpy
+ddpy is a tool for plotting big data in the form of music. It integrates
+with pandas, a common tool for big data analysis. Its notable feature is
+its user interface; it is essentially a music synthesizer with an
+interface designed for data scientists.
+
+### dicti
+dicti is a customized version of Python's primitive dictionary data
+structure. This data structure is a fundamental part of the language
+that is often used to store text. In case in stores text, the text is
+case-sensitive. In many instances, it is beneficial to have a
+dictionary where the text is case-insensitive, and that is what dicti
+provides.
+
 * `dumptruck`: SQLite3 interface for Python
 * `geom_doner`: Plot data as döner
 * `geom_taco`: Turn data into tacos.
