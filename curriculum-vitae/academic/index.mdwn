@@ -46,6 +46,11 @@ each of R, Python, and Shell.
 ### Projects
 Here are some projects I've done.
 
+**Data integration**
+dv01. New York, NY, USA. June 2015.
+I am integrating data from assorted loan originators into a unified
+analytics platform.
+
 **Data management platform**.
 New Orleans, Louisiana. May 2012 to present (two days per month).
 I assist [Gulf Restoration Network](https://healthygulf.org/)'s
@@ -188,168 +193,160 @@ Here are some audiences for which I've given them.
 
 <!-- copy (select '* Thomas Levine (201X). [' || title || '](https://thomaslevine.com/!/' || endpoint || '/)' from articles_article) to '/tmp/articles.csv' -->
 
-* Thomas Levine (2015). [How I think about plotting data](https://thomaslevine.com/!/how-tom-plots/)
-* Thomas Levine (2015). [Vlermv](https://thomaslevine.com/!/vlermv/)
+* csv soundsystem (2013). [Introducing treasury.io](https://source.opennews.org/en-US/articles/introducing-treasuryio/). OpenNews Source Blog.
+* Thomas Levine (2015). [whom-to-email](https://thomaslevine.com/!/whom-to-email/)
+* Thomas Levine (2015). [templating languages](https://thomaslevine.com/!/templating-languages/)
+* Thomas Levine (2015). [tech company evangalism](https://thomaslevine.com/!/tech-company-evangalism/)
+* Thomas Levine (2015). [print(Formaldehyde)](https://thomaslevine.com/!/print-formaldehyde/)
+* Thomas Levine (2015). [network time protocol game](https://thomaslevine.com/!/network-time-protocol-game/)
 * Thomas Levine (2015). [What is data, and what is a data scientist?](https://thomaslevine.com/!/data/)
-* Thomas Levine (2013). [100,000 open data across 100 portal](https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/)
-* Thomas Levine (2013). [How to use Socrata's site metrics API](https://thomaslevine.com/!/socrata-metrics-api/)
-* Thomas Levine (2013). [Open by default](https://thomaslevine.com/!/open-by-default/)
+* Thomas Levine (2015). [Vlermv](https://thomaslevine.com/!/vlermv/)
+* Thomas Levine (2015). [Tom Computer School](https://thomaslevine.com/!/tom-computer-school/)
+* Thomas Levine (2015). [Surveilling people is harder than I had though](https://thomaslevine.com/!/surveilling-people-is-harder-than-i-had-thought/)
+* Thomas Levine (2015). [Static site generator usage](https://thomaslevine.com/!/finding-statically-generated-sites/)
+* Thomas Levine (2015). [Should I do a computer bootcamp?](https://thomaslevine.com/!/computer-bootcamps/)
+* Thomas Levine (2015). [Running shell commands](https://thomaslevine.com/!/running-shell-commands/)
+* Thomas Levine (2015). [Journalism-driven data](https://thomaslevine.com/!/camayak-music/)
+* Thomas Levine (2015). [How I think about plotting data](https://thomaslevine.com/!/how-tom-plots/)
+* Thomas Levine (2015). [Configuring web servers](https://thomaslevine.com/!/configuring-web-servers/)
+* Thomas Levine (2015). [Carmel-by-the-Sea](https://thomaslevine.com/!/carmel-by-the-sea/). (Data-driven travel.)
+* Thomas Levine (2014). [tmux aliases](https://thomaslevine.com/!/tmux-aliases/)
+* Thomas Levine (2014). [r for aggregation](https://thomaslevine.com/!/r-for-aggregation/)
+* Thomas Levine (2014). [geom_doner](https://thomaslevine.com/!/geom_doner/)
+* Thomas Levine (2014). [finding country names](https://thomaslevine.com/!/finding-country-names/)
+* Thomas Levine (2014). [Zombie links on data catalogs](https://thomaslevine.com/!/zombie-links/)
+* Thomas Levine (2014). [Why do people crack their wrists?](https://thomaslevine.com/!/why-do-people-crack-wrists/)
+* Thomas Levine (2014). [What happens when you use Socrata's Contact Dataset Owner feature](https://thomaslevine.com/!/dataset-owners/)
+* Thomas Levine (2014). [What I think people who want to learn programming should learn](https://thomaslevine.com/!/what-programming-to-learn/)
+* Thomas Levine (2014). [Web sites to data tables, in depth](http://thomaslevine.com/!/web-sites-to-data-tables-in-depth/)
+* Thomas Levine (2014). [Tom makes some emails public](https://thomaslevine.com/!/ejnug/)
+* Thomas Levine (2014). [Tom does silly things with lots of spreadsheets](https://thomaslevine.com/!/silly-spreadsheets-2014-07/)
+* Thomas Levine (2014). [Terminal history](https://thomaslevine.com/!/terminal-history/)
+* Thomas Levine (2014). [Statistics with Doodles](https://thomaslevine.com/!/statistics-with-doodles-2014-03/)
+* Thomas Levine (2014). [Sliding Window](https://thomaslevine.com/!/sliding-window-and-the-merits-of-tiny-modules/)
+* Thomas Levine (2014). [Sheetmusic](https://thomaslevine.com/!/sheetmusic/)
+* Thomas Levine (2014). [Searching data tables](https://thomaslevine.com/!/searching-data-tables/)
+* Thomas Levine (2014). [Searching data tables better](https://thomaslevine.com/!/searching-data-tables-better/)
+* Thomas Levine (2014). [Replacing the graphical calculator with a CLI](https://thomaslevine.com/!/switching-to-command-line/calculator/)
+* Thomas Levine (2014). [R for people who already know something about programming](https://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming/)
+* Thomas Levine (2014). [Pie π](https://thomaslevine.com/!/pie-π/)
+* Thomas Levine (2014). [Open Data 500 Data Package](https://thomaslevine.com/!/open-data-500-data-package/)
 * Thomas Levine (2014). [NYC Crime Map Data API](https://thomaslevine.com/!/nyc-crime-map/)
+* Thomas Levine (2014). [My personal computer infrastructure](https://thomaslevine.com/!/computers/infrastructure-2012/)
+* Thomas Levine (2014). [Learning data stuff](https://thomaslevine.com/!/learning-data-stuff/)
+* Thomas Levine (2014). [Hyperconversation](https://thomaslevine.com/!/hypermediated-conversation/)
+* Thomas Levine (2014). [Higher-power distance measures](https://thomaslevine.com/!/higher-power-distance-measures/)
+* Thomas Levine (2014). [Exchanging backups with Tom](https://thomaslevine.com/!/computers/public-backups/)
+* Thomas Levine (2014). [Data Visualization Needs to Die](https://thomaslevine.com/!/data-visualization-needs-to-die/)
+* Thomas Levine (2014). [Command-line equivalents to graphical programs](https://thomaslevine.com/!/switching-to-command-line/)
+* Thomas Levine (2014). [Can we open our open data questionnaires?](https://thomaslevine.com/!/open-data-500-global-open-data-initiative-survey/)
+* Thomas Levine (2014). [A data dictionary of the Open Data 500 data](https://thomaslevine.com/!/open-data-500-data-dictionary/)
+* Thomas Levine (2014). Open data had better be data-driven. Open Innovation, winter 2014.
+* Thomas Levine (2013). [treasury.io](https://thomaslevine.com/!/treasury.io/)
+* Thomas Levine (2013). [socrata schema](https://thomaslevine.com/!/socrata-schema/)
+* Thomas Levine (2013). [setxkbmap aliases](https://thomaslevine.com/!/setxkbmap-aliases/)
+* Thomas Levine (2013). [scp wrapper](https://thomaslevine.com/!/scp-wrapper/)
+* Thomas Levine (2013). [open data census](https://thomaslevine.com/!/open-data-census/)
+* Thomas Levine (2013). [importxml](https://thomaslevine.com/!/importxml/)
+* Thomas Levine (2013). [imapfilter](https://thomaslevine.com/!/imapfilter/)
+* Thomas Levine (2013). [XML Parsers in Different Languages](https://thomaslevine.com/!/xml-parsers/)
+* Thomas Levine (2013). [Who uses Socrata's in-browser charting features?](https://thomaslevine.com/!/socrata-users/)
+* Thomas Levine (2013). [What's in a table](http://www.datakind.org/blog/whats-in-a-table/). DataKind Blog.
+* Thomas Levine (2013). [What's in a table](http://www.datakind.org/blog/whats-in-a-table/). DataKind Blog.
+* Thomas Levine (2013). [What's in a count?](https://thomaslevine.com/!/socrata-deduplicate/)
+* Thomas Levine (2013). [What is open data?](https://thomaslevine.com/!/what-is-open-data/)
+* Thomas Levine (2013). [What file formats are on the data portals?](https://thomaslevine.com/!/socrata-formats/)
+* Thomas Levine (2013). [Updating of data catalogs](https://thomaslevine.com/!/data-updatedness/)
+* Thomas Levine (2013). [Two meanings of "variable"](http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/). DataKind Blog.
+* Thomas Levine (2013). [Two meanings of "variable"](http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/). DataKind Blog.
+* Thomas Levine (2013). [Themes in my data research about data](https://thomaslevine.com/!/data-data-themes/)
+* Thomas Levine (2013). [The Street Sign Protocol](https://thomaslevine.com/!/street-sign-protocol/)
 * Thomas Levine (2013). [The Ridership Rachenitsa](https://thomaslevine.com/!/ridership-rachenitsa/)
 * Thomas Levine (2013). [Tests for your shell](https://thomaslevine.com/!/shell-testing/)
-* Thomas Levine (2013). [How to read your tax bill](https://thomaslevine.com/!/scarsdale-tax-bill/)
-* Thomas Levine (2015). [Journalism-driven data](https://thomaslevine.com/!/camayak-music/)
-* Thomas Levine (2014). [finding country names](https://thomaslevine.com/!/finding-country-names/)
-* Thomas Levine (2010). [paul rand pizza box](https://thomaslevine.com/!/paul-rand-pizza-box/)
-* Thomas Levine (2013). [What is open data?](https://thomaslevine.com/!/what-is-open-data/)
-* Thomas Levine (2015). [whom-to-email](https://thomaslevine.com/!/whom-to-email/)
-* Thomas Levine (2012). [Do all "analysts" use Excel?"](https://thomaslevine.com/!/excel/)
-* Thomas Levine (2014). [R for people who already know something about programming](https://thomaslevine.com/!/r-for-people-who-already-know-something-about-programming/)
-* Thomas Levine (2013). [License-free data in Missouri's data portal](https://thomaslevine.com/!/missouri-data-licensing/)
-* Thomas Levine (2014). [Tom does silly things with lots of spreadsheets](https://thomaslevine.com/!/silly-spreadsheets-2014-07/)
-* Thomas Levine (2012). [English and American](https://thomaslevine.com/!/english/)
-* Thomas Levine (2015). [Tom Computer School](https://thomaslevine.com/!/tom-computer-school/)
-* Thomas Levine (2013). [imapfilter](https://thomaslevine.com/!/imapfilter/)
-* Thomas Levine (2013). [FMS Symphony](https://thomaslevine.com/!/fms-symphony/)
-* Thomas Levine (2013). [Multisensory data experiences](https://thomaslevine.com/!/sensory-data-experiences/)
-\N
-* Thomas Levine (2012). [Data business models](https://thomaslevine.com/!/data-business-models/)
-* Thomas Levine (2013). [Assessed property values](https://thomaslevine.com/!/scarsdale-assessment-distribution/)
-* Thomas Levine (2013). [What's in a count?](https://thomaslevine.com/!/socrata-deduplicate/)
-* Thomas Levine (2014). [Replacing the graphical calculator with a CLI](https://thomaslevine.com/!/switching-to-command-line/calculator/)
-* Thomas Levine (2012). [Big Data Ergonomics](https://thomaslevine.com/!/big-data-ergonomics/)
-* Thomas Levine (2014). [Data Visualization Needs to Die](https://thomaslevine.com/!/data-visualization-needs-to-die/)
-* Thomas Levine (2014). [A data dictionary of the Open Data 500 data](https://thomaslevine.com/!/open-data-500-data-dictionary/)
 * Thomas Levine (2013). [Taxes and inflation](https://thomaslevine.com/!/scarsdale-tax-rate/)
-* Thomas Levine (2013). [OpenPrism](https://thomaslevine.com/!/openprism/)
-* Thomas Levine (2014). [Command-line equivalents to graphical programs](https://thomaslevine.com/!/switching-to-command-line/)
-* Thomas Levine (2013). [Scarsdale Village Funds](https://thomaslevine.com/!/scarsdale-village-funds/)
-* Thomas Levine (2014). [Hyperconversation](https://thomaslevine.com/!/hypermediated-conversation/)
-* Thomas Levine (2013). [How to make a personal website, in 9001 easy steps](https://thomaslevine.com/!/making-your-personal-website/)
-* Thomas Levine (2013). [Progeny of Ten Socrata Datasets](https://thomaslevine.com/!/socrata-genealogies/)
-* Thomas Levine (2011). [pbdq](https://thomaslevine.com/!/pbdq/)
-* Thomas Levine (2014). [Can we open our open data questionnaires?](https://thomaslevine.com/!/open-data-500-global-open-data-initiative-survey/)
-* Thomas Levine (2013). [Capital projects](https://thomaslevine.com/!/scarsdale-2008-budget-shift/)
-* Thomas Levine (2013). [Semi-open data about pricing of open data](https://thomaslevine.com/!/socrata-products/)
-* Thomas Levine (2014). [Higher-power distance measures](https://thomaslevine.com/!/higher-power-distance-measures/)
-* Thomas Levine (2014). [Zombie links on data catalogs](https://thomaslevine.com/!/zombie-links/)
-* Thomas Levine (2015). [Configuring web servers](https://thomaslevine.com/!/configuring-web-servers/)
-* Thomas Levine (2013). [Analyze all the datasets](https://thomaslevine.com/!/socrata-summary/)
-* Thomas Levine (2013). [socrata schema](https://thomaslevine.com/!/socrata-schema/)
-* Thomas Levine (2013). [Open Calendars](https://thomaslevine.com/!/socrata-calendars/)
-* Thomas Levine (2012). [Prevalence of Middle Names](https://thomaslevine.com/!/middle-names/)
-* Thomas Levine (2012). [Searching lots of inconveniently formatted files at once](https://thomaslevine.com/!/techcamp-sarajevo-searching-lots-of-files/)
-* Thomas Levine (2013). [The Street Sign Protocol](https://thomaslevine.com/!/street-sign-protocol/)
-* Thomas Levine (2013). [Bits](https://thomaslevine.com/!/bits/)
-* Thomas Levine (2013). [Datasets about open data](https://thomaslevine.com/!/my-datasets-about-open-data/)
-* Thomas Levine (2015). [Running shell commands](https://thomaslevine.com/!/running-shell-commands/)
-* Thomas Levine (2013). [importxml](https://thomaslevine.com/!/importxml/)
-* Thomas Levine (2013). [Brainstorming](https://thomaslevine.com/!/brainstorming/)
-* Thomas Levine (2015). [tech company evangalism](https://thomaslevine.com/!/tech-company-evangalism/)
-* Thomas Levine (2014). [What happens when you use Socrata's Contact Dataset Owner feature](https://thomaslevine.com/!/dataset-owners/)
-* Thomas Levine (2013). [treasury.io](https://thomaslevine.com/!/treasury.io/)
-* Thomas Levine (2012). [How principle component analysis works](https://thomaslevine.com/!/pca/)
-* Thomas Levine (2012). [Handling exceptions in scrapers](https://thomaslevine.com/!/scraper_exceptions/)
-* Thomas Levine (2013). [Don't let binary files scare you](https://thomaslevine.com/!/downloading-binary-files-is-not-magic/)
-* Thomas Levine (2014). [Learning data stuff](https://thomaslevine.com/!/learning-data-stuff/)
-* Thomas Levine (2012). [Microfinance Data Scraping](https://thomaslevine.com/!/mix-data-scraping/)
-* Thomas Levine (2013). [R graphics tricks that you probably shouldn't use](https://thomaslevine.com/!/r-curses-for-data-witches/)
-* Thomas Levine (2013). [Open data licensing](https://thomaslevine.com/!/open-data-licensing/)
-* Thomas Levine (2014). [Open Data 500 Data Package](https://thomaslevine.com/!/open-data-500-data-package/)
-* Thomas Levine (2012). [Hip 'Data' Terms](https://thomaslevine.com/!/hip-data-nonsense/)
-* Thomas Levine (2013). [Dead links on data catalogs](https://thomaslevine.com/!/data-catalog-dead-links/)
-* Thomas Levine (2014). [Statistics with Doodles](https://thomaslevine.com/!/statistics-with-doodles-2014-03/)
-* Thomas Levine (2015). [templating languages](https://thomaslevine.com/!/templating-languages/)
-* Thomas Levine (2013). [Updating of data catalogs](https://thomaslevine.com/!/data-updatedness/)
-* Thomas Levine (2013). [Organizing my data about data](https://thomaslevine.com/!/better-datasets-about-open-data/)
-* Thomas Levine (2013). [My visit to Socrata, and data analysis about data analysis](https://thomaslevine.com/!/visiting-socrata/)
-* Thomas Levine (2013). [Decompilers in CSS](https://thomaslevine.com/!/decompilers-in-css/)
-* Thomas Levine (2011). [Why don't people use this reading room?](https://thomaslevine.com/!/uris-library/)
-* Thomas Levine (2013). [Real World Algorithms](https://thomaslevine.com/!/real-world-algorithms/)
-* Thomas Levine (2014). [Why do people crack their wrists?](https://thomaslevine.com/!/why-do-people-crack-wrists/)
-
-
-* Thomas Levine (2012). [Local ScraperWiki Library](https://thomaslevine.com/!/dumptruck-0.0.1/)
-* Thomas Levine (2013). [Gastronomify](https://thomaslevine.com/!/first-gastronomification-r-package/)
-* Thomas Levine (2012). [Websites to data tables](https://thomaslevine.com/!/web-sites-to-data-tables/)
-* Thomas Levine (2013). [What file formats are on the data portals?](https://thomaslevine.com/!/socrata-formats/)
-* Thomas Levine (2014). [Tom makes some emails public](https://thomaslevine.com/!/ejnug/)
-* Thomas Levine (2013). [Who uses Socrata's in-browser charting features?](https://thomaslevine.com/!/socrata-users/)
-* Thomas Levine (2011). [modernist pizza box](https://thomaslevine.com/!/modernist-pizza-box/)
-* Thomas Levine (2013). [setxkbmap aliases](https://thomaslevine.com/!/setxkbmap-aliases/)
-* Thomas Levine (2014). [My personal computer infrastructure](https://thomaslevine.com/!/computers/infrastructure-2012/)
-* Thomas Levine (2014). [Exchanging backups with Tom](https://thomaslevine.com/!/computers/public-backups/)
-* Thomas Levine (2012). [HTML table to matrix](https://thomaslevine.com/!/htmltable2matrix/)
-* Thomas Levine (2013). [open data census](https://thomaslevine.com/!/open-data-census/)
-* Thomas Levine (2012). [Learn Computers Through Everyday Activities](https://thomaslevine.com/!/learn-programming-through/)
 * Thomas Levine (2013). [Statistics through doodles](https://thomaslevine.com/!/statistics-with-doodles-sudoroom/)
-* Thomas Levine (2012). [Moments of a function](https://thomaslevine.com/!/moments-of-a-function/)
-* Thomas Levine (2012). [Twitter Scraper Library](https://thomaslevine.com/!/twitter-scraper-library/)
-* Thomas Levine (2015). [Should I do a computer bootcamp?](https://thomaslevine.com/!/computer-bootcamps/)
-* Thomas Levine (2014). [What I think people who want to learn programming should learn](https://thomaslevine.com/!/what-programming-to-learn/)
-* Thomas Levine (2015). [Carmel-by-the-Sea](https://thomaslevine.com/!/carmel-by-the-sea/). (Data-driven travel.)
-* Thomas Levine (2014). [Searching data tables better](https://thomaslevine.com/!/searching-data-tables-better/)
-* Thomas Levine (2013). [Themes in my data research about data](https://thomaslevine.com/!/data-data-themes/)
-* Thomas Levine (2014). [Pie π](https://thomaslevine.com/!/pie-π/)
-* Thomas Levine (2010). [A functional ergonomic analysis of public toilets](https://thomaslevine.com/!/toilet-ergonomic-analysis/)
-* Thomas Levine (2015). [Static site generator usage](https://thomaslevine.com/!/finding-statically-generated-sites/)
-* Thomas Levine (2015). [print(Formaldehyde)](https://thomaslevine.com/!/print-formaldehyde/)
-* Thomas Levine (2012). [URL Encoding and Decoding](https://thomaslevine.com/!/url-encoding-aliases/)
-* Thomas Levine (2013). [Open Data in Plain English](https://thomaslevine.com/!/open-data-in-plain-english/)
-* Thomas Levine (2012). [Design for varied ability](https://thomaslevine.com/!/cherrywood-menu/)
-* Thomas Levine (2012). [Installing Selenium](https://thomaslevine.com/!/selenium/)
-\N
-* Thomas Levine (2013). [XML Parsers in Different Languages](https://thomaslevine.com/!/xml-parsers/)
-* Thomas Levine (2013). [Email address validation](https://thomaslevine.com/!/email-address-validation/)
-* Thomas Levine (2013). [Arrays](https://thomaslevine.com/!/arrays/)
-* Thomas Levine (2014). [Sliding Window](https://thomaslevine.com/!/sliding-window-and-the-merits-of-tiny-modules/)
-* Thomas Levine (2014). [Terminal history](https://thomaslevine.com/!/terminal-history/)
-* Thomas Levine (2014). [geom_doner](https://thomaslevine.com/!/geom_doner/)
-* Thomas Levine (2015). [network time protocol game](https://thomaslevine.com/!/network-time-protocol-game/)
-* Thomas Levine (2014). [tmux aliases](https://thomaslevine.com/!/tmux-aliases/)
-* Thomas Levine (2015). [Surveilling people is harder than I had though](https://thomaslevine.com/!/surveilling-people-is-harder-than-i-had-thought/)
-* Thomas Levine (2012). [Bare domain redirect server](https://thomaslevine.com/!/bare-domain-redirect-server/)
-* Thomas Levine (2012). [Scarsdale data journalism](https://thomaslevine.com/!/scarsdale-why/)
-* Thomas Levine (2014). [r for aggregation](https://thomaslevine.com/!/r-for-aggregation/)
-* Thomas Levine (2013). [Linked Lists](https://thomaslevine.com/!/linked-lists/)
-* Thomas Levine (2013). [scp wrapper](https://thomaslevine.com/!/scp-wrapper/)
-* Thomas Levine (2012). [Datestamped archives of a webpage](https://thomaslevine.com/!/wsync/)
-* Thomas Levine (2012). [Where does the "market value" on your tax bill come from?](https://thomaslevine.com/!/scarsdale-estimated-market-values/)
-* Thomas Levine (2014). [Searching data tables](https://thomaslevine.com/!/searching-data-tables/)
-* Thomas Levine (2012). [DumpTruck Version 0.0.3](https://thomaslevine.com/!/dumptruck-0.0.3/)
-* Thomas Levine (2013). [Preserving whitespace in haml](https://thomaslevine.com/!/preserve-whitespace-in-haml/)
-\N
-* Thomas Levine (2014). [Sheetmusic](https://thomaslevine.com/!/sheetmusic/)
-
-
-* Thomas Levine (2014). [Web sites to data tables, in depth](http://thomaslevine.com/!/web-sites-to-data-tables-in-depth/)
-* Thomas Levine (2014). Open data had better be data-driven. Open Innovation, winter 2014.
-* Thomas Levine (2013). [Two meanings of "variable"](http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/). DataKind Blog.
-* Thomas Levine (2013). [Searching lots of inconveniently formatted files at once](http://communityboostr.org/resource/searching-lots-inconveniently-formatted-files-once). Community Boost\_r Resources.
-* Thomas Levine (2013). [How I parse PDF files](http://thomaslevine.com/!/parsing-pdfs).
-* Thomas Levine (2013). [R Spells for Data wizards](http://thomaslevine.com/!/r-spells-for-data-wizards).
-* Thomas Levine (2013). [What's in a table](http://www.datakind.org/blog/whats-in-a-table/). DataKind Blog.
-* Thomas Levine (2013). [Two meanings of "variable"](http://www.datakind.org/blog/multiple-meanings-of-the-word-variable/). DataKind Blog.
-* Thomas Levine (2013). [My Visit to Socrata, and Data Analysis About Data Analysis](http://www.socrata.com/blog/my-visit-to-socrata-and-data-analysis-about-data-analysis/). Socrata.
-* Thomas Levine (2013). [What's in a table](http://www.datakind.org/blog/whats-in-a-table/). DataKind Blog.
 * Thomas Levine (2013). [Socrata summary](http://thomaslevine.com/!/socrata-summary).
 * Thomas Levine (2013). [Socrata products](http://thomaslevine.com/!/socrata-products).
+* Thomas Levine (2013). [Semi-open data about pricing of open data](https://thomaslevine.com/!/socrata-products/)
+* Thomas Levine (2013). [Searching lots of inconveniently formatted files at once](http://communityboostr.org/resource/searching-lots-inconveniently-formatted-files-once). Community Boost\_r Resources.
+* Thomas Levine (2013). [Scarsdale Village Funds](https://thomaslevine.com/!/scarsdale-village-funds/)
+* Thomas Levine (2013). [Real World Algorithms](https://thomaslevine.com/!/real-world-algorithms/)
+* Thomas Levine (2013). [R graphics tricks that you probably shouldn't use](https://thomaslevine.com/!/r-curses-for-data-witches/)
+* Thomas Levine (2013). [R Spells for Data wizards](http://thomaslevine.com/!/r-spells-for-data-wizards).
+* Thomas Levine (2013). [Progeny of Ten Socrata Datasets](https://thomaslevine.com/!/socrata-genealogies/)
+* Thomas Levine (2013). [Preserving whitespace in haml](https://thomaslevine.com/!/preserve-whitespace-in-haml/)
+* Thomas Levine (2013). [Organizing my data about data](https://thomaslevine.com/!/better-datasets-about-open-data/)
+* Thomas Levine (2013). [OpenPrism](https://thomaslevine.com/!/openprism/)
+* Thomas Levine (2013). [Open data licensing](https://thomaslevine.com/!/open-data-licensing/)
 * Thomas Levine (2013). [Open data licensing](http://thomaslevine.com/!/open-data-licensing).
-* csv soundsystem (2013). [Introducing treasury.io](https://source.opennews.org/en-US/articles/introducing-treasuryio/). OpenNews Source Blog.
+* Thomas Levine (2013). [Open by default](https://thomaslevine.com/!/open-by-default/)
+* Thomas Levine (2013). [Open Data in Plain English](https://thomaslevine.com/!/open-data-in-plain-english/)
+* Thomas Levine (2013). [Open Calendars](https://thomaslevine.com/!/socrata-calendars/)
+* Thomas Levine (2013). [My visit to Socrata, and data analysis about data analysis](https://thomaslevine.com/!/visiting-socrata/)
+* Thomas Levine (2013). [My Visit to Socrata, and Data Analysis About Data Analysis](http://www.socrata.com/blog/my-visit-to-socrata-and-data-analysis-about-data-analysis/). Socrata.
+* Thomas Levine (2013). [Multisensory data experiences](https://thomaslevine.com/!/sensory-data-experiences/)
+* Thomas Levine (2013). [Linked Lists](https://thomaslevine.com/!/linked-lists/)
+* Thomas Levine (2013). [License-free data in Missouri's data portal](https://thomaslevine.com/!/missouri-data-licensing/)
 * Thomas Levine (2013).
     [The Hovering Cycle](http://www.phlush.org/2013/02/23/the-hovering-cycle/).
     Phlush Blog.
+* Thomas Levine (2013). [How to use Socrata's site metrics API](https://thomaslevine.com/!/socrata-metrics-api/)
+* Thomas Levine (2013). [How to read your tax bill](https://thomaslevine.com/!/scarsdale-tax-bill/)
+* Thomas Levine (2013). [How to make a personal website, in 9001 easy steps](https://thomaslevine.com/!/making-your-personal-website/)
+* Thomas Levine (2013). [How I parse PDF files](http://thomaslevine.com/!/parsing-pdfs).
+* Thomas Levine (2013). [Gastronomify](https://thomaslevine.com/!/first-gastronomification-r-package/)
+* Thomas Levine (2013). [FMS Symphony](https://thomaslevine.com/!/fms-symphony/)
+* Thomas Levine (2013). [Email address validation](https://thomaslevine.com/!/email-address-validation/)
+* Thomas Levine (2013). [Don't let binary files scare you](https://thomaslevine.com/!/downloading-binary-files-is-not-magic/)
+* Thomas Levine (2013). [Decompilers in CSS](https://thomaslevine.com/!/decompilers-in-css/)
+* Thomas Levine (2013). [Dead links on data catalogs](https://thomaslevine.com/!/data-catalog-dead-links/)
+* Thomas Levine (2013). [Datasets about open data](https://thomaslevine.com/!/my-datasets-about-open-data/)
+* Thomas Levine (2013). [Capital projects](https://thomaslevine.com/!/scarsdale-2008-budget-shift/)
+* Thomas Levine (2013). [Brainstorming](https://thomaslevine.com/!/brainstorming/)
+* Thomas Levine (2013). [Bits](https://thomaslevine.com/!/bits/)
+* Thomas Levine (2013). [Assessed property values](https://thomaslevine.com/!/scarsdale-assessment-distribution/)
+* Thomas Levine (2013). [Arrays](https://thomaslevine.com/!/arrays/)
+* Thomas Levine (2013). [Analyze all the datasets](https://thomaslevine.com/!/socrata-summary/)
+* Thomas Levine (2013). [100,000 open data across 100 portal](https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/)
+* Thomas Levine (2012). [Where does the "market value" on your tax bill come from?](https://thomaslevine.com/!/scarsdale-estimated-market-values/)
+* Thomas Levine (2012). [Websites to data tables](https://thomaslevine.com/!/web-sites-to-data-tables/)
+* Thomas Levine (2012). [URL Encoding and Decoding](https://thomaslevine.com/!/url-encoding-aliases/)
+* Thomas Levine (2012). [Twitter Scraper Library](https://thomaslevine.com/!/twitter-scraper-library/)
+* Thomas Levine (2012). [Searching lots of inconveniently formatted files at once](https://thomaslevine.com/!/techcamp-sarajevo-searching-lots-of-files/)
+* Thomas Levine (2012). [Scarsdale data journalism](https://thomaslevine.com/!/scarsdale-why/)
+* Thomas Levine (2012). [Prevalence of Middle Names](https://thomaslevine.com/!/middle-names/)
+* Thomas Levine (2012). [Moments of a function](https://thomaslevine.com/!/moments-of-a-function/)
+* Thomas Levine (2012). [Microfinance Data Scraping](https://thomaslevine.com/!/mix-data-scraping/)
 * Thomas Levine (2012).
     [The New British Invasion: Scraper Wiki hits the Big Apple](http://datadrivenjournalism.net/news_and_analysis/scraperwiki_new_york_data_camp).
     Data Driven Journalism.
-* Thomas Levine (2012). [Beaglebone power supplies](http://thomaslevine.com/!/beaglebone-power).
-* Thomas Levine (2011). [Unsanitary conditions in dormitory bathrooms](https://thomaslevine.com/!/risley-toilets/)
+* Thomas Levine (2012). [Local ScraperWiki Library](https://thomaslevine.com/!/dumptruck-0.0.1/)
+* Thomas Levine (2012). [Learn Computers Through Everyday Activities](https://thomaslevine.com/!/learn-programming-through/)
+* Thomas Levine (2012). [Installing Selenium](https://thomaslevine.com/!/selenium/)
+* Thomas Levine (2012). [How principle component analysis works](https://thomaslevine.com/!/pca/)
+* Thomas Levine (2012). [Hip 'Data' Terms](https://thomaslevine.com/!/hip-data-nonsense/)
+* Thomas Levine (2012). [Handling exceptions in scrapers](https://thomaslevine.com/!/scraper_exceptions/)
+* Thomas Levine (2012). [HTML table to matrix](https://thomaslevine.com/!/htmltable2matrix/)
+* Thomas Levine (2012). [English and American](https://thomaslevine.com/!/english/)
+* Thomas Levine (2012). [DumpTruck Version 0.0.3](https://thomaslevine.com/!/dumptruck-0.0.3/)
+* Thomas Levine (2012). [Do all "analysts" use Excel?"](https://thomaslevine.com/!/excel/)
+* Thomas Levine (2012). [Design for varied ability](https://thomaslevine.com/!/cherrywood-menu/)
+* Thomas Levine (2012). [Datestamped archives of a webpage](https://thomaslevine.com/!/wsync/)
+* Thomas Levine (2012). [Data business models](https://thomaslevine.com/!/data-business-models/)
+* Thomas Levine (2012). [Big Data Ergonomics](https://thomaslevine.com/!/big-data-ergonomics/)
+* Thomas Levine (2012). [Bare domain redirect server](https://thomaslevine.com/!/bare-domain-redirect-server/)
+* Thomas Levine (2011). [pbdq](https://thomaslevine.com/!/pbdq/)
+* Thomas Levine (2011). [modernist pizza box](https://thomaslevine.com/!/modernist-pizza-box/)
+* Thomas Levine (2011). [Why don't people use this reading room?](https://thomaslevine.com/!/uris-library/)
+* Thomas Levine (2010). [paul rand pizza box](https://thomaslevine.com/!/paul-rand-pizza-box/)
+* Thomas Levine (2010). [A functional ergonomic analysis of public toilets](https://thomaslevine.com/!/toilet-ergonomic-analysis/)
 * Thomas Levine (2009). How do people position keyboards? International Ergonomics Association World Congress Proceedings, 17.
 * Thomas Levine (2008). Effect of the number pad on mousing location. Human Factors and Ergonomics Society Annual Meeting Proceedings, 52, 1307-1311.
 
 ## Press
 
 * PSFK (2015). [Journalism Software Turns PSFK’s Workflow into Catchy Techno](http://www.psfk.com/2015/05/data-driven-music-journalism-software-turns-data-into-catchy-techno-camayak-visualizations.html). PSFK.com.
+* Ion Mates (2015). [Leveraging music to help people understand data](http://onlinejournalismblog.com/2015/05/11/leveraging-music-to-help-people-understand-data/). Online Journalism Blog.
 * Emily Badger (2013). [Visualizing the Impact of Mega-Storms on Transit](http://www.theatlanticcities.com/commute/2013/05/visualizing-impact-mega-storms-transit/5660/). The Atlantic Cities.
 * Teresa Bouza (2013). [Conversation with Tom Levine](http://www.youtube.com/watch?v=wX7IedZCTSo).
 * Mariano Blejman (2012). [Periodismo reiniciado](http://www.pagina12.com.ar/diario/cdigital/31-202522-2012-09-04.html). Página 12.
