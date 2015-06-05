@@ -276,7 +276,6 @@ Here are some audiences for which I've given them.
 * Thomas Levine (2013). [Preserving whitespace in haml](https://thomaslevine.com/!/preserve-whitespace-in-haml/)
 * Thomas Levine (2013). [Organizing my data about data](https://thomaslevine.com/!/better-datasets-about-open-data/)
 * Thomas Levine (2013). [OpenPrism](https://thomaslevine.com/!/openprism/)
-* Thomas Levine (2013). [Open data licensing](https://thomaslevine.com/!/open-data-licensing/)
 * Thomas Levine (2013). [Open data licensing](http://thomaslevine.com/!/open-data-licensing).
 * Thomas Levine (2013). [Open by default](https://thomaslevine.com/!/open-by-default/)
 * Thomas Levine (2013). [Open Data in Plain English](https://thomaslevine.com/!/open-data-in-plain-english/)
