@@ -410,11 +410,43 @@ case-sensitive. In many instances, it is beneficial to have a
 dictionary where the text is case-insensitive, and that is what dicti
 provides.
 
-* `dumptruck`: SQLite3 interface for Python
-* `geom_doner`: Plot data as döner
-* `geom_taco`: Turn data into tacos.
-* `geom_tacofancy`: Turn data into tacos with tacofancy.
-* `get-cached`: Cached web requests
+
+### Dumptruck
+DumpTruck is a document-like interface to a SQLite3 database, designed
+to make it easy to use a SQLite3 from Python.
+
+### geom\_döner
+geom\_döner is a data gastronomification feature for the ggplot2
+data-plotting framework. It allows for data to be plotted in the form
+of döner kebabs, in addition to conventional visualizations, such as
+scatterplots. It transforms the inputted data into orders that may be
+presented to a fast-food restaurant.
+
+### geom\_taco
+geom\_döner is a data gastronomification feature for the ggplot2
+data-plotting framework. It allows for data to be plotted in the form
+of tacos, in addition to conventional visualizations, such as
+scatterplots. It transforms the inputted data into simple orders that
+may be presented to a taco truck.
+
+### geom\_tacofancy
+geom\_döner is a data gastronomification feature for the ggplot2
+data-plotting framework. Like geom\_taco, it allows for data to be
+plotted in the form of tacos, in addition to conventional
+visualizations, such as scatterplots. The difference is that it
+produces fancier tacos. It transforms the inputted data into full
+recipes. Because of the wide possibilities in self-prepared tacos,
+it supports very high data density.
+
+### get-cached
+get-cached is a tool for caching web pages and providing an audit
+trail. It seamlessly makes GET requests in the hypertext transfer
+protocol, saves the payload to your hard drive, and presents the payload
+to the user. If it recognizes that the request has already been made,
+it loads the data from the hard drive rather than making the request
+again.
+
+
 * `htmltable2matrix`: Reify an HTML table as a list of lists in Python
 * `juliadown`: Markup language for DataKind blog posts
 * `jumble`: Run things in parallel but in non-deterministic order.
