@@ -365,7 +365,7 @@ Here are some audiences for which I've given them.
 * Melissa Smolensky (2013). [Chartio Takes Over the Big Apple](http://chartio.com/blog/2013/03/chartiosheadstonyc). Chartio.
 * [Time capsule to be opened in 2065 preserves Cornell history](http://news.cornell.edu/stories/2012/11/time-capsule-preserves-cornell-history-until-2065). Cornell University.
 
-## Notable software
+## Notable software libraries
 
 ### Rtreasuryio
 Rtreasuryio is an R client library for downloading data from the treasury.io
@@ -498,9 +498,11 @@ only data analysis to work with music or people who are skilled only with music
 to work with data. It is intended primarily as a tool for producing data-driven
 music videos, which is a method for plotting complex data.
 
-* `vlermv`: Python dictionary-file mapper
+### vlermv
+Vlermv is a specialized filesystem interface for Python that intends to
+simplify many tasks involved in data acquisition.
 
-End-user tools
+## Notable end-user tools
 
 * AppGen: Generates mobile apps by combining disparate datasets.
 * `acpr`: Download data from ACPR.
@@ -573,22 +575,14 @@ which comes, in turn, from the Social Security Death Master File.
 
 Other
 
-* `12daysplot`: Plots of the gifts my true love gave to me on the twelve days of Christmas
-* `air_pollutants`: Collect data about air pollutants
 * `al-keyboard`: Keyboards for Albanian language in Dvorak and Colemak styles.
 * `alongatag`: Prototype of a social connections service
-* `amciv`: Historical trading data from [American Civics Exchange](http://amciv.com/)
-* `amtrak-stations`: Where are all the Amtrak stations?
-* `anyhttp`: anyhttp provides a generic layer to use existing http clients.
-* `audio-cable-power-controller`: Monitor audio cable signal to change speaker power
-* `awttje`: Determine whether a column contains nominal, ordinal, interval, or ratio data.
 * `axis-ticks`: Where should ticks be for a given plot?
 * `burst_and_rename`: Rename PDF files.
 * `casual_computing`: Faro Arm data collection tools for a study on the use of portable computing technology
 * `cgitrepos`: This tool helps you edit a cgitrepos file.
 * `chainsaw`: Web scraping tools
 * `clipper-card-history`: Parse your clipper card history.
-* `cornell_library_checkout`: Scripts to scrape books from the Cornell Library website and automatically send requests.
 * `csvschema`: **csvschema** is a way of specifying a schema for tabular data. It's built on top of CSV files.
 * `cu-police-daily`: Get the Cornell Police Daily Crime Log, inspired by [Jonathan's](https://scraperwiki.com/scrapers/cornell_police_daily_crime_log/)
 * `data-guacamole`: A gastronomification of  [New York City math test scores](https://data.cityofnewyork.us/Education/Math-Test-Results-2006-2012-District-All-Students/7yig-nj52)
@@ -603,14 +597,7 @@ Other
 * `fms-treasury-statements`: FMS Treasury Statement Parser
 * `ggvideogame`: Plot plots to Hackerspace Bremen's videogame.
 * `guacamole`: Based on the prices of guacamole ingredients in New York over time, I generate guacamole consistently priced guacamole recipes by month, which adapt a standard guacamole recipe to the changes in ingredient prices.
-* `hardware_steno-dictionaries`: My steno dictionaries
-* `hardware_steno-lib`: Libraries for the hardware steno project
-* `hardware_steno`: Embedded software for a USB stenotype
-* `hip_symmetry`: Are hips symmetrically placed on wheeled mobility devices, and what factors influence that symmetry?
-* `historical_weather_download`: Download weather data.
-* `history-analysis`: Tom analyzes his history files
 * `human-trafficking`: Mine classified listings for potential human trafficking incidents.
-* `instead-of-ogrinspect`: Import GIS metadata
 * `jsntp`: In-browser time synchronization similar to the Network Time Protocol
 * `krounq`: Data music in R
 * `middlenames`: What proportion of people has middle names?
