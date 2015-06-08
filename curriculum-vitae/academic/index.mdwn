@@ -607,40 +607,50 @@ Other
 * `ny-history-regents`: Download the history regents and convert them into a format useful for
 * `nyc-bills-cleaning`: Clean up data from NYC bills
 * `nyclu`: Analysis of stop and frisk data
-* `nypd-xy`: how to convert NYPD X/Y to lat/lng?
+
+
+### nypd-xy
+nypd-xp is a tool that reverse-engineers the spatial data projection that
+the New York Police Department uses for presenting geospatial information
+on maps. Its main purpose is to develop a conversion function to turn the
+New York Police Department coordinates into a pair of longitude and latitude.
+
 * `openlawoakland`: Parse Oakland's law.
 * `openlawsf`: Open San Francisco's law!
 * `openprism`: Type your search in one search bar, and get results from all of the Socrata and CKAN portals.
 * `philippines-cash-infrastructure`: Mine data about the Philippines cash infrastructure.
 * `phone-numbers`: Select phone numbers randomly and cost-effectively.
 * `php-heroku-proxy`: Proxy a website through Heroku.
-* `plots`: Plots for your shell
-* `plotter-plots`: Plot plots on a plotter.
-* `postsecret_scraper`: Archive postcards from post secret.
-* `profile`: Tom's shell profile
-* `ptv2fcp`: Convert Pitivi save files to Final Cut XML.
 * `randomperson`: Software for selecting a random student from the Cornell electronic directory and announcing it automatically
 * `red-flags`: Quantify red flags of suspicious activities.
 * `redirect.thomaslevine.com`: Web domain redirects API.
 * `rripeatlas`: Query RIPE Atlas data from R
 * `scott`: **Scott**'s goal is to automate the tedious parts of [Scott](http://healthygulf.org/who-we-are/staff/)'s job so that he has time to do the important parts.
 * `socrata-metrics-api`: Download from the Socrata [site metrics API](http://thomaslevine.com/!/socrata-metrics-api/) and look at the results.
-* `socrata-nominate`: Suggest that analytics opened on Socrata portals.
-* `space-forecast`: Predict whether/when a hackerspace will be open today based on Space API (http://spaceapi.net) data.
-* `spaceapi`: Archive data from the space API. I put it in my crontab like this. ::
-* `spacestatus-export`: Download historical Space API data from http://spacestatus.bastinat0r.de/ and emit it as CSV.
-* `sparse-data-sonification`: Ambient music as a paridigm for sparse data sonification
-* `spd-middle-names`: How many Seattle Police Department employees have middle names?
-* `sql-statistics`: These are some simple statistics implemented in SQL as understood by SQLite3.
-* `theatres`: scrape theatre contact information
-* `transit-ridership`: This is a data music video about the ridership of Chicago buses and New York subways for the past few years.
-* `treasuryiorb`: Ruby client for treasuryio
-* `tzara`: Features for which to check distributions about columns
-* `united-states-middlenames`: United States Middle Names
-* `unwatermark`: Unwatermark removes Yahoo SiteBuilder's watermarks
-* `usaid-reporting`: How can we figure out how consistent reporting is?
-* `wetlands`: Army Corps 404 Website Scraper
-prediction of answers.
+
+
+### spaceapi client
+The Space API is a standard interchange format for information about
+physical meeting spaces, such as buildings, rooms, and offices.
+The spaceapi client archives data from various space API endpoints
+and visualizes the historical data.
+
+### sql-statistics
+sql-statistics is a pure SQL implementation of several fundamental
+statistical methods. It enables statistical analysis to be done directly
+inside of a relational database.
+
+### united-states-middlenames
+United States Middle Names is a system that determines the popularity
+of middle names in the United States over space and time. It takes data
+from the Social Security Death Master File and compares middle name
+prevalance across years and states.
+
+### unwatermark
+Unwatermark is a tool for exporting websites from Yahoo SiteBuilder.
+Yahoo SiteBuilder adds a watermark to websites that it generates, making
+them unsuitable for use outside of Yahoo. unwatermark removes
+Yahoo SiteBuilder's watermarks.
 
 ## Professional service
 I have reviewed submissions to
