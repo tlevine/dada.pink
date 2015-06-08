@@ -615,10 +615,46 @@ the New York Police Department uses for presenting geospatial information
 on maps. Its main purpose is to develop a conversion function to turn the
 New York Police Department coordinates into a pair of longitude and latitude.
 
-* `openlawoakland`: Parse Oakland's law.
-* `openlawsf`: Open San Francisco's law!
-* `openprism`: Type your search in one search bar, and get results from all of the Socrata and CKAN portals.
-* `philippines-cash-infrastructure`: Mine data about the Philippines cash infrastructure.
+### openlawoakland
+Oakland, California's law is canonically stored, like most laws, as
+text written on paper. openlawoakland is a program for converting scans
+of the text of the law into a structured format for legislative data.
+
+### openlawsf
+San Francisco, California's law is available on the internet in a weakly
+structured and non-standard format. openlawsf is a program for converting
+this into a standard, structured format.
+
+### openprism
+A main difficulty in discovering open data is the search paradigm.
+In particular, there are few search engines that aggregate data across
+different government data portals, so one must search each portal
+separately. OpenPrism is one small attempt
+at making it easier to search. Rather than going to all of the different
+portals and making a separate search for each portal, you type your
+search in one search bar, and you get results from a bunch of different
+Socrata, CKAN and Junar portals.
+
+### philippines-cash-infrastructure
+In response to Typhoon Haiyan, a division of the American Red Cross
+sent cash transfer teams to the Philippines to give money directly to
+typhoon affected persons. They needed to know as much as possible about the
+existing cash infrastructure in the area so they can distribute
+appropriately -- a voucher or money is no good if you can't redeem it.
+
+philippines-cash-infrastructure is a system that mines the web for data
+about the cash infrastructure of the Phillipines
+
+> >>>>>  This sounds like it would be somewhat similar to the kind of web scraping
+> >>>>> you did for MIX.  They do not currently have a list of sites out there to
+> >>>>> scrape with this info, so that would need to be researched also.
+
+> >>>>> I have some urgent data work geolocating cash points (banks, atms),
+> >>>>> especially by vendor, in parts of the philippines for our cash team. Think
+> >>>>> Datakind could spring to / do this by late tonight? To some degree?
+
+Mine data about the Philippines cash infrastructure.
+
 * `phone-numbers`: Select phone numbers randomly and cost-effectively.
 * `php-heroku-proxy`: Proxy a website through Heroku.
 * `randomperson`: Software for selecting a random student from the Cornell electronic directory and announcing it automatically
