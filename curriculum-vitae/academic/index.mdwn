@@ -97,6 +97,11 @@ investment decisions.
 February 2013 to December 2013.
 As part of [csv soundsystem](http://csvsoundsystem.com),
 I did engineering and product management on [treasury.io](http://treasury.io)
+We developed an end-to-end solution for journalists to access important
+treasury data and use it in their reporting. The tool extracts and refines
+the data from the official source, archives the data, exports the data to
+a wide range of formats and data analysis tools. We also provide substantial
+documentation on our technology and on the data themselves.
 
 **Data analysis software**.
 [DataPad](http://datapad.io).
@@ -478,10 +483,14 @@ how much is left to do, and how the quality of their work compares with that
 of their colleagues. It integrates seamlessly with an email workflow;
 it extrarcts the necessary information from emails with no user input at all.
 
-* `pytreasuryio`: treasuryio client in Python
-* `randomsleep`: Sleep a random amount of time.
-* `scraperwiki_local`: ScraperWiki local client
-* `scraperwikify`: Drop-in replacements and wrappers some scraperwiki functions
+### scraperwiki\_local
+ScraperWiki is a cloud-based platform for managing data processing programs.
+The cloud service provides some functions that are ordinarily not available
+in other programs, and this can become an issue when people are migrating
+scripts to/from ScraperWiki or when people are testing their programs.
+scraperwiki\_local is a replacement for these special functions that facilitates
+testing and migration of ScraperWiki programs.
+
 * `sheetmusic`: Music synthesizer for spreadsheet
 * `shrebx`: Manage secrets in Python, usually for Django
 * `sliding_window`: Windowed/lagged iterators in Python
