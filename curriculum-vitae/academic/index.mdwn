@@ -367,8 +367,12 @@ Rtreasuryio is an R client library for downloading data from the treasury.io
 data service and reifying them as data frames, R's standard representation of
 data tables.
 
-###
-* `aamoer`: Format open data dumps for reporting.
+### aamoer
+Aamoer is a framework for producing feature vectors to describe dataset-level
+properties. One configures the features of interest, and aamoer produces a
+full-featured, robust tool for the extraction of these features. Dataset-level
+features are useful for comparisons between disparate datasets, for purposes
+such as search and automated linking.
 
 ### bashful-fs
 `bashful-fs` is a low-level component of a the bashful interpreter.
@@ -447,12 +451,33 @@ it loads the data from the hard drive rather than making the request
 again.
 
 
-* `htmltable2matrix`: Reify an HTML table as a list of lists in Python
-* `juliadown`: Markup language for DataKind blog posts
-* `jumble`: Run things in parallel but in non-deterministic order.
-* `mailfest-scoreboard`: Track progress for email sprints
-* `pickle-warehouse`: Pickle Warehouse makes it easy to save Python objects to files with meaningful identifiers.
-* `picklecache`: Cache the results of a function.
+### htmltable2matrix
+htmltable2matrix is a tool that assists with importing hypertext markup
+language data into the Python environment. It reifies an hypertext markup
+language table as an intuitive and convenient Python data structure.
+Specifically, the data structure is a list of lists.
+
+
+### juliadown
+juliadown is a specialized markup language for blog posts. It was designed
+for DataKind, an organization who needed a more focused markup language than
+was previously available.
+
+
+### jumble
+Jumble is a tool for running computational tasks in parallel in Python.
+It is designed to provide many benefits of parallel computing while being
+much easier than most other parallel computing methods. It achieves this
+by running things in parallel and returning the results in a
+non-deterministic order.
+
+### mailfest-scoreboard
+The mailfest scoreboard is a tool to track people's progress when they are
+answering many emails. It helps people keep track of how much they have done,
+how much is left to do, and how the quality of their work compares with that
+of their colleagues. It integrates seamlessly with an email workflow;
+it extrarcts the necessary information from emails with no user input at all.
+
 * `pytreasuryio`: treasuryio client in Python
 * `randomsleep`: Sleep a random amount of time.
 * `scraperwiki_local`: ScraperWiki local client
