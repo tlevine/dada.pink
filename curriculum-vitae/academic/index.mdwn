@@ -511,15 +511,33 @@ Generates mobile apps by combining disparate datasets.
 
 * `at-hackerspace`: Hackerspace status tracker.
 
-* `austin-data-catalog`: Download Austin data catalog data.
 * `better_coach`: Better coach bus schedules
-* `cbuh`: Address book with high-performance search capabilities
-* `change_indent`: These scripts convert indentation size. Use them like so
-* `circular`: Plot circular things on pen plotters.
-* `cloud-beds`: Search apartment listings.
-* `comma-chant`: Robot MC for csv soundsystem shows
-* `commasearch`: Search for spreadsheets.
-* `cubes`: Cubes - Online Analytical Processing Framework for Python
+
+### comma-chant
+The comma-chant is a robot that acts as an MC for data-driven music
+performances by csv soundsystem.
+
+### commasearch
+Commasearch is a search engine designed for spreadsheets.
+
+I see two main issues in the common means of searching through spreadsheets.
+The first issue is that the search method is quite naive; these websites are
+usually running keyword searches.
+The second issue is that the search is localized to datasets that are published
+or otherwise managed by a particular entity; it's hard to search for
+spreadsheets without first identifying a specific publisher or repository.
+
+Commasearch addresses the first of these issues. In commasearch, one provides
+a spreadsheet as input, and commasearch returns a list of spreadsheets that
+appear to be similar.
+
+### Cubes
+Cubes is a light-weight Python framework and OLAP HTTP server for easy
+development of reporting applications and aggregate browsing of
+multi-dimensionally modeled data. I have contributed some bug fixes,
+but I am not a core developer.
+
+
 * `dada-portal`: Dada Portal: Door to the dada
 * `deadpeoplebornonmybirthday`: deadpeoplebornonmybirthday is a website that is compiled from my
 * `ejnug`: Streamline email publishing workflows.
