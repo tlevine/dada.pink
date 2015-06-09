@@ -538,98 +538,220 @@ multi-dimensionally modeled data. I have contributed some bug fixes,
 but I am not a core developer.
 
 
-* `dada-portal`: Dada Portal: Door to the dada
-* `deadpeoplebornonmybirthday`: deadpeoplebornonmybirthday is a website that is compiled from my
-* `ejnug`: Streamline email publishing workflows.
-* `friendly_brief`: Parse amicus brief titles.
-* `historian`: Manage your computer's shell history.
-* `hssas`: A SAS parser/interpreter in Haskell
-* `hue-toy`: Play with Hue lights.
-* `immaterial-digital-labor`: Archive an online discussion group.
-* `instant-runoff`: write e-mails in groff.
-* `io-whois`: Check when popular .io domains were registered.
-* `maildir-featurizer`: Create features from maildir email files very quickly.
-* `match-companies`: The present package produces a data table about the entities who have bid on contracts for projects funded by the World Bank Group.
-* `maze-robot`: Robot that teaches people how to program
-* `medial_temporal_lobe`: The Medial Temporal Lobe remembers websites for you.
-* `meetup-email`: Change Meetup email settings
-* `muckrock`: Download data from Muckrock.
-* `nvm`: Version manager for node programming language
-* `nyc-crime-map`: Collect data on New York City crime.
-* `plan-things`: Like notecards-on-a-table, but portable, digitized, scriptable and in a git repository
-* `pluplusch`: Download open data across many different data portals.
-* `print2web`: I don't have a printer. This system uses a cgi script and pdftk to compile into one pdf things that I've printed to pdf so that I can print them all at once in computer labs.
-* `regression`: Calculate ordinary least squares regression geometrically
-* `scarsdale-property-inquiry`: Export Scarsdale property data
-* `scarsdale-trustees`: Download Scarsdale trustees data.
+
+### dada-portal
+Dada Portal: Door to the dada
+
+### deadpeoplebornonmybirthday
+deadpeoplebornonmybirthday is a website that is compiled from my
+
+### ejnug
+Streamline email publishing workflows.
+
+### friendly_brief
+Parse amicus brief titles.
+
+### historian
+Manage your computer's shell history.
+
+### hssas
+A SAS parser/interpreter in Haskell
+
+### hue-toy
+Play with Hue lights.
+
+### immaterial-digital-labor
+Archive an online discussion group.
+
+### instant-runoff
+write e-mails in groff.
+
+### io-whois
+Check when popular .io domains were registered.
+
+### maildir-featurizer
+Create features from maildir email files very quickly.
+
+### match-companies
+The present package produces a data table about the entities who have bid on contracts for projects funded by the World Bank Group.
+
+### maze-robot
+Robot that teaches people how to program
+
+### medial_temporal_lobe
+The Medial Temporal Lobe remembers websites for you.
+
+### meetup-email
+Change Meetup email settings
+
+### muckrock
+Download data from Muckrock.
+
+### nvm
+Version manager for node programming language
+
+### nyc-crime-map
+Collect data on New York City crime.
+
+### plan-things
+Like notecards-on-a-table, but portable, digitized, scriptable and in a git repository
+
+### pluplusch
+Download open data across many different data portals.
+
+### print2web
+I don't have a printer. This system uses a cgi script and pdftk to compile into one pdf things that I've printed to pdf so that I can print them all at once in computer labs.
+
+### regression
+Calculate ordinary least squares regression geometrically
+
+### scarsdale-property-inquiry
+Export Scarsdale property data
+
+### scarsdale-trustees
+Download Scarsdale trustees data.
 * Simple Webcam: A webcam application for Chrome
-* `spaceapi`: Download data from Space API endpoints.
-* `spacestatus-export`: Export data from the space status service.
-* `special_snowflake`: Infer table schemas
-* `status_jukebox`: Donate your twitter status to charity.
-* `ticketchecker`: A web-based system for issuing and verifying electronic tickets
-* `tlevine`: Download tlevine's project metadata.
-* `tompkins-trust-exporter`: The Tompkins Trust History Exporter downloads your Tompkins Trust history in OFX format.
-* `twister`: List tongue twisters.
-* `unishare`: Share study materials within universities.
-* `unkommittee`: Nonlinear discussion cotemporal Kommittee
-* `wbcontractawards`: Download World Bank Contract Awards data.
+
+### spaceapi
+Download data from Space API endpoints.
+
+### spacestatus-export
+Export data from the space status service.
+
+### special_snowflake
+Infer table schemas
+
+### status_jukebox
+Donate your twitter status to charity.
+
+### ticketchecker
+A web-based system for issuing and verifying electronic tickets
+
+### tlevine
+Download tlevine's project metadata.
+
+### tompkins-trust-exporter
+The Tompkins Trust History Exporter downloads your Tompkins Trust history in OFX format.
+
+### twister
+List tongue twisters.
+
+### unishare
+Share study materials within universities.
+
+### unkommittee
+Nonlinear discussion cotemporal Kommittee
+
+### wbcontractawards
+Download World Bank Contract Awards data.
 [names dataset](https://github.com/tlevine/united-states-middlenames),
 which comes, in turn, from the Social Security Death Master File.
-* `treegit`: an off-the-self cgit server with some helpers.
-* `urchin`: Urchin is a test framework for shell. It is implemented in
+
+### treegit
+an off-the-self cgit server with some helpers.
+
+### urchin
+Urchin is a test framework for shell. It is implemented in
     portable /bin/sh and should work on GNU/Linux, Mac OS X, and
     other Unix platforms.
-* `usace-regulatory`: Download and parse US Army Corps of Engineers regulatory
+
+### usace-regulatory
+Download and parse US Army Corps of Engineers regulatory
     public notices.
-* `voipms`: Send text messages through https://voip.ms
-* `web-browser-dvorak`: Type in Dvorak in your web browser.
-* `whom-to-email`: I like to know what my friends lives are like, and they seem
+
+### voipms
+Send text messages through https://voip.ms
+
+### web-browser-dvorak
+Type in Dvorak in your web browser.
+
+### whom-to-email
+I like to know what my friends lives are like, and they seem
     to like to know what mine is like, so I like to send them emails
     about what my life is like.
-* `wsync`: **wsync** downloads and versions a url. It downloads the file, saves it with a
+
+### wsync
+**wsync** downloads and versions a url. It downloads the file, saves it with a
     timestamp and links a current version to the timestamped version. If a
     timestamped version already exists, wsync checks for differences between the new
     file and the old file and does nothing if the new file is the same as the
     previous version.
-* `zoetrope`: Zoetrope Produce video from a bunch of frames.
-* `_.thomaslevine.com`: My alternative to Twitter that actually works
 
-Other
+### zoetrope
+Zoetrope Produce video from a bunch of frames.
 
-* `al-keyboard`: Keyboards for Albanian language in Dvorak and Colemak styles.
-* `alongatag`: Prototype of a social connections service
-* `axis-ticks`: Where should ticks be for a given plot?
-* `burst_and_rename`: Rename PDF files.
-* `casual_computing`: Faro Arm data collection tools for a study on the use of portable computing technology
-* `cgitrepos`: This tool helps you edit a cgitrepos file.
-* `chainsaw`: Web scraping tools
-* `clipper-card-history`: Parse your clipper card history.
-* `csvschema`: **csvschema** is a way of specifying a schema for tabular data. It's built on top of CSV files.
-* `cu-police-daily`: Get the Cornell Police Daily Crime Log, inspired by [Jonathan's](https://scraperwiki.com/scrapers/cornell_police_daily_crime_log/)
-* `data-guacamole`: A gastronomification of  [New York City math test scores](https://data.cityofnewyork.us/Education/Math-Test-Results-2006-2012-District-All-Students/7yig-nj52)
-* `dataset_owners`: Analyze Socrata dataset owner survey data.
-* `delete-email`: Delete all of the emails in a directory in an email account.
-* `ekg2-logsqlite-analysis`: Analyze status activity from an EKG2 logsqlite database.
-* `fallos`: * Parse data from Fallos de Argentina
-* `fb_friends_online`: Check which Facebook friends are online
-* `fc_newchapters`: Create new Students for Free Culture chapters
-* `featured-spreadsheets`: Download datasets from opendatasoft
-* `fms-symphony`: FMS Symphony video
-* `fms-treasury-statements`: FMS Treasury Statement Parser
-* `ggvideogame`: Plot plots to Hackerspace Bremen's videogame.
-* `guacamole`: Based on the prices of guacamole ingredients in New York over time, I generate guacamole consistently priced guacamole recipes by month, which adapt a standard guacamole recipe to the changes in ingredient prices.
-* `human-trafficking`: Mine classified listings for potential human trafficking incidents.
-* `jsntp`: In-browser time synchronization similar to the Network Time Protocol
-* `krounq`: Data music in R
-* `middlenames`: What proportion of people has middle names?
-* `names-tables`: Find data about middle names, and do fun things with them.
-* `netwaves`: Encode arbitrary music and audio data in the same file.
-* `new_mexico_audits`: Download data about New Mexico audits
-* `ny-history-regents`: Download the history regents and convert them into a format useful for
-* `nyc-bills-cleaning`: Clean up data from NYC bills
-* `nyclu`: Analysis of stop and frisk data
+### _.thomaslevine.com
+My alternative to Twitter that actually works
 
+
+### al-keyboard
+I developed keyboards for Albanian language in Dvorak and Colemak styles.
+These are benefitial to people writing in Albanian who want to type faster.
+
+### axis-ticks
+axis-ticks chooses where to put axes on a graph in order to be both
+visually appealing and informative.
+
+### casual computing
+Casual computing is a suite of data collection software for interfacing
+with a Faro Arm. It was used for a study on the use of portable computing technology.
+
+### cgitrepos
+This tool helps you edit a cgitrepos file.
+
+### clipper-card-history
+Clipper card is the public transit card used in the San Francisco Bay Area.
+clipper-card-history prepares your personal card history, available from the
+Clipper Card website, for data analysis.
+
+### csvschema
+**csvschema** is a way of specifying a schema for tabular data. It's built on top of CSV files.
+
+### cu-police-daily
+A tool to archive the Cornell Police Daily Crime Log
+
+### data-guacamole
+A gastronomification of  [New York City math test scores](https://data.cityofnewyork.us/Education/Math-Test-Results-2006-2012-District-All-Students/7yig-nj52)
+
+### dataset_owners
+Analyze Socrata dataset owner survey data.
+
+### delete-email
+Delete all of the emails in a directory in an email account.
+
+### ekg2-logsqlite-analysis
+Analyze status activity from an EKG2 logsqlite database.
+
+### fallos
+* Parse data from Fallos de Argentina
+
+### fms-symphony
+The FMS Symphony is a data-driven video about the fiscal policy of the
+United States.
+
+### guacamole
+Based on the prices of guacamole ingredients in New York over time, I generate
+guacamole consistently priced guacamole recipes by month, which adapt a
+standard guacamole recipe to the changes in ingredient prices.
+
+### human-trafficking
+Mine classified listings for potential human trafficking incidents.
+
+### jsntp
+jsntp synchronizes times between browsers and servers using a time
+synchronization algorithm based on the Network Time Protocol
+
+### krounq
+krounq is a suite of music synthesis tools in R.
+
+### middlenames
+What proportion of people has middle names? Middlenames tries to
+answer this question based on open data.
+
+### netwaves
+Netwave is a tool for encoding arbitrary visual and audio data in the
+same file. It is useful primarily for educational purposes, for
+demonstrating how visual and audio data are encoded in computers.
 
 ### nypd-xy
 nypd-xp is a tool that reverse-engineers the spatial data projection that
