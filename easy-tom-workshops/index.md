@@ -1,3 +1,5 @@
+secret: True
+---
 # Easy Tom workshops
 Sometimes I show up in a random hackerspace and people ask if I would
 like to give a talk or class or something. I would, if people would like
