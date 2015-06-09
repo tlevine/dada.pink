@@ -17,6 +17,14 @@ I recommend one of these.
 * [Real world algorithms](/!/real-world-algorithms/).
     We act out algorithms and data structures with people.
 
+I can also give bizarre life advice. Examples include
+
+* [Carrying stuff in a backpack](/!/stuff/)
+* How to make yourself sound very smart when the words you're
+    saying are devoid of content
+* [Career advice from Tom](/!/career-advice/)
+
+### Vaguely specific audiences
 If people took statistics courses that they didn't understand, or even
 if they did understand them, this one might work.
 
@@ -32,22 +40,20 @@ If people want to learn to use computers, I suggest this one.
     Do you want to use command lines more and window/buttons less?
     Let's write down some things that we do with graphical interfaces
     and then figure out how to do them with command line interfaces.
- 
+
+I also know a lot about toilets. 
+
+* *Tom's toilet research*. I'm quite interested in toilets;
+    I'll review my various research on how people use toilets.
+
+### Specialized audiences
 Other popular topics are on the ["recommended"](/recommended/) page.
 These are appropriate if you know the audience will take interest in
 vaguely that area. The main areas are
 
-* Toilets
 * Programming languages
   * R
   * Python
   * Shell
 * Open openness
 * Using music and food to plot data
-
-I can also give bizarre life advice. Examples include
-
-* [Carrying stuff in a backpack](/!/stuff/)
-* [Career advice from Tom](/!/career-advice/)
-* How to make yourself sound very competent, incompetant, successful,
-    unsuccessful, happy, unhappy, &c.
