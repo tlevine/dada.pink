@@ -367,11 +367,6 @@ Here are some audiences for which I've given them.
 
 ## Notable software libraries
 
-### Rtreasuryio
-Rtreasuryio is an R client library for downloading data from the treasury.io
-data service and reifying them as data frames, R's standard representation of
-data tables.
-
 ### aamoer
 Aamoer is a framework for producing feature vectors to describe dataset-level
 properties. One configures the features of interest, and aamoer produces a
@@ -390,6 +385,18 @@ Blizzard is a tool for surfacing similarities between disparate datasets.
 It infers the data schemas of various datasets and constructs a similarity
 graph between the datasets. This allows us to infer which datasets are
 similar in structure to which other datasets.
+
+### casual computing
+Casual computing is a suite of data collection software for interfacing
+with a Faro Arm. It was used for a study on the use of portable computing technology.
+
+### cgitrepos
+This tool helps you edit a cgitrepos file.
+
+### clipper-card-history
+Clipper card is the public transit card used in the San Francisco Bay Area.
+clipper-card-history prepares your personal card history, available from the
+Clipper Card website, for data analysis.
 
 ### compress-opening-times
 compress-opening-times is a specialized compression algorithm for data about
@@ -418,7 +425,6 @@ that is often used to store text. In case in stores text, the text is
 case-sensitive. In many instances, it is beneficial to have a
 dictionary where the text is case-insensitive, and that is what dicti
 provides.
-
 
 ### Dumptruck
 DumpTruck is a document-like interface to a SQLite3 database, designed
@@ -463,11 +469,14 @@ language table as an intuitive and convenient Python data structure.
 Specifically, the data structure is a list of lists.
 
 
+### jsntp
+jsntp synchronizes times between browsers and servers using a time
+synchronization algorithm based on the Network Time Protocol
+
 ### juliadown
 juliadown is a specialized markup language for blog posts. It was designed
 for DataKind, an organization who needed a more focused markup language than
 was previously available.
-
 
 ### jumble
 Jumble is a tool for running computational tasks in parallel in Python.
@@ -476,12 +485,24 @@ much easier than most other parallel computing methods. It achieves this
 by running things in parallel and returning the results in a
 non-deterministic order.
 
+### krounq
+krounq is a suite of music synthesis tools in R.
+
 ### mailfest-scoreboard
 The mailfest scoreboard is a tool to track people's progress when they are
 answering many emails. It helps people keep track of how much they have done,
 how much is left to do, and how the quality of their work compares with that
 of their colleagues. It integrates seamlessly with an email workflow;
 it extrarcts the necessary information from emails with no user input at all.
+
+### rripeatlas
+The RIPE Atlas is a worldwide internet monitoring system, supported by
+thousands of probes that feed data to a central big data platform. Those
+data are exposed through a web API for consumption by other programs.
+rripeatlas is an R package for query RIPE Atlas data from inside of R,
+a powerful software for data analysis and statistics. With rripeatlas,
+RIPE Atlas data can be analyzed inside of R and exported to other formats
+and tools.
 
 ### scraperwiki\_local
 ScraperWiki is a cloud-based platform for managing data processing programs.
@@ -504,14 +525,22 @@ simplify many tasks involved in data acquisition.
 
 ## Notable end-user tools
 
+### al-keyboard
+I developed keyboards for Albanian language in Dvorak and Colemak styles.
+These are benefitial to people writing in Albanian who want to type faster.
+
 ### AppGen
 Generates mobile apps by combining disparate datasets.
 
-* `acpr`: Download data from ACPR.
+### at-hackerspace
+at-hackerspace checks who is inside a hackerspace.
 
-* `at-hackerspace`: Hackerspace status tracker.
+### axis-ticks
+axis-ticks chooses where to put axes on a graph in order to be both
+visually appealing and informative.
 
-* `better_coach`: Better coach bus schedules
+### BetterCoach
+BetterCoach is a schedule lookup tool for Coach buses.
 
 ### comma-chant
 The comma-chant is a robot that acts as an MC for data-driven music
@@ -531,25 +560,53 @@ Commasearch addresses the first of these issues. In commasearch, one provides
 a spreadsheet as input, and commasearch returns a list of spreadsheets that
 appear to be similar.
 
+### csvschema
+**csvschema** is a way of specifying a schema for tabular data. It's built on top of CSV files.
+
+### cu-police-daily
+A tool to archive the Cornell Police Daily Crime Log
+
 ### Cubes
 Cubes is a light-weight Python framework and OLAP HTTP server for easy
 development of reporting applications and aggregate browsing of
 multi-dimensionally modeled data. I have contributed some bug fixes,
 but I am not a core developer.
 
-
-
 ### dada-portal
 Dada Portal: Door to the dada
+
+### data-guacamole
+A gastronomification of  [New York City math test scores](https://data.cityofnewyork.us/Education/Math-Test-Results-2006-2012-District-All-Students/7yig-nj52)
 
 ### deadpeoplebornonmybirthday
 deadpeoplebornonmybirthday is a website that is compiled from my
 
+### dataset owners
+Analyze Socrata dataset owner survey data.
+
+### delete-email
+Delete all of the emails in a directory in an email account.
+
 ### ejnug
 Streamline email publishing workflows.
 
-### friendly_brief
+### ekg2-logsqlite-analysis
+Analyze status activity from an EKG2 logsqlite database.
+
+### fallos
+* Parse data from Fallos de Argentina
+
+### fms-symphony
+The FMS Symphony is a data-driven video about the fiscal policy of the
+United States.
+
+### friendly brief
 Parse amicus brief titles.
+
+### guacamole
+Based on the prices of guacamole ingredients in New York over time, I generate
+guacamole consistently priced guacamole recipes by month, which adapt a
+standard guacamole recipe to the changes in ingredient prices.
 
 ### historian
 Manage your computer's shell history.
@@ -559,6 +616,9 @@ A SAS parser/interpreter in Haskell
 
 ### hue-toy
 Play with Hue lights.
+
+### human-trafficking
+Mine classified listings for potential human trafficking incidents.
 
 ### immaterial-digital-labor
 Archive an online discussion group.
@@ -578,14 +638,23 @@ The present package produces a data table about the entities who have bid on con
 ### maze-robot
 Robot that teaches people how to program
 
-### medial_temporal_lobe
+### medial temporal lobe
 The Medial Temporal Lobe remembers websites for you.
 
 ### meetup-email
 Change Meetup email settings
 
+### middlenames
+What proportion of people has middle names? Middlenames tries to
+answer this question based on open data.
+
 ### muckrock
 Download data from Muckrock.
+
+### netwaves
+Netwave is a tool for encoding arbitrary visual and audio data in the
+same file. It is useful primarily for educational purposes, for
+demonstrating how visual and audio data are encoded in computers.
 
 ### nvm
 Version manager for node programming language
@@ -618,10 +687,10 @@ Download data from Space API endpoints.
 ### spacestatus-export
 Export data from the space status service.
 
-### special_snowflake
+### special snowflake
 Infer table schemas
 
-### status_jukebox
+### status jukebox
 Donate your twitter status to charity.
 
 ### ticketchecker
@@ -652,12 +721,12 @@ an off-the-self cgit server with some helpers.
 
 ### urchin
 Urchin is a test framework for shell. It is implemented in
-    portable /bin/sh and should work on GNU/Linux, Mac OS X, and
-    other Unix platforms.
+portable /bin/sh and should work on GNU/Linux, Mac OS X, and
+other Unix platforms.
 
 ### usace-regulatory
 Download and parse US Army Corps of Engineers regulatory
-    public notices.
+public notices.
 
 ### voipms
 Send text messages through https://voip.ms
@@ -672,86 +741,18 @@ I like to know what my friends lives are like, and they seem
 
 ### wsync
 **wsync** downloads and versions a url. It downloads the file, saves it with a
-    timestamp and links a current version to the timestamped version. If a
-    timestamped version already exists, wsync checks for differences between the new
-    file and the old file and does nothing if the new file is the same as the
-    previous version.
+timestamp and links a current version to the timestamped version. If a
+timestamped version already exists, wsync checks for differences between the new
+file and the old file and does nothing if the new file is the same as the
+previous version.
 
 ### zoetrope
 Zoetrope Produce video from a bunch of frames.
 
-### _.thomaslevine.com
-My alternative to Twitter that actually works
 
 
-### al-keyboard
-I developed keyboards for Albanian language in Dvorak and Colemak styles.
-These are benefitial to people writing in Albanian who want to type faster.
 
-### axis-ticks
-axis-ticks chooses where to put axes on a graph in order to be both
-visually appealing and informative.
 
-### casual computing
-Casual computing is a suite of data collection software for interfacing
-with a Faro Arm. It was used for a study on the use of portable computing technology.
-
-### cgitrepos
-This tool helps you edit a cgitrepos file.
-
-### clipper-card-history
-Clipper card is the public transit card used in the San Francisco Bay Area.
-clipper-card-history prepares your personal card history, available from the
-Clipper Card website, for data analysis.
-
-### csvschema
-**csvschema** is a way of specifying a schema for tabular data. It's built on top of CSV files.
-
-### cu-police-daily
-A tool to archive the Cornell Police Daily Crime Log
-
-### data-guacamole
-A gastronomification of  [New York City math test scores](https://data.cityofnewyork.us/Education/Math-Test-Results-2006-2012-District-All-Students/7yig-nj52)
-
-### dataset_owners
-Analyze Socrata dataset owner survey data.
-
-### delete-email
-Delete all of the emails in a directory in an email account.
-
-### ekg2-logsqlite-analysis
-Analyze status activity from an EKG2 logsqlite database.
-
-### fallos
-* Parse data from Fallos de Argentina
-
-### fms-symphony
-The FMS Symphony is a data-driven video about the fiscal policy of the
-United States.
-
-### guacamole
-Based on the prices of guacamole ingredients in New York over time, I generate
-guacamole consistently priced guacamole recipes by month, which adapt a
-standard guacamole recipe to the changes in ingredient prices.
-
-### human-trafficking
-Mine classified listings for potential human trafficking incidents.
-
-### jsntp
-jsntp synchronizes times between browsers and servers using a time
-synchronization algorithm based on the Network Time Protocol
-
-### krounq
-krounq is a suite of music synthesis tools in R.
-
-### middlenames
-What proportion of people has middle names? Middlenames tries to
-answer this question based on open data.
-
-### netwaves
-Netwave is a tool for encoding arbitrary visual and audio data in the
-same file. It is useful primarily for educational purposes, for
-demonstrating how visual and audio data are encoded in computers.
 
 ### nypd-xy
 nypd-xp is a tool that reverse-engineers the spatial data projection that
@@ -818,15 +819,6 @@ and "thomaslevine.com" to go to the same place.
 redirect.thomaslevine.com was a software-as-a-service (SAAS) platform for
 bare domain redirects, along with a sample app built on the platform.
 Redirects are configured with a ReST API.
-
-### rripeatlas
-The RIPE Atlas is a worldwide internet monitoring system, supported by
-thousands of probes that feed data to a central big data platform. Those
-data are exposed through a web API for consumption by other programs.
-rripeatlas is an R package for query RIPE Atlas data from inside of R,
-a powerful software for data analysis and statistics. With rripeatlas,
-RIPE Atlas data can be analyzed inside of R and exported to other formats
-and tools.
 
 ### scott
 Scott is a data management and workflow tool for wetlands regulation data
