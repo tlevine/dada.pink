@@ -504,9 +504,13 @@ simplify many tasks involved in data acquisition.
 
 ## Notable end-user tools
 
-* AppGen: Generates mobile apps by combining disparate datasets.
+### AppGen
+Generates mobile apps by combining disparate datasets.
+
 * `acpr`: Download data from ACPR.
+
 * `at-hackerspace`: Hackerspace status tracker.
+
 * `austin-data-catalog`: Download Austin data catalog data.
 * `better_coach`: Better coach bus schedules
 * `cbuh`: Address book with high-performance search capabilities
@@ -636,32 +640,67 @@ search in one search bar, and you get results from a bunch of different
 Socrata, CKAN and Junar portals.
 
 ### philippines-cash-infrastructure
+philippines-cash-infrastructure is a system that mines the web for data
+about the cash infrastructure of the Phillipines to support typhoon
+relief efforts.
+
 In response to Typhoon Haiyan, a division of the American Red Cross
 sent cash transfer teams to the Philippines to give money directly to
 typhoon affected persons. They needed to know as much as possible about the
 existing cash infrastructure in the area so they can distribute
-appropriately -- a voucher or money is no good if you can't redeem it.
+appropriately--a voucher or money is no good if you can't redeem it.
 
-philippines-cash-infrastructure is a system that mines the web for data
-about the cash infrastructure of the Phillipines
+### Random phone numbers
+I developed a random phone number generator. It selects stratified
+random phone numbers for phone-based polling. It is designed to be a
+compromise between representative samples and cost-effectiveness.
+It does this by accounting for the structure of phone numbers and
+by considering whether previously selected phone numbers responded
+to polls.
 
-> >>>>>  This sounds like it would be somewhat similar to the kind of web scraping
-> >>>>> you did for MIX.  They do not currently have a list of sites out there to
-> >>>>> scrape with this info, so that would need to be researched also.
+### php-heroku-proxy
+php-heroku-proxy is a turnkey solution for hosting web proxies on
+the Heroku platform.
 
-> >>>>> I have some urgent data work geolocating cash points (banks, atms),
-> >>>>> especially by vendor, in parts of the philippines for our cash team. Think
-> >>>>> Datakind could spring to / do this by late tonight? To some degree?
+### randomperson
+randomperson is a tool for selecting random students from a university's
+electronic directory.
 
-Mine data about the Philippines cash infrastructure.
+### red-flags
+red-flags is a data-driven system that assists integrity investigations
+in the World Bank. It ingests public open data about bank-financed
+projects and surfaces projects that are suspicious. The resulting projects
+are flagged for further investigation.
 
-* `phone-numbers`: Select phone numbers randomly and cost-effectively.
-* `php-heroku-proxy`: Proxy a website through Heroku.
-* `randomperson`: Software for selecting a random student from the Cornell electronic directory and announcing it automatically
-* `red-flags`: Quantify red flags of suspicious activities.
-* `redirect.thomaslevine.com`: Web domain redirects API.
-* `rripeatlas`: Query RIPE Atlas data from R
-* `scott`: **Scott**'s goal is to automate the tedious parts of [Scott](http://healthygulf.org/who-we-are/staff/)'s job so that he has time to do the important parts.
+### redirect.thomaslevine.com
+Bare domain redirects are the sort of thing that permit "www.thomaslevine.com"
+and "thomaslevine.com" to go to the same place.
+redirect.thomaslevine.com was a software-as-a-service (SAAS) platform for
+bare domain redirects, along with a sample app built on the platform.
+Redirects are configured with a ReST API.
+
+### rripeatlas
+The RIPE Atlas is a worldwide internet monitoring system, supported by
+thousands of probes that feed data to a central big data platform. Those
+data are exposed through a web API for consumption by other programs.
+rripeatlas is an R package for query RIPE Atlas data from inside of R,
+a powerful software for data analysis and statistics. With rripeatlas,
+RIPE Atlas data can be analyzed inside of R and exported to other formats
+and tools.
+
+### scott
+Scott is a data management and workflow tool for wetlands regulation data
+in the United States. It was developed originally to support the work of
+Scott Eustis of the Gulf Restoration Network, hence the name. It collects
+regulatory information and applications for permits to do construction
+on wetlands. It collects these information from disparate sources, extracts relevant
+information from the collected documents, and exposes that through a website.
+Users add further annotations and corrections through the website. The website
+additionally tracks progress in the review process, including the submission
+of comments to relevant government groups. The result is a streamlined process
+for collecting the information, refining it, reviewing it, visualizing it,
+contesting permit applications, and tracking the organization's impact.
+
 * `socrata-metrics-api`: Download from the Socrata [site metrics API](http://thomaslevine.com/!/socrata-metrics-api/) and look at the results.
 
 
