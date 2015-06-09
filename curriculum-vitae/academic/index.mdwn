@@ -662,98 +662,6 @@ Version manager for node programming language
 ### nyc-crime-map
 Collect data on New York City crime.
 
-### plan-things
-Like notecards-on-a-table, but portable, digitized, scriptable and in a git repository
-
-### pluplusch
-Download open data across many different data portals.
-
-### print2web
-I don't have a printer. This system uses a cgi script and pdftk to compile into one pdf things that I've printed to pdf so that I can print them all at once in computer labs.
-
-### regression
-Calculate ordinary least squares regression geometrically
-
-### scarsdale-property-inquiry
-Export Scarsdale property data
-
-### scarsdale-trustees
-Download Scarsdale trustees data.
-* Simple Webcam: A webcam application for Chrome
-
-### spaceapi
-Download data from Space API endpoints.
-
-### spacestatus-export
-Export data from the space status service.
-
-### special snowflake
-Infer table schemas
-
-### status jukebox
-Donate your twitter status to charity.
-
-### ticketchecker
-A web-based system for issuing and verifying electronic tickets
-
-### tlevine
-Download tlevine's project metadata.
-
-### tompkins-trust-exporter
-The Tompkins Trust History Exporter downloads your Tompkins Trust history in OFX format.
-
-### twister
-List tongue twisters.
-
-### unishare
-Share study materials within universities.
-
-### unkommittee
-Nonlinear discussion cotemporal Kommittee
-
-### wbcontractawards
-Download World Bank Contract Awards data.
-[names dataset](https://github.com/tlevine/united-states-middlenames),
-which comes, in turn, from the Social Security Death Master File.
-
-### treegit
-an off-the-self cgit server with some helpers.
-
-### urchin
-Urchin is a test framework for shell. It is implemented in
-portable /bin/sh and should work on GNU/Linux, Mac OS X, and
-other Unix platforms.
-
-### usace-regulatory
-Download and parse US Army Corps of Engineers regulatory
-public notices.
-
-### voipms
-Send text messages through https://voip.ms
-
-### web-browser-dvorak
-Type in Dvorak in your web browser.
-
-### whom-to-email
-I like to know what my friends lives are like, and they seem
-    to like to know what mine is like, so I like to send them emails
-    about what my life is like.
-
-### wsync
-**wsync** downloads and versions a url. It downloads the file, saves it with a
-timestamp and links a current version to the timestamped version. If a
-timestamped version already exists, wsync checks for differences between the new
-file and the old file and does nothing if the new file is the same as the
-previous version.
-
-### zoetrope
-Zoetrope Produce video from a bunch of frames.
-
-
-
-
-
-
 ### nypd-xy
 nypd-xp is a tool that reverse-engineers the spatial data projection that
 the New York Police Department uses for presenting geospatial information
@@ -791,6 +699,19 @@ typhoon affected persons. They needed to know as much as possible about the
 existing cash infrastructure in the area so they can distribute
 appropriately--a voucher or money is no good if you can't redeem it.
 
+### php-heroku-proxy
+php-heroku-proxy is a turnkey solution for hosting web proxies on
+the Heroku platform.
+
+### plan-things
+Like notecards-on-a-table, but portable, digitized, scriptable and in a git repository
+
+### pluplusch
+Download open data across many different data portals.
+
+### print2web
+I don't have a printer. This system uses a cgi script and pdftk to compile into one pdf things that I've printed to pdf so that I can print them all at once in computer labs.
+
 ### Random phone numbers
 I developed a random phone number generator. It selects stratified
 random phone numbers for phone-based polling. It is designed to be a
@@ -798,10 +719,6 @@ compromise between representative samples and cost-effectiveness.
 It does this by accounting for the structure of phone numbers and
 by considering whether previously selected phone numbers responded
 to polls.
-
-### php-heroku-proxy
-php-heroku-proxy is a turnkey solution for hosting web proxies on
-the Heroku platform.
 
 ### randomperson
 randomperson is a tool for selecting random students from a university's
@@ -819,6 +736,18 @@ and "thomaslevine.com" to go to the same place.
 redirect.thomaslevine.com was a software-as-a-service (SAAS) platform for
 bare domain redirects, along with a sample app built on the platform.
 Redirects are configured with a ReST API.
+
+### regression
+Calculate ordinary least squares regression geometrically
+
+### scarsdale-property-inquiry
+Export Scarsdale property data
+
+### scarsdale-trustees
+Download Scarsdale trustees data.
+
+### Simple Webcam
+A webcam application for Chrome
 
 ### scott
 Scott is a data management and workflow tool for wetlands regulation data
@@ -844,10 +773,39 @@ physical meeting spaces, such as buildings, rooms, and offices.
 The spaceapi client archives data from various space API endpoints
 and visualizes the historical data.
 
+### spacestatus-export
+Export data from the space status service.
+
+### special snowflake
+Infer table schemas
+
 ### sql-statistics
 sql-statistics is a pure SQL implementation of several fundamental
 statistical methods. It enables statistical analysis to be done directly
 inside of a relational database.
+
+### status jukebox
+Donate your twitter status to charity.
+
+### ticketchecker
+A web-based system for issuing and verifying electronic tickets
+
+### tlevine
+Download tlevine's project metadata.
+
+### tompkins-trust-exporter
+The Tompkins Trust History Exporter downloads your Tompkins Trust history in OFX format.
+
+### treegit
+treegit an off-the-self git server. It hosts git repositories over git,
+HTTP, and SSH protocols and also serves the contents of git repositories
+over the web with cgit.
+
+### twister
+List tongue twisters.
+
+### unishare
+Share study materials within universities.
 
 ### united-states-middlenames
 United States Middle Names is a system that determines the popularity
@@ -855,11 +813,49 @@ of middle names in the United States over space and time. It takes data
 from the Social Security Death Master File and compares middle name
 prevalance across years and states.
 
+### unkommittee
+Nonlinear discussion cotemporal Kommittee
+
 ### unwatermark
 Unwatermark is a tool for exporting websites from Yahoo SiteBuilder.
 Yahoo SiteBuilder adds a watermark to websites that it generates, making
 them unsuitable for use outside of Yahoo. unwatermark removes
 Yahoo SiteBuilder's watermarks.
+
+### urchin
+Urchin is a test framework for shell. It is implemented in
+portable /bin/sh and should work on GNU/Linux, Mac OS X, and
+other Unix platforms.
+
+### usace-regulatory
+Download and parse US Army Corps of Engineers regulatory
+public notices.
+
+### voipms
+Send text messages through https://voip.ms
+
+### wbcontractawards
+Download World Bank Contract Awards data.
+[names dataset](https://github.com/tlevine/united-states-middlenames),
+which comes, in turn, from the Social Security Death Master File.
+
+### web-browser-dvorak
+Type in Dvorak in your web browser.
+
+### whom-to-email
+I like to know what my friends lives are like, and they seem
+to like to know what mine is like, so I like to send them emails
+about what my life is like.
+
+### wsync
+**wsync** downloads and versions a url. It downloads the file, saves it with a
+timestamp and links a current version to the timestamped version. If a
+timestamped version already exists, wsync checks for differences between the new
+file and the old file and does nothing if the new file is the same as the
+previous version.
+
+### zoetrope
+Zoetrope Produce video from a bunch of frames.
 
 ## Professional service
 I have reviewed submissions to
