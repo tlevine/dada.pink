@@ -701,8 +701,10 @@ of comments to relevant government groups. The result is a streamlined process
 for collecting the information, refining it, reviewing it, visualizing it,
 contesting permit applications, and tracking the organization's impact.
 
-* `socrata-metrics-api`: Download from the Socrata [site metrics API](http://thomaslevine.com/!/socrata-metrics-api/) and look at the results.
-
+### socrata-metrics-api
+The Socrata Open Data Portal software provides a site metrics API that
+reports how the website is being used. socrata-metrics-api is a tool that
+downloads data from the Socrata site metrics API and visualizes the results.
 
 ### spaceapi client
 The Space API is a standard interchange format for information about
