@@ -92,6 +92,12 @@ As an example of this, let's look at the `rownames` function.
     > rownames(Formaldehyde)
     [1] "1" "2" "8" "4" "5" "6"
 
+Here's how it works.
+
+    # These two commands are the same.
+    rownames(Formaldehyde) <- letters[1:6]
+    Formaldehyde <- 'rownames<-'(Formaldehyde, letters[1:6])
+
 This is slightly bizarre, but the thing that makes me consider it a complete
 hack is the way this is implemented. I don't really understand how it works,
 but it involves defining two functions, one called 'rownames' and another
