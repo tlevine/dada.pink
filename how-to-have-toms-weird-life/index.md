@@ -1,3 +1,8 @@
+description: In six easy steps!
+secret: True
+---
+# How to have Tom's weird life
+
 I commented to several friends that
 
 > My life is so weird.
