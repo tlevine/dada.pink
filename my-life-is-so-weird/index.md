@@ -95,7 +95,9 @@ but want to feel like they're still doing research,
 people think I don't know what I'm talking about and that I'm trolling.
 Indeed I know almost as little about these topics as everyone else does,
 but that's my way of saying that I actually do know something about this
-stuff. It's a bit like this
+stuff.
+
+It's a bit like this
 [exchange](https://www.reddit.com/r/javascript/comments/36mn9q/til_guy_bedford_creator_of_jspm_systemjs_es6/).
 Someone remarked that a person had been working on some important free
 software projects without pay, as if that was noteworthy.
@@ -122,9 +124,13 @@ software projects without pay, as if that was noteworthy.
 > offended for nothing less than the absurd.. Only do enough to not get fired
 > and spend all your time doing fulfilling activities instead.
 
+Here is one thread of the responses.
 
+![](employment.png)
 
+<!-- People want to feel like they know what they're talking about,
 
+-->
 
 ## Laziness
 Bicycle, Düsseldorf
