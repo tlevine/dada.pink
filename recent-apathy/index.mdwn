@@ -1,3 +1,4 @@
+secret: True
 title: My recent apathy about open openness
 description: It seems that I don't get excited in the ways that people think I will.
 --------------------------------------------------------

@@ -50,6 +50,18 @@ fun surprise.
 * Sudoroom toilets
 * 
 
+### Learning
+Some people my age are really into learning. If you just started working
+a real job in a professional profession, you might be really excited about
+learning how the field works, especially if you need to justify how badly
+you are getting paid. And if you're working a more menial job, you might be
+craving mental stimulation.
+
+I don't particularly like talking about computers, and I look like a naïve
+kid who doesn't know anything (because I am), so people sometimes assume that
+I want to work a job where I'll learn stuff. Maybe data stuff. In reality,
+I couldn't care less about learning; I think I have had enough of it.
+
 ### Data data computer computer
 
 
@@ -73,6 +85,45 @@ place, work odd jobs, volunteer for a non-profit organization that supports
 a cause I care about, make art, make myself immortal, and meditate. I was
 already doing pretty much all of these things. (I don't think I meditate,
 but other people say I do.)
+
+
+### Critiques of my flippant behavior
+When I say ridiculous things like [don't apply for jobs](/!/career-advice/),
+[open data is a waste of time](/!/open-data-is-all-about-money/), or
+[data scientists](/!/data/) are people who couldn't get jobs in academia
+but want to feel like they're still doing research,
+people think I don't know what I'm talking about and that I'm trolling.
+Indeed I know almost as little about these topics as everyone else does,
+but that's my way of saying that I actually do know something about this
+stuff. It's a bit like this
+[exchange](https://www.reddit.com/r/javascript/comments/36mn9q/til_guy_bedford_creator_of_jspm_systemjs_es6/).
+Someone remarked that a person had been working on some important free
+software projects without pay, as if that was noteworthy.
+[James](http://substack.net/) responded thusly. 
+
+> Almost all open source projects are supported by developers in their free
+> time and almost all of the most prolific developers have very spotty
+> employment histories.
+> 
+> Employment isn't really feasible when you have a lot of open source projects
+> and you feel, rightly or wrongly, an obligation to them. In my own experience
+> working a job or a contract feels like a huge waste of time because if I had
+> the freedom to solve the given problem in my own way with my preferred
+> techniques, most projects would only take a day or two to complete. Fitting
+> this style of development into a corporate environment is impossible. Even
+> the most "enlightened" workplaces are still beholden to where the money is
+> coming from and clients with zany ideas (and no experience) about how their
+> projects should be built.
+> 
+> Work sucks. Quit your job and live in the forest. People throw away perfectly
+> good food all the time.
+> 
+> or: Slack off.. If you need work, get a job and ask for a ridiculous wage. Be
+> offended for nothing less than the absurd.. Only do enough to not get fired
+> and spend all your time doing fulfilling activities instead.
+
+
+
 
 
 ## Laziness
