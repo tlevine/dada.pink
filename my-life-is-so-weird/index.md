@@ -34,14 +34,25 @@ than it might seem; if tell me about an organization that I might want to work
 for or at least talk to, there's a decent chance that I know half the people
 there.
 
-### "Have you heard of DataKind?"
 I have
 [heard]()
 [of]()
 [DataKind]().
 
 
-### 
+### Ergonomics
+I don't talk much about ergonomics, at least not by that name, but it comes
+up once in a while. Sometimes people start talking about usability, about
+proper furniture sizing, or about some other ergonomicsy topic, and the
+discovery that they are sitting next to an ergonomics export is usually a
+fun surprise.
+
+* Sudoroom toilets
+* 
+
+### Data data computer computer
+
+
 I have
 [used]()
 [R]()
@@ -54,6 +65,7 @@ Social media analytics software company person in Portland
 
 Computer person in Groningen
 
+### Life purpose
 I have been telling people that I don't know what to do all day and don't
 see a point in doing anything, and I'm apparently not clear enough about how
 wonderful my life is; most of the advice I get is to travel in some distant
