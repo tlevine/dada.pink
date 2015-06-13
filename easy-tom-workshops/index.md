@@ -37,8 +37,7 @@ if they did understand them, the first one might work.
     I accomplish this by geometrically compute elementary statistics,
     and I relate the geometric computations to the various written
     formulations.
-
-* Geometric versions of anything math, like
+* *Geometric versions of anything math*, like
     [means, medians, and modes](/!/higher-power-distance-measures/)
     (something to do with L<sup>p</sup> spaces).
 
@@ -82,3 +81,4 @@ vaguely that area. The main areas are
   * Music videos in R
 * Ergonomics
 * Typography
+* Making simple data pipelines that
