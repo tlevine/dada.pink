@@ -16,6 +16,8 @@ I recommend one of these.
     how to go about it.
 * [Real world algorithms](/!/real-world-algorithms/).
     We act out algorithms and data structures with people.
+* *Data visualization needs to die: We need more dimensions!*
+    I discuss my endeavour to use music and food to plot data.
 
 I can also give bizarre life advice. Examples include
 
@@ -25,14 +27,20 @@ I can also give bizarre life advice. Examples include
 * [Career advice from Tom](/!/career-advice/)
 
 ### Vaguely specific audiences
+I like drawing math. Do you like math? I'll have a fun time drawing
+pretty much any math concept with shapes rather than with letters.
 If people took statistics courses that they didn't understand, or even
-if they did understand them, this one might work.
+if they did understand them, the first one might work. 
 
 * [Statistics with doodles](/!/statistics-with-doodles-2014-03/).
     I explain elementary statistics better than the textbooks do.
     I accomplish this by geometrically compute elementary statistics,
     and I relate the geometric computations to the various written
     formulations.
+
+* Geometric versions of anything math, like
+    [means, medians, and modes](/!/higher-power-distance-measures/)
+    (something to do with L<sup>p</sup> spaces).
 
 If people want to learn to use computers, I suggest this one.
 
@@ -41,10 +49,22 @@ If people want to learn to use computers, I suggest this one.
     Let's write down some things that we do with graphical interfaces
     and then figure out how to do them with command line interfaces.
 
+I can talk about concepts that are so basic that nobody writes documentation
+about them, like these.
+
+* [Protocols](/!/street-sign-protocol/)
+* [Variables](/!/variables/)
+* [Templating languages](/!/templating-languages/)
+
 I also know a lot about toilets. 
 
-* *Tom's toilet research*. I'm quite interested in toilets;
-    I'll review my various research on how people use toilets.
+* *Keeping bathrooms clean*. I'm quite interested in toilets;
+    I'll review my various research on how people use toilets,
+    mostly on people's judgement of
+    [sanitation level](/!/risley-toilets/) and about the
+    [postures that people use](/!/hovering-cycle/).
+    I'll include several practical tips on keeping bathrooms clean
+    that came out of my research.
 
 ### Specialized audiences
 Other popular topics are on the ["recommended"](/recommended/) page.
@@ -55,5 +75,10 @@ vaguely that area. The main areas are
   * R
   * Python
   * Shell
-* Open openness
-* Using music and food to plot data
+* [Open openness](/search/?q=open+data)
+* Dada programs
+  * Linked list in pgSQL
+  * Test framework in shell
+  * Music videos in R
+* Ergonomics
+* Typography
