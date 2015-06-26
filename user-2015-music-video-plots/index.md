@@ -13,7 +13,7 @@ We typically map the data to visuals, and we call this process
 In order that our visualizations can reveal unexpected patterns,
 it is important that we present many dimensions at once.
 
-> Escaping flatland
+> Escape flatland. (Tufte)
 
 Also, data are much more complex than they were in the past, so we
 increasingly need to represent highly complex datasets. There is only
@@ -71,11 +71,22 @@ like the best one. I think it was a good choice.
 I kind of knew about ggplot at the time, but I didn't use it for
 some reason. In retrospect, I think videos are easier to make in
 base R graphics, but ggplot is better for pretty much anything else.
+Here's the first video I made in R.
+
+![](http://small.dada.pink/christmas/christmas.webm)
 
 I should also tell you about my colleague Brian.
 
-![]
-http://abelson.nyc/
+![](brian.jpg)
+
+Brian has a background in music, and he had started making music in R.
+
+And we're part of a group called "csv soundsystem" that works on
+projects around music, journalism, computer programming. Cezary had
+taken interest in the United States Treasury data that you experienced
+earlier, so we assembled the data one weekend and made that video.
+
+![](csv.jpg)
 
 ## How to make music videos in R
 I hope I have convinced you that data music videos are promising
