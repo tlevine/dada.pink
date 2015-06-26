@@ -103,15 +103,17 @@ to combine the two.
 ### Video
 
 
-    h0 <- 100
-    h <- function(t, h0, g = 10) h0 - (g/2) * t^2
-    t <- 0:9
-    plot(x = t*0, y = h(t, h0), cex = 5,
-         xlab = '', ylab = 'Height',
-         main = 'A bouncing ball',
-         sub = 'Height as a function of time',
-         xlim = c(-1, 1), ylim = c(0, h0), bty = 'l')
-    text(x = 0, y = h(t, h0), label = paste0('t=', t))
+    x <- function(v0, t) t * v0
+    y <- function(v0, k, t) -16 * t^2 + v0 * t + k
+
+    T <- seq(0, 9, .5)
+    X <- x(4, T)
+    Y <- y(100, 0, T)
+
+    plot(x = X, y = Y, cex = 10, ylim = c(0, max(Y)),
+         xlab = 'Horizontal displacement', ylab = 'Height', bty = 'l',
+         main = 'A projectile', sub = 'Position over time')
+    text(x = X, y = Y, label = paste0('t=', T))
          
 
 
