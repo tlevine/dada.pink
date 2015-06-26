@@ -36,6 +36,10 @@ bandwidth.
 
 ![](../data-visualization-needs-to-die/chart-5.png)
 
+> Our first data music video
+
+<video src="http://dada.pink/gastronomification-big-data-talk/fms-symphony-1.webm" controls></video>
+
 <!--
 ![](../data-visualization-needs-to-die/chart-6.png)
 -->
