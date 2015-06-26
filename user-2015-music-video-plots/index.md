@@ -100,7 +100,7 @@ to combine the two.
 2. Music
 3. Combining music and video
 
-### Video
+### Video is a series of still images
 Video is a series of still images. Consider the following
 projectile-plotting code.
 
@@ -111,6 +111,7 @@ projectile-plotting code.
       text(x = x, y = y, label = paste0('t=', t))
     }
 
+#### Plot a single frame.
 We have a function for calculating the X and Y displacement of the
 projectile at a given time. We can plot the position at a given time.
 
@@ -131,6 +132,7 @@ We can also plot several positions on one plot.
     plot.projectile(projectile$T, projectile$X, projectile$Y)
     dev.off()
 
+#### Plot many frames.
 It's just a small step to video.
 
     for (i in rownames(projectile)) {
@@ -139,6 +141,84 @@ It's just a small step to video.
       plot.projectile(row$T, row$X, row$Y)
       dev.off()
     }
+
+#### Make it look nice.
+Let's start with a really simple plot.
+
+    plot(
+      x=0,
+      y=0
+    )
+
+First, let's set the dimensions.
+
+    height.vid <- 9/16
+    width.vid  <- 16/9
+
+    plot(
+      x=0,
+      y=0,
+      xlim=-2+c(1,80),
+      ylim=-15+c(-15,height.vid*80-15)
+    )
+
+Now let's set the aspect ratio so that the canvas size doesn't affect
+how the plot looks.
+
+    plot(
+      x=0,
+      y=0,
+      xlim=-2+c(1,80),
+      ylim=-15+c(-15,height.vid*80-15),
+      asp=1
+    )
+
+I'm removing the xlab and xlab because they're not in the places
+I want them.
+
+    plot(
+      x=0,
+      y=0,
+      xlim=-2+c(1,80),
+      ylim=-15+c(-15,height.vid*80-15),
+      asp=1,
+      xlab='',
+      ylab='',
+      main=''
+    )
+
+And now I'm removing the axes
+
+    plot(
+      x=0,
+      y=0,
+      xlim=-2+c(1,80),
+      ylim=-15+c(-15,height.vid*80-15),
+      asp=1,
+      xlab='',
+      ylab='',
+      main='',
+      axes=F,
+      type='n'
+    )
+
+and the data.
+
+    plot(
+      x=0,
+      y=0,
+      xlim=-2+c(1,80),
+      ylim=-15+c(-15,height.vid*80-15),
+      asp=1,
+      xlab='',
+      ylab='',
+      main='',
+      type='n'
+    )
+
+The result is a blank canvas with a coordinate system configured
+exactly as we want. Now we can start adding things on top.
+
 
 ## Why this matters
 
