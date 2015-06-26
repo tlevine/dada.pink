@@ -44,6 +44,16 @@ bandwidth.
 
 > How this came about
 
+Well, to start, R is a pretty good tool for making data music videos.
+
+> If you are going to make data music videos, R is a good tool.
+>
+> 1. Vector graphics (for video)
+> 2. Optimized matrix operations (for music)
+> 3. Integrations with many standard data stores
+
+But that still doesn't explain how this all happened.
+
 Now is a good time for me to tell you a bit more about myself.
 
 > I am bizarrely proficient at base R graphics.
@@ -62,11 +72,10 @@ I kind of knew about ggplot at the time, but I didn't use it for
 some reason. In retrospect, I think videos are easier to make in
 base R graphics, but ggplot is better for pretty much anything else.
 
-### If you are going to make data music videos, R is a good tool.
+I should also tell you about my colleague Brian.
 
-1. Vector graphics (for video)
-2. Optimized matrix operations (for music)
-3. Integrations with many standard data stores
+![]
+http://abelson.nyc/
 
 ## How to make music videos in R
 I hope I have convinced you that data music videos are promising
@@ -76,11 +85,7 @@ to combine the two.
 
 1. Video
 2. Music
-3. Combining them
-
-If you want to make data music videos, you also need to get your data
-into R. I'm not going to talk about that today.
-
+3. Combining music and video
 
 ## Why this matters
 
