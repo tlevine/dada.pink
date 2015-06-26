@@ -26,15 +26,19 @@ but when we do this, we lose the opportunity to analyze the raw variables.
 
 ![](../data-visualization-needs-to-die/chart-3.png)
 
-I have been trying to use our non-visual senses to increase our sensory
-bandwidth.
+So this doesn't fix the problem; if we want to represent more
+variables in their original form, we need more bandwidth.
 
 ![](../data-visualization-needs-to-die/chart-4.png)
 
+I have been trying to use our non-visual senses to increase our sensory
+bandwidth.
+
 ![](../data-visualization-needs-to-die/chart-5.png)
 
+<!--
 ![](../data-visualization-needs-to-die/chart-6.png)
-
+-->
 
 ### If you are going to make data music videos, R is a good tool.
 
