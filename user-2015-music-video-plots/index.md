@@ -100,6 +100,22 @@ to combine the two.
 2. Music
 3. Combining music and video
 
+### Video
+
+
+    h0 <- 100
+    h <- function(t, h0, g = 10) h0 - (g/2) * t^2
+    t <- 0:9
+    plot(x = t*0, y = h(t, h0), cex = 5,
+         xlab = '', ylab = 'Height',
+         main = 'A bouncing ball',
+         sub = 'Height as a function of time',
+         xlim = c(-1, 1), ylim = c(0, h0), bty = 'l')
+    text(x = 0, y = h(t, h0), label = paste0('t=', t))
+         
+
+
+
 ## Why this matters
 
 ### The business case
