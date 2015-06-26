@@ -123,17 +123,16 @@ We can also plot several positions on one plot.
     d.x <- function(v0, t) t * v0
     d.y <- function(v0, k, t) -16 * t^2 + v0 * t + k
 
-    T <- seq(0, 9, .5)
-    X <- d.x(4, T)
-    Y <- d.y(100, 0, T)
+    projectile <- data.frame(T = seq(0, 9, .5),
+                             X = d.x(4, T),
+                             Y = d.y(100, 0, T))
 
     png('projectile-single-position.png')
-    plot.projectile(T, X, Y)
+    plot.projectile(projectile$T, projectile$X, projectile$Y)
     dev.off()
 
 It's just a small step to video.
 
-    projectile <- data.frame(T= T, X = X, Y = Y)
     for (i in rownames(projectile)) {
       row <- projectile[i,]
       png(paste0('projectile-video-', i, '.png))
