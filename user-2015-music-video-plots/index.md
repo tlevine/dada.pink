@@ -40,9 +40,27 @@ bandwidth.
 
 <video src="http://dada.pink/gastronomification-big-data-talk/fms-symphony-1.webm" controls></video>
 
-<!--
-![](../data-visualization-needs-to-die/chart-6.png)
--->
+(Explain the video.)
+
+> How this came about
+
+Now is a good time for me to tell you a bit more about myself.
+
+> I am bizarrely proficient at base R graphics.
+
+I started using R around the time I took my first statistics
+course, which was nine years ago.
+
+> Pro tip: Free software is usually better.
+
+I looked at the various free software for statistics, and R seemed
+like the best one. I think it was a good choice.
+
+> I made graphs in base R graphics. (You should use ggplot.)
+
+I kind of knew about ggplot at the time, but I didn't use it for
+some reason. In retrospect, I think videos are easier to make in
+base R graphics, but ggplot is better for pretty much anything else.
 
 ### If you are going to make data music videos, R is a good tool.
 
@@ -88,3 +106,8 @@ things with other senses, like smell....
 
 ### 
 
+
+
+<!--
+![](../data-visualization-needs-to-die/chart-6.png)
+-->
