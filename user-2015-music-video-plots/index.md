@@ -101,22 +101,45 @@ to combine the two.
 3. Combining music and video
 
 ### Video
+Video is a series of still images. Consider the following
+projectile-plotting code.
 
+    plot.projectile <- function(t, x, y) {
+      plot(x = x, y = y, cex = 10, ylim = c(0, max(Y)),
+           xlab = 'Horizontal displacement', ylab = 'Height', bty = 'l',
+           main = 'A projectile', sub = 'Position over time')
+      text(x = x, y = y, label = paste0('t=', t))
+    }
 
-    x <- function(v0, t) t * v0
-    y <- function(v0, k, t) -16 * t^2 + v0 * t + k
+We have a function for calculating the X and Y displacement of the
+projectile at a given time. We can plot the position at a given time.
+
+    png('projectile-single-position.png')
+    plot.projectile(t = 0, x = 4, y = 30)
+    dev.off()
+
+We can also plot several positions on one plot.
+
+    d.x <- function(v0, t) t * v0
+    d.y <- function(v0, k, t) -16 * t^2 + v0 * t + k
 
     T <- seq(0, 9, .5)
-    X <- x(4, T)
-    Y <- y(100, 0, T)
+    X <- d.x(4, T)
+    Y <- d.y(100, 0, T)
 
-    plot(x = X, y = Y, cex = 10, ylim = c(0, max(Y)),
-         xlab = 'Horizontal displacement', ylab = 'Height', bty = 'l',
-         main = 'A projectile', sub = 'Position over time')
-    text(x = X, y = Y, label = paste0('t=', T))
-         
+    png('projectile-single-position.png')
+    plot.projectile(T, X, Y)
+    dev.off()
 
+It's just a small step to video.
 
+    projectile <- data.frame(T= T, X = X, Y = Y)
+    for (i in rownames(projectile)) {
+      row <- projectile[i,]
+      png(paste0('projectile-video-', i, '.png))
+      plot.projectile(row$T, row$X, row$Y)
+      dev.off()
+    }
 
 ## Why this matters
 
