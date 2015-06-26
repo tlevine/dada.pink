@@ -75,18 +75,20 @@ Here's the first video I made in R.
 
 ![](http://small.dada.pink/christmas/christmas.webm)
 
-I should also tell you about my colleague Brian.
+Several years later, I met Brian.
 
 ![](brian.jpg)
 
 Brian has a background in music, and he had started making music in R.
 
-And we're part of a group called "csv soundsystem" that works on
-projects around music, journalism, computer programming. Cezary had
-taken interest in the United States Treasury data that you experienced
-earlier, so we assembled the data one weekend and made that video.
+We're part of a group called "csv soundsystem" that works on
+projects around music, journalism, computer programming.
 
 ![](csv.jpg)
+
+One of us had
+taken interest in the United States Treasury data that you experienced
+earlier, so we assembled the data one weekend and made that video.
 
 ## How to make music videos in R
 I hope I have convinced you that data music videos are promising
