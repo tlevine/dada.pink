@@ -220,6 +220,20 @@ The result is a blank canvas with a coordinate system configured
 exactly as we want. Now we can start adding things on top.
 
 
+![](annotated-fms-screenshot.png)
+
+![](annotated-christmas-screenshot.png)
+
+### Sound is a series of air pressures
+
+[![Speaker in](Geschlossenes2.png)](https://commons.wikimedia.org/wiki/File:Geschlossenes2.png)
+
+[![Speaker out](Geschlossenes3.png)](https://commons.wikimedia.org/wiki/File:Geschlossenes3.png)
+
+[![Ear](ear.png)](https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg)
+
+
+
 ## Why this matters
 
 ### The business case
