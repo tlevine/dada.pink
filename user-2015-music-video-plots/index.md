@@ -225,14 +225,35 @@ exactly as we want. Now we can start adding things on top.
 ![](annotated-christmas-screenshot.png)
 
 ### Sound is a series of air pressures
-
-[![Speaker in](Geschlossenes2.png)](https://commons.wikimedia.org/wiki/File:Geschlossenes2.png)
-
-[![Speaker out](Geschlossenes3.png)](https://commons.wikimedia.org/wiki/File:Geschlossenes3.png)
+Your recognizes the changes in air pressure as sound.
 
 [![Ear](ear.png)](https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg)
 
+Digitally, we can represent sound as a series of air pressure numbers,
+and we can create sound by moving a speaker back and forth.
 
+[![Speaker in](Geschlossenes2.png)](https://commons.wikimedia.org/wiki/File:Geschlossenes2.png)
+
+If the speaker is all the way in, let's say that the number is
+negative one,
+
+[![Speaker out](Geschlossenes3.png)](https://commons.wikimedia.org/wiki/File:Geschlossenes3.png)
+
+and if it's all the way out, let's say the number is positive one.
+
+    png('sine.png', width = 800, height = 450)
+    curve(sin, 0, 4 * pi, bty = 'l',
+          xlab = 'Time', ylab = 'Air pressure')
+    dev.off()
+
+When you see sound represented as a sine wave, you're seeing a plot of
+air pressure over time.
+
+![Sine wave](sine.png)
+
+Our ear pays attention mostly to how the air pressure changes, not to
+the absolute pressure value. For example, if the air pressure goes up
+and down at a higher frequency, we perceive the sound as higher pitched.
 
 ## Why this matters
 
