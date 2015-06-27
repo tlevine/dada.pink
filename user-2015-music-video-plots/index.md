@@ -269,6 +269,26 @@ Our ear pays attention mostly to how the air pressure changes, not to
 the absolute pressure value. For example, if the air pressure goes up
 and down at a higher frequency, we perceive the sound as higher pitched.
 
+#### Synthesizing sound with R
+
+Example of tuneR
+
+scales
+
+arpeggios
+
+indexing
+
+...
+
+
+
+
+
+
+
+
+
 ## Why this matters
 
 ### The business case
