@@ -10,6 +10,20 @@ We typically map the data to visuals, and we call this process
 
 ![](../data-visualization-needs-to-die/chart-1.png)
 
+But the result doesn't have to be visuals; plotting data is the
+conversion of data from abstract numbers to metaphors that we can
+perceive. The sense that we use to perceive the plot isn't
+fundamental to plotting.
+
+![](../data-visualization-needs-to-die/chart-5.png)
+
+> odor...
+
+
+
+
+
+
 In order that our visualizations can reveal unexpected patterns,
 it is important that we present many dimensions at once.
 
