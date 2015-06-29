@@ -187,7 +187,7 @@ iriscore phrase declaration
 Another way to convert data into music is to treat each beat of music
 as a record in a data table
 
-![](/sheetmusic/sheetmusic-side-by-side-highlighted-rowbeat.png)
+![](../sheetmusic/sheetmusic-side-by-side-highlighted-rowbeat.png)
 
 While R is my favorite language for producing data music, I have also made
 tools for producing data music in other languages, like spreadsheets.
@@ -195,7 +195,7 @@ Here we see a song represented in my Sheetmusic software, both in spreadsheet
 form and rendered as normal sheetmusic. The regions with red boxes are the
 same data, just displayed in two different ways.
 
-![](/sheetmusic/sheetmusic-function-call.png)
+![](../sheetmusic/sheetmusic-function-call.png)
 
 And, in case you were curious, this is how you can render the sheet music.
 
@@ -324,20 +324,23 @@ to help them bring their data analytics features to life.
 
 Explain....
 
-### Escaping flatland (Tufte)
+### Escaping flatland
 In order that our visualizations can reveal unexpected patterns,
 it is important that we present many dimensions at once.
+Edward Tufte says this a lot.
 
 ![](../data-visualization-needs-to-die/chart-1.png)
 
 As I said earlier, we historically represent our abstract data as
 visuals and then looked at them in our eyes. This used to work, but
-we are reaching the limits of it, because now we have big data.
+this approach is reaching its limits in the age of big data.
 
 ![](../data-visualization-needs-to-die/chart-2.png)
 
-In the age of big data, data visualization does not provide enough
-sensory bandwidth to represent our high variety of data.
+As you can see, today we have big data.
+Data visualization does not provide enough
+sensory bandwidth to represent our high variety of data that is
+so common today.
 
 ![](../data-visualization-needs-to-die/chart-3.png)
 
