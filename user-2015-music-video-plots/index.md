@@ -311,18 +311,23 @@ to help them bring their data analytics features to life.
 In order that our visualizations can reveal unexpected patterns,
 it is important that we present many dimensions at once.
 
-Also, data are much more complex than they were in the past, so we
-increasingly need to represent highly complex datasets. There is only
-so much big data that we can fit in a visualization.
+![](../data-visualization-needs-to-die/chart-1.png)
+
+As I said earlier, we historically represent our abstract data as
+visuals and then looked at them in our eyes. This used to work, but
+we are reaching the limits of it, because now we have big data.
 
 ![](../data-visualization-needs-to-die/chart-2.png)
+
+In the age of big data, data visualization does not provide enough
+sensory bandwidth to represent our high variety of data.
+
+![](../data-visualization-needs-to-die/chart-3.png)
 
 We can apply a model to reduce the data to something more manageable,
 but when we do this, we lose the opportunity to analyze the raw variables.
 
-![](../data-visualization-needs-to-die/chart-3.png)
-
-So this doesn't fix the problem; if we want to represent more
+This doesn't fix the problem; if we want to represent more
 variables in their original form, we need more bandwidth.
 
 ![](../data-visualization-needs-to-die/chart-4.png)
@@ -332,13 +337,25 @@ bandwidth.
 
 ![](../data-visualization-needs-to-die/chart-5.png)
 
+Music videos is a way of adding the sense of smell.
+But why stop there?
+
 ![](../data-visualization-needs-to-die/chart-6.png)
 
+We should look for ways of using more of our senses to increase our
+sensory bandwidth, so I have also been exploring the use of food for
+plotting. I call this process "data gastronomification".
 
-döner
+
+
+XXX döner
 
 ### Stop limiting yourself to "visualization"
-You can still draw some useful inspiration from data music.
+Most likely you don't have the resources to implement data music
+in your organization right away, but
+you can still draw some useful inspiration from data music.
+
+
 I am amused that this talk was included in the "visualization" track.
 
 It's about plotting, converting data from abstract to concrete
