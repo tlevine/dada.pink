@@ -107,8 +107,8 @@ to combine the two.
 3. Combining music and video
 
 ### Video is a series of still images
-Video is a series of still images. Consider the following
-projectile-plotting code.
+Video is a series of still images. Here's a function that plots
+the position of a projectile. Don't worry that much about how it works.
 
     plot.projectile <- function(t, x, y) {
       plot(x = x, y = y, cex = 10, ylim = c(0, 200),
@@ -118,12 +118,13 @@ projectile-plotting code.
     }
 
 #### Plot a single frame.
-We have a function for calculating the X and Y displacement of the
-projectile at a given time. We can plot the position at a given time.
+We can plot the position at a given time.
 
     png('projectile-single-position.png')
     plot.projectile(t = 0, x = 4, y = 130)
     dev.off()
+
+![](projectile-single-position.png)
 
 We can also plot several positions on one plot.
 
@@ -137,6 +138,8 @@ We can also plot several positions on one plot.
     png('projectile-several-positions.png')
     plot.projectile(projectile$T, projectile$X, projectile$Y)
     dev.off()
+
+![](projectile-several-positions.png)
 
 #### Plot many frames.
 It's just a small step to video.
@@ -184,6 +187,17 @@ iriscore phrase declaration
 Another way to convert data into music is to treat each beat of music
 as a record in a data table
 
+![](/sheetmusic/sheetmusic-side-by-side-highlighted-rowbeat.png)
+
+While R is my favorite language for producing data music, I have also made
+tools for producing data music in other languages, like spreadsheets.
+Here we see a song represented in my Sheetmusic software, both in spreadsheet
+form and rendered as normal sheetmusic. The regions with red boxes are the
+same data, just displayed in two different ways.
+
+![](/sheetmusic/sheetmusic-function-call.png)
+
+And, in case you were curious, this is how you can render the sheet music.
 
 #### Notes
 Regardless of the level at which I map the data to music, I eventually
