@@ -342,12 +342,23 @@ Data visualization does not provide enough
 sensory bandwidth to represent our high variety of data that is
 so common today.
 
+![](more-dimensions.png)
+
+The issue comes down to the difference between a high volume of data
+and a high variety of data. Here I plot the iris data. If we have a lot
+of irises in our dataset, we just need to add more points. This might be
+intense computationally, but it's rather straightforward.
+
+But what if we need to add more dimensions? We can vary the sizes of the
+points, add facets, and so on, but we can only go so far.
+
 ![](../data-visualization-needs-to-die/chart-3.png)
 
-We can apply a model to reduce the data to something more manageable,
-but when we do this, we lose the opportunity to analyze the raw variables.
+At some point, we wind up using a model to simplify our data and fit them
+into a data visualization. We reduce the data to something more manageable,
+but we lose the opportunity to analyze the raw variables.
 
-This doesn't fix the problem; if we want to represent more
+If we want to represent more
 variables in their original form, we need more bandwidth.
 
 ![](../data-visualization-needs-to-die/chart-4.png)
