@@ -42,7 +42,7 @@ and we call this process "data visualization".
 I sometimes collaborate with a group called "csv soundsystem", and
 our first music video was a story of the fiscal policy of the United States.
 
-<video src="http://dada.pink/gastronomification-big-data-talk/fms-symphony-1.webm" controls></video>
+> [FMS Symphony](http://dada.pink/gastronomification-big-data-talk/fms-symphony-1.webm)
 
 (The video is explained [here](/!/fms-symphony/).)
 
@@ -79,7 +79,7 @@ some reason. In retrospect, I think videos are easier to make in
 base R graphics, but ggplot is better for pretty much anything else.
 Here's the first video I made in R.
 
-<video src="http://small.dada.pink/christmas/christmas.webm" controls></video>
+> [Christmas gifts](http://small.dada.pink/christmas/christmas.webm)
 
 Several years later, I met Brian.
 
@@ -174,7 +174,40 @@ the `face` function, and so on.
 In the Christmas gifts video, I wound up drawing my own axes with
 `lines` and `text`.
 
-### Sound is a series of air pressures
+### Synthesizing music with R
+If we plot data in the form of music, we are mapping changes in the
+data to musical metaphors.
+
+* Rhythm
+* Pitch
+* Tempo
+* Volume
+
+For example, we might use data to vary the rhythm, the pitch, the tempo,
+or the volume of a phrase fo music.
+
+#### Phrase-based parameters
+
+
+iriscore phrase declaration
+
+scales
+
+arpeggios
+
+indexing
+
+...
+
+
+
+#### Beats as rows
+Another way to convert data into music is to treat each beat of music
+as a record in a data table
+
+
+
+#### Sound is a series of air pressures
 Your recognizes the changes in air pressure as sound.
 
 [![Ear](ear.png)](https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg)
@@ -205,18 +238,9 @@ Our ear pays attention mostly to how the air pressure changes, not to
 the absolute pressure value. For example, if the air pressure goes up
 and down at a higher frequency, we perceive the sound as higher pitched.
 
-#### Synthesizing sound with R
+> tuneR
 
 Example of tuneR
-
-scales
-
-arpeggios
-
-indexing
-
-...
-
 
 ### Combining music and video
 I generate an image file for each frame of video and a single audio
