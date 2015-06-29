@@ -322,6 +322,10 @@ I made a video for a technology company that makes publishing software,
 to help them bring their data analytics features to life.
 
 ### Escaping flatland (Tufte)
+Most likely you don't have the resources to implement data music
+in your organization right away, but
+you can still draw some useful inspiration from data music.
+
 In order that our visualizations can reveal unexpected patterns,
 it is important that we present many dimensions at once.
 
@@ -360,12 +364,14 @@ We should look for ways of using more of our senses to increase our
 sensory bandwidth, so I have also been exploring the use of food for
 plotting. I call this process "data gastronomification".
 
-#### Kebabs
-As I mentioned earlier, 
+#### Further beyond visualization
+As I mentioned earlier, we need to convert abstract data into something
+that we can percieve.
 
+![](black-box.png)
 
-
-Here is how we can plot our data as kebabs.
+Usually, this would be graphs or tables, but there is no reason why
+we can't plot our data as kebabs.
 
     library(geomdoner)
 
@@ -389,7 +395,8 @@ Here is how we can plot our data as kebabs.
       ggtitle('Milage of eight automobile makes.\n(Each döner is a make.)') +
       geom_text() + geom_doner()
 
-This produces a text graph
+We can use the geomdoner package to plot our data as kebabs.
+This ggplot code produces a text graph
 
 ![](/!/geom_doner/mpg.png)
 
@@ -422,13 +429,9 @@ The x-axis is the highway milage, y-axis is city milage,
 
 These two were spicy, which meant automatic transmission, worse milage
 
-### Stop limiting yourself to "visualization"
-Most likely you don't have the resources to implement data music
-in your organization right away, but
-you can still draw some useful inspiration from data music.
-
-
+#### Don't limit yourself to "visualization"
 I am amused that this talk was included in the "visualization" track.
+
 
 It's about plotting, converting data from abstract to concrete
 metaphors...
