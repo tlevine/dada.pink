@@ -44,7 +44,7 @@ our first music video was a story of the fiscal policy of the United States.
 
 > [FMS Symphony](http://dada.pink/gastronomification-big-data-talk/fms-symphony-1.webm)
 
-(The video is explained [here](/!/fms-symphony/).)
+(The video is explained [here](../fms-symphony/).)
 
 > How this came about
 
@@ -317,12 +317,12 @@ draw some useful inspiration from data music.
 One place that data music videos clearly do fit in right now is in making
 data more exciting.
 
-> [Journalism-driven data](/!/camayak-music/journalism-driven-data.webm)
+> [Journalism-driven data](../camayak-music/journalism-driven-data.webm)
 
 I made a video for a technology company that makes publishing software,
 to help them bring their data analytics features to life.
 
-...
+Explain....
 
 ### Escaping flatland (Tufte)
 In order that our visualizations can reveal unexpected patterns,
@@ -397,7 +397,7 @@ we can't plot our data as kebabs.
 We can use the geomdoner package to plot our data as kebabs.
 This ggplot code produces a text graph
 
-![](/!/geom_doner/mpg.png)
+![](../geom_doner/mpg.png)
 
 and a bunch of orders for döner kebabs.
 
@@ -422,7 +422,7 @@ and a bunch of orders for döner kebabs.
 Then we can order the kebabs and put them on top of the graph, which
 is what you see here.
 
-![](/!/geom_doner/geom_doner.jpg)
+![](../geom_doner/geom_doner.jpg)
 
 The x-axis is the highway milage, y-axis is city milage,
 
