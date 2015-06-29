@@ -360,9 +360,67 @@ We should look for ways of using more of our senses to increase our
 sensory bandwidth, so I have also been exploring the use of food for
 plotting. I call this process "data gastronomification".
 
+#### Kebabs
+As I mentioned earlier, 
 
 
-XXX döner
+
+Here is how we can plot our data as kebabs.
+
+    library(geomdoner)
+
+    mpg$truck <- mpg$class
+    levels(mpg$truck) <- c(TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE)
+
+    mpg$y2008 <- mpg$year == 2008 # Alternative is 1999
+    mpg$id <- row.names(mpg)
+
+    set.seed(693)
+    ggplot(mpg[sample.int(nrow(mpg), 8),]) +
+      aes(label = paste0('Make #', id, ' (', manufacturer, ' ', model, ')'),
+          border = drv,
+          knoblauch = truck,
+          scharf = grepl('auto', trans),
+          zwiebeln = y2008,
+          tomaten = TRUE, salat = TRUE,
+          x = hwy, y = cty) +
+      xlab('Highway miles per gallon') +
+      ylab('City miles per gallon') +
+      ggtitle('Milage of eight automobile makes.\n(Each döner is a make.)') +
+      geom_text() + geom_doner()
+
+This produces a text graph
+
+![](/!/geom_doner/mpg.png)
+
+and a bunch of orders for döner kebabs.
+
+> Make #142 (nissan altima): döner box
+> 
+> * ohne knoblauch
+> * ohne kräuter
+> * ohne scharf
+> * ohne zwiebeln
+> * mit tomaten
+> * mit salat
+> 
+> Make #13 (audi a4 quattro): döner
+> 
+> * ohne knoblauch
+> * ohne kräuter
+> * ohne scharf
+> * ohne zwiebeln
+> * mit tomaten
+> * mit salat
+
+Then we can order the kebabs and put them on top of the graph, which
+is what you see here.
+
+![](/!/geom_doner/geom_doner.jpg)
+
+The x-axis is the highway milage, y-axis is city milage,
+
+These two were spicy, which meant automatic transmission, worse milage
 
 ### Stop limiting yourself to "visualization"
 Most likely you don't have the resources to implement data music
