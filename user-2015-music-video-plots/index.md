@@ -429,24 +429,15 @@ The x-axis is the highway milage, y-axis is city milage,
 
 These two were spicy, which meant automatic transmission, worse milage
 
-#### Don't limit yourself to "visualization"
+## Go beyond "visualization"
 I am amused that this talk was included in the "visualization" track.
 
-
-It's about plotting, converting data from abstract to concrete
-metaphors...
-we have to find the meaningful representation, and that's about
-leveraging our existing intuitions; there's nothing specifically
+Plotting data is about converting from abstract data to concrete
+metaphors. We have to find the meaningful representations that
+leverage our existing intuitions, and there's nothing specifically
 visual about it.
 
-I think we started out calling this stuff "visualization" because
-it's easier to record and read visual things like books rather than
-things with other senses, like smell....
-
-### 
-
-
-
+> https://thomaslevine.com/!/user-2015-music-video-plots/
 
 ## Appendix
 
