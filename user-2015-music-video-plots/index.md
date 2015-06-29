@@ -1,5 +1,5 @@
-> **Plotting data as music videos in R**
-> Thomas Levine, dada artist
+> **Plotting data as music videos in R** <br/>
+> <small>Thomas Levine, dada artist</small>
 
 [UseR! 2015](http://user2015.math.aau.dk/contributed_talks#61)
 
@@ -16,7 +16,7 @@ videos, then I'll discuss some details of the R programming, and
 I'll conclude with some advice on how you can use data music videos
 in practice.
 
-## 1. The theory and history of data music videos
+## 1. Theory and history
 
 ### Why we plot data in the first place
 Let's talk about why we plot data.
