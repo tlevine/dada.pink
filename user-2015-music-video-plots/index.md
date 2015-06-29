@@ -176,8 +176,23 @@ or the volume of a phrase fo music.
 
 #### Phrase-based parameters
 
+> [Iriscore](iriscore.webm)
 
 iriscore phrase declaration
+
+#### Beats as rows
+Another way to convert data into music is to treat each beat of music
+as a record in a data table
+
+
+#### Notes
+Regardless of the level at which I map the data to music, I eventually
+want to represent my music as Western musical notes.
+
+![](Cifrado_americano.JPG)
+
+Note that you can create music without this Western concept of notes,
+but this is how I do it.
 
 scales
 
@@ -187,11 +202,6 @@ indexing
 
 ...
 
-
-
-#### Beats as rows
-Another way to convert data into music is to treat each beat of music
-as a record in a data table
 
 
 
@@ -226,7 +236,28 @@ Our ear pays attention mostly to how the air pressure changes, not to
 the absolute pressure value. For example, if the air pressure goes up
 and down at a higher frequency, we perceive the sound as higher pitched.
 
-> tuneR
+#### Converting notes to frequencies
+There are twelve base notes in most Western music: A, A-sharp, B, and
+so on. We can represent these as the numbers 1 to 12, for example, where
+A is 1.
+
+    A <- 1
+    A.sharp <- 2
+    B <- 3
+    # ...
+
+13 would be A but one octave up.
+
+    A2 <- A + 12
+
+Once we have notes
+
+    P.n <- function(n, P.a = 440, a = 49)
+      P.a * (2^(1/12))^(n - a)
+
+    P.n(7, 440, 1)
+
+#### tuneR
 
 Example of tuneR
 
