@@ -218,9 +218,21 @@ indexing
 ...
 
 
+### Combining music and video
+I generate an image file for each frame of video and a single audio
+file for the entire song. Then I combine them with this command.
 
+    system(paste(
+      'avconv',
+      '-r 1 -i frame-%03d.png -i song.wav',
+      '-y -pix_fmt yuv420p -r 1',
+      '-strict -2',
+      'musicvideo.webm'))
 
-
+This loads the video frames (`frame-%03d.png`) and the song file
+(`song.wav`) and creates a video file with a frame rate of one
+frame per second (`-r 1`). This means that each frame is played
+for a full second. And the video file is called `musicvideo.webm`.
 
 ## 3. Why this matters
 
