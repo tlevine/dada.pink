@@ -1,19 +1,32 @@
-# Plotting data as music videos in R
+<div>
+  <h1>Plotting data as music videos in R</h1>
+  <h2>Thomas Levine, dada artist</h2>
+</div>
 [UseR! 2015](http://user2015.math.aau.dk/contributed_talks#61)
 
-## The promise of music videos
-Let's talk about why we plot data. Data are abstract numbers that
+## Why music videos
+
+### Why we plot data in the first place
+Let's talk about why we plot data.
+
+![](data-brain.png)
+
+Data are abstract numbers that
 become meaningful to us only when we can perceive them.
 
-We typically map the data to visuals, and we call this process
-"data visualization".
+![](black-box.png)
+
+In order to perceive the data, we must convert them to a metaphor
+that we understand. We typically use the metaphors of tables and
+scatterplots, but anything could represent our data; for example,
+perhaps we could even use kebabs as a metaphor.
+
+
+In practice, we usually map the data to visuals, and not to kebabs,
+and we call this process "data visualization".
 
 ![](../data-visualization-needs-to-die/chart-1.png)
 
-But the result doesn't have to be visuals; plotting data is the
-conversion of data from abstract numbers to metaphors that we can
-perceive. The sense that we use to perceive the plot isn't
-fundamental to plotting.
 
 ![](../data-visualization-needs-to-die/chart-5.png)
 
@@ -24,30 +37,6 @@ fundamental to plotting.
 
 
 
-### Escaping flatland (Tufte)
-In order that our visualizations can reveal unexpected patterns,
-it is important that we present many dimensions at once.
-
-Also, data are much more complex than they were in the past, so we
-increasingly need to represent highly complex datasets. There is only
-so much big data that we can fit in a visualization.
-
-![](../data-visualization-needs-to-die/chart-2.png)
-
-We can apply a model to reduce the data to something more manageable,
-but when we do this, we lose the opportunity to analyze the raw variables.
-
-![](../data-visualization-needs-to-die/chart-3.png)
-
-So this doesn't fix the problem; if we want to represent more
-variables in their original form, we need more bandwidth.
-
-![](../data-visualization-needs-to-die/chart-4.png)
-
-I have been trying to use our non-visual senses to increase our sensory
-bandwidth.
-
-![](../data-visualization-needs-to-die/chart-5.png)
 
 > Our first data music video
 
@@ -317,6 +306,36 @@ data more exciting.
 
 (camayak)
 
+### Escaping flatland (Tufte)
+In order that our visualizations can reveal unexpected patterns,
+it is important that we present many dimensions at once.
+
+Also, data are much more complex than they were in the past, so we
+increasingly need to represent highly complex datasets. There is only
+so much big data that we can fit in a visualization.
+
+![](../data-visualization-needs-to-die/chart-2.png)
+
+We can apply a model to reduce the data to something more manageable,
+but when we do this, we lose the opportunity to analyze the raw variables.
+
+![](../data-visualization-needs-to-die/chart-3.png)
+
+So this doesn't fix the problem; if we want to represent more
+variables in their original form, we need more bandwidth.
+
+![](../data-visualization-needs-to-die/chart-4.png)
+
+I have been trying to use our non-visual senses to increase our sensory
+bandwidth.
+
+![](../data-visualization-needs-to-die/chart-5.png)
+
+![](../data-visualization-needs-to-die/chart-6.png)
+
+
+döner
+
 ### Stop limiting yourself to "visualization"
 You can still draw some useful inspiration from data music.
 I am amused that this talk was included in the "visualization" track.
@@ -334,7 +353,3 @@ things with other senses, like smell....
 ### 
 
 
-
-<!--
-![](../data-visualization-needs-to-die/chart-6.png)
--->
