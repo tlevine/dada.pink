@@ -250,16 +250,29 @@ A is 1.
 
     A2 <- A + 12
 
-Once we have notes
+Once we have notes represented as numbers, we can determine the
+frequencies that we need to play through our speakers to produce
+that note.
 
     P.n <- function(n, P.a = 440, a = 49)
       P.a * (2^(1/12))^(n - a)
 
     P.n(7, 440, 1)
 
-#### tuneR
+#### Converting frequencies to sound pressures
 
-Example of tuneR
+    #' Generate a sine wave.
+    #' @param frequency Frequency (440 is middle A.)
+    #' @param duration Duration in samples (probably 44100 samples per second)
+    sine <- function(frequency, duration, samp.rate = SECOND)
+      sin(tau * frequency * (1:duration)/samp.rate)
+
+#### Example of tuneR
+
+    a <- sine(440, 2 * SECOND)
+    str(a)
+    # num [1:88200] 0.0626 0.1251 0.187 0.2481 0.3083 ...
+    tuneR::writeWave(tuneR::Wave(a), 'a.wav')
 
 ### Combining music and video
 I generate an image file for each frame of video and a single audio
