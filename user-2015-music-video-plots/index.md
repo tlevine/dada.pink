@@ -111,7 +111,7 @@ Video is a series of still images. Consider the following
 projectile-plotting code.
 
     plot.projectile <- function(t, x, y) {
-      plot(x = x, y = y, cex = 10, ylim = c(0, max(Y)),
+      plot(x = x, y = y, cex = 10, ylim = c(0, 200),
            xlab = 'Horizontal displacement', ylab = 'Height', bty = 'l',
            main = 'A projectile', sub = 'Position over time')
       text(x = x, y = y, label = paste0('t=', t))
@@ -122,7 +122,7 @@ We have a function for calculating the X and Y displacement of the
 projectile at a given time. We can plot the position at a given time.
 
     png('projectile-single-position.png')
-    plot.projectile(t = 0, x = 4, y = 30)
+    plot.projectile(t = 0, x = 4, y = 130)
     dev.off()
 
 We can also plot several positions on one plot.
@@ -130,20 +130,20 @@ We can also plot several positions on one plot.
     d.x <- function(v0, t) t * v0
     d.y <- function(v0, k, t) -16 * t^2 + v0 * t + k
 
-    projectile <- data.frame(T = seq(0, 9, .5),
-                             X = d.x(4, T),
-                             Y = d.y(100, 0, T))
+    projectile <- data.frame(T = seq(0, 9, .5))
+    projectile$X <- d.x(4, projectile$T)
+    projectile$Y <- d.y(100, 0, projectile$T)
 
-    png('projectile-single-position.png')
+    png('projectile-several-positions.png')
     plot.projectile(projectile$T, projectile$X, projectile$Y)
     dev.off()
 
 #### Plot many frames.
 It's just a small step to video.
 
-    for (i in rownames(projectile)) {
+    for (i in 1:nrow(projectile)) {
       row <- projectile[i,]
-      png(paste0('projectile-video-', i, '.png))
+      png(sprintf('projectile-video-%02d.png', i))
       plot.projectile(row$T, row$X, row$Y)
       dev.off()
     }
@@ -161,11 +161,14 @@ you want. This code basically does that.
          xlab='', ylab='', main='')
 
 The result is a blank canvas with a coordinate system configured
-exactly as we want. Now we can start adding things on top.
+exactly as we want.
+
+#### Add elements to your video.
+Video is a series of frames, and each frame is a plot.
 
 ![](annotated-fms-screenshot.png)
 
-Video is a series of frames, and each frame is a plot. Draw rectangles
+Draw rectangles
 with the `rect` function, lines with the `lines` function, faces with
 the `face` function, and so on.
 
