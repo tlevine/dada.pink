@@ -302,7 +302,10 @@ recommend it in general.
 One place that data music videos can fit in right now is in making
 data more exciting.
 
-(camayak)
+> [Journalism-driven data](/!/camayak-music/journalism-driven-data.webm)
+
+I made a video for a technology company that makes publishing software,
+to help them bring their data analytics features to life.
 
 ### Escaping flatland (Tufte)
 In order that our visualizations can reveal unexpected patterns,
