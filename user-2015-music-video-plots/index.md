@@ -6,7 +6,7 @@
 I'm a neo-Dadaist, and I have been experimenting with the use of
 music videos for data analysis.
 
-1. The theory behind data music videos
+1. Some theory and history behind data music videos
 2. How to make data music videos in R
 3. Relevance of data music videos in practice
 
@@ -16,8 +16,7 @@ videos, then I'll discuss some details of the R programming, and
 I'll conclude with some advice on how you can use data music videos
 in practice.
 
-## 1. The theory behind music videos
-So first the theory.
+## 1. The theory and history of data music videos
 
 ### Why we plot data in the first place
 Let's talk about why we plot data.
@@ -34,31 +33,22 @@ that we understand. We typically use the metaphors of tables and
 scatterplots, but anything could represent our data; for example,
 perhaps we could even use kebabs as a metaphor.
 
-
 In practice, we usually map the data to visuals, and not to kebabs,
 and we call this process "data visualization".
 
 ![](../data-visualization-needs-to-die/chart-1.png)
 
-
-![](../data-visualization-needs-to-die/chart-5.png)
-
-> odor...
-
-
-
-
-
-
-
-> Our first data music video
+### My first data music video
+I sometimes collaborate with a group called "csv soundsystem", and
+our first music video was a story of the fiscal policy of the United States.
 
 <video src="http://dada.pink/gastronomification-big-data-talk/fms-symphony-1.webm" controls></video>
 
-(Explain the video.)
+(The video is explained [here](/!/fms-symphony/).)
 
 > How this came about
 
+Where did we get the idea to make data music videos in R?
 Well, to start, R is a pretty good tool for making data music videos.
 
 > If you are going to make data music videos, R is a good tool.
@@ -69,6 +59,7 @@ Well, to start, R is a pretty good tool for making data music videos.
 
 But that still doesn't explain how this all happened.
 
+### More about me
 Now is a good time for me to tell you a bit more about myself.
 
 > I am bizarrely proficient at base R graphics.
@@ -88,7 +79,7 @@ some reason. In retrospect, I think videos are easier to make in
 base R graphics, but ggplot is better for pretty much anything else.
 Here's the first video I made in R.
 
-![](http://small.dada.pink/christmas/christmas.webm)
+<video src="http://small.dada.pink/christmas/christmas.webm" controls></video>
 
 Several years later, I met Brian.
 
@@ -96,7 +87,7 @@ Several years later, I met Brian.
 
 Brian has a background in music, and he had started making music in R.
 
-We're part of a group called "csv soundsystem" that works on
+We're part of that group called "csv soundsystem" that works on
 projects around music, journalism, computer programming.
 
 ![](csv.jpg)
@@ -106,8 +97,8 @@ taken interest in the United States Treasury data that you experienced
 earlier, so we assembled the data one weekend and made that video.
 
 ## 2. How to make music videos in R
-I hope I have convinced you that data music videos are promising
-enough that you'll at least watch me show you how to make them in R.
+Now let's move on to the part of the talk where I show you how to make
+music videos in R.
 I'm going to show you how to make video, how to make music, and how
 to combine the two.
 
