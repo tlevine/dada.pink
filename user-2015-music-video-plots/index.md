@@ -208,16 +208,12 @@ want to represent my music as Western musical notes.
 Note that you can create music without this Western concept of notes,
 but this is how I do it.
 
-scales
+    major.scale <- c(0, 2, 4, 5, 7, 9, 11)
+    x <- round(ChickWeight$weight/100)
+    notes <- major.scale[x]
+    freqs <- P.n(notes, 440, 0)
 
-arpeggios
-
-indexing
-
-...
-
-
-
+Here's a simple example....
 
 #### Sound is a series of air pressures
 Your recognizes the changes in air pressure as sound.
