@@ -24,10 +24,9 @@ fundamental to plotting.
 
 
 
+### Escaping flatland (Tufte)
 In order that our visualizations can reveal unexpected patterns,
 it is important that we present many dimensions at once.
-
-> Escape flatland. (Tufte)
 
 Also, data are much more complex than they were in the past, so we
 increasingly need to represent highly complex datasets. There is only
@@ -282,8 +281,23 @@ indexing
 ...
 
 
+#### Realtime sound-synthesis approaches
+I am very dissatisfied with my approach of writing wave files, as they
+are very slow to write. Two alternatives are to use midi, where you
+specify the notes to be played and then the sounds come from a
+ready-made library called a sound font, or a realtime sound synthesis
+thingy like Supercollider.
 
+* Midi
+* Realtime sound wave synthesis
 
+I have dabbled with both of these, but I wind up writing my own sound
+synthesis software that writes wave files because configuring midi or
+Supercollider is too hard for me.
+
+> The hardest part of making data music videos is configuring audio on Linux
+
+The hardest part of making data music videos is configuring audio on Linux
 
 
 
@@ -296,6 +310,12 @@ If you have a particularly complex and difficult dataset, data music
 videos might give you a good and fast return on investment.
 But the tools for this aren't fully developed and stable, so I can't
 recommend it in general.
+
+### Getting people excited about data
+One place that data music videos can fit in right now is in making
+data more exciting.
+
+(camayak)
 
 ### Stop limiting yourself to "visualization"
 You can still draw some useful inspiration from data music.
