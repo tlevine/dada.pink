@@ -148,21 +148,6 @@ It's just a small step to video.
       dev.off()
     }
 
-#### Make it look nice.
-Another thing you need to know is how to remove all of the default
-components of base R plots so that you can add only the things that
-you want. This code basically does that.
-
-    height.vid <- 9/16
-    width.vid  <- 16/9
-    plot(x=0, y=0, asp=1, type='n',
-         xlim=-2+c(1,80),
-         ylim=-15+c(-15,height.vid*80-15),
-         xlab='', ylab='', main='')
-
-The result is a blank canvas with a coordinate system configured
-exactly as we want.
-
 #### Add elements to your video.
 Video is a series of frames, and each frame is a plot.
 
@@ -327,7 +312,21 @@ things with other senses, like smell....
 ## Appendix
 
 ### Making plots look nice, in detail
-Let's start with a really simple plot.
+A thing you need to know is how to remove all of the default
+components of base R plots so that you can add only the things that
+you want. This code basically does that.
+
+    height.vid <- 9/16
+    width.vid  <- 16/9
+    plot(x=0, y=0, asp=1, type='n',
+         xlim=-2+c(1,80),
+         ylim=-15+c(-15,height.vid*80-15),
+         xlab='', ylab='', main='')
+
+The result is a blank canvas with a coordinate system configured
+exactly as we want.
+
+Now let's go through that step by step. Start with a really simple plot.
 
     plot(
       x=0,
