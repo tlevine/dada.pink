@@ -305,15 +305,16 @@ frame per second (`-r 1`). This means that each frame is played
 for a full second. And the video file is called `musicvideo.webm`.
 
 ## 3. Why this matters
-
-### The business case
 If you have a particularly complex and difficult dataset, data music
 videos might give you a good and fast return on investment.
-But the tools for this aren't fully developed and stable, so I can't
-recommend it in general.
+
+The tools for data music aren't fully developed and stable, so it usually
+won't be cost-effective to implement a custom data music solution for your
+organization. If this your situation, and it probably is, you can still
+draw some useful inspiration from data music.
 
 ### Getting people excited about data
-One place that data music videos can fit in right now is in making
+One place that data music videos clearly do fit in right now is in making
 data more exciting.
 
 > [Journalism-driven data](/!/camayak-music/journalism-driven-data.webm)
@@ -321,11 +322,9 @@ data more exciting.
 I made a video for a technology company that makes publishing software,
 to help them bring their data analytics features to life.
 
-### Escaping flatland (Tufte)
-Most likely you don't have the resources to implement data music
-in your organization right away, but
-you can still draw some useful inspiration from data music.
+...
 
+### Escaping flatland (Tufte)
 In order that our visualizations can reveal unexpected patterns,
 it is important that we present many dimensions at once.
 
