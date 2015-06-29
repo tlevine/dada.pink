@@ -1,10 +1,23 @@
-<div>
-  <h1>Plotting data as music videos in R</h1>
-  <h2>Thomas Levine, dada artist</h2>
-</div>
+> **Plotting data as music videos in R**
+> Thomas Levine, dada artist
+
 [UseR! 2015](http://user2015.math.aau.dk/contributed_talks#61)
 
-## Why music videos
+I'm a neo-Dadaist, and I have been experimenting with the use of
+music videos for data analysis.
+
+1. The theory behind data music videos
+2. How to make data music videos in R
+3. Relevance of data music videos in practice
+
+The majority of my talk will be on how to make music videos in R.
+I'll start with an introduction into the theory behind data music
+videos, then I'll discuss some details of the R programming, and
+I'll conclude with some advice on how you can use data music videos
+in practice.
+
+## 1. The theory behind music videos
+So first the theory.
 
 ### Why we plot data in the first place
 Let's talk about why we plot data.
@@ -92,7 +105,7 @@ One of us had
 taken interest in the United States Treasury data that you experienced
 earlier, so we assembled the data one weekend and made that video.
 
-## How to make music videos in R
+## 2. How to make music videos in R
 I hope I have convinced you that data music videos are promising
 enough that you'll at least watch me show you how to make them in R.
 I'm going to show you how to make video, how to make music, and how
@@ -292,7 +305,7 @@ The hardest part of making data music videos is configuring audio on Linux
 
 
 
-## Why this matters
+## 3. Why this matters
 
 ### The business case
 If you have a particularly complex and difficult dataset, data music
