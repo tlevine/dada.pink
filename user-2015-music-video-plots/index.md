@@ -149,6 +149,145 @@ It's just a small step to video.
     }
 
 #### Make it look nice.
+Another thing you need to know is how to remove all of the default
+components of base R plots so that you can add only the things that
+you want. This code basically does that.
+
+    height.vid <- 9/16
+    width.vid  <- 16/9
+    plot(x=0, y=0, asp=1, type='n',
+         xlim=-2+c(1,80),
+         ylim=-15+c(-15,height.vid*80-15),
+         xlab='', ylab='', main='')
+
+The result is a blank canvas with a coordinate system configured
+exactly as we want. Now we can start adding things on top.
+
+![](annotated-fms-screenshot.png)
+
+Video is a series of frames, and each frame is a plot. Draw rectangles
+with the `rect` function, lines with the `lines` function, faces with
+the `face` function, and so on.
+
+![](annotated-christmas-screenshot.png)
+
+In the Christmas gifts video, I wound up drawing my own axes with
+`lines` and `text`.
+
+### Sound is a series of air pressures
+Your recognizes the changes in air pressure as sound.
+
+[![Ear](ear.png)](https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg)
+
+Digitally, we can represent sound as a series of air pressure numbers,
+and we can create sound by moving a speaker back and forth.
+
+[![Speaker in](Geschlossenes2.png)](https://commons.wikimedia.org/wiki/File:Geschlossenes2.png)
+
+If the speaker is all the way in, let's say that the number is
+negative one,
+
+[![Speaker out](Geschlossenes3.png)](https://commons.wikimedia.org/wiki/File:Geschlossenes3.png)
+
+and if it's all the way out, let's say the number is positive one.
+
+    png('sine.png', width = 800, height = 450)
+    curve(sin, 0, 4 * pi, bty = 'l',
+          xlab = 'Time', ylab = 'Air pressure')
+    dev.off()
+
+When you see sound represented as a sine wave, you're seeing a plot of
+air pressure over time.
+
+![Sine wave](sine.png)
+
+Our ear pays attention mostly to how the air pressure changes, not to
+the absolute pressure value. For example, if the air pressure goes up
+and down at a higher frequency, we perceive the sound as higher pitched.
+
+#### Synthesizing sound with R
+
+Example of tuneR
+
+scales
+
+arpeggios
+
+indexing
+
+...
+
+
+
+
+
+
+## 3. Why this matters
+
+### The business case
+If you have a particularly complex and difficult dataset, data music
+videos might give you a good and fast return on investment.
+But the tools for this aren't fully developed and stable, so I can't
+recommend it in general.
+
+### Getting people excited about data
+One place that data music videos can fit in right now is in making
+data more exciting.
+
+(camayak)
+
+### Escaping flatland (Tufte)
+In order that our visualizations can reveal unexpected patterns,
+it is important that we present many dimensions at once.
+
+Also, data are much more complex than they were in the past, so we
+increasingly need to represent highly complex datasets. There is only
+so much big data that we can fit in a visualization.
+
+![](../data-visualization-needs-to-die/chart-2.png)
+
+We can apply a model to reduce the data to something more manageable,
+but when we do this, we lose the opportunity to analyze the raw variables.
+
+![](../data-visualization-needs-to-die/chart-3.png)
+
+So this doesn't fix the problem; if we want to represent more
+variables in their original form, we need more bandwidth.
+
+![](../data-visualization-needs-to-die/chart-4.png)
+
+I have been trying to use our non-visual senses to increase our sensory
+bandwidth.
+
+![](../data-visualization-needs-to-die/chart-5.png)
+
+![](../data-visualization-needs-to-die/chart-6.png)
+
+
+döner
+
+### Stop limiting yourself to "visualization"
+You can still draw some useful inspiration from data music.
+I am amused that this talk was included in the "visualization" track.
+
+It's about plotting, converting data from abstract to concrete
+metaphors...
+we have to find the meaningful representation, and that's about
+leveraging our existing intuitions; there's nothing specifically
+visual about it.
+
+I think we started out calling this stuff "visualization" because
+it's easier to record and read visual things like books rather than
+things with other senses, like smell....
+
+### 
+
+
+
+
+## Appendix
+
+### Making plots look nice, in detail
 Let's start with a really simple plot.
 
     plot(
@@ -225,56 +364,7 @@ and the data.
 The result is a blank canvas with a coordinate system configured
 exactly as we want. Now we can start adding things on top.
 
-
-![](annotated-fms-screenshot.png)
-
-![](annotated-christmas-screenshot.png)
-
-### Sound is a series of air pressures
-Your recognizes the changes in air pressure as sound.
-
-[![Ear](ear.png)](https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg)
-
-Digitally, we can represent sound as a series of air pressure numbers,
-and we can create sound by moving a speaker back and forth.
-
-[![Speaker in](Geschlossenes2.png)](https://commons.wikimedia.org/wiki/File:Geschlossenes2.png)
-
-If the speaker is all the way in, let's say that the number is
-negative one,
-
-[![Speaker out](Geschlossenes3.png)](https://commons.wikimedia.org/wiki/File:Geschlossenes3.png)
-
-and if it's all the way out, let's say the number is positive one.
-
-    png('sine.png', width = 800, height = 450)
-    curve(sin, 0, 4 * pi, bty = 'l',
-          xlab = 'Time', ylab = 'Air pressure')
-    dev.off()
-
-When you see sound represented as a sine wave, you're seeing a plot of
-air pressure over time.
-
-![Sine wave](sine.png)
-
-Our ear pays attention mostly to how the air pressure changes, not to
-the absolute pressure value. For example, if the air pressure goes up
-and down at a higher frequency, we perceive the sound as higher pitched.
-
-#### Synthesizing sound with R
-
-Example of tuneR
-
-scales
-
-arpeggios
-
-indexing
-
-...
-
-
-#### Realtime sound-synthesis approaches
+### Realtime sound-synthesis approaches
 I am very dissatisfied with my approach of writing wave files, as they
 are very slow to write. Two alternatives are to use midi, where you
 specify the notes to be played and then the sounds come from a
@@ -291,69 +381,4 @@ Supercollider is too hard for me.
 > The hardest part of making data music videos is configuring audio on Linux
 
 The hardest part of making data music videos is configuring audio on Linux
-
-
-
-
-
-## 3. Why this matters
-
-### The business case
-If you have a particularly complex and difficult dataset, data music
-videos might give you a good and fast return on investment.
-But the tools for this aren't fully developed and stable, so I can't
-recommend it in general.
-
-### Getting people excited about data
-One place that data music videos can fit in right now is in making
-data more exciting.
-
-(camayak)
-
-### Escaping flatland (Tufte)
-In order that our visualizations can reveal unexpected patterns,
-it is important that we present many dimensions at once.
-
-Also, data are much more complex than they were in the past, so we
-increasingly need to represent highly complex datasets. There is only
-so much big data that we can fit in a visualization.
-
-![](../data-visualization-needs-to-die/chart-2.png)
-
-We can apply a model to reduce the data to something more manageable,
-but when we do this, we lose the opportunity to analyze the raw variables.
-
-![](../data-visualization-needs-to-die/chart-3.png)
-
-So this doesn't fix the problem; if we want to represent more
-variables in their original form, we need more bandwidth.
-
-![](../data-visualization-needs-to-die/chart-4.png)
-
-I have been trying to use our non-visual senses to increase our sensory
-bandwidth.
-
-![](../data-visualization-needs-to-die/chart-5.png)
-
-![](../data-visualization-needs-to-die/chart-6.png)
-
-
-döner
-
-### Stop limiting yourself to "visualization"
-You can still draw some useful inspiration from data music.
-I am amused that this talk was included in the "visualization" track.
-
-It's about plotting, converting data from abstract to concrete
-metaphors...
-we have to find the meaningful representation, and that's about
-leveraging our existing intuitions; there's nothing specifically
-visual about it.
-
-I think we started out calling this stuff "visualization" because
-it's easier to record and read visual things like books rather than
-things with other senses, like smell....
-
-### 
-
 
