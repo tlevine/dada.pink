@@ -151,6 +151,8 @@ It's just a small step to video.
       dev.off()
     }
 
+![](projectile-video.gif)
+
 #### Remove the default plot elements
 If you call `plot` with no arguments, you get axes, limits, and other
 things that aren't necessarily what you want.
