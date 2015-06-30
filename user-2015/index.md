@@ -422,7 +422,7 @@ we can't plot our data as kebabs.
 We can use the geomdoner package to plot our data as kebabs.
 This ggplot code produces a text graph
 
-![](../geom_doner/mpg.png)
+![](mpg.png)
 
 and a bunch of orders for döner kebabs.
 
@@ -461,4 +461,4 @@ metaphors. We have to find the meaningful representations that
 leverage our existing intuitions, and there's nothing specifically
 visual about it.
 
-> https://thomaslevine.com/!/user-2015-music-video-plots/
+> https://thomaslevine.com/!/user-2015/
