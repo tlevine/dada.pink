@@ -47,7 +47,7 @@ art collective csv soundsystem.
 
 > How this came about
 
-Where did we get the idea to make data music videos in R?
+Where did the idea to make data music videos in R come from?
 Well, to start, R is a pretty good tool for making data music videos.
 
 > If you are going to make data music videos, R is a good tool.
@@ -63,14 +63,13 @@ Now is a good time for me to tell you a bit more about myself.
 
 > I am bizarrely proficient at base R graphics.
 
-I started using R around the time I took my first statistics
-course, which was nine years ago.
-
-For whatever reason, I made my graphs in base R graphics, and I got
-really good at them.
+I have been using R for about nine years.
+For whatever reason, I have always made my graphs in base R graphics,
+so I got really good at them.
 
 > [Christmas gifts](http://small.dada.pink/christmas/christmas.webm)
 
+Also,
 R is just a hobby for me, so I don't do fancy risk modeling or anything
 like that; instead, I make wacky things like this video.
 I eventually met people who were making music in R, so it was only natural
