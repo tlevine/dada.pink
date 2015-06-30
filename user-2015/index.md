@@ -74,12 +74,8 @@ really good at them.
 
 R is just a hobby for me, so I don't do fancy risk modeling or anything
 like that; instead, I make wacky things like this video.
-
-> csv soundsystem
-
-For the past couple years, I have worked with a group called
-"csv soundsystem" that takes interest in making music from data.
-And this inspired me to make music videos from data.
+I eventually met people who were making music in R, so it was only natural
+to make music videos in R.
 
 ## 2. How to make music videos in R
 Now let's move on to the part of the talk where I show you how to make
@@ -92,8 +88,8 @@ to combine the two.
 3. Combining music and video
 
 ### Video is a series of still images
-Video is a series of still images. Here's a function that plots
-the position of a projectile. Don't worry that much about how it works.
+Have you ever made an image in R?
+Video is a series of still images.
 
     plot.projectile <- function(t, x, y) {
       plot(x = x, y = y, cex = 10,
@@ -102,6 +98,9 @@ the position of a projectile. Don't worry that much about how it works.
            main = 'A projectile', sub = 'Position over time')
       text(x = x, y = y, label = paste0('t=', t))
     }
+
+Here's a function that plots
+the position of a projectile. Don't worry that much about how it works.
 
 #### Plot a single frame.
 We can plot the position at a given time.
