@@ -67,8 +67,7 @@ Now is a good time for me to tell you a bit more about myself.
 I started using R around the time I took my first statistics
 course, which was nine years ago.
 
-> Pro tip: Free software is usually better.
-
+Pro tip: Free software is usually better.
 I looked at the various free software for statistics, and R seemed
 like the best one. I think it was a good choice.
 
@@ -111,7 +110,8 @@ Video is a series of still images. Here's a function that plots
 the position of a projectile. Don't worry that much about how it works.
 
     plot.projectile <- function(t, x, y) {
-      plot(x = x, y = y, cex = 10, ylim = c(0, 200),
+      plot(x = x, y = y, cex = 10,
+           asp = 1, xlim = c(0, 150), ylim = c(0, 200),
            xlab = 'Horizontal displacement', ylab = 'Height', bty = 'l',
            main = 'A projectile', sub = 'Position over time')
       text(x = x, y = y, label = paste0('t=', t))
@@ -120,7 +120,7 @@ the position of a projectile. Don't worry that much about how it works.
 #### Plot a single frame.
 We can plot the position at a given time.
 
-    png('projectile-single-position.png')
+    png('projectile-single-position.png', width = 600, height = 800)
     plot.projectile(t = 0, x = 4, y = 130)
     dev.off()
 
@@ -132,10 +132,10 @@ We can also plot several positions on one plot.
     d.y <- function(v0, k, t) -16 * t^2 + v0 * t + k
 
     projectile <- data.frame(T = seq(0, 9, .5))
-    projectile$X <- d.x(4, projectile$T)
+    projectile$X <- d.x(20, projectile$T)
     projectile$Y <- d.y(100, 0, projectile$T)
 
-    png('projectile-several-positions.png')
+    png('projectile-several-positions.png', width = 600, height = 800)
     plot.projectile(projectile$T, projectile$X, projectile$Y)
     dev.off()
 
@@ -146,7 +146,7 @@ It's just a small step to video.
 
     for (i in 1:nrow(projectile)) {
       row <- projectile[i,]
-      png(sprintf('projectile-video-%02d.png', i))
+      png(sprintf('projectile-video-%02d.png', i), width = 600, height = 800)
       plot.projectile(row$T, row$X, row$Y)
       dev.off()
     }
