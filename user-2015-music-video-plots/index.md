@@ -131,7 +131,7 @@ We can also plot several positions on one plot.
     d.x <- function(v0, t) t * v0
     d.y <- function(v0, k, t) -16 * t^2 + v0 * t + k
 
-    projectile <- data.frame(T = seq(0, 9, .5))
+    projectile <- data.frame(T = seq(0, 6, .5))
     projectile$X <- d.x(20, projectile$T)
     projectile$Y <- d.y(100, 0, projectile$T)
 
