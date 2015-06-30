@@ -38,8 +38,8 @@ and we call this process "data visualization".
 ![](chart-1.png)
 
 ### My first data music video
-I sometimes collaborate with a group called "csv soundsystem", and
-our first music video was a story of the fiscal policy of the United States.
+The first data music video I made was a collaboration as part of the
+art collective csv soundsystem.
 
 > [FMS Symphony](http://dada.pink/gastronomification-big-data-talk/fms-symphony-1.webm)
 
