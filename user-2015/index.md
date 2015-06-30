@@ -67,16 +67,13 @@ Now is a good time for me to tell you a bit more about myself.
 I started using R around the time I took my first statistics
 course, which was nine years ago.
 
-> I made graphs in base R graphics. (You should use ggplot.)
-
 For whatever reason, I made my graphs in base R graphics, and I got
 really good at them.
 
 > [Christmas gifts](http://small.dada.pink/christmas/christmas.webm)
 
-R has always been mostly a hobby for me; my real work work is not in
-dada art, and it has nothing to do with R. As such, I wind up making
-wacky things like this video.
+R is just a hobby for me, so I don't do fancy risk modeling or anything
+like that; instead, I make wacky things like this video.
 
 > csv soundsystem
 
@@ -426,23 +423,23 @@ This ggplot code produces a text graph
 
 and a bunch of orders for döner kebabs.
 
-> Make #142 (nissan altima): döner box
-> 
-> * ohne knoblauch
-> * ohne kräuter
-> * ohne scharf
-> * ohne zwiebeln
-> * mit tomaten
-> * mit salat
-> 
-> Make #13 (audi a4 quattro): döner
-> 
-> * ohne knoblauch
-> * ohne kräuter
-> * ohne scharf
-> * ohne zwiebeln
-> * mit tomaten
-> * mit salat
+    Make #142 (nissan altima): döner box
+    
+    * ohne knoblauch
+    * ohne kräuter
+    * ohne scharf
+    * ohne zwiebeln
+    * mit tomaten
+    * mit salat
+    
+    Make #13 (audi a4 quattro): döner
+    
+    * ohne knoblauch
+    * ohne kräuter
+    * ohne scharf
+    * ohne zwiebeln
+    * mit tomaten
+    * mit salat
 
 Then we can order the kebabs and put them on top of the graph, which
 is what you see here.
