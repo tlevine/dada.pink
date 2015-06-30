@@ -3,7 +3,7 @@
 
 [UseR! 2015](http://user2015.math.aau.dk/contributed_talks#61)
 
-I'm a neo-Dadaist, and I have been experimenting with the use of
+I have been experimenting with the use of
 music videos for data analysis.
 
 1. Some theory and history behind data music videos
@@ -74,7 +74,9 @@ really good at them.
 
 > [Christmas gifts](http://small.dada.pink/christmas/christmas.webm)
 
-Here's an early video I made.
+R has always been mostly a hobby for me; my real work work is not in
+dada art, and it has nothing to do with R. As such, I wind up making
+wacky things like this video.
 
 > csv soundsystem
 
