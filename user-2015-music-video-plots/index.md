@@ -11,7 +11,7 @@ music videos for data analysis.
 3. Relevance of data music videos in practice
 
 The majority of my talk will be on how to make music videos in R.
-I'll start with an introduction into the theory behind data music
+I'll start with some theory behind data music
 videos, then I'll discuss some details of the R programming, and
 I'll conclude with some advice on how you can use data music videos
 in practice.
@@ -150,6 +150,24 @@ It's just a small step to video.
       plot.projectile(row$T, row$X, row$Y)
       dev.off()
     }
+
+#### Remove the default plot elements
+If you call `plot` with no arguments, you get axes, limits, and other
+things that aren't necessarily what you want.
+
+    plot(
+      x=0,
+      y=0,
+      xlim=-2+c(1,80),
+      ylim=-15+c(-15,(9/16)*80-15),
+      asp=1, # Aspect ratio
+      xlab='', # Labels
+      ylab='',
+      main='',
+      type='n' # Don't plot any data.
+    )
+
+I usually do something like this to remove that stuff....
 
 #### Add elements to your video.
 Video is a series of frames, and each frame is a plot.
