@@ -36,7 +36,7 @@ perhaps we could even use kebabs as a metaphor.
 In practice, we usually map the data to visuals, and not to kebabs,
 and we call this process "data visualization".
 
-![](../data-visualization-needs-to-die/chart-1.png)
+![](chart-1.png)
 
 ### My first data music video
 I sometimes collaborate with a group called "csv soundsystem", and
@@ -337,13 +337,13 @@ In order that our visualizations can reveal unexpected patterns,
 it is important that we present many dimensions at once.
 Edward Tufte says this a lot.
 
-![](../data-visualization-needs-to-die/chart-1.png)
+![](chart-1.png)
 
 As I said earlier, we historically represent our abstract data as
 visuals and then looked at them in our eyes. This used to work, but
 this approach is reaching its limits in the age of big data.
 
-![](../data-visualization-needs-to-die/chart-2.png)
+![](chart-2.png)
 
 As you can see, today we have big data.
 Data visualization does not provide enough
@@ -360,7 +360,7 @@ intense computationally, but it's rather straightforward.
 But what if we need to add more dimensions? We can vary the sizes of the
 points, add facets, and so on, but we can only go so far.
 
-![](../data-visualization-needs-to-die/chart-3.png)
+![](chart-3.png)
 
 At some point, we wind up using a model to simplify our data and fit them
 into a data visualization. We reduce the data to something more manageable,
@@ -369,17 +369,17 @@ but we lose the opportunity to analyze the raw variables.
 If we want to represent more
 variables in their original form, we need more bandwidth.
 
-![](../data-visualization-needs-to-die/chart-4.png)
+![](chart-4.png)
 
 I have been trying to use our non-visual senses to increase our sensory
 bandwidth.
 
-![](../data-visualization-needs-to-die/chart-5.png)
+![](chart-5.png)
 
 Music videos is a way of adding the sense of smell.
 But why stop there?
 
-![](../data-visualization-needs-to-die/chart-6.png)
+![](chart-6.png)
 
 We should look for ways of using more of our senses to increase our
 sensory bandwidth, so I have also been exploring the use of food for
