@@ -109,7 +109,8 @@ the position of a projectile. Don't worry that much about how it works.
 #### Plot a single frame.
 We can plot the position at a given time.
 
-    png('projectile-single-position.png', width = 600, height = 800)
+    png('projectile-single-position.png',
+        width = 900, height = 450)
     plot.projectile(t = 0, x = 4, y = 130)
     dev.off()
 
@@ -124,7 +125,8 @@ We can also plot several positions on one plot.
     projectile$X <- d.x(20, projectile$T)
     projectile$Y <- d.y(100, 0, projectile$T)
 
-    png('projectile-several-positions.png', width = 600, height = 800)
+    png('projectile-several-positions.png',
+        width = 900, height = 450)
     plot.projectile(projectile$T, projectile$X, projectile$Y)
     dev.off()
 
@@ -135,7 +137,8 @@ It's just a small step to video.
 
     for (i in 1:nrow(projectile)) {
       row <- projectile[i,]
-      png(sprintf('projectile-video-%02d.png', i), width = 600, height = 800)
+      png(sprintf('projectile-video-%02d.png', i),
+          width = 900, height = 450)
       plot.projectile(row$T, row$X, row$Y)
       dev.off()
     }
