@@ -10,8 +10,8 @@ music videos for data analysis.
 2. How to make data music videos in R
 3. Relevance of data music videos in practice
 
-The majority of my talk will be on how to make music videos in R.
 I'll start with some theory behind data music
+The majority of my talk will be on how to make music videos in R.
 videos, then I'll discuss some details of the R programming, and
 I'll conclude with some advice on how you can use data music videos
 in practice.
