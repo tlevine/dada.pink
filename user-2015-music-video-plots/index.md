@@ -207,7 +207,7 @@ Here we see a song represented in my Sheetmusic software, both in spreadsheet
 form and rendered as normal sheetmusic. The regions with red boxes are the
 same data, just displayed in two different ways.
 
-![](../sheetmusic/sheetmusic-function-call.png)
+![](sheetmusic-function-call.png)
 
 And, in case you were curious, this is how you can render the sheet music.
 
