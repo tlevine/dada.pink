@@ -52,3 +52,4 @@ in the long run to develop your own minimal database, with only
 
 
 ## Why people overuse databases
+Not finished...
