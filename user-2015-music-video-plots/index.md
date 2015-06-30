@@ -191,7 +191,7 @@ or the volume of a phrase fo music.
 
 #### Phrase-based parameters
 
-> [Iriscore](iriscore.webm)
+> [Lis](iriscore.webm)
 
 iriscore phrase declaration
 
