@@ -373,10 +373,11 @@ variables in their original form, we need more bandwidth.
 
 I have been trying to use our non-visual senses to increase our sensory
 bandwidth.
+So I am actually amused that this talk was included in the "visualization" track.
 
 ![](chart-5.png)
 
-Music videos is a way of adding the sense of smell.
+Music videos is a way of adding the sense of sound.
 But why stop there?
 
 ![](chart-6.png)
@@ -450,9 +451,7 @@ The x-axis is the highway milage, y-axis is city milage,
 
 These two were spicy, which meant automatic transmission, worse milage
 
-## Go beyond "visualization"
-I am amused that this talk was included in the "visualization" track.
-
+## Go beyond visualization
 Plotting data is about converting from abstract data to concrete
 metaphors. We have to find the meaningful representations that
 leverage our existing intuitions, and there's nothing specifically
