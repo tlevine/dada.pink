@@ -105,13 +105,13 @@ We can also plot several positions on one plot.
 #### Plot many images.
 It's just a small step to video.
 
+    png('projectile-video-%02d.png',
+        width = 900, height = 450)
     for (i in 1:nrow(projectile)) {
       row <- projectile[i,]
-      png(sprintf('projectile-video-%02d.png', i),
-          width = 900, height = 450)
       plot.projectile(row$T, row$X, row$Y)
-      dev.off()
     }
+    dev.off()
 
 ![](projectile-video.gif)
 
