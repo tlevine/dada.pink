@@ -184,3 +184,10 @@ At some point, we wind up using a model to simplify our data and fit them
 into a data visualization. We reduce the data to something more manageable,
 but we lose the opportunity to analyze the raw variables.
 
+
+###
+
+![](annotated-christmas-screenshot.png)
+
+In the Christmas gifts video, I wound up drawing my own axes with
+`lines` and `text`.

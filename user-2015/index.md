@@ -6,7 +6,7 @@
 I have been experimenting with the use of
 music videos for data analysis.
 
-1. Some theory and history behind data music videos
+1. Some theory behind data music videos
 2. How to make data music videos in R
 3. Relevance of data music videos in practice
 
@@ -15,7 +15,7 @@ I'll discuss some details of the R programming, and
 I'll conclude with some advice on how you can use data music videos
 in practice.
 
-## 1. Theory and history
+## 1. Theory
 
 ### Why we plot data in the first place
 Let's talk about why we plot data.
@@ -122,9 +122,11 @@ It's just a small step to video.
     }
     dev.off()
 
+We iterate through each row...
+
 ![](projectile-video.gif)
 
-#### Remove the default plot elements
+#### Base R tip: Remove the default plot elements
 If you call `plot` with no arguments, you get axes, limits, and other
 things that aren't necessarily what you want. If you were using grid
 graphics, you could remove them.
@@ -152,11 +154,6 @@ Video is a series of frames, and each frame is a plot.
 Draw rectangles
 with the `rect` function, lines with the `lines` function, faces with
 the `face` function, and so on.
-
-![](annotated-christmas-screenshot.png)
-
-In the Christmas gifts video, I wound up drawing my own axes with
-`lines` and `text`.
 
 ### Synthesizing music with R
 If we plot data in the form of music, we are mapping changes in the
