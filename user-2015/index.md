@@ -78,12 +78,13 @@ to make music videos in R.
 ## 2. How to make music videos in R
 Now let's move on to the part of the talk where I show you how to make
 music videos in R.
-I'm going to show you how to make video, how to make music, and how
-to combine the two.
 
 1. Video
 2. Music
 3. Combining music and video
+
+I'm going to show you how to make video, how to make music, and how
+to combine the two.
 
 ### Video is a series of still images
 Have you ever made an image in R?
@@ -100,7 +101,7 @@ Video is a series of still images.
 Here's a function that plots
 the position of a projectile. Don't worry that much about how it works.
 
-#### Plot a single frame.
+#### Plot a single image.
 We can plot the position at a given time.
 
     png('projectile-single-position.png',
@@ -126,7 +127,7 @@ We can also plot several positions on one plot.
 
 ![](projectile-several-positions.png)
 
-#### Plot many frames.
+#### Plot many images.
 It's just a small step to video.
 
     for (i in 1:nrow(projectile)) {
@@ -141,7 +142,8 @@ It's just a small step to video.
 
 #### Remove the default plot elements
 If you call `plot` with no arguments, you get axes, limits, and other
-things that aren't necessarily what you want.
+things that aren't necessarily what you want. If you were using grid
+graphics, you could remove them.
 
     plot(
       x=0,
@@ -155,7 +157,7 @@ things that aren't necessarily what you want.
       type='n' # Don't plot any data.
     )
 
-I usually do something like this to remove that stuff....
+In base graphics, we need to do wacky stuff like this....
 
 #### Add elements to your video.
 Video is a series of frames, and each frame is a plot.
@@ -245,7 +247,8 @@ but this is how I do it.
 
 Here's a simple example....
 
-But we still haven't generated the sound.
+Here we have converted our data into frequencies in a particular scale,
+or key, but we still haven't generated the sound. Let's do that.
 
 #### Sound is a series of air pressures
 Your recognizes the changes in air pressure as sound.
