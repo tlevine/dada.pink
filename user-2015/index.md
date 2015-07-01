@@ -25,12 +25,21 @@ Let's talk about why we plot data.
 Data are abstract numbers that
 become meaningful to us only when we can perceive them.
 
-![](black-box.png)
-
 In order to perceive the data, we must convert them to a metaphor
-that we understand. We typically use the metaphors of tables and
-scatterplots, but anything could represent our data; for example,
-perhaps we could even use kebabs as a metaphor.
+that we understand.
+
+![](black-box-1.png)
+
+We typically use the metaphors of scatterplots
+
+![](black-box-2.png)
+
+and tables, but anything could represent our data; for example,
+perhaps we could even use
+
+![](black-box-3.png)
+
+kebabs as a metaphor.
 
 > Visualization
 
