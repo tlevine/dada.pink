@@ -191,3 +191,5 @@ but we lose the opportunity to analyze the raw variables.
 
 In the Christmas gifts video, I wound up drawing my own axes with
 `lines` and `text`.
+
+### 2. Alternative dinner plans: `geom_smörgås`?

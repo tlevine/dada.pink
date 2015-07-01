@@ -368,11 +368,10 @@ We should look for ways of using more of our senses to increase our
 sensory bandwidth, so I have also been exploring the use of food for
 plotting. I call this process "data gastronomification".
 
-#### Further beyond visualization
+![](black-box-3.png)
+
 As I mentioned earlier, we need to convert abstract data into something
 that we can percieve.
-
-![](black-box.png)
 
 Usually, this would be graphs or tables, but there is no reason why
 we can't plot our data as kebabs.
@@ -439,13 +438,13 @@ metaphors. We have to find the meaningful representations that
 leverage our existing intuitions, and there's nothing specifically
 visual about it.
 
-## Two notes
+## Final notes
 
 ### 1. Would you like a data music video?
 I like making data music videos and other novel plots, so I would love
 to make one for you.
 
-### 2. Non-conference dinner (`geom_smörgås`?)
+### 2. Alternative dinner plans: `geom_smørrebrød`?
 Some of us didn't want to spend 80 euros on dinner, so we're going to
 meet in the park just outside at 18:00 and come up with something else.
 I invite you to join us.
