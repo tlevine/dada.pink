@@ -204,49 +204,6 @@ same data, just displayed in two different ways.
 
 And, in case you were curious, this is how you can render the sheet music.
 
-#### Notes
-Regardless of the level at which I map the data to music, I eventually
-want to represent my music as Western musical notes.
-
-![](Cifrado_americano.JPG)
-
-#### Converting notes to frequencies
-There are twelve base notes in most Western music: A, A-sharp, B, and
-so on. We can represent these as the numbers 1 to 12, for example, where
-A is 1.
-
-    A <- 1
-    A.sharp <- 2
-    B <- 3
-    # ...
-
-13 would be A but one octave up.
-
-    A2 <- A + 12
-
-Once we have notes represented as numbers, we can determine the
-frequencies that we need to play through our speakers to produce
-that note.
-
-    P.n <- function(n, P.a = 440, a = 49)
-      P.a * (2^(1/12))^(n - a)
-
-    P.n(7, 440, 1)
-
-Note that you can create music without this Western concept of notes,
-but this is how I do it.
-
-    # From data to frequencies
-    major.scale <- c(0, 2, 4, 5, 7, 9, 11) # half steps
-    x <- round(ChickWeight$weight/100) # index within the scale
-    notes <- major.scale[x]
-    freqs <- P.n(notes, 440, 0)
-
-Here's a simple example....
-
-Here we have converted our data into frequencies in a particular scale,
-or key, but we still haven't generated the sound. Let's do that.
-
 #### Sound is a series of air pressures
 Your recognizes the changes in air pressure as sound.
 
@@ -277,6 +234,45 @@ air pressure over time.
 Our ear pays attention mostly to how the air pressure changes, not to
 the absolute pressure value. For example, if the air pressure goes up
 and down at a higher frequency, we perceive the sound as higher pitched.
+
+#### Getting from music to air pressure
+Regardless of the level at which I map the data to music, I eventually
+want to represent my music as Western musical notes.
+
+![](Cifrado_americano.JPG)
+
+#### Converting notes to frequencies
+There are twelve base notes in most Western music: A, A-sharp, B, and
+so on. We can represent these as the numbers 1 to 12, for example, where
+A is 1.
+
+    A <- 1
+    A.sharp <- 2
+    B <- 3
+    # ...
+
+Once we have notes represented as numbers, we can determine the
+frequencies that we need to play through our speakers to produce
+that note.
+
+    P.n <- function(n, P.a = 440, a = 49)
+      P.a * (2^(1/12))^(n - a)
+
+    P.n(7, 440, 1)
+
+Note that you can create music without this Western concept of notes,
+but this is how I do it.
+
+    # From data to frequencies
+    major.scale <- c(0, 2, 4, 5, 7, 9, 11) # half steps
+    x <- round(ChickWeight$weight/100) # index within the scale
+    notes <- major.scale[x]
+    freqs <- P.n(notes, 440, 0)
+
+Here's a simple example....
+
+Here we have converted our data into frequencies in a particular scale,
+or key, but we still haven't generated the sound. Let's do that.
 
 #### Converting frequencies to sound pressures
 
@@ -309,7 +305,9 @@ This loads the video frames (`frame-%03d.png`) and the song file
 frame per second (`-r 1`). This means that each frame is played
 for a full second. And the video file is called `musicvideo.webm`.
 
-## 3. Why this matters
+> See thomaslevine.com for more details.
+
+## 3. Why data music
 If you have a particularly complex and difficult dataset, data music
 videos might give you a good and fast return on investment.
 
