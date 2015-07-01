@@ -139,3 +139,14 @@ projects around music, journalism, computer programming.
 One of us had
 taken interest in the United States Treasury data that you experienced
 earlier, so we assembled the data one weekend and made that video.
+
+##
+
+> If you are going to make data music videos, R is a good tool.
+>
+> 1. Vector graphics (for video)
+> 2. Optimized matrix operations (for music)
+> 3. Integrations with many standard data stores
+
+R is a pretty good tool for making data music videos.
+

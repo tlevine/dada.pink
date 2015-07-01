@@ -32,10 +32,15 @@ that we understand. We typically use the metaphors of tables and
 scatterplots, but anything could represent our data; for example,
 perhaps we could even use kebabs as a metaphor.
 
-In practice, we usually map the data to visuals, and not to kebabs,
+> Visualization
+
+In practice, we usually map the data to graphs, and not to kebabs,
 and we call this process "data visualization".
 
-![](chart-1.png)
+> Musicification
+
+Similarly, we could map the data to music. We'd have to call that
+something else--maybe "musicification".
 
 ### My first data music video
 The first data music video I made was a collaboration as part of the
@@ -48,14 +53,6 @@ art collective csv soundsystem.
 > How this came about
 
 Where did the idea to make data music videos in R come from?
-Well, to start, R is a pretty good tool for making data music videos.
-
-> If you are going to make data music videos, R is a good tool.
->
-> 1. Vector graphics (for video)
-> 2. Optimized matrix operations (for music)
-> 3. Integrations with many standard data stores
-
 But that still doesn't explain how this all happened.
 
 ### More about me
