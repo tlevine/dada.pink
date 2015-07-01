@@ -442,12 +442,16 @@ metaphors. We have to find the meaningful representations that
 leverage our existing intuitions, and there's nothing specifically
 visual about it.
 
-> Two notes
->
-> * Would you like a data music video?
-> * Non-conference dinner
+## Two notes
 
-...
+### 1. Would you like a data music video?
+I like making data music videos and other novel plots, so I would love
+to make one for you.
+
+### 2. Non-conference dinner (`geom_smörgås`?)
+Some of us didn't want to spend 80 euros on dinner, so we're going to
+meet in the park just outside at 18:00 and come up with something else.
+I invite you to join us.
 
 > **Plotting data as music videos in R** <br/>
 > Slides/notes: https://thomaslevine.com/!/user-2015/
