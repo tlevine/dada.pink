@@ -173,3 +173,14 @@ like that; instead, I make wacky things like this video.
 
 I eventually met people like Brian who were making music in R, so it was only natural
 to make music videos in R.
+
+
+###
+
+
+![](chart-3.png)
+
+At some point, we wind up using a model to simplify our data and fit them
+into a data visualization. We reduce the data to something more manageable,
+but we lose the opportunity to analyze the raw variables.
+

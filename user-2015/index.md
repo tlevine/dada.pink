@@ -304,8 +304,13 @@ won't be cost-effective to implement a custom data music solution for your
 organization. If this your situation, and it probably is, you can still
 draw some useful inspiration from data music.
 
+### People who can't see
+I think the most obvious reason to plot data as music is to present it
+to people who can't see. I haven't done any work in this direction,
+however.
+
 ### Getting people excited about data
-One place that data music videos clearly do fit in right now is in making
+Another place that data music videos clearly do fit in right now is in making
 data more exciting.
 
 > [Journalism-driven data](../camayak-music/journalism-driven-data.webm)
@@ -316,6 +321,9 @@ to help them bring their data analytics features to life.
 Explain....
 
 ### Escaping flatland
+But the main potential I see in data music videos is in presenting
+high-dimensional data.
+
 In order that our visualizations can reveal unexpected patterns,
 it is important that we present many dimensions at once.
 Edward Tufte says this a lot.
@@ -342,12 +350,6 @@ intense computationally, but it's rather straightforward.
 
 But what if we need to add more dimensions? We can vary the sizes of the
 points, add facets, and so on, but we can only go so far.
-
-![](chart-3.png)
-
-At some point, we wind up using a model to simplify our data and fit them
-into a data visualization. We reduce the data to something more manageable,
-but we lose the opportunity to analyze the raw variables.
 
 If we want to represent more
 variables in their original form, we need more bandwidth.
