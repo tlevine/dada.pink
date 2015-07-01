@@ -431,4 +431,12 @@ metaphors. We have to find the meaningful representations that
 leverage our existing intuitions, and there's nothing specifically
 visual about it.
 
-> https://thomaslevine.com/!/user-2015/
+> Two notes
+>
+> * Would you like a data music video?
+> * Non-conference dinner
+
+...
+
+> **Plotting data as music videos in R** <br/>
+> Slides/notes: https://thomaslevine.com/!/user-2015/
