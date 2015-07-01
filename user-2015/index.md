@@ -50,27 +50,6 @@ art collective csv soundsystem.
 
 (The video is explained [here](../fms-symphony/).)
 
-### More about me: How did this video come to be?
-Now is a good time for me to tell you a bit more about myself.
-
-> I am bizarrely proficient at base R graphics.
-
-I have been using R for about nine years.
-For whatever reason, I have always made my graphs in base R graphics,
-so I got really good at them.
-
-> R is just a hobby for me, so I make things like this:
-> [Christmas gifts](http://small.dada.pink/christmas/christmas.webm)
-
-Also,
-R is just a hobby for me, so I don't do fancy risk modeling or anything
-like that; instead, I make wacky things like this video.
-
-![](brian.jpg)
-
-I eventually met people like Brian who were making music in R, so it was only natural
-to make music videos in R.
-
 ## 2. How to make music videos in R
 Now let's move on to the part of the talk where I show you how to make
 music videos in R.
