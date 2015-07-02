@@ -348,6 +348,11 @@ intense computationally, but it's rather straightforward.
 But what if we need to add more dimensions? We can vary the sizes of the
 points, add facets, and so on, but we can only go so far.
 
+![](chart-3.png)
+
+At some point, we wind up using a model to simplify our data and fit them
+into a data visualization. We reduce the data to something more manageable,
+but we lose the opportunity to analyze the raw variables.
 If we want to represent more
 variables in their original form, we need more bandwidth.
 
