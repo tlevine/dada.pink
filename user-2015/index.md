@@ -443,13 +443,16 @@ metaphors. We have to find the meaningful representations that
 leverage our existing intuitions, and there's nothing specifically
 visual about it.
 
-## Final notes
+## Mostly irrelevent notes
 
 ### 1. Would you like a data music video?
 I like making data music videos and other novel plots, so I would love
 to make one for you.
 
-### 2. Alternative dinner plans: `geom_smørrebrød`?
+### 2. Looking for a ride to Hamburg
+I'm looking for a ride towards Hamburg for after the conference.
+
+### 3. Alternative dinner plans: `geom_smørrebrød`?
 Some of us didn't want to spend 80 euros on dinner, so we're going to
 meet in the park just outside at 18:00 and come up with something else.
 I invite you to join us.
