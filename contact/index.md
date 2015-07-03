@@ -1,3 +1,5 @@
+secret: True
+---
 # Contacting Tom
 Email is a good place to start; my email address is
 <a rel="me" href="mailto:_@thomaslevine.com">_@thomaslevine.com</a>.
