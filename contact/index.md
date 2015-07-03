@@ -11,6 +11,8 @@ Here are some other places, but I don't look at them as much.
 * [Github](https://github.com/tlevine)
 * [Bitbucket](https://bitbucket.org/tlevine)
 * [Gitorious](https://gitorious.org/tlevine)
-* IRC as "tlevine"
-  * [Freenode](https://webchat.freenode.net/)
-  * [OFTC](http://www.oftc.net/WebChat/)
+
+My handle is usually "tlevine", like in IRC.
+
+* [Freenode](https://webchat.freenode.net/)
+* [OFTC](http://www.oftc.net/WebChat/)
