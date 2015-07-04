@@ -55,7 +55,7 @@ something else--maybe "musicification".
 The first data music video I made was a collaboration as part of the
 art collective csv soundsystem.
 
-> [FMS Symphony](http://dada.pink/gastronomification-big-data-talk/fms-symphony-1.webm)
+<video title="FMS Symphony" src="../fms-symphony/fms-symphony-1.webm" controls></video>
 
 (The video is explained [here](../fms-symphony/).)
 
@@ -169,9 +169,9 @@ or the volume of a phrase fo music.
 
 #### Phrase-based parameters
 
-> [Lis](iriscore.webm)
+<video title="Lis" src="iriscore.webm" controls></video>
 
-iriscore phrase declaration
+([Source code](https://github.com/tlevine/krounq/blob/user-2015/examples/gabber.R))
 
 #### Beats as rows
 Another way to convert data into music is to treat each beat of music
@@ -310,7 +310,7 @@ however.
 Another place that data music videos clearly do fit in right now is in making
 data more exciting.
 
-> [Journalism-driven data](../camayak-music/journalism-driven-data.webm)
+<video title="Journalism-driven data" src="../camayak-music/journalism-driven-data.webm" controls></video>
 
 I made a video for a technology company that makes publishing software,
 to help them bring their data analytics features to life.
